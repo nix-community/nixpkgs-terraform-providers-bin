@@ -68,5 +68,5 @@ over everything every time
 ## License                                                                    
                                                                               
 Unless explicitly stated otherwise, any contribution intentionally submitted for inclusion in the work by you  
-shall be licensed under the [MIT license](LICENSE.md), without any additional terms or conditions.
+shall be licensed under the [MIT license](LICENSE), without any additional terms or conditions.
 
