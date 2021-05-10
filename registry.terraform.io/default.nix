@@ -8,6 +8,7 @@ data:
   hashicorp = import ./hashicorp data;
   kvrhdn = import ./kvrhdn data;
   numtide = import ./numtide data;
+  schizofreny = import ./schizofreny data;
 
   recurseForDerivations = true;
 }
