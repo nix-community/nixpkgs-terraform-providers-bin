@@ -5,6 +5,6 @@
 
   outputs = { self, nixpkgs, flake-utils }:
     flake-utils.lib.eachDefaultSystem (system: {
-      legacyPackages = import ./. { pkgs = nixpkgs.legacyPackages.${system}; };
+      legacyPackages = import ./. { nixpkgs = nixpkgs.legacyPackages.${system}; };
     });
 }

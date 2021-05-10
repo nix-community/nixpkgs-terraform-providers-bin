@@ -1,14 +1,14 @@
-{ pkgs ? import ./nix { inherit system; }
-, system ? builtins.currentSystem
+{ system ? builtins.currentSystem
+, nixpkgs ? import ./nix { inherit system; }
 }:
 let
-  inherit (pkgs) lib stdenv unzip;
+  inherit (nixpkgs) lib stdenv unzip;
 
   fetchArchURL = system: archSrc:
     let
       src = archSrc.${system} or (throw "system ${system} not supported");
     in
-    pkgs.fetchurl src;
+    nixpkgs.fetchurl src;
 
   mkTerraformProvider =
     { owner
@@ -19,7 +19,7 @@ let
     stdenv.mkDerivation {
       pname = repo;
       version = version;
-      src = fetchArchURL pkgs.system archSrc;
+      src = fetchArchURL nixpkgs.system archSrc;
 
       unpackPhase = ''
         unzip $src
