@@ -53,8 +53,6 @@ $ ./update.rb
 
 TODO: make the script smarter to skip if the version is the same.
 
-TODO: add this to a daily cronjob
-
 ### Adding new providers
 
 ```

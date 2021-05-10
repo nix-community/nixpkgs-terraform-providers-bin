@@ -1,5 +1,5 @@
-#!/usr/bin/env ruby
-#
+#!/usr/bin/env nix-shell
+#!nix-shell -p ruby -i ruby
 
 require 'json'
 require 'net/http'

@@ -1,0 +1,23 @@
+name: Cron
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '0 0 * * *'  # every day at midnight
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: cachix/install-nix-action@v13
+      - uses: cachix/cachix-action@v10
+        with:
+          name: numtide
+          signingKey: '${{ secrets.CACHIX_SIGNING_KEY }}'
+        # Update all the providers
+      - run: ./update.rb
+        # Check that everything is still working
+      - run: ./ci.sh
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
