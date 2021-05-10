@@ -1,5 +1,6 @@
 data:
 {
+  PagerDuty = import ./PagerDuty data;
   digitalocean = import ./digitalocean data;
   gavinbunney = import ./gavinbunney data;
   gitlabhq = import ./gitlabhq data;
