@@ -28,7 +28,7 @@ let
     , archSrc
     }:
     stdenv.mkDerivation {
-      pname = repo;
+      pname = "terraform-provider-${repo}";
       version = version;
       src = fetchArchURL nixpkgs.system archSrc;
 
