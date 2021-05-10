@@ -65,3 +65,8 @@ $ ./update.rb
 TODO: allow passing the provider name to the update script so it doesn't go
 over everything every time
 
+## License                                                                    
+                                                                              
+Unless explicitly stated otherwise, any contribution intentionally submitted for inclusion in the work by you  
+shall be licensed under the [MIT license](LICENSE.md), without any additional terms or conditions.
+
