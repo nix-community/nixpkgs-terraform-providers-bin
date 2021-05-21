@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "389e237be05b9b2f1e312ba7132cee92ffd92c13274eba4f215b640ebc563533";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.3.3/terraform-provider-kubernetes-alpha_0.3.3_darwin_arm64.zip";
+      sha256 = "6cd9339fa29db8450ec9012f55fac9649a078e54b627cea83c696c69d6946d1c";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.4.0/terraform-provider-kubernetes-alpha_0.4.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "5c7864d58dec2951a885e56bcaeee1ba0bfeecd6c55973ed107405cb586a6d32";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.3.3/terraform-provider-kubernetes-alpha_0.3.3_linux_arm64.zip";
+      sha256 = "8fcb74b0b47b29a487c6305ed28bc91304004fb60681fbec947d4b527a18b8c1";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.4.0/terraform-provider-kubernetes-alpha_0.4.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "7150b9303fbc48a9ec12795facf967b1990007109b7fe2cb2e64b2ae4681e018";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.3.3/terraform-provider-kubernetes-alpha_0.3.3_linux_386.zip";
+      sha256 = "a193a59f88bf64a34d3c85228e5fa0b8f3b4dae7d6a034b5ee4cfe1a20a292d0";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.4.0/terraform-provider-kubernetes-alpha_0.4.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "dea016848642f844d3586a4abc359feb411d43a34818219468d6c608a7813f01";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.3.3/terraform-provider-kubernetes-alpha_0.3.3_darwin_amd64.zip";
+      sha256 = "cc755d2c5c2158c49e6165ff77eb7b314ddbc4bb196ccc27e9bf3eec957557ad";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.4.0/terraform-provider-kubernetes-alpha_0.4.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "25025ee187ee27ef4c3970f820aa7c6561d1425bb04794ccad0e5efae5cacec9";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.3.3/terraform-provider-kubernetes-alpha_0.3.3_linux_amd64.zip";
+      sha256 = "bf20633b52eacf9dc7aafa956973de74cdb9a1d257808fddfd1af914cb6dd9a7";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes-alpha/0.4.0/terraform-provider-kubernetes-alpha_0.4.0_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "kubernetes-alpha";
-  version = "0.3.3";
+  version = "0.4.0";
 }
