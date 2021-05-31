@@ -12,7 +12,7 @@ jobs:
       - uses: cachix/cachix-action@v10
         with:
           name: numtide
-          signingKey: '${{ secrets.CACHIX_SIGNING_KEY }}'
+          authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
         # Update all the providers
       - run: ./update.rb
         # Check that everything is still working
