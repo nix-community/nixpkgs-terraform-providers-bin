@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "e176f217cc983abace0e1ac906e215059beee5fd08b7b98f631e3ad922599fad";
-      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.11.0/terraform-provider-grafana_1.11.0_darwin_arm64.zip";
+      sha256 = "006ebbb0daf9557a4888c58f061d8306e5e56bcaae759765d436e3a0a3d5350d";
+      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.12.0/terraform-provider-grafana_1.12.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "dc2346e85adb2ce1d1c99fd41ee856e7c13f13406c77d1d06718c7c8ee842c4b";
-      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.11.0/terraform-provider-grafana_1.11.0_linux_arm64.zip";
+      sha256 = "9f99c8d4300f059b822fd6e01cd56d3335117c865dbedcdea21e7112c3d04e4a";
+      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.12.0/terraform-provider-grafana_1.12.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "84b122dbf1815bf2ce47c4736b4c9964bdf42b93aebda714b45ad4dea4ccf390";
-      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.11.0/terraform-provider-grafana_1.11.0_linux_386.zip";
+      sha256 = "a856a6b622513426ccf775dffd7bb8f21542986ea584b0f7de97ec9d90e10dba";
+      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.12.0/terraform-provider-grafana_1.12.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "caf8a47a36f271f6198f4a0eb659823257b580b0982efbb56ae7a70b8ea6f865";
-      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.11.0/terraform-provider-grafana_1.11.0_darwin_amd64.zip";
+      sha256 = "8269b26b85a330ea45d7efa452b61ef8916bff3e83d2e576e5c8915ee90ad316";
+      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.12.0/terraform-provider-grafana_1.12.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "5d40933a06ba57de33b2c471c3745b64b49309a2c14fc98b6673447249c07af7";
-      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.11.0/terraform-provider-grafana_1.11.0_linux_amd64.zip";
+      sha256 = "5c97dcb21ac8e2682c7da9edd28c748c1a23b546eac754d1f7699e134a82394e";
+      url = "https://github.com/grafana/terraform-provider-grafana/releases/download/v1.12.0/terraform-provider-grafana_1.12.0_linux_amd64.zip";
     };
   };
   owner = "grafana";
   repo = "grafana";
-  version = "1.11.0";
+  version = "1.12.0";
 }
