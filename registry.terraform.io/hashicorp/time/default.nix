@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "6f350e7abf170c97d946ae31fcb8b797eca56f8c46f4052a2ba656931a2ca178";
-      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.1/terraform-provider-time_0.7.1_darwin_arm64.zip";
+      sha256 = "3250af7fd49b8aaf2ccc895588af05197d886e38b727e3ba33bcbb8cc96ad34d";
+      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.2/terraform-provider-time_0.7.2_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "7a24ac6a5e53edeb6d50dd573c02f1b36b96c8a9285f83003481cf537f4d61ea";
-      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.1/terraform-provider-time_0.7.1_linux_arm64.zip";
+      sha256 = "35e4de0437f4fa9c1ad69aaf8136413be2369ea607d78e04bb68dc66a6a520b8";
+      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.2/terraform-provider-time_0.7.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "98bd13cf906aa58a4e66493f469eed237569a33ba3016e33784e1d8cbdcd0bd6";
-      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.1/terraform-provider-time_0.7.1_linux_386.zip";
+      sha256 = "7cfb3c02f78f0060d59c757c4726ab45a962ce4a9cf4833beca704a1020785bd";
+      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.2/terraform-provider-time_0.7.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "1fa9e5b198db3ae7dcfe70ec505db4c70bf3a557e2dcb6fb19cecbe994fe048f";
-      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.1/terraform-provider-time_0.7.1_darwin_amd64.zip";
+      sha256 = "0bbe0158c2a9e3f5be911b7e94477586110c51746bb13d102054f22754565bda";
+      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.2/terraform-provider-time_0.7.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "96c3da650bda44b31ba5513e322fd1902d3cfa9cc99129ede70929c71ca74364";
-      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.1/terraform-provider-time_0.7.1_linux_amd64.zip";
+      sha256 = "390370f1179d89b33c3a0731691e772d5450a7d59fc66671ec625e201db74aa2";
+      url = "https://releases.hashicorp.com/terraform-provider-time/0.7.2/terraform-provider-time_0.7.2_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "time";
-  version = "0.7.1";
+  version = "0.7.2";
 }
