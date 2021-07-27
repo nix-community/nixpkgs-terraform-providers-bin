@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "5a7fd86c47b5847d0f972d06a403c46cf9dc8ddbf82434c543fd25d8be912350";
-      url = "https://releases.hashicorp.com/terraform-provider-google/3.76.0/terraform-provider-google_3.76.0_darwin_arm64.zip";
+      sha256 = "6fc3d947db6bbd222bbfc658bf7a27ac9f144570bebe0ce41ce6df95bee63635";
+      url = "https://releases.hashicorp.com/terraform-provider-google/3.77.0/terraform-provider-google_3.77.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "2ac2dc57f0b8ee7c565ccc4eca2cdf79596f2e83e126c6cf720494dde8d3d01a";
-      url = "https://releases.hashicorp.com/terraform-provider-google/3.76.0/terraform-provider-google_3.76.0_linux_arm64.zip";
+      sha256 = "1e54cffecddf069d682f7f45d99c18a49d86afd590af6be02d50397b04e468ec";
+      url = "https://releases.hashicorp.com/terraform-provider-google/3.77.0/terraform-provider-google_3.77.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "e5d47163933dcf84af9d070ba8b4656ba5deac45af79b78d1ef5ea59472ed90d";
-      url = "https://releases.hashicorp.com/terraform-provider-google/3.76.0/terraform-provider-google_3.76.0_linux_386.zip";
+      sha256 = "2f6cf592606e7a198fa275e93ce39dbf8a76f916f4a0842543f45ebd5a3d281c";
+      url = "https://releases.hashicorp.com/terraform-provider-google/3.77.0/terraform-provider-google_3.77.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "17480d5084bcc18149a8de8aa174013c4cb7e1b086f0b2ade49885ae30aa7d0d";
-      url = "https://releases.hashicorp.com/terraform-provider-google/3.76.0/terraform-provider-google_3.76.0_darwin_amd64.zip";
+      sha256 = "83b1eca52c25971d2fd2ad0a733156236383680832ef54d3c59d3f385a05f510";
+      url = "https://releases.hashicorp.com/terraform-provider-google/3.77.0/terraform-provider-google_3.77.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "8339b2e8236ec8da5675178676e2c93659babda7dc7e8abf694c1e21875944c2";
-      url = "https://releases.hashicorp.com/terraform-provider-google/3.76.0/terraform-provider-google_3.76.0_linux_amd64.zip";
+      sha256 = "59a7d05f3309078735b82640582dd4683605c7c10eaa41136c348bfa2d1e54a6";
+      url = "https://releases.hashicorp.com/terraform-provider-google/3.77.0/terraform-provider-google_3.77.0_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "google";
-  version = "3.76.0";
+  version = "3.77.0";
 }
