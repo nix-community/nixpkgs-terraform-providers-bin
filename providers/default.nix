@@ -1,6 +1,5 @@
 data:
 {
-  1Password = import ./1Password data;
   Backblaze = import ./Backblaze data;
   Constellix = import ./Constellix data;
   DNSMadeEasy = import ./DNSMadeEasy data;
