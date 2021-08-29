@@ -26,19 +26,19 @@ let
     , repo
     , version
     , archSrc
+    , # TODO: pass this down
+      registry ? "registry.terraform.io"
     }:
+    let
+      GOOS = stdenv.targetPlatform.parsed.kernel.name;
+      GOARCH = goarch stdenv.targetPlatform;
+    in
     stdenv.mkDerivation {
       pname = "terraform-provider-${repo}";
       version = version;
       src = fetchArchURL nixpkgs.system archSrc;
 
-      # Needed by upstream
-      GOOS = stdenv.targetPlatform.parsed.kernel.name;
-      GOARCH = goarch stdenv.targetPlatform;
-
-      unpackPhase = ''
-        unzip $src
-      '';
+      unpackPhase = "unzip $src";
 
       nativeBuildInputs = [ unzip ];
 
@@ -46,13 +46,32 @@ let
 
       # The upstream terraform wrapper assumes the provider filename here.
       installPhase = ''
-        mkdir -p $out/bin
-        mv terraform-* $out/bin/$pname_$version
+        dir=$out/libexec/terraform-providers/${registry}/${owner}/${repo}/${version}/${GOOS}_${GOARCH}
+        mkdir -p "$dir"
+        mv terraform-* "$dir/"
       '';
-
-      passthru = {
-        provider-source-address = "registry.terraform.io/${owner}/${repo}";
-      };
     };
+
+  providers = import ./registry.terraform.io { inherit mkTerraformProvider; };
+
+  wrapTerraform = terraform: fn:
+    let
+      plugins = nixpkgs.buildEnv {
+        name = "terraform-plugins";
+        paths = fn providers;
+      };
+
+      wrapper = nixpkgs.writeShellScriptBin "terraform" ''
+        export NIX_TERRAFORM_PLUGIN_DIR=${plugins}/libexec/terraform-providers
+        exec ${terraform}/bin/terraform "$@"
+      '';
+    in
+    wrapper;
 in
-import ./registry.terraform.io { inherit mkTerraformProvider; }
+{
+  inherit
+    mkTerraformProvider
+    providers
+    wrapTerraform
+    ;
+}

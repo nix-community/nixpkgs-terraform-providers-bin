@@ -4,4 +4,4 @@ set -euo pipefail
 set -x
 
 nix-build --no-out-link
-nix-build ./test.nix --no-out-link
+nix-build ./test/file -A test --no-out-link

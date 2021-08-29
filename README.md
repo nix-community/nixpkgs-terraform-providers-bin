@@ -1,6 +1,6 @@
 # nixpgks-terraform-providers
 
-**STATUS: experimental**
+**STATUS: alpha**
 
 This is for people who use nixpkgs's `terraform.withPlugins` to manage
 terraform provider dependencies (TODO: explain in a blog post why it's great).
@@ -25,14 +25,13 @@ Then import the provider in your nix code:
 let
   sources = import ./sources.nix;
   # Pass an instance of nixpkgs to this repo.
-  numtide-terraform-providers = import sources.nixpkgs-terraform-providers { pkgs = prev; };
+  terraform-providers = import sources.nixpkgs-terraform-providers { pkgs = prev; };
 
-  my-terraform = pkgs.terraform.withPlugins (p: # we don't need p
-    with numtide-terraform-providers; [
-      # The providers are namespaces like in the registry
-      hashicorp.aws
-      numtide.linuxbox
-    ]);
+  my-terraform = terraform-providers.wrapTerraform pkgs.terraform (p: [
+    # The providers are namespaces like in the registry
+    p.hashicorp.aws
+    p.numtide.linuxbox
+  ]);
 in
 # ... the usual
 null
