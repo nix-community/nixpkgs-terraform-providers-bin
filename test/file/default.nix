@@ -7,6 +7,7 @@ in
 rec {
   tf = self.wrapTerraform nixpkgs.terraform_0_15 (p: [
     p.hashicorp.local
+    p.hashicorp.null
   ]);
 
   shell = nixpkgs.mkShell {
