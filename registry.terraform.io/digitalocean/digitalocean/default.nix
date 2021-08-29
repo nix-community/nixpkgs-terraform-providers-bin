@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "7193f1c23aafd7ea00b25e961fc88a3ddc588cac0147521e37ed85ce20d86df3";
-      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.10.1/terraform-provider-digitalocean_2.10.1_darwin_arm64.zip";
+      sha256 = "0b379be98de2927eb751db4e88e69b14c979b97f33ff5b3f7840e27bbb3b10c4";
+      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.11.1/terraform-provider-digitalocean_2.11.1_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "d49619275bcf8c1d72df8c24bc3cce0ccab15cfcea50f8f712136e8847345db0";
-      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.10.1/terraform-provider-digitalocean_2.10.1_linux_arm64.zip";
+      sha256 = "621782735bb0fa0e9b12750a6e91c2ef0d144185201435f0f70a95b66aa08dd1";
+      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.11.1/terraform-provider-digitalocean_2.11.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "b4dddf70a2a08758e9b1135eada4704dc3f00b7f6073193e7a49bd6fa8075be0";
-      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.10.1/terraform-provider-digitalocean_2.10.1_linux_386.zip";
+      sha256 = "c760535090ec85194e8248c823439a1692be72e4f337916f63c742ee8cb1f7cd";
+      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.11.1/terraform-provider-digitalocean_2.11.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "a56c9205817ffa7a5c58ce0e8e94870d45334b7d176e85d597e06632540f0861";
-      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.10.1/terraform-provider-digitalocean_2.10.1_darwin_amd64.zip";
+      sha256 = "9b164e204085691876535233eb57cd6fdf223a0eff529ceb072b61f4fea2f950";
+      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.11.1/terraform-provider-digitalocean_2.11.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "866474b40a9a83792cf196c52f3073ca17da848b4b54af44826daa2f9054798d";
-      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.10.1/terraform-provider-digitalocean_2.10.1_linux_amd64.zip";
+      sha256 = "f221a20df002cffac09dba1734a1f77217dd546705fd1b123951d03c0fff6592";
+      url = "https://github.com/digitalocean/terraform-provider-digitalocean/releases/download/v2.11.1/terraform-provider-digitalocean_2.11.1_linux_amd64.zip";
     };
   };
   owner = "digitalocean";
   repo = "digitalocean";
-  version = "2.10.1";
+  version = "2.11.1";
 }
