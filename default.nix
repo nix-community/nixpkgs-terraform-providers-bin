@@ -52,7 +52,7 @@ let
       '';
     };
 
-  providers = import ./registry.terraform.io { inherit mkTerraformProvider; };
+  providers = import ./providers { inherit mkTerraformProvider; };
 
   wrapTerraform = terraform: fn:
     let

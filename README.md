@@ -55,7 +55,7 @@ TODO: make the script smarter to skip if the version is the same.
 ### Adding new providers
 
 ```
-$ mkdir -p registry.terraform.io/<owner>/<repo>
+$ mkdir -p providers/<owner>/<repo>
 $ ./update.rb
 ```
 

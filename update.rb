@@ -86,7 +86,7 @@ def update_folder(dir)
   File.write("#{dir}/default.nix", default)
 end
 
-Dir.chdir("#{__dir__}/registry.terraform.io") do
+Dir.chdir("#{__dir__}/providers") do
   Dir.glob("*/*").select{|f| File.directory? f}.sort.each do |path|
     puts "Updating #{path}"
     update_provider File.join(path, "default.nix"), *path.split("/")
