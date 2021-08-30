@@ -1,4 +1,4 @@
-# nixpgks-terraform-providers
+# nixpkgs-terraform-providers
 
 **STATUS: alpha**
 
