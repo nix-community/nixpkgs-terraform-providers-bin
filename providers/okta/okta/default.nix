@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "8f39b0d334342ae0216370dc4b135f2357e8f8af98d4f3657f928d10503250d9";
-      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.13.13/terraform-provider-okta_3.13.13_darwin_arm64.zip";
+      sha256 = "934f06b9cdcd1a4dba11f137d2e96e51d4e5e51fa58c98317a683bdcaf66a8ac";
+      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.14.0/terraform-provider-okta_3.14.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "2d52b31a9df0507a30c3f533dbe67249356a0a7fcc39f47c585b071abf912be2";
-      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.13.13/terraform-provider-okta_3.13.13_linux_arm64.zip";
+      sha256 = "56f730626f6a182e1dbb76b48b603fc655085b5b89e4886df1c88543042980f8";
+      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.14.0/terraform-provider-okta_3.14.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "8e1ecf15e0ef2ba639b6d50ff0a03f27c927ab2d6fff5d5f3cd70e05684cd046";
-      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.13.13/terraform-provider-okta_3.13.13_linux_386.zip";
+      sha256 = "e7161022b7b2f18cb5b12b0447cce4fd07e269be63b812b24258ee623fc77028";
+      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.14.0/terraform-provider-okta_3.14.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "2f7ceb4da17363c6718c44a6b20567600fb1c76ba65ccca3ec31957e57fcafd8";
-      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.13.13/terraform-provider-okta_3.13.13_darwin_amd64.zip";
+      sha256 = "226b27f78c76b2fb9e380af80cc20f775a9a364d341a0294ab6dab053b57fafe";
+      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.14.0/terraform-provider-okta_3.14.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "9587984f3ade424f71e71d04aa784731c4ad0cf47b20e7ce7c8395efc631a235";
-      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.13.13/terraform-provider-okta_3.13.13_linux_amd64.zip";
+      sha256 = "f14231d53885c3dccc3f5a2e6d4214148d21939caea8c417ef803bc5c641272a";
+      url = "https://github.com/okta/terraform-provider-okta/releases/download/v3.14.0/terraform-provider-okta_3.14.0_linux_amd64.zip";
     };
   };
   owner = "okta";
   repo = "okta";
-  version = "3.13.13";
+  version = "3.14.0";
 }
