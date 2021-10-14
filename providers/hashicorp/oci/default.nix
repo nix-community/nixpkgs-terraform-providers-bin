@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "5f3a6bac570bb70349f72e695b94d3719a5609127aef4c80ec695bd827dd6d30";
-      url = "https://releases.hashicorp.com/terraform-provider-oci/4.47.0/terraform-provider-oci_4.47.0_linux_arm64.zip";
+      sha256 = "eda153028df098c8173b5bd5f9721a0aa31a91dde7e423bd626c59b7e946d3c4";
+      url = "https://releases.hashicorp.com/terraform-provider-oci/4.48.0/terraform-provider-oci_4.48.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "c2a33b8f678ab1020efebc415aad6de181de3705d1d554995642c659f048f5bc";
-      url = "https://releases.hashicorp.com/terraform-provider-oci/4.47.0/terraform-provider-oci_4.47.0_linux_386.zip";
+      sha256 = "526102eb5c26cec547d8707ec07921631b8c54f40f4645a15d7fde26e1a30458";
+      url = "https://releases.hashicorp.com/terraform-provider-oci/4.48.0/terraform-provider-oci_4.48.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "c57679a0269c7a9386a973be438610fec8e9fba21a088548b1f0213893693c0a";
-      url = "https://releases.hashicorp.com/terraform-provider-oci/4.47.0/terraform-provider-oci_4.47.0_darwin_amd64.zip";
+      sha256 = "44400d7cd5ee733810cad81bd51ec31091591538cea35cb43a154509c1dcd5cd";
+      url = "https://releases.hashicorp.com/terraform-provider-oci/4.48.0/terraform-provider-oci_4.48.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "4e2208f1e953f46cd6485a14d6af67d8e8fe182e26d1c2fc435145b35d86d3e9";
-      url = "https://releases.hashicorp.com/terraform-provider-oci/4.47.0/terraform-provider-oci_4.47.0_linux_amd64.zip";
+      sha256 = "28acc4761d03018c6ec7a1080ebb1a907d48ed30e2cd97c8e553199d8599dd67";
+      url = "https://releases.hashicorp.com/terraform-provider-oci/4.48.0/terraform-provider-oci_4.48.0_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "oci";
-  version = "4.47.0";
+  version = "4.48.0";
 }
