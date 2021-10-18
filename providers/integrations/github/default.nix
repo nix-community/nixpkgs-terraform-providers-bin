@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "2fdf6daa059d4e996ed908d4a35dd65f681914f521ba7e47e57f292e4de525d2";
-      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.16.0/terraform-provider-github_4.16.0_darwin_arm64.zip";
+      sha256 = "ecf9dfadfa291f641580d6a3d0fe6c3b12507f5eebb72ead4f59786c53188c9b";
+      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.17.0/terraform-provider-github_4.17.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "9c2bed37302f4414eefc6751c0e2cba702d76286caaa4ea931d218c544e52e63";
-      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.16.0/terraform-provider-github_4.16.0_linux_arm64.zip";
+      sha256 = "1a3f97c624371d63c2e9797dcec16792cbbecc64f533d5dfe68e675c5d900a57";
+      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.17.0/terraform-provider-github_4.17.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "2fbac366eaa67ef6ba0ad3714cbf0a795303bc8f1131bafec3bfa02fc87c90fb";
-      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.16.0/terraform-provider-github_4.16.0_linux_386.zip";
+      sha256 = "5a18b3ab9270a3c679c992aa48651d9a8a2135d961bfba401f534bce77e358a9";
+      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.17.0/terraform-provider-github_4.17.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b7143da120c9799233f667e738dc94e49e9a325689aa4ca629766ec6577300a6";
-      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.16.0/terraform-provider-github_4.16.0_darwin_amd64.zip";
+      sha256 = "c66c7979d1cede2ba574e18c5642a3d3c89716c73d3ba5f74c2cdee4503b8ead";
+      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.17.0/terraform-provider-github_4.17.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "b2b28adbff9cc2fcfa221de4cdf8b2b17bd4fdd7c6ba5aa73153387e02d4e7f5";
-      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.16.0/terraform-provider-github_4.16.0_linux_amd64.zip";
+      sha256 = "d0d796840d949e9139f7767eb23eb2b2afa592f724cbad2dca509617c80cd0c6";
+      url = "https://github.com/integrations/terraform-provider-github/releases/download/v4.17.0/terraform-provider-github_4.17.0_linux_amd64.zip";
     };
   };
   owner = "integrations";
   repo = "github";
-  version = "4.16.0";
+  version = "4.17.0";
 }
