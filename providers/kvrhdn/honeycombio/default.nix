@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "cb973470b97c5444c1f2e30b8e00a22f053c0035943525c43a2cbb863967ddd4";
-      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.5/terraform-provider-honeycombio_0.1.5_darwin_arm64.zip";
+      sha256 = "b0d14a242737f3681eb98a05565ca9a6ebf4532527d4c475f45cbb2df9bf3561";
+      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.3/terraform-provider-honeycombio_0.1.3_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "2b04af7ce159fe5114c93ac046e0b996e858e75f0d839cd022c81b41a5c0da3f";
-      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.5/terraform-provider-honeycombio_0.1.5_linux_arm64.zip";
+      sha256 = "37825c5d531a51e20813d49798a69907e40db135b1c7efc460aace1c662d450b";
+      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.3/terraform-provider-honeycombio_0.1.3_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "7551265faf7413defef8f4291a823fb305355c1504f7bec4dfaeb759567d93a4";
-      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.5/terraform-provider-honeycombio_0.1.5_linux_386.zip";
+      sha256 = "81ede344cb16941944b3b74434bef3c1d3c49e529c282cc722f7dd7ba329192b";
+      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.3/terraform-provider-honeycombio_0.1.3_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "35b5111e76e1a2993f092236aef0d1a460ab249ab6f8e2ec75a42fc9c023df5d";
-      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.5/terraform-provider-honeycombio_0.1.5_darwin_amd64.zip";
+      sha256 = "9032939e4ee083a8a93e7588ce4e7f6ea62ceec2fa363c9e5d29c369805e1fcc";
+      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.3/terraform-provider-honeycombio_0.1.3_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "0e90fabd4cec2da3973c4ceb9ebd1921067186696c2abdc89e386395340ecf17";
-      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.5/terraform-provider-honeycombio_0.1.5_linux_amd64.zip";
+      sha256 = "abd195892e4672a0143e3be7c5fec4387a30fb093c08b2bd3fa7804a6368e001";
+      url = "https://github.com/kvrhdn/terraform-provider-honeycombio/releases/download/v0.1.3/terraform-provider-honeycombio_0.1.3_linux_amd64.zip";
     };
   };
   owner = "kvrhdn";
   repo = "honeycombio";
-  version = "0.1.5";
+  version = "0.1.3";
 }
