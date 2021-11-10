@@ -1,5 +1,12 @@
 #!/usr/bin/env nix-shell
 #!nix-shell -i ruby
+#
+# Usage: ./update.rb '[GLOB_PATTERN]'
+#
+# Example: ./update.rb 'hashicorp/*'
+#
+# By default the pattern is '*/*'
+#
 
 require 'json'
 require 'net/http'
@@ -87,7 +94,7 @@ def update_folder(dir)
 end
 
 Dir.chdir("#{__dir__}/providers") do
-  Dir.glob("*/*").select{|f| File.directory? f}.sort.each do |path|
+  Dir.glob(ARGV[0] || "*/*").select{|f| File.directory? f}.sort.each do |path|
     puts "Updating #{path}"
     update_provider File.join(path, "default.nix"), *path.split("/")
   end
