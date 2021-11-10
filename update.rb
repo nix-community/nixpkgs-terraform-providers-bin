@@ -52,9 +52,10 @@ end
 
 # Get the latest version of the provider and write it to the file
 def update_provider(file, owner, repo)
-  # It looks like the last version is always at the end
-  # This saves one HTTP request to owner/repo
-  last_version_data = http_get("#{owner}/#{repo}/versions")["versions"].last
+  versions = http_get("#{owner}/#{repo}/versions")["versions"]
+  # Sort the versions
+  versions = versions.sort_by { |v| v["version"].split('.').map(&:to_i) }
+  last_version_data = versions.last
 
   version = last_version_data["version"]
 
