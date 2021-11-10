@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "79f44db14c583fbd4448496b1393386defab5db8c98f38e8ef8eed52cd5713ed";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.5.3/terraform-provider-dnsimple_0.5.3_darwin_arm64.zip";
+      sha256 = "4c2fc653bc8cfb8360ca159d1ee5c7f26558a89d0aad012695e8af16b375989f";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.10.0/terraform-provider-dnsimple_0.10.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "5f53d170b09233c205da539f0d1c3ad67507f56faff411d14b2e8e55af47bfd3";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.5.3/terraform-provider-dnsimple_0.5.3_linux_arm64.zip";
+      sha256 = "e15dcda6ef26a4d348ec826d54796f926332178818c14fbb8e3e887abcc5fc91";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.10.0/terraform-provider-dnsimple_0.10.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "e4cef02771a7479389c9dbe494dc3f38f1e858d323bbff0004b58b2f4e742640";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.5.3/terraform-provider-dnsimple_0.5.3_linux_386.zip";
+      sha256 = "23af9cabbea7de8c8c1c32ac2562439f208456c31e84129ecd9d3a3721b5f2c4";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.10.0/terraform-provider-dnsimple_0.10.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b21256bb42e11c8d2d339e1125b76873c140f2ec3e50bcfcb164ec04022d461a";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.5.3/terraform-provider-dnsimple_0.5.3_darwin_amd64.zip";
+      sha256 = "7c302392eeb181d31d72859ac6fae4207ab9538d7fb461074e05324df30638f9";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.10.0/terraform-provider-dnsimple_0.10.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "860964538121d65106423801cae2d22cdeccc8ff1fa48fe807078857f0c8bef0";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.5.3/terraform-provider-dnsimple_0.5.3_linux_amd64.zip";
+      sha256 = "99487e17b8f2f1f86b1eb9dc1b6f741992d7d03790159be53ff419bcc9e7440a";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.10.0/terraform-provider-dnsimple_0.10.0_linux_amd64.zip";
     };
   };
   owner = "dnsimple";
   repo = "dnsimple";
-  version = "0.5.3";
+  version = "0.10.0";
 }

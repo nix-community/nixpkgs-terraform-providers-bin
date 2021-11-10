@@ -1,20 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "a9c5cdcf12ea89eee54e55779f0e0c868350fc2b48b79a394500d3b04ea28919";
+      url = "https://github.com/carlpett/terraform-provider-sops/releases/download/v0.6.3/terraform-provider-sops_0.6.3_darwin_arm64.zip";
+    };
+    aarch64-linux = {
+      sha256 = "4180cf700dc8ccc71db5d4a0496c22a54301a617ae53d93bba91cb142694552e";
+      url = "https://github.com/carlpett/terraform-provider-sops/releases/download/v0.6.3/terraform-provider-sops_0.6.3_linux_arm64.zip";
+    };
     i686-linux = {
-      sha256 = "611c96489a3262739709cc8d4c2b5840c5dca73c32e6c9197c9a513bc9f9f3e6";
-      url = "https://github.com/carlpett/terraform-provider-sops/releases/download/v0.5.2/terraform-provider-sops_0.5.2_linux_386.zip";
+      sha256 = "b042e80e60c0745ee3c8c49860ecb6e069f75c4c60aa8d6dd2f188f8c0a4f4ab";
+      url = "https://github.com/carlpett/terraform-provider-sops/releases/download/v0.6.3/terraform-provider-sops_0.6.3_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "ebd23c47fb0f74c28e2c1dd8b044600bfd89fc54572ee22eb2b25882b7cd1ec3";
-      url = "https://github.com/carlpett/terraform-provider-sops/releases/download/v0.5.2/terraform-provider-sops_0.5.2_darwin_amd64.zip";
+      sha256 = "fe2194ecf065beb9a384b4893cd9d3d975e39db89b38d2b5af05c43352d83397";
+      url = "https://github.com/carlpett/terraform-provider-sops/releases/download/v0.6.3/terraform-provider-sops_0.6.3_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "a26000c121bb37a3cc09ba02bab78449e29eba2d61f75fc2f12c3256a8be93b9";
-      url = "https://github.com/carlpett/terraform-provider-sops/releases/download/v0.5.2/terraform-provider-sops_0.5.2_linux_amd64.zip";
+      sha256 = "98e53430bbf13631b314f9107372262151503c133b0551a370e23a0b451f5005";
+      url = "https://github.com/carlpett/terraform-provider-sops/releases/download/v0.6.3/terraform-provider-sops_0.6.3_linux_amd64.zip";
     };
   };
   owner = "carlpett";
   repo = "sops";
-  version = "0.5.2";
+  version = "0.6.3";
 }

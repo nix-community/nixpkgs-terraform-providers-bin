@@ -1,20 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "c4ab48ea6e0f8d4a6db1abab1877addb2b21ecd126e505c74b8c85804bd92cbe";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_darwin_arm64.zip";
+    };
+    aarch64-linux = {
+      sha256 = "443021df6d56e59e4d8dda8e57b506affff32b8a22de09661d21b98bc781fefb";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_linux_arm64.zip";
+    };
     i686-linux = {
-      sha256 = "1b835d324ea214a450da03efca8a591d26949bc98034392272b36b2d4d6fbf0d";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/0.1.0/terraform-provider-kubernetes_0.1.0_linux_386.zip";
+      sha256 = "370562be70233be730e1876d565710c3ef477e047f209cb3dff8a4a3217a6461";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "055f6b5b66fd7f4693cc3a72b112adbf09ffcad8690c7a9ff08014cc52a1f74e";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/0.1.0/terraform-provider-kubernetes_0.1.0_darwin_amd64.zip";
+      sha256 = "b860ff68a944de63fbe0a624c41f2e373711a2da4298c0f0cb151e00fb32a6b3";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "bddf5d4ca7bb478f05984136825d1ed353c3e53145c9f8199d25cd184f29ba4e";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/0.1.0/terraform-provider-kubernetes_0.1.0_linux_amd64.zip";
+      sha256 = "e96589575dfd31eab48fcc85466dd49895925473c60c802b346cdb4037953350";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "kubernetes";
-  version = "0.1.0";
+  version = "2.6.1";
 }

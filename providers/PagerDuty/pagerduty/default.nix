@@ -1,24 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "dc2b29fa253f1f3db6503eac7dfbb41018cc0e1fc1b1d0060df725d71d0d7955";
+      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v2.1.1/terraform-provider-pagerduty_2.1.1_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "50da76e0379983408776b60a2fdad37dff418b774da0ed941d6ed091326d1fce";
-      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v1.7.10/terraform-provider-pagerduty_1.7.10_linux_arm64.zip";
+      sha256 = "ba74d84d2040f679fb68fd272aedb2f727cbd06621738bf8145ce25773e510a6";
+      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v2.1.1/terraform-provider-pagerduty_2.1.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "b8afb75c96c5e3f03ec035f11c8b8ae578757a27f8d8f86443c15a8d4a220c4c";
-      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v1.7.10/terraform-provider-pagerduty_1.7.10_linux_386.zip";
+      sha256 = "dd0a2ce66e01f37b89e1851e4ba424cbde8f118ea3a9bf3df97abdf78161750e";
+      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v2.1.1/terraform-provider-pagerduty_2.1.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "7078afe70e29de1b99c79a1bc47b92867252e6e5db9aad73f9ba84f456ec0d61";
-      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v1.7.10/terraform-provider-pagerduty_1.7.10_darwin_amd64.zip";
+      sha256 = "23cdce9c7545a552a56cde3e97441e405048f8821e41c3fc036bc36b580bbfa0";
+      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v2.1.1/terraform-provider-pagerduty_2.1.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "1c492ccd2fb0126f71f48f4b048ac1d763b398ecbf91eb6b0c52c66eb5b77290";
-      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v1.7.10/terraform-provider-pagerduty_1.7.10_linux_amd64.zip";
+      sha256 = "fd77ac8e7adbcee300ca817d19c698d6f6afea06af1a29e0a706cfb683ff959d";
+      url = "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v2.1.1/terraform-provider-pagerduty_2.1.1_linux_amd64.zip";
     };
   };
   owner = "PagerDuty";
   repo = "pagerduty";
-  version = "1.7.10";
+  version = "2.1.1";
 }

@@ -1,20 +1,24 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "4f26cc06dc472b5c6e261fbf21d0ec3ec8827b1e91c121bac220ced584ac6900";
+      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.21.0/terraform-provider-rancher2_1.21.0_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "f996da9a517970efe6559f74fd1748052b923f73bbc2f5dfecd5da0a185293e8";
-      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.7.1/terraform-provider-rancher2_1.7.1_linux_arm64.zip";
+      sha256 = "5d5e6a268cd152e6fe2c047a78a23705f4cbe21eacbb43db2988ebfcba397347";
+      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.21.0/terraform-provider-rancher2_1.21.0_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "ac3bcad33dc897c7a24dde96263a3ae12e79f3e7341cc891439b27a6ee2912c7";
-      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.7.1/terraform-provider-rancher2_1.7.1_darwin_amd64.zip";
+      sha256 = "437f84836aa2aaf023f6615c526582963ebdfcfe8e1e9076eec6bca73b0d26ee";
+      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.21.0/terraform-provider-rancher2_1.21.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "c3e5cd08cc6d4583fc002a8eb4183c9573252dff785d1cc06c094f9b7d459d1a";
-      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.7.1/terraform-provider-rancher2_1.7.1_linux_amd64.zip";
+      sha256 = "562d6dccb1574fb476791bd87ec3d6df9324404cfb818009b06cf6413ceb44bb";
+      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.21.0/terraform-provider-rancher2_1.21.0_linux_amd64.zip";
     };
   };
   owner = "rancher";
   repo = "rancher2";
-  version = "1.7.1";
+  version = "1.21.0";
 }

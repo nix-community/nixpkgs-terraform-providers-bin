@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "b21bcbc7dd407a72b9419e3d0756679ecd18944950454f8361182ac3361be352";
-      url = "https://github.com/packethost/terraform-provider-packet/releases/download/v3.1.0-alpha1/terraform-provider-packet_3.1.0-alpha1_linux_arm64.zip";
+      sha256 = "f69b42f18a232e875b4437007ddac13bd6fcab5c54ec23f964adca45f427f498";
+      url = "https://github.com/packethost/terraform-provider-packet/releases/download/v3.2.1/terraform-provider-packet_3.2.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "edfb6defff1cab2f27ed6a3f94cbf80309ee2e41c5eb8b159a3d039505806b7b";
-      url = "https://github.com/packethost/terraform-provider-packet/releases/download/v3.1.0-alpha1/terraform-provider-packet_3.1.0-alpha1_linux_386.zip";
+      sha256 = "5abfbb39797db62c0ad0fd9430155c7c80f6cc0e5accbd7c883e195c5999603d";
+      url = "https://github.com/packethost/terraform-provider-packet/releases/download/v3.2.1/terraform-provider-packet_3.2.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "871219a71b3cf12d5bd34792244debfed4345a1848bbe8216e58f44ef0870eab";
-      url = "https://github.com/packethost/terraform-provider-packet/releases/download/v3.1.0-alpha1/terraform-provider-packet_3.1.0-alpha1_darwin_amd64.zip";
+      sha256 = "d961e844d939161466d14f8bf5cf034ecb90efc436a64faef7989085d964d28a";
+      url = "https://github.com/packethost/terraform-provider-packet/releases/download/v3.2.1/terraform-provider-packet_3.2.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "14b3d095365e9bc2e7611d938f9c1a1dea9e4ef38864fd7163ddbeeaaed90916";
-      url = "https://github.com/packethost/terraform-provider-packet/releases/download/v3.1.0-alpha1/terraform-provider-packet_3.1.0-alpha1_linux_amd64.zip";
+      sha256 = "a368227d1e32a97415953991b6f8eb3a29b3b3e1c709630944340206ce0eda95";
+      url = "https://github.com/packethost/terraform-provider-packet/releases/download/v3.2.1/terraform-provider-packet_3.2.1_linux_amd64.zip";
     };
   };
   owner = "packethost";
   repo = "packet";
-  version = "3.1.0-alpha1";
+  version = "3.2.1";
 }

@@ -1,24 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "b2843ff14406903f9287b551e80415001c5fe569fecc6773e63c67cf942d8a03";
+      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.5.0/terraform-provider-buildkite_0.5.0_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "e721430243896755e12944076ff6a5b0a37892d6e50a5f4893ff82b5cb315325";
-      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.1.0/terraform-provider-buildkite_0.1.0_linux_arm64.zip";
+      sha256 = "d2a38357ea469029238aa00ce3fa6dd936b1c6b2a666df531e0a38b7a37d2bea";
+      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.5.0/terraform-provider-buildkite_0.5.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "04acef2844b71ff94cc9b90faa2e1eff84c99b38a396109de57c402cbe538822";
-      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.1.0/terraform-provider-buildkite_0.1.0_linux_386.zip";
+      sha256 = "b264592226e5033c6e9d5f46d80ca9a509ca2288ad19667627ee849ec235f950";
+      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.5.0/terraform-provider-buildkite_0.5.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "c0f4079c87a0e1985a6a3f2652468bd5ed2b4c7cb056e22278be424913cc4f81";
-      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.1.0/terraform-provider-buildkite_0.1.0_darwin_amd64.zip";
+      sha256 = "836ed5dcde00d0740a65d06814eb2cf7903bfd8ccc7052eedf3868cf0e4422d5";
+      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.5.0/terraform-provider-buildkite_0.5.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "854a6ab77b815d2bd76ef319fb5547d9798f6dcc6fb4950e4f8afdb9e181ac56";
-      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.1.0/terraform-provider-buildkite_0.1.0_linux_amd64.zip";
+      sha256 = "12bcddfec2f92afb67f515f21434b3d548580ba16c3e0b5170e17be20fd2ef2b";
+      url = "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v0.5.0/terraform-provider-buildkite_0.5.0_linux_amd64.zip";
     };
   };
   owner = "buildkite";
   repo = "buildkite";
-  version = "0.1.0";
+  version = "0.5.0";
 }
