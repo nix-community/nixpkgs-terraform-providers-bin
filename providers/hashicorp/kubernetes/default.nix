@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "c4ab48ea6e0f8d4a6db1abab1877addb2b21ecd126e505c74b8c85804bd92cbe";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_darwin_arm64.zip";
+      sha256 = "5d5ea922c72d2eb4abc67d9a34fcf92b3af33049325bb7384e772a9db90120dd";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.7.0/terraform-provider-kubernetes_2.7.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "443021df6d56e59e4d8dda8e57b506affff32b8a22de09661d21b98bc781fefb";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_linux_arm64.zip";
+      sha256 = "1c058459ca1705dd97646d06c02df648a19a12789024a16155209bbdd75d03d6";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.7.0/terraform-provider-kubernetes_2.7.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "370562be70233be730e1876d565710c3ef477e047f209cb3dff8a4a3217a6461";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_linux_386.zip";
+      sha256 = "c8d1617426ca3d91bc0c5188f353dbca55ca777c28830e9bb0b79baef227885e";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.7.0/terraform-provider-kubernetes_2.7.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b860ff68a944de63fbe0a624c41f2e373711a2da4298c0f0cb151e00fb32a6b3";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_darwin_amd64.zip";
+      sha256 = "ed7064a03e15ca6b2f026064f17fa3956775e34a930e5265399ffa7f6ef22ded";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.7.0/terraform-provider-kubernetes_2.7.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "e96589575dfd31eab48fcc85466dd49895925473c60c802b346cdb4037953350";
-      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.6.1/terraform-provider-kubernetes_2.6.1_linux_amd64.zip";
+      sha256 = "0ee4ed19d951cf94a1b27bf813827bb5c51b48ac53efe827e77aa077e9d66021";
+      url = "https://releases.hashicorp.com/terraform-provider-kubernetes/2.7.0/terraform-provider-kubernetes_2.7.0_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "kubernetes";
-  version = "2.6.1";
+  version = "2.7.0";
 }
