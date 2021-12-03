@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "fbbb0a72633e7bd285d0bc81e6491304806e0a6187639087e572f561fff139a6";
-      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.3.0-alpha.2/terraform-provider-equinix_1.3.0-alpha.2_darwin_arm64.zip";
+      sha256 = "284ddc524a7d3140a99f3066bad7e79bed30d37b2c1b308dc2358459eb21f97f";
+      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.4.0-alpha.1/terraform-provider-equinix_1.4.0-alpha.1_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "0b16dcf432f477b18cbd0ef9189c6b17ab93d0228a60e5bb2b3205f348de8f67";
-      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.3.0-alpha.2/terraform-provider-equinix_1.3.0-alpha.2_linux_arm64.zip";
+      sha256 = "459270644c38dca61f1ce2a89b7b0e9b8dba33e26a4262cba18c63875a1be4f6";
+      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.4.0-alpha.1/terraform-provider-equinix_1.4.0-alpha.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "8fa741c5eb6ac2f58ee0f0966965b24f3528b41613f7fdc42f5b73f0696ecfd5";
-      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.3.0-alpha.2/terraform-provider-equinix_1.3.0-alpha.2_linux_386.zip";
+      sha256 = "b27e7da6eb5c7b4084769d2b02cb3fa15cf3c8356144f359bdcd2671338172dc";
+      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.4.0-alpha.1/terraform-provider-equinix_1.4.0-alpha.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "56e8d9d3709f8752bd87b2d49c04a85eeca4b5a4deac343179177bf1173d5555";
-      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.3.0-alpha.2/terraform-provider-equinix_1.3.0-alpha.2_darwin_amd64.zip";
+      sha256 = "8c6a1c34e98d6ca7b6f401bc16c5fb66e18893e9ffaffe09b7291cedd0379bce";
+      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.4.0-alpha.1/terraform-provider-equinix_1.4.0-alpha.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "ba70698d240fd35f8ae0183a864c6c5786c70df35972cb6e6505aedb3ecbc240";
-      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.3.0-alpha.2/terraform-provider-equinix_1.3.0-alpha.2_linux_amd64.zip";
+      sha256 = "1959ca75660b4b955f0cea8684d0bc7473303606cb692b8abd7f231e0aad14cb";
+      url = "https://github.com/equinix/terraform-provider-equinix/releases/download/v1.4.0-alpha.1/terraform-provider-equinix_1.4.0-alpha.1_linux_amd64.zip";
     };
   };
   owner = "equinix";
   repo = "equinix";
-  version = "1.3.0-alpha.2";
+  version = "1.4.0-alpha.1";
 }
