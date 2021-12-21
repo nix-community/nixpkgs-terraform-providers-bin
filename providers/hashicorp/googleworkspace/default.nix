@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "878416da786d7e337bba1574a340dbfc6f68473dbc488d39dc65124446dcb74a";
-      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.5.2/terraform-provider-googleworkspace_0.5.2_darwin_arm64.zip";
+      sha256 = "92a8ee46f16909fffe7542c48476e056d9f8f305f7360eafbbd08895f4815f60";
+      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.6.0/terraform-provider-googleworkspace_0.6.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "b6030e97dc88ed03bccb0855f44968493c853fddfedba1bedeebc098302e77fc";
-      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.5.2/terraform-provider-googleworkspace_0.5.2_linux_arm64.zip";
+      sha256 = "cc4dda8647a3d00e97fbc5e8063fce31cfd3d72420162d00f0b398507fd7fa22";
+      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.6.0/terraform-provider-googleworkspace_0.6.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "f249a462290dd464475b6d2562068d3975c8b8391b8876110588ba69be398241";
-      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.5.2/terraform-provider-googleworkspace_0.5.2_linux_386.zip";
+      sha256 = "5e75e84f958432196952c5b07f1da34350781a6ecffab5d62618db89f2cd06b1";
+      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.6.0/terraform-provider-googleworkspace_0.6.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "ba2f0cbe0533216301ef2e2832bd742a85aba8b739fe10f8fdd3aed532013859";
-      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.5.2/terraform-provider-googleworkspace_0.5.2_darwin_amd64.zip";
+      sha256 = "556dc841925b553b8a708a1204e84ba9a56405ae0b3242521ad5a64a0e630033";
+      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.6.0/terraform-provider-googleworkspace_0.6.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "5674c388fdca384f73a139a89eefb1a66b711f3ee5a8e45032fc7e943f9c9473";
-      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.5.2/terraform-provider-googleworkspace_0.5.2_linux_amd64.zip";
+      sha256 = "2217e272e225d1059e572f9f71e73470a1dd3011abe44dec479d7317f53a0e3e";
+      url = "https://releases.hashicorp.com/terraform-provider-googleworkspace/0.6.0/terraform-provider-googleworkspace_0.6.0_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "googleworkspace";
-  version = "0.5.2";
+  version = "0.6.0";
 }
