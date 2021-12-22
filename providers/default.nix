@@ -1,15 +1,24 @@
 data:
 {
+  AegirHealth = import ./AegirHealth data;
   Backblaze = import ./Backblaze data;
+  CiscoDevNet = import ./CiscoDevNet data;
   Constellix = import ./Constellix data;
   DNSMadeEasy = import ./DNSMadeEasy data;
   DataDog = import ./DataDog data;
+  DeterminateSystems = import ./DeterminateSystems data;
+  IBM-Cloud = import ./IBM-Cloud data;
+  Mongey = import ./Mongey data;
   PagerDuty = import ./PagerDuty data;
   UpCloudLtd = import ./UpCloudLtd data;
   aiven = import ./aiven data;
+  akamai = import ./akamai data;
+  aliyun = import ./aliyun data;
+  awakesecurity = import ./awakesecurity data;
   buildkite = import ./buildkite data;
   carlpett = import ./carlpett data;
   cloudflare = import ./cloudflare data;
+  cyrilgdn = import ./cyrilgdn data;
   digitalocean = import ./digitalocean data;
   dnsimple = import ./dnsimple data;
   equinix = import ./equinix data;
@@ -21,9 +30,11 @@ data:
   hashicorp = import ./hashicorp data;
   hetznercloud = import ./hetznercloud data;
   integrations = import ./integrations data;
+  jianyuan = import ./jianyuan data;
   joyent = import ./joyent data;
   kvrhdn = import ./kvrhdn data;
   linode = import ./linode data;
+  mrparkers = import ./mrparkers data;
   ngrok = import ./ngrok data;
   numtide = import ./numtide data;
   okta = import ./okta data;
@@ -31,11 +42,16 @@ data:
   ovh = import ./ovh data;
   packet = import ./packet data;
   packethost = import ./packethost data;
+  phillbaker = import ./phillbaker data;
+  poseidon = import ./poseidon data;
   rancher = import ./rancher data;
   rundeck = import ./rundeck data;
   scaleway = import ./scaleway data;
   schizofreny = import ./schizofreny data;
+  scottwinkler = import ./scottwinkler data;
   splunk = import ./splunk data;
+  terraform-provider-openstack = import ./terraform-provider-openstack data;
+  vancluever = import ./vancluever data;
   vultr = import ./vultr data;
   zerotier = import ./zerotier data;
 
