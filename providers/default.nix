@@ -40,7 +40,6 @@ data:
   okta = import ./okta data;
   opsgenie = import ./opsgenie data;
   ovh = import ./ovh data;
-  packet = import ./packet data;
   packethost = import ./packethost data;
   phillbaker = import ./phillbaker data;
   poseidon = import ./poseidon data;
