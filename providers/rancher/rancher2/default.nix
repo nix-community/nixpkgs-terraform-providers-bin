@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "2e5e52a51f861e34910e4528454cc19dccb1f8cf9891d813ca237961c57d77f2";
-      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.22.1/terraform-provider-rancher2_1.22.1_darwin_arm64.zip";
+      sha256 = "e0ee416c2db05b0ce9e35692b685285c7cdc45fa13bb7b1063b56f188e97c717";
+      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.22.2/terraform-provider-rancher2_1.22.2_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "a20348e6736d8554608fc95c54a0893a2f5755fa26609fe4144bef0e0c2d151b";
-      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.22.1/terraform-provider-rancher2_1.22.1_linux_arm64.zip";
+      sha256 = "361ef564ef748162e1f4f1d8590d1ef1ffec1d9ab11ffcda621cc2be8a49a013";
+      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.22.2/terraform-provider-rancher2_1.22.2_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "36f29fa4f1a094df14ce0eed88b0a0023987820cddb619997eea686bedf2b686";
-      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.22.1/terraform-provider-rancher2_1.22.1_darwin_amd64.zip";
+      sha256 = "e1185a1d89736c8061557d9e28e391372eaf0d00f32f5efe6a9977c79c69a6c4";
+      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.22.2/terraform-provider-rancher2_1.22.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "608f19eccb66901cd6fde646590d6aed0e2d3f0abe8356be5ce5588079f56c0d";
-      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.22.1/terraform-provider-rancher2_1.22.1_linux_amd64.zip";
+      sha256 = "a816d940ae6b6ac91e0c9fe46aca6bb76c0542fc2e160c92e4602fee92bfd91d";
+      url = "https://github.com/rancher/terraform-provider-rancher2/releases/download/v1.22.2/terraform-provider-rancher2_1.22.2_linux_amd64.zip";
     };
   };
   owner = "rancher";
   repo = "rancher2";
-  version = "1.22.1";
+  version = "1.22.2";
 }
