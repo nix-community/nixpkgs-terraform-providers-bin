@@ -1,4 +1,4 @@
-# nixpkgs-terraform-providers
+# nixpkgs-terraform-providers-bin
 
 **STATUS: alpha**
 
@@ -16,7 +16,7 @@ registry and translate them into Nix. This means no compilation times.
 ### Niv
 
 ```
-$ niv add numtide/nixpkgs-terraform-providers
+$ niv add numtide/nixpkgs-terraform-providers-bin
 ```
 
 Then import the provider in your nix code:
@@ -25,7 +25,7 @@ Then import the provider in your nix code:
 let
   sources = import ./sources.nix;
   # Pass an instance of nixpkgs to this repo.
-  terraform-providers = import sources.nixpkgs-terraform-providers { pkgs = prev; };
+  terraform-providers = import sources.nixpkgs-terraform-providers-bin { pkgs = prev; };
 
   my-terraform = terraform-providers.wrapTerraform pkgs.terraform (p: [
     # The providers are namespaces like in the registry
@@ -39,7 +39,7 @@ null
 
 ### Flakes
 
-Pretty much the same as above but using `nixpkgs-terraform-providers.legacyPackages.${system}` instead of `numtide-terraform-providers`.
+Pretty much the same as above but using `nixpkgs-terraform-providers-bin.legacyPackages.${system}` instead of `numtide-terraform-providers`.
 
 
 ## Maintenance
