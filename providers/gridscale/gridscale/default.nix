@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "7294930c0433bedd83b1daaf5d02f87d1a7c19e20c58a1a4ed6bf7756da50317";
-      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.13.0/terraform-provider-gridscale_1.13.0_darwin_arm64.zip";
+      sha256 = "782ffbb15be7c2773b411c37d6dfd7be8719443e2698d366ec4a0e9debe2e2f8";
+      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.14.0/terraform-provider-gridscale_1.14.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "e56b1e96175051703ea64c308b82a4c859973766d07d6cc6ce410dd4899097de";
-      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.13.0/terraform-provider-gridscale_1.13.0_linux_arm64.zip";
+      sha256 = "6674826d97cbbe455b5948d8ead830a351fce9d11e89da04d06d0a3cc53fa3d4";
+      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.14.0/terraform-provider-gridscale_1.14.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "0e218b05cd1281c024e06df5f7d68ae3de0a7325fc1a02f46214c6851f9fcc68";
-      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.13.0/terraform-provider-gridscale_1.13.0_linux_386.zip";
+      sha256 = "89c617e96cada157062d3a629869f657e7801ec10f110a8a4e3fb52d9070fd67";
+      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.14.0/terraform-provider-gridscale_1.14.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "5b985f57cf65e0a3fa37471adaa18a65750d9beb2a721e49a429a96d61ec4bfd";
-      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.13.0/terraform-provider-gridscale_1.13.0_darwin_amd64.zip";
+      sha256 = "0bf6ac2d4fa332bad19972641f4b994a584ce3fd0711dd0739f1a95b8d894232";
+      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.14.0/terraform-provider-gridscale_1.14.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "b2c08f5488dcee7d94e6b6ee5b9a74e8857832ee11ad1d13f467d86c4e1bc0d6";
-      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.13.0/terraform-provider-gridscale_1.13.0_linux_amd64.zip";
+      sha256 = "e809a359bd1ef6d78ae7673bbec79af0b392477273d329bb8f5d3fd2df4cf940";
+      url = "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.14.0/terraform-provider-gridscale_1.14.0_linux_amd64.zip";
     };
   };
   owner = "gridscale";
   repo = "gridscale";
-  version = "1.13.0";
+  version = "1.14.0";
 }
