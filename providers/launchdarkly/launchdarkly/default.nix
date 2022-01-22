@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "9272de26000e06ed85d18f18f5c47042cebdbd30697ce26f1603dc9a1f41b9ab";
-      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.0/terraform-provider-launchdarkly_2.4.0_darwin_arm64.zip";
+      sha256 = "c5d2b9c9014c66c067048ca0ff99c6b09e0c7f1b49d679644acfc667da1abc49";
+      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.1/terraform-provider-launchdarkly_2.4.1_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "5dfc7c3ca8516344c5e3c41c789f11e19e93c85d897139e3f41bf97168bf13aa";
-      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.0/terraform-provider-launchdarkly_2.4.0_linux_arm64.zip";
+      sha256 = "0449b1ba8e2147fec4cdf0e373f1650706b893b9fc79085b92073e047cf46263";
+      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.1/terraform-provider-launchdarkly_2.4.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "f4558683c94364639912f695d13be158ba29ddad97340ed7f4355222edf9fdba";
-      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.0/terraform-provider-launchdarkly_2.4.0_linux_386.zip";
+      sha256 = "95aefe919a9d49e7e2a243989c3681845b78c94875969f64d562f702a8bfc783";
+      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.1/terraform-provider-launchdarkly_2.4.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "bf5f9f88a636e455e19f3b1bc7db8d07fbade03fff045ac3b8f70cb803a0e16c";
-      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.0/terraform-provider-launchdarkly_2.4.0_darwin_amd64.zip";
+      sha256 = "2a1529e4ddc63457db8914383ae9b76f87f44e1a8e99f62487510789dff695eb";
+      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.1/terraform-provider-launchdarkly_2.4.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "cefb373a204d19cecd80fa6f0350eb7ae5e654306cf6dfba7497e39c50c82a18";
-      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.0/terraform-provider-launchdarkly_2.4.0_linux_amd64.zip";
+      sha256 = "e38943c4564f8ab002c36405036b7dec33a7f31c1cead9b76a7394de1637a22b";
+      url = "https://github.com/launchdarkly/terraform-provider-launchdarkly/releases/download/v2.4.1/terraform-provider-launchdarkly_2.4.1_linux_amd64.zip";
     };
   };
   owner = "launchdarkly";
   repo = "launchdarkly";
-  version = "2.4.0";
+  version = "2.4.1";
 }
