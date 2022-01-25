@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "a29c4e304a6a7faf5b651a61a91a1aa2e837591cff049fbe1c747b6319e43956";
-      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.15.0/terraform-provider-docker_2.15.0_darwin_arm64.zip";
+      sha256 = "4101f4c909477f3a8225829b7063e5c5a2e2986a6163e0f113af040b5feab61f";
+      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.16.0/terraform-provider-docker_2.16.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "a16baab045bc7a709a9767816304cc5548aa2ee0b72c0eee49e3826e6a46a3fd";
-      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.15.0/terraform-provider-docker_2.15.0_linux_arm64.zip";
+      sha256 = "a6659fbc7c45fbb60c7c9bf06724eb6084711f1b79c720ef8512a4367e63cbe5";
+      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.16.0/terraform-provider-docker_2.16.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "ef7e246b4205202161b4119c10a1282f74243e029508184132731f9f6f6d9f4c";
-      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.15.0/terraform-provider-docker_2.15.0_linux_386.zip";
+      sha256 = "ae97c721431517d8c71f8cede91d734d2f2372a1bfef0c3bba43b54c0f8b1cee";
+      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.16.0/terraform-provider-docker_2.16.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "d034295663d8a39035fd6fdf0488b72544b13f48acaee797af967343248676f8";
-      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.15.0/terraform-provider-docker_2.15.0_darwin_amd64.zip";
+      sha256 = "7de1de3cc1eacb2ef2693207f5c5f54fa4814ae8c024b8b3c2a0923c82fd6f14";
+      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.16.0/terraform-provider-docker_2.16.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "0f162f0a01ffe9eec32e78dfc2a5b05a373230c41f041439efa3f4b68903fdcb";
-      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.15.0/terraform-provider-docker_2.15.0_linux_amd64.zip";
+      sha256 = "59db110d2b6c620cc12a1741d81ed8d1dd7fb0540024428fefbb57e8bebe5b60";
+      url = "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.16.0/terraform-provider-docker_2.16.0_linux_amd64.zip";
     };
   };
   owner = "kreuzwerker";
   repo = "docker";
-  version = "2.15.0";
+  version = "2.16.0";
 }
