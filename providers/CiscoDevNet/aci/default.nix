@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "8358784edaf2e59450b575f53f45526bd8c9376a84228158ab85b21b69aedcf8";
-      url = "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v1.2.0/terraform-provider-aci_1.2.0_linux_arm64.zip";
+      sha256 = "08ebe79fd753bd9c27d7dcb30e399f2001b9339843f1d3d719b033b3061e430a";
+      url = "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.0.0/terraform-provider-aci_2.0.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "907f19b7131f47c3945ba60cb410d444191f85a44ffbecc5064f2655c61e8808";
-      url = "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v1.2.0/terraform-provider-aci_1.2.0_linux_386.zip";
+      sha256 = "ab3781384cd5b658d876d9806af103a72164c63aa82f860eec8aa988b2b73ffa";
+      url = "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.0.0/terraform-provider-aci_2.0.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "93d6c24a5f8f4c82d37f009e7f225c964883efd0c4d8ae086462659e88050e10";
-      url = "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v1.2.0/terraform-provider-aci_1.2.0_darwin_amd64.zip";
+      sha256 = "e87fe3238b126a801871904f197ef8177895e67d35aeb07dd8a1927424421053";
+      url = "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.0.0/terraform-provider-aci_2.0.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "d63f2b5faa179cb130ee83008271e5652331e8644d32483e8014aa0b2eba3a0f";
-      url = "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v1.2.0/terraform-provider-aci_1.2.0_linux_amd64.zip";
+      sha256 = "5eca9e14498e881ce274a835fd738210fa5d6bdbfa50ece6322f183a6e30d1d0";
+      url = "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.0.0/terraform-provider-aci_2.0.0_linux_amd64.zip";
     };
   };
   owner = "CiscoDevNet";
   repo = "aci";
-  version = "1.2.0";
+  version = "2.0.0";
 }
