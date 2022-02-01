@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "a37de21fc2949584dc2e9f707085576e4c542122162c3390c210905876ba85f8";
-      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.8.0/terraform-provider-heroku_4.8.0_darwin_arm64.zip";
+      sha256 = "6c54f8581eb415465c7750a1fa3ec5354845c27977f4518928fbd438299e806a";
+      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.9.0/terraform-provider-heroku_4.9.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "1c3eac012080b1cc7a7c88608e7b238bf4ce3e7d840b9b870fcf50db050c6811";
-      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.8.0/terraform-provider-heroku_4.8.0_linux_arm64.zip";
+      sha256 = "d5ad8edf29f917fdb0830b955cf9a0be9a9ac6f5d24c5b38a3d7ba1f44cee0c8";
+      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.9.0/terraform-provider-heroku_4.9.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "30563b54580fb29d79861c31cf465b603066f71b497865d5e8240c495cb651f2";
-      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.8.0/terraform-provider-heroku_4.8.0_linux_386.zip";
+      sha256 = "3e838cff23096d0286b4a6c9a4bf48ec623a6662bcc8dffd03c410e798cfee1a";
+      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.9.0/terraform-provider-heroku_4.9.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "324f300e44ef1f9eda52cfe19e5ee07f767ab6d299369313ae156316c9800246";
-      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.8.0/terraform-provider-heroku_4.8.0_darwin_amd64.zip";
+      sha256 = "e2cbd89ce422b5ad49319c1eef5d5e0247107efaffba6945b99902bc17d77837";
+      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.9.0/terraform-provider-heroku_4.9.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "c1351cc191ee625a2e44b011016769f1796f121be4428b0083fcef200e0c6721";
-      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.8.0/terraform-provider-heroku_4.8.0_linux_amd64.zip";
+      sha256 = "26389f53f93168943c5d849a5383e8cddaa3c81144d16901d2637f82c2024d16";
+      url = "https://github.com/heroku/terraform-provider-heroku/releases/download/v4.9.0/terraform-provider-heroku_4.9.0_linux_amd64.zip";
     };
   };
   owner = "heroku";
   repo = "heroku";
-  version = "4.8.0";
+  version = "4.9.0";
 }

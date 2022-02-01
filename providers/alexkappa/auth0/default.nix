@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "3a89ea48163a2ba624652f20707aad436833f4e87712a247286ea7cd6c72847c";
-      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.1/terraform-provider-auth0_0.26.1_darwin_arm64.zip";
+      sha256 = "4fcfba389d6f6e460f09e9b164c05cc8f0abb902d58cc0fa30358ae1a64d7ba2";
+      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.2/terraform-provider-auth0_0.26.2_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "7d9af4f120a93828d9527832e73872893c0fdb5ec1404749242bba44205ba1a9";
-      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.1/terraform-provider-auth0_0.26.1_linux_arm64.zip";
+      sha256 = "90c925e8cb3eecffe2d36891e74918b3e5e1f9b8db72ff378939fa1d588a52eb";
+      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.2/terraform-provider-auth0_0.26.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "9bcced4a00a741934f14edcdf7b8ca4138a905131b88d7e4ea5c2d2b9f645c36";
-      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.1/terraform-provider-auth0_0.26.1_linux_386.zip";
+      sha256 = "b210c1538d132d38b45e81f497ea0bd58ed096316024fe0707a1f21f3f0f3bfe";
+      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.2/terraform-provider-auth0_0.26.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b9942e574e006f2d3bf3673fb741dc6a0b8e5fa6a126dccba5ff9d2f1e15f7c8";
-      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.1/terraform-provider-auth0_0.26.1_darwin_amd64.zip";
+      sha256 = "653abb7dde6c5b172411ddd0939b0ea9497eb636348520ee68365a523f4f0698";
+      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.2/terraform-provider-auth0_0.26.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "381068f618aa090a06a3e2d171141a52ad82a5ac6174646131a183148d480e37";
-      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.1/terraform-provider-auth0_0.26.1_linux_amd64.zip";
+      sha256 = "160767ad6cb0a2b176cf21fe811aedf28795e60d8cd71a4ec04e947a45b36e25";
+      url = "https://github.com/alexkappa/terraform-provider-auth0/releases/download/v0.26.2/terraform-provider-auth0_0.26.2_linux_amd64.zip";
     };
   };
   owner = "alexkappa";
   repo = "auth0";
-  version = "0.26.1";
+  version = "0.26.2";
 }

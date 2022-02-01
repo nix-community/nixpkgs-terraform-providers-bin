@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "c5a781441ae0e6583cc9c647248de4d748f2c556003d8a64b47c3d9687906ac4";
-      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.13/terraform-provider-libvirt_0.6.13_darwin_arm64.zip";
+      sha256 = "778bd0ea056ed7e918bcc3c05ad651504af86e6b53e6480daf20879e7d01e0a1";
+      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.14/terraform-provider-libvirt_0.6.14_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "672b7a088735db06caa1d32d99d3c2cf204be7b0d409068e638a9206d18dcc10";
-      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.13/terraform-provider-libvirt_0.6.13_linux_arm64.zip";
+      sha256 = "f46534893933d5b11f32fb0d55044ba84f4e69147955d0454a208c494bbb0882";
+      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.14/terraform-provider-libvirt_0.6.14_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "22360fa8d3d1e98512fa03c7782b225deeb267710cc60e442a5f1f3e73cced91";
-      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.13/terraform-provider-libvirt_0.6.13_linux_386.zip";
+      sha256 = "b6359aab7499b6fab819c867901b32426eb8661f2279e12c0c07cbeadce119e1";
+      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.14/terraform-provider-libvirt_0.6.14_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "77307810d2f089e1916b14bc2ca23cf300ce17f6be3310be4f490de65c6c8436";
-      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.13/terraform-provider-libvirt_0.6.13_darwin_amd64.zip";
+      sha256 = "ec57e6e3ee701522d2cfd57a8ae307e76bff4f4a4af36c0e10d4189fa8dd554d";
+      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.14/terraform-provider-libvirt_0.6.14_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "4db5c05fe87bc14cc1ecdb4bccc8b8137571a1a1141c99fdc9f577970293acb0";
-      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.13/terraform-provider-libvirt_0.6.13_linux_amd64.zip";
+      sha256 = "b24e1f6f1bd09acdfb87f76f76ee7adfa1af1e0798c8c0aeb20d2a5bf67d8a33";
+      url = "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.6.14/terraform-provider-libvirt_0.6.14_linux_amd64.zip";
     };
   };
   owner = "dmacvicar";
   repo = "libvirt";
-  version = "0.6.13";
+  version = "0.6.14";
 }
