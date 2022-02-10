@@ -2,15 +2,15 @@
 mkTerraformProvider {
   archSrc = {
     x86_64-darwin = {
-      sha256 = "5746d7d03ae561fd9d16dca7fb6afbed799d95e832a267f96e2e4cee667921c9";
-      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.38.1/terraform-provider-ibm_1.38.1_darwin_amd64.zip";
+      sha256 = "0fc9f6dfbba9cfcf776c9111e10d77d7d2e6b5e3ae49d31d347395923e493c5f";
+      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.38.2/terraform-provider-ibm_1.38.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "879b93c20c301ded1309c9c813792736db9261f5be2a821644facd8dd7425b37";
-      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.38.1/terraform-provider-ibm_1.38.1_linux_amd64.zip";
+      sha256 = "558ebdea44c20546cf859891469f71a2151c3598c339d4b2d0ef7a183a47388e";
+      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.38.2/terraform-provider-ibm_1.38.2_linux_amd64.zip";
     };
   };
   owner = "IBM-Cloud";
   repo = "ibm";
-  version = "1.38.1";
+  version = "1.38.2";
 }
