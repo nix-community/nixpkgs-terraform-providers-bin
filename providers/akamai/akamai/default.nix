@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "84c11f8a56bba3024771e6205625624433e398de530919018e9eac40eefc0c81";
-      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.10.0/terraform-provider-akamai_1.10.0_linux_arm64.zip";
+      sha256 = "9526abda9f61e280456c5b7bb24b524fabd4327a38a1bc89ae9ececb2b8399a5";
+      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.10.1/terraform-provider-akamai_1.10.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "4c87b571c777d9b59256ff76eb15dcb435108be784b590de9b013f0737f26934";
-      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.10.0/terraform-provider-akamai_1.10.0_linux_386.zip";
+      sha256 = "f719cc61903afef9567673f0dced142acb78652c9d2f39fd7895f8078024abca";
+      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.10.1/terraform-provider-akamai_1.10.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "9b7fa14f31c350400a2c8bdac89ba61a53b5cbd1b706ece205c12a3dccb81871";
-      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.10.0/terraform-provider-akamai_1.10.0_darwin_amd64.zip";
+      sha256 = "c538e23c7bd79024c921f0c35875b0c402fb2b452b943d757fe9d42fce11c289";
+      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.10.1/terraform-provider-akamai_1.10.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "35287b72f25a8534a7fc4db9d49bf8b63f57cc0ce1af47b2dff8bdc53eda4c7c";
-      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.10.0/terraform-provider-akamai_1.10.0_linux_amd64.zip";
+      sha256 = "45bf5960538a0ccc47a2eddacc2e3060c93326756f2456d0599d3314c5241ae7";
+      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.10.1/terraform-provider-akamai_1.10.1_linux_amd64.zip";
     };
   };
   owner = "akamai";
   repo = "akamai";
-  version = "1.10.0";
+  version = "1.10.1";
 }
