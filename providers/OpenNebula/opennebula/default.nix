@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "6a6eb38a57c64c6727c3bfc80dd8da9210a08997268313b5c36d6ae02c0c113b";
-      url = "https://github.com/OpenNebula/terraform-provider-opennebula/releases/download/v0.4.0/terraform-provider-opennebula_0.4.0_linux_arm64.zip";
+      sha256 = "3a48a4691c4035808e7a6bc2c5f6750b22cd7f8c5d47653f31a0cb38fd21661c";
+      url = "https://github.com/OpenNebula/terraform-provider-opennebula/releases/download/v0.4.1/terraform-provider-opennebula_0.4.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "f96bcf51811a2d053643d25aef857baf5ff3273b277bba7e076d52fe7b6d8c7a";
-      url = "https://github.com/OpenNebula/terraform-provider-opennebula/releases/download/v0.4.0/terraform-provider-opennebula_0.4.0_linux_386.zip";
+      sha256 = "982008f092297e2eb567da9aca4bf68c6ca8290e0f11d6cde722d07257c87f89";
+      url = "https://github.com/OpenNebula/terraform-provider-opennebula/releases/download/v0.4.1/terraform-provider-opennebula_0.4.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "e6a3a2639385e88c5ed531e071186289fdd4f93d12586d1e1215b9bf3f33b50c";
-      url = "https://github.com/OpenNebula/terraform-provider-opennebula/releases/download/v0.4.0/terraform-provider-opennebula_0.4.0_darwin_amd64.zip";
+      sha256 = "f42af218293bf13b09d1061b4c725449de66081c59452093244b3ff4d9be4e79";
+      url = "https://github.com/OpenNebula/terraform-provider-opennebula/releases/download/v0.4.1/terraform-provider-opennebula_0.4.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "0cb96d71b668c0a06f9d82fe930f08c225822564a7ede55c65e2695098de8c99";
-      url = "https://github.com/OpenNebula/terraform-provider-opennebula/releases/download/v0.4.0/terraform-provider-opennebula_0.4.0_linux_amd64.zip";
+      sha256 = "9322979da41b8c27e4ccb71414f09f243b033e12b71f6fb13e95712c19329205";
+      url = "https://github.com/OpenNebula/terraform-provider-opennebula/releases/download/v0.4.1/terraform-provider-opennebula_0.4.1_linux_amd64.zip";
     };
   };
   owner = "OpenNebula";
   repo = "opennebula";
-  version = "0.4.0";
+  version = "0.4.1";
 }
