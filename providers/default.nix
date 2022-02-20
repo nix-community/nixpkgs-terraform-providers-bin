@@ -54,6 +54,7 @@ data:
   hashicorp = import ./hashicorp data;
   heroku = import ./heroku data;
   hetznercloud = import ./hetznercloud data;
+  honeycombio = import ./honeycombio data;
   huaweicloud = import ./huaweicloud data;
   infobloxopen = import ./infobloxopen data;
   integrations = import ./integrations data;
@@ -61,7 +62,6 @@ data:
   joyent = import ./joyent data;
   kingsoftcloud = import ./kingsoftcloud data;
   kreuzwerker = import ./kreuzwerker data;
-  kvrhdn = import ./kvrhdn data;
   launchdarkly = import ./launchdarkly data;
   linode = import ./linode data;
   logicmonitor = import ./logicmonitor data;
