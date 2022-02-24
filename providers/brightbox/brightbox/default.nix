@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "2c3e6f8f67dc8ea9b29cd615c10fe82cc6b22735f61463273b7d103c7b9ec57b";
-      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.1.1/terraform-provider-brightbox_2.1.1_darwin_arm64.zip";
+      sha256 = "f446d0200930192f7cf602aa6a7749d5629267889efb79e4aef1ac3002e41a2f";
+      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.2.0/terraform-provider-brightbox_2.2.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "a6ad322ae7a3b9f63fb478831977c708b5a5885ce6ab14e1432c38bc4598bdb3";
-      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.1.1/terraform-provider-brightbox_2.1.1_linux_arm64.zip";
+      sha256 = "295f6efea43aabeaa765773af02874780d427222d07c3645d151d1d77e8e47b2";
+      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.2.0/terraform-provider-brightbox_2.2.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "4c79d6fc23628e2a64d966d7a8a8aa34ea165c26b09afe5a26b18213ec6bed6e";
-      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.1.1/terraform-provider-brightbox_2.1.1_linux_386.zip";
+      sha256 = "c3f6fa9b871492061b4a43812481b722bdc16e1743498db8007437cfdfa7fef1";
+      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.2.0/terraform-provider-brightbox_2.2.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "19128e19a42fdc40c376889c345fdca49d90ba162e24085675545fd07849b44d";
-      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.1.1/terraform-provider-brightbox_2.1.1_darwin_amd64.zip";
+      sha256 = "9dd76f37036d5218d073e5feff0a51184fbfc0280725e52b6c4b8cc75b155f97";
+      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.2.0/terraform-provider-brightbox_2.2.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "2c1020484782641b239e5d600e7f02d09187d05d22dd994c0e8287c6156f2492";
-      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.1.1/terraform-provider-brightbox_2.1.1_linux_amd64.zip";
+      sha256 = "18f021e7bb3d1a6b9846be3434076712e11015eeca511c2462fb50e6a1e2a8c8";
+      url = "https://github.com/brightbox/terraform-provider-brightbox/releases/download/v2.2.0/terraform-provider-brightbox_2.2.0_linux_amd64.zip";
     };
   };
   owner = "brightbox";
   repo = "brightbox";
-  version = "2.1.1";
+  version = "2.2.0";
 }
