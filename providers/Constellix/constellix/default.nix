@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "7ea283afd404faad2033c0453e67393ef4c8794d8ae03daebe19b8450c48859c";
-      url = "https://github.com/Constellix/terraform-provider-constellix/releases/download/v0.3.11/terraform-provider-constellix_0.3.11_linux_arm64.zip";
+      sha256 = "78e2ba91ec7b634aba09bed4b24827af3568c4e4a528a9719795cd2f454b0a39";
+      url = "https://github.com/Constellix/terraform-provider-constellix/releases/download/v0.4.0/terraform-provider-constellix_0.4.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "deaee89c8a63bb9615cbeaf5c2fab9a3286c47ad515e679c3328e5cbd99d623f";
-      url = "https://github.com/Constellix/terraform-provider-constellix/releases/download/v0.3.11/terraform-provider-constellix_0.3.11_linux_386.zip";
+      sha256 = "11ad13f6107ad1113c6ff156c4d0f4ecad57946251e1ffce001f82995e4c6792";
+      url = "https://github.com/Constellix/terraform-provider-constellix/releases/download/v0.4.0/terraform-provider-constellix_0.4.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "8a93534befab64766c9f28e1f32143c84d756d83d4d39f08bf397b0c3e44a2b7";
-      url = "https://github.com/Constellix/terraform-provider-constellix/releases/download/v0.3.11/terraform-provider-constellix_0.3.11_darwin_amd64.zip";
+      sha256 = "34794995e7c8c2aef839fdab8ed5b0bb5d2ba75056f4a6516dc42f07e715f5de";
+      url = "https://github.com/Constellix/terraform-provider-constellix/releases/download/v0.4.0/terraform-provider-constellix_0.4.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "46ac5a0aa8d3050c734448a66da478dcc8cba859302a0bf2b4586507a75e9912";
-      url = "https://github.com/Constellix/terraform-provider-constellix/releases/download/v0.3.11/terraform-provider-constellix_0.3.11_linux_amd64.zip";
+      sha256 = "dd887d9d9a4c0f2f23e665d2c4738cdb4e40f1699ebc5d5dd8689c57b61bc2fe";
+      url = "https://github.com/Constellix/terraform-provider-constellix/releases/download/v0.4.0/terraform-provider-constellix_0.4.0_linux_amd64.zip";
     };
   };
   owner = "Constellix";
   repo = "constellix";
-  version = "0.3.11";
+  version = "0.4.0";
 }
