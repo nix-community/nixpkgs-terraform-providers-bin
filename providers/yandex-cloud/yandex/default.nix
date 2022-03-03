@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "0bf1c79332d3fd7cc4cdc98e2ab4b3802e5ccc70c112f29d95df02ebfe9d8ce5";
-      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.71.0/terraform-provider-yandex_0.71.0_darwin_arm64.zip";
+      sha256 = "7ad007c9e1fa2e34a98ac9259e6c86b6b1713423b0f8f2293b00f360392cdd9c";
+      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.72.0/terraform-provider-yandex_0.72.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "515d78a40dd35d7045d1a7cfae7575cabebdd59789f3c4653f580cf5dcdef236";
-      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.71.0/terraform-provider-yandex_0.71.0_linux_arm64.zip";
+      sha256 = "339faaa2b617b2e214cad4dd36981512c954f996cf2aa8bf80cdc1d2968e8e3e";
+      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.72.0/terraform-provider-yandex_0.72.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "1250df0ce05af94283ffa0298f73bb2f4b4b9bf409bdedaf4af870e0bbd64629";
-      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.71.0/terraform-provider-yandex_0.71.0_linux_386.zip";
+      sha256 = "e20d06595ee96f01b734de9755d6e0a6f7517107153dcde221ba7026321d8241";
+      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.72.0/terraform-provider-yandex_0.72.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "f12735426f47611b7f6af833ccfc597dc06f3b367465fcc0f274e9258b12f53c";
-      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.71.0/terraform-provider-yandex_0.71.0_darwin_amd64.zip";
+      sha256 = "54335ba7e4b6bf32194a53e73fb193af3aa39e45473d72b04505d0455d1a11b9";
+      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.72.0/terraform-provider-yandex_0.72.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "61bda32f11159cc617ed388a1b674898221e96be7de53e89a26d4b8a03af344f";
-      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.71.0/terraform-provider-yandex_0.71.0_linux_amd64.zip";
+      sha256 = "52504aa082ca8e83ddc1f0c4dfb08f562b05ae16fb633e12cc7efa66a4c64a27";
+      url = "https://github.com/yandex-cloud/terraform-provider-yandex/releases/download/v0.72.0/terraform-provider-yandex_0.72.0_linux_amd64.zip";
     };
   };
   owner = "yandex-cloud";
   repo = "yandex";
-  version = "0.71.0";
+  version = "0.72.0";
 }
