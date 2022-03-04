@@ -25,7 +25,7 @@ Then import the provider in your nix code:
 let
   sources = import ./sources.nix;
   # Pass an instance of nixpkgs to this repo.
-  terraform-providers = import sources.nixpkgs-terraform-providers-bin { pkgs = prev; };
+  terraform-providers = import sources.nixpkgs-terraform-providers-bin { nixpkgs = prev; };
 
   my-terraform = terraform-providers.wrapTerraform pkgs.terraform (p: [
     # The providers are namespaces like in the registry
