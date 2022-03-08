@@ -38,7 +38,7 @@ let
       version = version;
       src = fetchArchURL nixpkgs.system archSrc;
 
-      unpackPhase = "unzip $src";
+      unpackPhase = "unzip -o $src";
 
       nativeBuildInputs = [ unzip ];
 
