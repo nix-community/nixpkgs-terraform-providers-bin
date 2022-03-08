@@ -25,7 +25,7 @@ Then import the provider in your nix code:
 let
   sources = import ./sources.nix;
   # Pass an instance of nixpkgs to this repo.
-  terraform-providers = import sources.nixpkgs-terraform-providers-bin { pkgs = prev; };
+  terraform-providers = import sources.nixpkgs-terraform-providers-bin { nixpkgs = prev; };
 
   my-terraform = terraform-providers.wrapTerraform pkgs.terraform (p: [
     # The providers are namespaces like in the registry
@@ -39,7 +39,42 @@ null
 
 ### Flakes
 
-Pretty much the same as above but using `nixpkgs-terraform-providers-bin.legacyPackages.${system}` instead of `numtide-terraform-providers`.
+Pretty much the same as above but using `nixpkgs-terraform-providers-bin.legacyPackages.${system}` instead of `numtide-terraform-providers`:
+
+```
+{
+  inputs = {
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    flake-utils.url = "github:numtide/flake-utils";
+    devshell.url = "github:numtide/devshell";
+    terraform-providers.url = "github:numtide/nixpkgs-terraform-providers-bin";
+    terraform-providers.inputs.nixpkgs.follows = "nixpkgs";
+  };
+  outputs = { self, nixpkgs, flake-utils, devshell, terraform-providers }@inputs:
+    flake-utils.lib.eachSystem [ "x86_64-linux" ] (system:
+      let
+        pkgs = import nixpkgs {
+          inherit system inputs;
+          overlays = [
+            devshell.overlay
+          ];
+        };
+        my-terraform = terraform-providers.legacyPackages.${system}.wrapTerraform pkgs.terraform (p: [
+          p.hashicorp.nomad
+        ]);
+      in
+      {
+        devShell = pkgs.devshell.mkShell {
+          imports = [
+            (pkgs.devshell.importTOML ./commands.toml)
+          ];
+          packages = with pkgs; [
+            my-terraform
+          ];
+        };
+      });
+}
+```
 
 
 ## Maintenance
