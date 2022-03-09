@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "4cb16fbd98b0c1c2e7388d09b2afe2d746b9cf7809e6c8c2795c37e890c5fdc4";
-      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.68.0/terraform-provider-spotinst_1.68.0_darwin_arm64.zip";
+      sha256 = "a5ca2969001a2f47f763bb3dc168ef60666cacbc59e7ccd6f962c712a46671f6";
+      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.69.0/terraform-provider-spotinst_1.69.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "202c746bfe6b412915c5e1309b6bebfebc45bc12d6685c0d1450f660a7f520a8";
-      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.68.0/terraform-provider-spotinst_1.68.0_linux_arm64.zip";
+      sha256 = "95448b99f9da11090420bb1a60b43c3dc2e9c19fd20d9ca3a6d5143b102b2d46";
+      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.69.0/terraform-provider-spotinst_1.69.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "1e0ba26d7cf5a8b55ebb25fafbc6f3a8f2007d1e032a0130ddafc5f40f88784b";
-      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.68.0/terraform-provider-spotinst_1.68.0_linux_386.zip";
+      sha256 = "d9c14e4e7f6dc2a3a2aa6f6d0293f1617f09ad258a3636d88f7743de0308a6b0";
+      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.69.0/terraform-provider-spotinst_1.69.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "9c86f212676adab18de9a5e3117d0394b23a558636998f2aa4d32b26a0d7882f";
-      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.68.0/terraform-provider-spotinst_1.68.0_darwin_amd64.zip";
+      sha256 = "d1fc66ce30f58762b3160721aeb24a5bba947c37a4ecf32fbe374fc549305b6e";
+      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.69.0/terraform-provider-spotinst_1.69.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "e78390e232fced1cbc5eadbf6526b9add6e2c868f5da1a67ccb8d837e3dc44d5";
-      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.68.0/terraform-provider-spotinst_1.68.0_linux_amd64.zip";
+      sha256 = "e74c3ca0544e3cd11200dfa1432a50fde12fb58af3a98547c214256c3e23897c";
+      url = "https://github.com/spotinst/terraform-provider-spotinst/releases/download/v1.69.0/terraform-provider-spotinst_1.69.0_linux_amd64.zip";
     };
   };
   owner = "spotinst";
   repo = "spotinst";
-  version = "1.68.0";
+  version = "1.69.0";
 }
