@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "3e5f2208e104386efe7b55045b6a380272410dc07cb261f542dc3ddaf83da58a";
-      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.39.1/terraform-provider-ibm_1.39.1_darwin_arm64.zip";
+      sha256 = "b046a4f436babe400525fa77610ba2313d5aef72a797003e37dd42e1098f623e";
+      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.39.2/terraform-provider-ibm_1.39.2_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "f42ea43dabd3a40cc9601e10d37562f1b726f71d1ea6b6e9e3de8fee27e4c739";
-      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.39.1/terraform-provider-ibm_1.39.1_linux_arm64.zip";
+      sha256 = "e26a9dec9be6f6dc43277058268b50b9c560f108c773a6d4c4af8d1f40309393";
+      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.39.2/terraform-provider-ibm_1.39.2_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "eab28bc78a282eda7d917e4001b840c63e46f1c846b867f4438167a44d791071";
-      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.39.1/terraform-provider-ibm_1.39.1_darwin_amd64.zip";
+      sha256 = "47b6d8d4d85b3906acf88d152b4855fe78882221cb0c6a8fa0fdfb412af2dfbc";
+      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.39.2/terraform-provider-ibm_1.39.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "fcca9dae5565b6c833f1160afb68ca79aef77f5bd73a3f4b310dbefc7e930b83";
-      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.39.1/terraform-provider-ibm_1.39.1_linux_amd64.zip";
+      sha256 = "ec4e8ecdd68989c327d8ebfaf7ff620b0b9c36e74b90f3a4e1ec96c8672f7974";
+      url = "https://github.com/IBM-Cloud/terraform-provider-ibm/releases/download/v1.39.2/terraform-provider-ibm_1.39.2_linux_amd64.zip";
     };
   };
   owner = "IBM-Cloud";
   repo = "ibm";
-  version = "1.39.1";
+  version = "1.39.2";
 }
