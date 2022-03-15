@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "768198588da57828416399c53eba14399965d8ad6c5ae618b52d5a0ce7f14851";
-      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.3/terraform-provider-ngrok_0.1.3_darwin_arm64.zip";
+      sha256 = "86b44d7955aad3ecfd709670dfb39c9582a2e15d14f4146efc4ad09db29079e4";
+      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.4/terraform-provider-ngrok_0.1.4_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "fa121b672baed66a9d5592ac000485bdcc56aad1925de892ab5f266d6cc390ef";
-      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.3/terraform-provider-ngrok_0.1.3_linux_arm64.zip";
+      sha256 = "eb6a88d8b692b6092b448b0eeb66ffdc77334fc12ed7db1361e1dfbcab9926ea";
+      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.4/terraform-provider-ngrok_0.1.4_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "77b120bad292d18465dbe775dada3acd294cc99bbdfc0df1c501016c2c83a65d";
-      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.3/terraform-provider-ngrok_0.1.3_linux_386.zip";
+      sha256 = "7b6fd7fb7f10f687ae2232cc5ea3f9090120d9165aaa31808fe9e1f02a599a0d";
+      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.4/terraform-provider-ngrok_0.1.4_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b92ba8327586eb773e3cb838a65aa38dcf22413de075b615d0530a39b18d2788";
-      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.3/terraform-provider-ngrok_0.1.3_darwin_amd64.zip";
+      sha256 = "2ff939304cde0ed6ec4ea74c8a9ad928c17d6de61d3e43c2773e71c3d4fac645";
+      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.4/terraform-provider-ngrok_0.1.4_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "e0fa82f466b2cd816ab182ef3b3b6628b37ba0ba5f833a6810eb70523b0a24e2";
-      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.3/terraform-provider-ngrok_0.1.3_linux_amd64.zip";
+      sha256 = "498685738a6e29091525980424081064c66e26eaabd9a9ff73e83f1d1a38fe0a";
+      url = "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.1.4/terraform-provider-ngrok_0.1.4_linux_amd64.zip";
     };
   };
   owner = "ngrok";
   repo = "ngrok";
-  version = "0.1.3";
+  version = "0.1.4";
 }
