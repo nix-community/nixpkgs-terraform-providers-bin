@@ -9,6 +9,7 @@ data:
   DNSMadeEasy = import ./DNSMadeEasy data;
   DataDog = import ./DataDog data;
   DeterminateSystems = import ./DeterminateSystems data;
+  DrFaust92 = import ./DrFaust92 data;
   F5Networks = import ./F5Networks data;
   FlexibleEngineCloud = import ./FlexibleEngineCloud data;
   IBM-Cloud = import ./IBM-Cloud data;
@@ -34,6 +35,7 @@ data:
   buildkite = import ./buildkite data;
   camptocamp = import ./camptocamp data;
   carlpett = import ./carlpett data;
+  chanzuckerberg = import ./chanzuckerberg data;
   checkly = import ./checkly data;
   cloudflare = import ./cloudflare data;
   cloudfoundry-community = import ./cloudfoundry-community data;
@@ -49,6 +51,7 @@ data:
   fortinetdev = import ./fortinetdev data;
   gavinbunney = import ./gavinbunney data;
   gitlabhq = import ./gitlabhq data;
+  go-gandi = import ./go-gandi data;
   grafana = import ./grafana data;
   gridscale = import ./gridscale data;
   hashicorp = import ./hashicorp data;
@@ -101,6 +104,7 @@ data:
   ucloud = import ./ucloud data;
   vancluever = import ./vancluever data;
   vmware = import ./vmware data;
+  vpsfreecz = import ./vpsfreecz data;
   vultr = import ./vultr data;
   wgebis = import ./wgebis data;
   yandex-cloud = import ./yandex-cloud data;
