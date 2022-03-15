@@ -1,0 +1,24 @@
+{ mkTerraformProvider }:
+mkTerraformProvider {
+  archSrc = {
+    aarch64-linux = {
+      sha256 = "a3930dfa0ac8550a7d7087cb183281caf884203180f8d34da4febb684753e98b";
+      url = "https://github.com/nutanix/terraform-provider-nutanixkps/releases/download/v1.1.9/terraform-provider-nutanixkps_1.1.9_linux_arm64.zip";
+    };
+    i686-linux = {
+      sha256 = "93d0f947adb4f6d64eaf7f308945437fc2f3a8712badf162abb15bb67e614b2e";
+      url = "https://github.com/nutanix/terraform-provider-nutanixkps/releases/download/v1.1.9/terraform-provider-nutanixkps_1.1.9_linux_386.zip";
+    };
+    x86_64-darwin = {
+      sha256 = "725efa1b7a9af254f1df31972704183ee752206edcb48f23e02ddeefe0479ef1";
+      url = "https://github.com/nutanix/terraform-provider-nutanixkps/releases/download/v1.1.9/terraform-provider-nutanixkps_1.1.9_darwin_amd64.zip";
+    };
+    x86_64-linux = {
+      sha256 = "796cd4e41d04247a686311f3cdb94c2592a7e2823747ef82f1c8a1aaf9a30446";
+      url = "https://github.com/nutanix/terraform-provider-nutanixkps/releases/download/v1.1.9/terraform-provider-nutanixkps_1.1.9_linux_amd64.zip";
+    };
+  };
+  owner = "nutanix";
+  repo = "nutanixkps";
+  version = "1.1.9";
+}
