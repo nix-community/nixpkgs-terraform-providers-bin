@@ -1,0 +1,28 @@
+{ mkTerraformProvider }:
+mkTerraformProvider {
+  archSrc = {
+    aarch64-darwin = {
+      sha256 = "34eb0ab3d4f42b721ba1d5f29929a138018b12dd694aa1ef4cb036e32bb4c240";
+      url = "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.2.0/terraform-provider-onelogin_0.2.0_darwin_arm64.zip";
+    };
+    aarch64-linux = {
+      sha256 = "cdff31af6fe7b823bd6c45a9f230e66d414d4abfbc81bd02689f7ec929dce1f8";
+      url = "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.2.0/terraform-provider-onelogin_0.2.0_linux_arm64.zip";
+    };
+    i686-linux = {
+      sha256 = "90b8b5a024ab61921e0e928d7fb77b5a90d514ffdd0a42ed665fa9f451cece13";
+      url = "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.2.0/terraform-provider-onelogin_0.2.0_linux_386.zip";
+    };
+    x86_64-darwin = {
+      sha256 = "7d6b79a7e8754a81445051d4794df948085bb1aa5de48135e04c6443405a9bfc";
+      url = "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.2.0/terraform-provider-onelogin_0.2.0_darwin_amd64.zip";
+    };
+    x86_64-linux = {
+      sha256 = "702e6f695419a01dd6fb59b487bd0896a2ac00417074ec1f78cf1556a272333e";
+      url = "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.2.0/terraform-provider-onelogin_0.2.0_linux_amd64.zip";
+    };
+  };
+  owner = "onelogin";
+  repo = "onelogin";
+  version = "0.2.0";
+}

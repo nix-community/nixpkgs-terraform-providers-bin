@@ -1,0 +1,28 @@
+{ mkTerraformProvider }:
+mkTerraformProvider {
+  archSrc = {
+    aarch64-darwin = {
+      sha256 = "ad7248b8fd3ebfef8218b53b57d14c2ea9369b4bc35c0b431a6a52ae024a5d32";
+      url = "https://github.com/splunk/terraform-provider-artifacts/releases/download/v1.1.0/terraform-provider-artifacts_1.1.0_darwin_arm64.zip";
+    };
+    aarch64-linux = {
+      sha256 = "7c70d86b2cfc370b75e68702bb2b0a650754b4f78ec6557af2a6817b88fa9945";
+      url = "https://github.com/splunk/terraform-provider-artifacts/releases/download/v1.1.0/terraform-provider-artifacts_1.1.0_linux_arm64.zip";
+    };
+    i686-linux = {
+      sha256 = "cc976cea63b52a4c2e1a2331396f7bf569f1daaccdf9c872ae87bf7862132505";
+      url = "https://github.com/splunk/terraform-provider-artifacts/releases/download/v1.1.0/terraform-provider-artifacts_1.1.0_linux_386.zip";
+    };
+    x86_64-darwin = {
+      sha256 = "901351b4c81a075f752d8318a601215434ae799627bd88e08b1c7388525d5b9b";
+      url = "https://github.com/splunk/terraform-provider-artifacts/releases/download/v1.1.0/terraform-provider-artifacts_1.1.0_darwin_amd64.zip";
+    };
+    x86_64-linux = {
+      sha256 = "1385a1ed192c9f6ec8d4ff0fc5a7b5d743b4373019af5292a416dbb94fddb5ca";
+      url = "https://github.com/splunk/terraform-provider-artifacts/releases/download/v1.1.0/terraform-provider-artifacts_1.1.0_linux_amd64.zip";
+    };
+  };
+  owner = "splunk";
+  repo = "artifacts";
+  version = "1.1.0";
+}

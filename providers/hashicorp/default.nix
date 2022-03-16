@@ -3,6 +3,7 @@ data:
   ad = import ./ad data;
   archive = import ./archive data;
   aws = import ./aws data;
+  awscc = import ./awscc data;
   azuread = import ./azuread data;
   azurerm = import ./azurerm data;
   azurestack = import ./azurestack data;
@@ -27,7 +28,9 @@ data:
   opc = import ./opc data;
   oraclepaas = import ./oraclepaas data;
   random = import ./random data;
+  salesforce = import ./salesforce data;
   template = import ./template data;
+  terraform = import ./terraform data;
   tfe = import ./tfe data;
   time = import ./time data;
   tls = import ./tls data;
