@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "e21c47ae9d99adbe771941132f39c1110ec1a312080245a35011424cf6f8ac04";
-      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.6.3/terraform-provider-rafay_0.6.3_darwin_arm64.zip";
+      sha256 = "a15dbf395227c2bd359281a1c1c9dd108d8bd18e5f95267b9166fcc90cb3f8c1";
+      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.7.1/terraform-provider-rafay_0.7.1_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "c2b8dae76dc7822a7020429c0b1c41cffefe674246f674d398ffb4864f2e7959";
-      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.6.3/terraform-provider-rafay_0.6.3_linux_arm64.zip";
+      sha256 = "0c33d34b9cc0e1dc4e7798db9cf5a8c5e056bff4e0dd384c6709f1eb375a640e";
+      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.7.1/terraform-provider-rafay_0.7.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "22f7928329b66316b15864ff5111a568208fd3111b85409070736925c51bb47f";
-      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.6.3/terraform-provider-rafay_0.6.3_linux_386.zip";
+      sha256 = "30e2535d35df6fcb930bd72d3f96a8e912fe1cfbb3d82e724b12d24ca61cc236";
+      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.7.1/terraform-provider-rafay_0.7.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "cc1e305a351782a9a00849ba957764284fda6955d377d7ad737be793e3302077";
-      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.6.3/terraform-provider-rafay_0.6.3_darwin_amd64.zip";
+      sha256 = "12694789bc4d1db993730a6d626c6d6e2204ab1628df8db55c57e828e73600a2";
+      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.7.1/terraform-provider-rafay_0.7.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "0943efa9f53e420ff8375cc5d6cb8a52b35899d4b3a4aa37f0ca741d628bc661";
-      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.6.3/terraform-provider-rafay_0.6.3_linux_amd64.zip";
+      sha256 = "2cc7b9651fd1a8f65bb92044635b763b7b6e834592d6ed4d9f8c898e72145d7a";
+      url = "https://github.com/RafaySystems/terraform-provider-rafay/releases/download/v0.7.1/terraform-provider-rafay_0.7.1_linux_amd64.zip";
     };
   };
   owner = "RafaySystems";
   repo = "rafay";
-  version = "0.6.3";
+  version = "0.7.1";
 }

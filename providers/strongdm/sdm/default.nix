@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "dc384b4dac55ab6667914f71e8f0701f9a8cf170ce3e0a14a90e9aa35c94a446";
-      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v1.0.39/terraform-provider-sdm_1.0.39_darwin_arm64.zip";
+      sha256 = "43e56ab0c09fe3f613021a27239409d614dda78011586eee9cb3ceae7fbbf031";
+      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.0.0/terraform-provider-sdm_2.0.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "ce5c5d0c1ab81731f6b137818bd2e92cd81d6209f64a587196d024ac07e82da9";
-      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v1.0.39/terraform-provider-sdm_1.0.39_linux_arm64.zip";
+      sha256 = "72a9984f3ac228255ce82f32debfaea23a8155629c92448bbd00b97dafeaa204";
+      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.0.0/terraform-provider-sdm_2.0.0_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "ae9dd40104c33709ecc315e185849d093c22ead36b26387f57f1938f795a7be0";
-      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v1.0.39/terraform-provider-sdm_1.0.39_darwin_amd64.zip";
+      sha256 = "d44d5a067e4fd1b74ee790aa983075580370c0e6f986df69c5b27333dd9d3289";
+      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.0.0/terraform-provider-sdm_2.0.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "ad91441a9352c80f44b9e595dca69a070180848c87ee2f66fca7425276380d0b";
-      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v1.0.39/terraform-provider-sdm_1.0.39_linux_amd64.zip";
+      sha256 = "6b26f8993aa9b6c63149ebacff91be05440c240f8e4c05ad1f0c9041afe7322e";
+      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.0.0/terraform-provider-sdm_2.0.0_linux_amd64.zip";
     };
   };
   owner = "strongdm";
   repo = "sdm";
-  version = "1.0.39";
+  version = "2.0.0";
 }
