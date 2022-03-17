@@ -174,6 +174,7 @@ data:
   terraform-lxd = import ./terraform-lxd data;
   terraform-provider-openstack = import ./terraform-provider-openstack data;
   transloadit = import ./transloadit data;
+  trevex = import ./trevex data;
   turbot = import ./turbot data;
   ucloud = import ./ucloud data;
   valtix-security = import ./valtix-security data;
