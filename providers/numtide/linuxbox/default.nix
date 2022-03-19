@@ -1,24 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "074e6dc13e37a6ce215a78123937ff4fefd1c9f762820489ad03b360a09b06fa";
+      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.3/terraform-provider-linuxbox_0.4.3_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "856ef6700d9630a9f3fdb81278bf3ad70f94645cc63cdc642dffee0209dd86eb";
-      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.2/terraform-provider-linuxbox_0.4.2_linux_arm64.zip";
+      sha256 = "a5933368dbe3b958402d489a6bf676685921bde3d581d5b41dc14ddfcb75c6ea";
+      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.3/terraform-provider-linuxbox_0.4.3_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "bf079ede470b7afacbf67563e3005eac125633b13f4d341364b367916c5f080d";
-      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.2/terraform-provider-linuxbox_0.4.2_linux_386.zip";
+      sha256 = "53f8b5fc08fcbd8d86e52034da56d52488f465601f6ef0dc5859b342e9bd680c";
+      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.3/terraform-provider-linuxbox_0.4.3_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "a2aea6894a64bff3d6aacc4c55362313b4053e45981bd986e928db93d3fa4134";
-      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.2/terraform-provider-linuxbox_0.4.2_darwin_amd64.zip";
+      sha256 = "c6d20a414bb0ccb3d12defed2d666d3a4981cafd4a2040f5b4205f5ae3b87a5b";
+      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.3/terraform-provider-linuxbox_0.4.3_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "960a8082423757493548745caa8901a070cbc35479c8a65b9e4dcbae9765cb78";
-      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.2/terraform-provider-linuxbox_0.4.2_linux_amd64.zip";
+      sha256 = "d95db44d9a9b32236148c194b51bf279b8026608cf28b25047a929ad007d9887";
+      url = "https://github.com/numtide/terraform-provider-linuxbox/releases/download/v0.4.3/terraform-provider-linuxbox_0.4.3_linux_amd64.zip";
     };
   };
   owner = "numtide";
   repo = "linuxbox";
-  version = "0.4.2";
+  version = "0.4.3";
 }
