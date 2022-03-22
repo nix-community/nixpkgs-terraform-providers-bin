@@ -1,20 +1,24 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "52fdd781c35027cddf3dc2dbf41d14a80964b006c163448c76c34c38d6b76c64";
+      url = "https://github.com/Venafi/terraform-provider-venafi/releases/download/v0.15.2/terraform-provider-venafi_0.15.2_darwin_arm64.zip";
+    };
     i686-linux = {
-      sha256 = "54f0d018613c6bb658235b09b7a01902a15f2b82397c1605009d0fec4ffb5a65";
-      url = "https://github.com/Venafi/terraform-provider-venafi/releases/download/v0.15.0/terraform-provider-venafi_0.15.0_linux_386.zip";
+      sha256 = "0e03bba6b9d09992e7c4e283e6742a0b77ead45ec19032d624115c2748105a3b";
+      url = "https://github.com/Venafi/terraform-provider-venafi/releases/download/v0.15.2/terraform-provider-venafi_0.15.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "db3eda3c795982212eb934cd9495d5ea87377714ab1a445aa26ab79d0e702bbb";
-      url = "https://github.com/Venafi/terraform-provider-venafi/releases/download/v0.15.0/terraform-provider-venafi_0.15.0_darwin_amd64.zip";
+      sha256 = "63500724faa2ceb3a3743b2a89fe9304c37be329a01fdb13343e2622410ec1b4";
+      url = "https://github.com/Venafi/terraform-provider-venafi/releases/download/v0.15.2/terraform-provider-venafi_0.15.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "214aafe0775b2165ba67c3e39eee248ec6a543b2000a7afaa18ffbfc74e614cf";
-      url = "https://github.com/Venafi/terraform-provider-venafi/releases/download/v0.15.0/terraform-provider-venafi_0.15.0_linux_amd64.zip";
+      sha256 = "604983e67f487fe72bbeec539d476fa3d8fba23557dd6a8daffed7dacc16733d";
+      url = "https://github.com/Venafi/terraform-provider-venafi/releases/download/v0.15.2/terraform-provider-venafi_0.15.2_linux_amd64.zip";
     };
   };
   owner = "Venafi";
   repo = "venafi";
-  version = "0.15.0";
+  version = "0.15.2";
 }
