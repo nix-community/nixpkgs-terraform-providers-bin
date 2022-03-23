@@ -2,15 +2,15 @@
 mkTerraformProvider {
   archSrc = {
     x86_64-darwin = {
-      sha256 = "59b24892200775e1cfb8fb84b298b2977029caa1cd5b57b1d952222ea02d747a";
-      url = "https://github.com/a10networks/terraform-provider-thunder/releases/download/v0.5.20-beta/terraform-provider-thunder_0.5.20-beta_darwin_amd64.zip";
+      sha256 = "31184d34f287342db847896120dc4730d82b00255626f21c8d137e83897c6c9b";
+      url = "https://github.com/a10networks/terraform-provider-thunder/releases/download/v1.0.0/terraform-provider-thunder_1.0.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "cc28164b221d049e2371b33a1f9561bbea4e8ec892fa1529fbb1e3186910f2aa";
-      url = "https://github.com/a10networks/terraform-provider-thunder/releases/download/v0.5.20-beta/terraform-provider-thunder_0.5.20-beta_linux_amd64.zip";
+      sha256 = "df51f796e759f6a123d58d02f813b7d7ca60d5d063253a96e6805a2b01697814";
+      url = "https://github.com/a10networks/terraform-provider-thunder/releases/download/v1.0.0/terraform-provider-thunder_1.0.0_linux_amd64.zip";
     };
   };
   owner = "a10networks";
   repo = "vthunder";
-  version = "0.5.20-beta";
+  version = "1.0.0";
 }
