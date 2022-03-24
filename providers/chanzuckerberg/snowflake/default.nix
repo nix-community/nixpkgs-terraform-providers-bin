@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "e334c84748207b46bc82462508936048598f5b130a811e7992f11bcedf320e43";
-      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.28.8/terraform-provider-snowflake_0.28.8_darwin_arm64.zip";
+      sha256 = "ec3fd356e5c591d70b3a24214704d2b4e3ce730664a1dcb00d1b02d5e89a93d3";
+      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.29.0/terraform-provider-snowflake_0.29.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "8403b6122a663036b57169fce696d740635e6a517433cf4599339eed0560b5d3";
-      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.28.8/terraform-provider-snowflake_0.28.8_linux_arm64.zip";
+      sha256 = "444c2213b8a25a53a19e9e8a93402145d1bc59029b581cef9142929c9a2ded18";
+      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.29.0/terraform-provider-snowflake_0.29.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "8d7b4871b76c191ec8f301be4816bc1f26ec174d72ff5d150efb92ff653f2a2c";
-      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.28.8/terraform-provider-snowflake_0.28.8_linux_386.zip";
+      sha256 = "2ca00b72c50909806716f46dadac8005350a0ac30118e0bbd7e9b364352cbdaa";
+      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.29.0/terraform-provider-snowflake_0.29.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "f42b8ddf25731d2134d095b52b0e664ddfc5bebea8dccf216aacb8ca09ca6258";
-      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.28.8/terraform-provider-snowflake_0.28.8_darwin_amd64.zip";
+      sha256 = "405d6a603bf6b7022d53213749b37070bc346b789e73c18343de0d95cfda397d";
+      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.29.0/terraform-provider-snowflake_0.29.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "2169a79bedb8cecd8f9b1ac2da3ea54a1126221659a46b3664d1a92b9e6ac191";
-      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.28.8/terraform-provider-snowflake_0.28.8_linux_amd64.zip";
+      sha256 = "bd61c1488e81fce36f432c80c69ed09323b4aa627d0b344bcab7bb47464aad88";
+      url = "https://github.com/chanzuckerberg/terraform-provider-snowflake/releases/download/v0.29.0/terraform-provider-snowflake_0.29.0_linux_amd64.zip";
     };
   };
   owner = "chanzuckerberg";
   repo = "snowflake";
-  version = "0.28.8";
+  version = "0.29.0";
 }

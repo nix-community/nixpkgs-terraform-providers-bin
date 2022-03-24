@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "2d5f374e0ef7f8e6500466b23118e64f55164dccd1cac4bde056158a9a5b2b95";
-      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.0/terraform-provider-opentelekomcloud_1.28.0_darwin_arm64.zip";
+      sha256 = "49dca488858a2fe6643b3537cd4708a10d1f9b3f9d8daeb9df76daae57298f85";
+      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.1/terraform-provider-opentelekomcloud_1.28.1_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "6f3fbe11f4213a2e57e95fe97acff1c2407808e7925aef7dda736a1d19ca4dca";
-      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.0/terraform-provider-opentelekomcloud_1.28.0_linux_arm64.zip";
+      sha256 = "46d1ff2bebdc0eff336d9b6978bf6f3b429ec787bfe61e67793f0b69f43cf919";
+      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.1/terraform-provider-opentelekomcloud_1.28.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "a442eaeb218d5c45ce6010775caba3a580f238eeae8036aba21a73b6c1a33409";
-      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.0/terraform-provider-opentelekomcloud_1.28.0_linux_386.zip";
+      sha256 = "0dc3c640deb5f6a4f0954b3ac92e35b4684804e6faa067a59e45bc575dacd197";
+      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.1/terraform-provider-opentelekomcloud_1.28.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "9cc761c86552ab23986c5dcb6e05770ff20bb1d17ed48be34eed1cd924ebc94a";
-      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.0/terraform-provider-opentelekomcloud_1.28.0_darwin_amd64.zip";
+      sha256 = "f8b0adafc750a2e94e4352ac7fd61009a2d3dbcfe22ec0bb1fa5ba216f513b38";
+      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.1/terraform-provider-opentelekomcloud_1.28.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "04c4c768bfaabe2c1d775808c8517bfb84b6490d6f8bda06aec2827f940c915b";
-      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.0/terraform-provider-opentelekomcloud_1.28.0_linux_amd64.zip";
+      sha256 = "5039b826705b166c49782f6a8f30612dbd701bf04efffb5217202f20069d3be9";
+      url = "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.28.1/terraform-provider-opentelekomcloud_1.28.1_linux_amd64.zip";
     };
   };
   owner = "opentelekomcloud";
   repo = "opentelekomcloud";
-  version = "1.28.0";
+  version = "1.28.1";
 }
