@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "84a01d4060916daf2973eaaabab0cadbb97fa850b74458b0bce98565268e37c1";
-      url = "https://releases.hashicorp.com/terraform-provider-aws/4.6.0/terraform-provider-aws_4.6.0_darwin_arm64.zip";
+      sha256 = "00f77e618cdceb507b7033758a94459ca1d2904ec0f99d9dfdbfdd98f3f219d8";
+      url = "https://releases.hashicorp.com/terraform-provider-aws/4.7.0/terraform-provider-aws_4.7.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "7d586c26021fd3ea9d377f8024a5bb3f8d877a84792d39f2e2e96a3ec0848480";
-      url = "https://releases.hashicorp.com/terraform-provider-aws/4.6.0/terraform-provider-aws_4.6.0_linux_arm64.zip";
+      sha256 = "fdf1b5a37be1a3aa6953f4b56d7294c1e86da12bb661c24f4e0840321c10973f";
+      url = "https://releases.hashicorp.com/terraform-provider-aws/4.7.0/terraform-provider-aws_4.7.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "d4686842c9cb4a73167c73b4aa6145729237c14cb520c3eb89b22c0317923525";
-      url = "https://releases.hashicorp.com/terraform-provider-aws/4.6.0/terraform-provider-aws_4.6.0_linux_386.zip";
+      sha256 = "87f1b4a26ed3e0741670dfc8708b45bf17ad77d3e72b43bfc123ffae170b3578";
+      url = "https://releases.hashicorp.com/terraform-provider-aws/4.7.0/terraform-provider-aws_4.7.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "8a65dbf2ec7c433bf1c751a4f0ec332fd1bddd14e8aab64de4ee01890223f3a0";
-      url = "https://releases.hashicorp.com/terraform-provider-aws/4.6.0/terraform-provider-aws_4.6.0_darwin_amd64.zip";
+      sha256 = "7d4c85de26cbb8662cba441c923f9928756800380f36a68cf49f60f5b3212165";
+      url = "https://releases.hashicorp.com/terraform-provider-aws/4.7.0/terraform-provider-aws_4.7.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "43d00e886384dc48ca3e2949327af0dba3eb3052104367456b47882a8456ba91";
-      url = "https://releases.hashicorp.com/terraform-provider-aws/4.6.0/terraform-provider-aws_4.6.0_linux_amd64.zip";
+      sha256 = "49989eb97859e5ef7f2123422fceaa3a1d5d63a4b7800591737e835dd218701e";
+      url = "https://releases.hashicorp.com/terraform-provider-aws/4.7.0/terraform-provider-aws_4.7.0_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "aws";
-  version = "4.6.0";
+  version = "4.7.0";
 }
