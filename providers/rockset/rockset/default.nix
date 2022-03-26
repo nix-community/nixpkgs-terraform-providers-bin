@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "eeb8672d49d42a527cc789091ebb0976ec6bf6f6b7e5093082d8cef5be786af5";
-      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.1/terraform-provider-rockset_0.4.1_darwin_arm64.zip";
+      sha256 = "47f5f5d92b678e8aa346cd13510563ed008f043198d8ba7b5f48c6096e30d7a2";
+      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.3/terraform-provider-rockset_0.4.3_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "4e3807a86d603a985c9c0b030e7feada735f5a6e6dac68398f21f7a49e5a0fcd";
-      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.1/terraform-provider-rockset_0.4.1_linux_arm64.zip";
+      sha256 = "ee04cbeabf716466b59256967ac77e76d25ac3b24dd12aa00251a72826c1f6ac";
+      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.3/terraform-provider-rockset_0.4.3_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "ad8f7a18d8b7362c38ef51b94c9e272ed74f23410660a88aac6c6590e8180ab5";
-      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.1/terraform-provider-rockset_0.4.1_linux_386.zip";
+      sha256 = "5452b57e9ebdb596772c9c2837e5c6fc23881743cc41448334ac434895994d22";
+      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.3/terraform-provider-rockset_0.4.3_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b5f290d5a389c1b7d139222944169e255f0cb2d46757c6b2433f1bdc3ba9acc4";
-      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.1/terraform-provider-rockset_0.4.1_darwin_amd64.zip";
+      sha256 = "b00a54c3d23b2353882ab5c058a3b22fabb0e9938db7fc2e0e6b5d179bf345b2";
+      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.3/terraform-provider-rockset_0.4.3_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "8f0b2406b943af8e95b7b83b8b75365c8e147de3455ca0cbe5785941b4bfd196";
-      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.1/terraform-provider-rockset_0.4.1_linux_amd64.zip";
+      sha256 = "c6bfa8f418fd69eec85ff256191e416957cb8bb3373f5ccabd24419d9b8f2f45";
+      url = "https://github.com/rockset/terraform-provider-rockset/releases/download/v0.4.3/terraform-provider-rockset_0.4.3_linux_amd64.zip";
     };
   };
   owner = "rockset";
   repo = "rockset";
-  version = "0.4.1";
+  version = "0.4.3";
 }
