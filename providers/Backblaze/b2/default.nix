@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "83c44de8e9afb9231e1b42588a593b4aa4e14660a9462c2464a06ae55c1340d7";
-      url = "https://github.com/Backblaze/terraform-provider-b2/releases/download/v0.7.1/terraform-provider-b2_0.7.1_darwin_arm64.zip";
+      sha256 = "48822edaffed3fe15b972de1d910254c1b8e982e853a7dd9ba6488275bfe8493";
+      url = "https://github.com/Backblaze/terraform-provider-b2/releases/download/v0.8.0/terraform-provider-b2_0.8.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "2f46aa72bc6292d6a7beaad16f402be72504cd9312c63a3f07ca00a8c47de6e6";
-      url = "https://github.com/Backblaze/terraform-provider-b2/releases/download/v0.7.1/terraform-provider-b2_0.7.1_linux_arm64.zip";
+      sha256 = "d764b5376e9091f288063c7272b6f415623a342f262886bf20d45fcf181287fc";
+      url = "https://github.com/Backblaze/terraform-provider-b2/releases/download/v0.8.0/terraform-provider-b2_0.8.0_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "9f8f319cd7ae854dc0beb4590ca0a346aeb88f9d2244655524fa512dba48b1b1";
-      url = "https://github.com/Backblaze/terraform-provider-b2/releases/download/v0.7.1/terraform-provider-b2_0.7.1_darwin_amd64.zip";
+      sha256 = "91d1e88931d7a96ee3cd13982dc5a0309184f3d1b38a3a3068f8c1a1c912b3f6";
+      url = "https://github.com/Backblaze/terraform-provider-b2/releases/download/v0.8.0/terraform-provider-b2_0.8.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "00badd19f80f5d8793cd2ae73692c433b69f50789ec37099cb59982743991c9e";
-      url = "https://github.com/Backblaze/terraform-provider-b2/releases/download/v0.7.1/terraform-provider-b2_0.7.1_linux_amd64.zip";
+      sha256 = "318194eb19b662f66396770914db6054bfb5f5bdf97a3a85e4e7e6e0fabb6b95";
+      url = "https://github.com/Backblaze/terraform-provider-b2/releases/download/v0.8.0/terraform-provider-b2_0.8.0_linux_amd64.zip";
     };
   };
   owner = "Backblaze";
   repo = "b2";
-  version = "0.7.1";
+  version = "0.8.0";
 }
