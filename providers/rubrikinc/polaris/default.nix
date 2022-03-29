@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "eb7a4b4393b199705248cbed57a8f8d1bf29df5670f9aae295c2c6b48467136f";
-      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.6/terraform-provider-polaris_0.3.6_darwin_arm64.zip";
+      sha256 = "475a0af1c6f8068683ef8347e17d097195dfac2d21ad70c2e5e3b846693c9165";
+      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.7/terraform-provider-polaris_0.3.7_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "b034abe8d3384efe3e76f52906bef049f5e49e4ba2339e7da4be4db00e808ebb";
-      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.6/terraform-provider-polaris_0.3.6_linux_arm64.zip";
+      sha256 = "3f772077cb59a84b4e834b30319634b68d4b7864b06492843fe0d131fd9923d4";
+      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.7/terraform-provider-polaris_0.3.7_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "9f731674b2f1ed8e775394a360bc33766dba2478f5b0a1f436a358e31e7e340f";
-      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.6/terraform-provider-polaris_0.3.6_linux_386.zip";
+      sha256 = "7344f2decfeec5beb57d3791478c47b72ab467206817687576684968872232d6";
+      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.7/terraform-provider-polaris_0.3.7_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "fc30705cdd7ca5bea17817c510eed33e56933816e34cbe4601f9c78c04f3273c";
-      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.6/terraform-provider-polaris_0.3.6_darwin_amd64.zip";
+      sha256 = "978cd7bddcc2dddbba75dcee1b830cba3dc2a58795787126a36adc842c0c87d8";
+      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.7/terraform-provider-polaris_0.3.7_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "8737159cca2b6a783ebf863d3519791759ed09bad6992e8c421e0520d091c373";
-      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.6/terraform-provider-polaris_0.3.6_linux_amd64.zip";
+      sha256 = "1a490b44de614ae401cb5dc14285e4594b9efa6992316818c5dbd8faae3b47f9";
+      url = "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v0.3.7/terraform-provider-polaris_0.3.7_linux_amd64.zip";
     };
   };
   owner = "rubrikinc";
   repo = "polaris";
-  version = "0.3.6";
+  version = "0.3.7";
 }
