@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "296847808dd03d1a28eb1bf0b61b35b146a69d8a6cbdf42e06ee6297904eeae4";
-      url = "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.9.1/terraform-provider-cloudsigma_1.9.1_darwin_arm64.zip";
+      sha256 = "315b72ae1a7a8a0a160e07d26efd15c69fcc76a2f3b6d6860eef96304d3f382d";
+      url = "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.0/terraform-provider-cloudsigma_1.10.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "ee2d7415ad1ec394d90dfa0bce72b7e7b60161e91ca8b7169832fc8b654d2493";
-      url = "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.9.1/terraform-provider-cloudsigma_1.9.1_linux_arm64.zip";
+      sha256 = "83df395048885faa6237a9e40ec7534411879e84198488b9d98f9a447e9a7e99";
+      url = "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.0/terraform-provider-cloudsigma_1.10.0_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "aad8098d736844d745d25f7340c9a46ed0fa266b696744cd3cfb91f9c6a1527a";
-      url = "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.9.1/terraform-provider-cloudsigma_1.9.1_darwin_amd64.zip";
+      sha256 = "939f371248f8ed5460d67c462beb45e670e83cc013b7a951e87036d854e8fcdb";
+      url = "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.0/terraform-provider-cloudsigma_1.10.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "0937b57b6f9811202a736b8193d5f22a627be97a948bcd36046c9bc997086675";
-      url = "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.9.1/terraform-provider-cloudsigma_1.9.1_linux_amd64.zip";
+      sha256 = "673bc1b3e0f546954e5240ca6bd5ed6899db9b271ff09d365c6ae4f336a95bec";
+      url = "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.0/terraform-provider-cloudsigma_1.10.0_linux_amd64.zip";
     };
   };
   owner = "cloudsigma";
   repo = "cloudsigma";
-  version = "1.9.1";
+  version = "1.10.0";
 }
