@@ -2,15 +2,15 @@
 mkTerraformProvider {
   archSrc = {
     x86_64-darwin = {
-      sha256 = "930246c933abb1357392d94f4fee28a4cad7b9098a221068587d35d15a9c5b0d";
-      url = "https://github.com/valtix-security/terraform-provider-valtix/releases/download/v22.1.2/terraform-provider-valtix_22.1.2_darwin_amd64.zip";
+      sha256 = "b23a0678b381e1a5fd067848db8161149561075e0e582425e3dac79d0868aeee";
+      url = "https://github.com/valtix-security/terraform-provider-valtix/releases/download/v22.3.1/terraform-provider-valtix_22.3.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "d0a38f714b1bed3dc8b003a392f23c2008a700032eb3b07a7e6d49ca53adc46f";
-      url = "https://github.com/valtix-security/terraform-provider-valtix/releases/download/v22.1.2/terraform-provider-valtix_22.1.2_linux_amd64.zip";
+      sha256 = "93ef62e96fd6c016700312bf9b04a67a899b0a0aaf3e32c4a2f745cba3867466";
+      url = "https://github.com/valtix-security/terraform-provider-valtix/releases/download/v22.3.1/terraform-provider-valtix_22.3.1_linux_amd64.zip";
     };
   };
   owner = "valtix-security";
   repo = "valtix";
-  version = "22.1.2";
+  version = "22.3.1";
 }
