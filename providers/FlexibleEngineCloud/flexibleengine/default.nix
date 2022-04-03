@@ -1,24 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "a079fbea99498cf011ef706d0d6a42916cb8d0ccb70e4f21ae1a6d67e20747c8";
+      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.28.0/terraform-provider-flexibleengine_1.28.0_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "74e800dbcd25f96c719ad87ccd45aa99bf47b290e0810d3ea124087e65c172b6";
-      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.27.1/terraform-provider-flexibleengine_1.27.1_linux_arm64.zip";
+      sha256 = "ae1e14b47ff2690bb0421edaee82ea034874c1f26d3b12316ecdee4f19111533";
+      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.28.0/terraform-provider-flexibleengine_1.28.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "f6f1f5d84bbde12486151fc097dc0228f5aabd842697b8f114e66c7693bc8bf3";
-      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.27.1/terraform-provider-flexibleengine_1.27.1_linux_386.zip";
+      sha256 = "addf6be7325ce95909ba8db0ad188bb98cfd0339f8797938f9239e3da0019a7a";
+      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.28.0/terraform-provider-flexibleengine_1.28.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b1631dec5f80b5cbd56a4b8932cd3812d8fe7e8f17519b4bebd9867f5e2801c7";
-      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.27.1/terraform-provider-flexibleengine_1.27.1_darwin_amd64.zip";
+      sha256 = "7c527e61a4bcdf030888515eccddfc40df59f70951b60b106bbfcb45126ef5bf";
+      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.28.0/terraform-provider-flexibleengine_1.28.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "c78446ae6e374377bbe80640d118e0ac9fb8f72207543da7a9adbf4962443007";
-      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.27.1/terraform-provider-flexibleengine_1.27.1_linux_amd64.zip";
+      sha256 = "9430cc55b57c1a8de9ddf9b5a904fe6c264cb9b1cb6cfd7fad0b550f298b2ac3";
+      url = "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/releases/download/v1.28.0/terraform-provider-flexibleengine_1.28.0_linux_amd64.zip";
     };
   };
   owner = "FlexibleEngineCloud";
   repo = "flexibleengine";
-  version = "1.27.1";
+  version = "1.28.0";
 }
