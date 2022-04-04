@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "220f9bb8c71045b756adca38bffeb76561fe7ab62191b751d5bcf62e3ba31f1d";
-      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.8/terraform-provider-aquasec_0.8.8_darwin_arm64.zip";
+      sha256 = "818651184502f75ccefb7d979f0d00858f86a8bd2ff125df5af17d30d0582b7d";
+      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.9/terraform-provider-aquasec_0.8.9_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "bfda804d2d5dce7fdae501fb588c93415683533ab9af6e4ef35fda99cea8b532";
-      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.8/terraform-provider-aquasec_0.8.8_linux_arm64.zip";
+      sha256 = "70cb1fd797273e3a07cb2c8aef44f634238e78e4dafa4811462718b8cb8feb64";
+      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.9/terraform-provider-aquasec_0.8.9_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "946fc195b689f9c2146642665c1360e3da879a7f936de724d12ab95b1ae17747";
-      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.8/terraform-provider-aquasec_0.8.8_linux_386.zip";
+      sha256 = "a81e95066d1eae5236ebfdbc8c1a35f5173e435d2589eece2a0929b853895499";
+      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.9/terraform-provider-aquasec_0.8.9_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "ecbbd887c79e881c949ce9e65298b4f48e993a522a1b32208c7f103a1baa89ea";
-      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.8/terraform-provider-aquasec_0.8.8_darwin_amd64.zip";
+      sha256 = "b852faf880bd0fabbfe5d898f04abf96de8991481f673455a244906fda390341";
+      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.9/terraform-provider-aquasec_0.8.9_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "96383f62877de3c1b7deb555321faf3b0714dc0696fbfa286db212d1d26fc88e";
-      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.8/terraform-provider-aquasec_0.8.8_linux_amd64.zip";
+      sha256 = "6ad73c18c563ec202692e704fbd28304b36ac4e7c61769fab28f5f35dcfd2c72";
+      url = "https://github.com/aquasecurity/terraform-provider-aquasec/releases/download/v0.8.9/terraform-provider-aquasec_0.8.9_linux_amd64.zip";
     };
   };
   owner = "aquasecurity";
   repo = "aquasec";
-  version = "0.8.8";
+  version = "0.8.9";
 }
