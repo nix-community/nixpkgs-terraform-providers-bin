@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "c6974eb0d480984f0a78c5924c7092e0301485088d25085494610239055519ff";
-      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.3/terraform-provider-ad_0.4.3_darwin_arm64.zip";
+      sha256 = "83640072afd6c93e885b468dcffc6bf7ce2d6fead207a8c8eb976a73cf2f13cb";
+      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.4/terraform-provider-ad_0.4.4_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "ec868c01b6989cdca3073dab78320a3665ff5a03ac0b232bdf89467b8216f010";
-      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.3/terraform-provider-ad_0.4.3_linux_arm64.zip";
+      sha256 = "5b842cd2a1c49e89a8adeff9a853bb172abc38e034c97df3040b4787f0cae6b3";
+      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.4/terraform-provider-ad_0.4.4_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "5a8abe738afbfd64639f2bae7e0d188b52aac977573d158d487931f97bed836d";
-      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.3/terraform-provider-ad_0.4.3_linux_386.zip";
+      sha256 = "f9d31d522f52aee169ac410f0e54ad94fb1c7e479d2cf2c9007507843df03f7b";
+      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.4/terraform-provider-ad_0.4.4_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "9d218e8ad8fd335b286069b3826211e84dc62e82ce55b51057fc28826b5ce117";
-      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.3/terraform-provider-ad_0.4.3_darwin_amd64.zip";
+      sha256 = "da4c5b39786e80c9c0c229549803da6b2b98e27bae7ef233440f6bd359220e98";
+      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.4/terraform-provider-ad_0.4.4_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "56d7bdf5a835e28d3566c35ca2c53e143e13e388c1d2064353683028d53bb113";
-      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.3/terraform-provider-ad_0.4.3_linux_amd64.zip";
+      sha256 = "b48ae325e88c3416179c09ffc1228d39d0b809496a10d6a6f9e0d980bd64ee84";
+      url = "https://releases.hashicorp.com/terraform-provider-ad/0.4.4/terraform-provider-ad_0.4.4_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "ad";
-  version = "0.4.3";
+  version = "0.4.4";
 }
