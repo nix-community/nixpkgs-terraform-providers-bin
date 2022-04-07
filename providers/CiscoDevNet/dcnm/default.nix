@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "dce9eb7ba915b04718c01775d9874b51c4386a859e3c4960935a85fc67dc1cd1";
-      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.0/terraform-provider-dcnm_1.2.0_linux_arm64.zip";
+      sha256 = "6ce94dc7af77b51bc3b1199346f73ac48df577f1b017124d390bc3de48a41225";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.1/terraform-provider-dcnm_1.2.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "276d7a830a06b069e4b020506e3df197cf7323864053b031bc8c1bc4f4c8b49c";
-      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.0/terraform-provider-dcnm_1.2.0_linux_386.zip";
+      sha256 = "8e4d2debeb8a6e2611a07c7fc18b6e9b35837534f4c30a0190b1db057396a402";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.1/terraform-provider-dcnm_1.2.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b0c10c12a415410d674e5642536341c341867ccec68bf62770730ed0fddc5222";
-      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.0/terraform-provider-dcnm_1.2.0_darwin_amd64.zip";
+      sha256 = "723400368a92c4bee3744c4477ad18d4fc565799c4c4af37e2733abcd0b0cd7e";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.1/terraform-provider-dcnm_1.2.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "a2dfb93dc3a7f253caf4d4b2bcae4fc261b0a46dd9df7a1159457990dadbb944";
-      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.0/terraform-provider-dcnm_1.2.0_linux_amd64.zip";
+      sha256 = "d52f69a0bf45e8c020670016eb28c55ef9843d14d7b9e3d0cc6534dee643dceb";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.1/terraform-provider-dcnm_1.2.1_linux_amd64.zip";
     };
   };
   owner = "CiscoDevNet";
   repo = "dcnm";
-  version = "1.2.0";
+  version = "1.2.1";
 }

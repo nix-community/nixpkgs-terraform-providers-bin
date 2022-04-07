@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "d5f45c54c8f8e161b80043e423fa4c7ebf817c31ea4a696db9c9d48fface7bf5";
-      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v4.0.1/terraform-provider-artifactory_4.0.1_darwin_arm64.zip";
+      sha256 = "5e36bd1ccce051e16ddf99a59a6a49221bb0477210472594587405118e8a2c8d";
+      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v6.0.0/terraform-provider-artifactory_6.0.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "e1eae19489db379bd898cd4a0c75794668a2db7dfca3f7fcbcd0577b0e4a3d51";
-      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v4.0.1/terraform-provider-artifactory_4.0.1_linux_arm64.zip";
+      sha256 = "7f3b3961bdf95886c41222a41a8f3c07a68df49ffdd9d6d06dd93153a47f8eea";
+      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v6.0.0/terraform-provider-artifactory_6.0.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "3b130df1df3b7c135ec27b5687590c41a2b9eb3f3f7239c61b35788d0235a30d";
-      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v4.0.1/terraform-provider-artifactory_4.0.1_linux_386.zip";
+      sha256 = "c749c387f0c663b74b1fed8f55a3de392026dfc57faea170406bb370e4912b80";
+      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v6.0.0/terraform-provider-artifactory_6.0.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b1710096e5f0172ac53cab2717f8a36eb9fa2833616fb298819000cfc190f42c";
-      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v4.0.1/terraform-provider-artifactory_4.0.1_darwin_amd64.zip";
+      sha256 = "aceae9ba3bb93785be4b9bda27d530671d228b44b83c8503e8d25483626d112d";
+      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v6.0.0/terraform-provider-artifactory_6.0.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "44fab0a02181d827214d81c84db0738c2aeb7f557122038f907e28fa93ff8a08";
-      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v4.0.1/terraform-provider-artifactory_4.0.1_linux_amd64.zip";
+      sha256 = "cc747ccacca107df96c64c0da97673c2186044fbd3c7ce36da281403394d524d";
+      url = "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v6.0.0/terraform-provider-artifactory_6.0.0_linux_amd64.zip";
     };
   };
   owner = "jfrog";
   repo = "artifactory";
-  version = "4.0.1";
+  version = "6.0.0";
 }
