@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "4bfd998c52ba468a7eb33960e1ac6876fdf59fc7d169f7151df581e5e075f433";
-      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.13.1/terraform-provider-bitbucket_2.13.1_darwin_arm64.zip";
+      sha256 = "e49405a2c37e6a9b6e10efe9eb3a5c0c78214c2045dddbf792ad24e858895edf";
+      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.14.0/terraform-provider-bitbucket_2.14.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "b1772325ac23d0782e8f17c9bc3071d62839bc374f50e1f21389172f74909c7e";
-      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.13.1/terraform-provider-bitbucket_2.13.1_linux_arm64.zip";
+      sha256 = "6d8d12d6d0ffffe36cfc9799d8d8afb0c604ef16bf6296a38adf30f6e0e512a0";
+      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.14.0/terraform-provider-bitbucket_2.14.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "0e9fe48ef7b68f0ed7e9265f0c53469b8d0fa28b4c8737e2cfaddbbec5ed23f0";
-      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.13.1/terraform-provider-bitbucket_2.13.1_linux_386.zip";
+      sha256 = "90abb1dd10646001394ebdfebc5479e52d647709d4d612ea662540aa952c0932";
+      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.14.0/terraform-provider-bitbucket_2.14.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "0eccf8655c23f645ab514a0ef82c0c3b3f8e3bf69efd9a6379af76f46b353a9a";
-      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.13.1/terraform-provider-bitbucket_2.13.1_darwin_amd64.zip";
+      sha256 = "89594b8237a1878cc6649f170023e702a4ec46474b0d4280448a864b120f2b7c";
+      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.14.0/terraform-provider-bitbucket_2.14.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "e2fa0e5c4111573e4d9b7394981998af658afa9d316b183bf76ac43c550413dd";
-      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.13.1/terraform-provider-bitbucket_2.13.1_linux_amd64.zip";
+      sha256 = "d68217e3fe719b14d6d0ea02cb719d34424dd9862cf5bbfaaff0e25f602c7237";
+      url = "https://github.com/DrFaust92/terraform-provider-bitbucket/releases/download/v2.14.0/terraform-provider-bitbucket_2.14.0_linux_amd64.zip";
     };
   };
   owner = "DrFaust92";
   repo = "bitbucket";
-  version = "2.13.1";
+  version = "2.14.0";
 }
