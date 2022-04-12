@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "5d4cdc4c326b8137d227900f575c0810e1aa484ac466492c0e72d0d10842bfab";
-      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.1/terraform-provider-zedcloud_1.0.1_darwin_arm64.zip";
+      sha256 = "2238f548d48006bd6fd278f9b3d51a55be92bd2af39e774619c0b96fc807b2fc";
+      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.2/terraform-provider-zedcloud_1.0.2_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "c47be6f866c8a17c6d3debf98c6ea5f2dc8df313ff3f1c25b4427b2175d9bc60";
-      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.1/terraform-provider-zedcloud_1.0.1_linux_arm64.zip";
+      sha256 = "ee713ddf480381ab17ff5ebdbf67a7b130b796a46793d821487ad05efd28a11b";
+      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.2/terraform-provider-zedcloud_1.0.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "51e4e08a84a947f1544315e7e01bbd3f1677afcaaae68e98ee8495f3173fd8fa";
-      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.1/terraform-provider-zedcloud_1.0.1_linux_386.zip";
+      sha256 = "489eed11d2d91fe308f42a11a85d3f29c08ac243a8c50103c730830e5b82842d";
+      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.2/terraform-provider-zedcloud_1.0.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "d58d69824c960b4fb11887ee44802e231d59bd642abdb3907b1fd33a10041545";
-      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.1/terraform-provider-zedcloud_1.0.1_darwin_amd64.zip";
+      sha256 = "49eda975fefac93dc19d9b579bc4598f39c2bb7d16c770560b80d63ef8d5e393";
+      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.2/terraform-provider-zedcloud_1.0.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "7e9697ba3e5b748a5a8e7fa8dccb8c5e010ea5b8313e671fd20a8b1a1f255077";
-      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.1/terraform-provider-zedcloud_1.0.1_linux_amd64.zip";
+      sha256 = "c54f245a2e58e2fec58d0307f31e76320d47b387154da71227960a38a279e1b4";
+      url = "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v1.0.2/terraform-provider-zedcloud_1.0.2_linux_amd64.zip";
     };
   };
   owner = "zededa";
   repo = "zedcloud";
-  version = "1.0.1";
+  version = "1.0.2";
 }
