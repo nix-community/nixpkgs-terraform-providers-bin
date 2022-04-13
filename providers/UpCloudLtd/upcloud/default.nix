@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "34ff4ace6f6c19025132ca218e6a97bd2c31ff9351ba5c44a32d94b754badcce";
-      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.3.0/terraform-provider-upcloud_2.3.0_darwin_arm64.zip";
+      sha256 = "bd7e8ce961433d7b429bb2d82cad652180ea13252efcd99fb422ddb77305283f";
+      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.4.0/terraform-provider-upcloud_2.4.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "e8c310f51bd00196d6d5b143ecde3fe3782a33aa2d3d0068dee779bf87604e2e";
-      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.3.0/terraform-provider-upcloud_2.3.0_linux_arm64.zip";
+      sha256 = "368dd080f56e4e9d29499eb5e3bd8619549345ef9c0dfc2781e0fe67a394f34b";
+      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.4.0/terraform-provider-upcloud_2.4.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "80ca7a33c9a60d36537977123566b4b8e641d9e670c4206dde9c51e5e48730ed";
-      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.3.0/terraform-provider-upcloud_2.3.0_linux_386.zip";
+      sha256 = "19ba1a4373b7a220b8294c1694944b3a5702429d6dc7b4f6fe25393b514d619b";
+      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.4.0/terraform-provider-upcloud_2.4.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "9ab66601b69a9d0dfd3adeb7fc38580624d14c782606ab3b3abea2c0749e4c56";
-      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.3.0/terraform-provider-upcloud_2.3.0_darwin_amd64.zip";
+      sha256 = "1161197c7849e3fbbd31d1471f141ad240280e8d1621fdda352cd503ddcce5b7";
+      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.4.0/terraform-provider-upcloud_2.4.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "ec0833d1c18b534faeb4bb1f08d66315019627d6bb6a6e92ce137c5d3ab90d7c";
-      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.3.0/terraform-provider-upcloud_2.3.0_linux_amd64.zip";
+      sha256 = "20d54ffa25015a3dd83bcc2dbccebcd0398b6af8d11aaa3f23e3eba9d75825f3";
+      url = "https://github.com/UpCloudLtd/terraform-provider-upcloud/releases/download/v2.4.0/terraform-provider-upcloud_2.4.0_linux_amd64.zip";
     };
   };
   owner = "UpCloudLtd";
   repo = "upcloud";
-  version = "2.3.0";
+  version = "2.4.0";
 }
