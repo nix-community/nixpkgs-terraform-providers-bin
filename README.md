@@ -25,12 +25,15 @@ Then import the provider in your nix code:
 let
   sources = import ./sources.nix;
   # Pass an instance of nixpkgs to this repo.
-  terraform-providers = import sources.nixpkgs-terraform-providers-bin { nixpkgs = prev; };
+  terraform-providers-bin = import sources.nixpkgs-terraform-providers-bin { nixpkgs = pkgs; };
 
-  my-terraform = terraform-providers.wrapTerraform pkgs.terraform (p: [
-    # The providers are namespaces like in the registry
-    p.hashicorp.aws
-    p.numtide.linuxbox
+  # You can mix-and-match terraform providers
+  my-terraform = pkgs.terraform.withPlugins (_: [
+    # The providers coming from nixpkgs have a flat namespace
+    p.random
+    # The providers coming from terraform-providers-bin have the same
+    # namespace as the terraform registry.
+    terraform-providers-bin.hashicorp.nomad
   ]);
 in
 # ... the usual
@@ -39,7 +42,9 @@ null
 
 ### Flakes
 
-Pretty much the same as above but using `nixpkgs-terraform-providers-bin.legacyPackages.${system}` instead of `numtide-terraform-providers`:
+Pretty much the same as above but using
+`terraform-providers-bin.legacyPackages.${system}` instead of
+`terraform-providers-bin`:
 
 ```
 {
@@ -47,10 +52,10 @@ Pretty much the same as above but using `nixpkgs-terraform-providers-bin.legacyP
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     devshell.url = "github:numtide/devshell";
-    terraform-providers.url = "github:numtide/nixpkgs-terraform-providers-bin";
-    terraform-providers.inputs.nixpkgs.follows = "nixpkgs";
+    terraform-providers-bin.url = "github:numtide/nixpkgs-terraform-providers-bin";
+    terraform-providers-bin.inputs.nixpkgs.follows = "nixpkgs";
   };
-  outputs = { self, nixpkgs, flake-utils, devshell, terraform-providers }@inputs:
+  outputs = { self, nixpkgs, flake-utils, devshell, terraform-providers-bin }@inputs:
     flake-utils.lib.eachSystem [ "x86_64-linux" ] (system:
       let
         pkgs = import nixpkgs {
@@ -59,8 +64,13 @@ Pretty much the same as above but using `nixpkgs-terraform-providers-bin.legacyP
             devshell.overlay
           ];
         };
-        my-terraform = terraform-providers.legacyPackages.${system}.wrapTerraform pkgs.terraform (p: [
-          p.hashicorp.nomad
+        # You can mix-and-match terraform providers
+        my-terraform = pkgs.terraform.withPlugins (_: [
+          # The providers coming from nixpkgs have a flat namespace
+          p.random
+          # The providers coming from terraform-providers-bin have the same
+          # namespace as the terraform registry.
+          terraform-providers-bin.legacyPackages.${system}.hashicorp.nomad
         ]);
       in
       {
@@ -85,20 +95,16 @@ Pretty much the same as above but using `nixpkgs-terraform-providers-bin.legacyP
 $ ./update.rb
 ```
 
-TODO: make the script smarter to skip if the version is the same.
-
 ### Adding new providers
 
 ```
 $ mkdir -p providers/<owner>/<repo>
-$ ./update.rb
+$ ./update.rb <owner>/<repo>
 ```
-
-TODO: allow passing the provider name to the update script so it doesn't go
-over everything every time
 
 ## License                                                                    
                                                                               
-Unless explicitly stated otherwise, any contribution intentionally submitted for inclusion in the work by you  
-shall be licensed under the [MIT license](LICENSE), without any additional terms or conditions.
+Unless explicitly stated otherwise, any contribution intentionally submitted
+for inclusion in the work by you shall be licensed under the [MIT
+license](LICENSE), without any additional terms or conditions.
 
