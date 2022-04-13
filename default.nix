@@ -2,6 +2,10 @@
 , nixpkgs ? import ./nix { inherit system; }
 }:
 let
+  # shadow the above system on purpose as it should only be used to construct
+  # nixpkgs.
+  system = null;
+
   inherit (nixpkgs) lib stdenv unzip;
 
   goarch = platform: {
