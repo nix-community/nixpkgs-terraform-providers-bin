@@ -121,6 +121,7 @@ data:
   lightstep = import ./lightstep data;
   linode = import ./linode data;
   llnw = import ./llnw data;
+  loafoe = import ./loafoe data;
   logicmonitor = import ./logicmonitor data;
   logzio = import ./logzio data;
   metalsoft-io = import ./metalsoft-io data;
