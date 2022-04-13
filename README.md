@@ -1,6 +1,6 @@
 # nixpkgs-terraform-providers-bin
 
-**STATUS: alpha**
+**STATUS: stable**
 
 This is for people who use nixpkgs's `terraform.withPlugins` to manage
 terraform provider dependencies (TODO: explain in a blog post why it's great).
