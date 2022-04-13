@@ -15,7 +15,7 @@ registry and translate them into Nix. This means no compilation times.
 
 ### Niv
 
-```
+```console
 $ niv add numtide/nixpkgs-terraform-providers-bin
 ```
 
@@ -46,7 +46,7 @@ Pretty much the same as above but using
 `terraform-providers-bin.legacyPackages.${system}` instead of
 `terraform-providers-bin`:
 
-```
+```nix
 {
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
@@ -91,13 +91,13 @@ Pretty much the same as above but using
 
 ### Updating providers
 
-```
+```console
 $ ./update.rb
 ```
 
 ### Adding new providers
 
-```
+```console
 $ mkdir -p providers/<owner>/<repo>
 $ ./update.rb <owner>/<repo>
 ```
