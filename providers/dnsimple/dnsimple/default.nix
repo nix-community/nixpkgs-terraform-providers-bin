@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "e2feda1468e31960687393dfd0c94e92438aacc40e67b625eeb292aaea6ff8d4";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.1/terraform-provider-dnsimple_0.11.1_darwin_arm64.zip";
+      sha256 = "e6b96b46d388b7c1b8c28b17737e223c6c75ede01d1851554d79e2502eec6d72";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.3/terraform-provider-dnsimple_0.11.3_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "441aec771129c468f5f462ca1e43f024d290c35b0a9f410ef0dae09a95c84a3b";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.1/terraform-provider-dnsimple_0.11.1_linux_arm64.zip";
+      sha256 = "0fc1620eb43cfb361d88c0b05201b8cae81487e3fedfae2cb3edaf551cc8af0c";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.3/terraform-provider-dnsimple_0.11.3_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "ba7148492b6971f21dde80b75af6034f220e222c1242ee401538be783ce42d01";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.1/terraform-provider-dnsimple_0.11.1_linux_386.zip";
+      sha256 = "010f3d1a10c168005bc1848e3f44888c82d084e5bd757848a51a6d2dda9adb49";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.3/terraform-provider-dnsimple_0.11.3_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "060aaab3d5be0a91b204bf8e44ff2a8980d06bd19517c08a95ff0d8a85737a48";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.1/terraform-provider-dnsimple_0.11.1_darwin_amd64.zip";
+      sha256 = "efb31e2ad8e9aa02408ff21954ad482ae463a30bc05a54fed6b68adb88519c3c";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.3/terraform-provider-dnsimple_0.11.3_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "edaa59caaf5ef0dcdc71f0d03dabcb13d34710c903b591f6f40657f575e0ee17";
-      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.1/terraform-provider-dnsimple_0.11.1_linux_amd64.zip";
+      sha256 = "2e6ea915db3c104ca1eb42eeb70624c472efb9e6b1f1781c134dbdc905ec8228";
+      url = "https://github.com/dnsimple/terraform-provider-dnsimple/releases/download/v0.11.3/terraform-provider-dnsimple_0.11.3_linux_amd64.zip";
     };
   };
   owner = "dnsimple";
   repo = "dnsimple";
-  version = "0.11.1";
+  version = "0.11.3";
 }

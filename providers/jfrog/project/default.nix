@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "34974229e7df9314636ed1a2882a12c660dbcd38c65ee11fb6301b8f344d76ca";
-      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.0.4/terraform-provider-project_1.0.4_darwin_arm64.zip";
+      sha256 = "73496c5122de5fe06f86cc77b297e1f4316a249ebe5d7d603b5291338d563b26";
+      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.1.0/terraform-provider-project_1.1.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "f131b0679aa7c923b861e3058f76291e88657bd5521086dfba568cac547a8e9b";
-      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.0.4/terraform-provider-project_1.0.4_linux_arm64.zip";
+      sha256 = "bddf3669bdd85cc7e63599a1334aa965141fd74b7783bc160a1964e532e48143";
+      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.1.0/terraform-provider-project_1.1.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "ed88167aef601dd09ef9366356076a993c444faa773a80b0ef44573bb8234626";
-      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.0.4/terraform-provider-project_1.0.4_linux_386.zip";
+      sha256 = "550e02c8afe1872221491f0bea5f7dc5c7d23eb89b82487c81d8ed16d25878f7";
+      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.1.0/terraform-provider-project_1.1.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "5a2bb41cbc1aa2f1c65a77c1faeb0a960f739e3c13479068dff7e9e1f0b57c8a";
-      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.0.4/terraform-provider-project_1.0.4_darwin_amd64.zip";
+      sha256 = "76ca1ebdc2c65f35efaf07670d73f6e49fd50a1980a0d957645982543de449fd";
+      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.1.0/terraform-provider-project_1.1.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "bd7e34e8dacaaea525b58496672861e1df258d1da37ded6172c62c16087045d3";
-      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.0.4/terraform-provider-project_1.0.4_linux_amd64.zip";
+      sha256 = "8a7db9854155b9bec3a86462c3d9e2be048d67f03a38176dc8e8a268260abd67";
+      url = "https://github.com/jfrog/terraform-provider-project/releases/download/v1.1.0/terraform-provider-project_1.1.0_linux_amd64.zip";
     };
   };
   owner = "jfrog";
   repo = "project";
-  version = "1.0.4";
+  version = "1.1.0";
 }
