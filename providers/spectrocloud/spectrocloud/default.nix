@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "0a01ccabcd0f8387ee44dc65a302d52f70777af5476331084e1abd45161e306b";
-      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.12/terraform-provider-spectrocloud_0.6.12_darwin_arm64.zip";
+      sha256 = "d907825755b45cd3ac8a2347be8bbff3604f6bf682847619b10895a3d156e386";
+      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.13/terraform-provider-spectrocloud_0.6.13_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "e56d27e569bdbb0252d6749ef5b924e2aebb58775b1cf5fe1e5fa13d6cc16723";
-      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.12/terraform-provider-spectrocloud_0.6.12_linux_arm64.zip";
+      sha256 = "234854631e2ad981f8a6f3bd000f5a2bb857a839a0dfbb8b1f8d81a3fd61f8e9";
+      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.13/terraform-provider-spectrocloud_0.6.13_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "8d257453ebde1d96f2213c88a1a1f1b873235203f5af219a46c0bbc4012c216c";
-      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.12/terraform-provider-spectrocloud_0.6.12_linux_386.zip";
+      sha256 = "f56c9d8124116d9b9b68bf51edf4da3a469e3446651bcee7dab84eb69581aa3e";
+      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.13/terraform-provider-spectrocloud_0.6.13_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "ddd0478ba419fd18c053eb4220632198ca242cda4020ff1901b716faf4970f45";
-      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.12/terraform-provider-spectrocloud_0.6.12_darwin_amd64.zip";
+      sha256 = "35368f3179f4cbacdb1aaf8c7463fa1cb2b5603c57aa52b439af1f2576d4ec96";
+      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.13/terraform-provider-spectrocloud_0.6.13_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "ba184b453aedbaf28c84e747d36d699d07c9ac3b543b38f4f11ccc106fcdd2ab";
-      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.12/terraform-provider-spectrocloud_0.6.12_linux_amd64.zip";
+      sha256 = "11b68bb26f9027c075f9f1564bb8d2a4bf1c964a5fe1dfa463ac7717ec3781ef";
+      url = "https://github.com/spectrocloud/terraform-provider-spectrocloud/releases/download/v0.6.13/terraform-provider-spectrocloud_0.6.13_linux_amd64.zip";
     };
   };
   owner = "spectrocloud";
   repo = "spectrocloud";
-  version = "0.6.12";
+  version = "0.6.13";
 }

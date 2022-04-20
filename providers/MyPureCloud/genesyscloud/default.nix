@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "2cd26dfbd2eaddf091a632335c4e38a41da86f0191830b3c1d76436d3911c7bc";
-      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.1.3/terraform-provider-genesyscloud_1.1.3_darwin_arm64.zip";
+      sha256 = "c1c01d0b466bec13319d3ad2d4e3a172cdfd3bcc2c58c71fbd88cfd41c3b5333";
+      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.2.0/terraform-provider-genesyscloud_1.2.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "b8482139420600abcc183102de08e68b032cb864d0de05810536bc866c24df67";
-      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.1.3/terraform-provider-genesyscloud_1.1.3_linux_arm64.zip";
+      sha256 = "5dc64bd051b2c5b6958f3bba7f2e52b844a9f0a10130ed98ef93ec96c77ea516";
+      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.2.0/terraform-provider-genesyscloud_1.2.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "c7855c191db814c640d15997eb57a9adcd420128c6768408be7ee0a45d2b9960";
-      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.1.3/terraform-provider-genesyscloud_1.1.3_linux_386.zip";
+      sha256 = "1dc43680dd50bc13e9d38c789dec9aad3cecd439be5b02270f3deee80b504006";
+      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.2.0/terraform-provider-genesyscloud_1.2.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "258080e4e5c03ebbac0f478c8df6f6ddd643e9ed02271f0261a68b9a1b6d1045";
-      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.1.3/terraform-provider-genesyscloud_1.1.3_darwin_amd64.zip";
+      sha256 = "e7dc2200e7bb3e77601ba8bedebec77286f9cf22afd7756cf56a1b028cea58f5";
+      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.2.0/terraform-provider-genesyscloud_1.2.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "f93ac6223a2db2833cee2e8bb2577da2dc15d883b69d720aeffaa1543dd56c5a";
-      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.1.3/terraform-provider-genesyscloud_1.1.3_linux_amd64.zip";
+      sha256 = "d48de004347f0bb5005dc6f16ed77e91b02263b7adf1989cd123ef964f54b3fc";
+      url = "https://github.com/MyPureCloud/terraform-provider-genesyscloud/releases/download/v1.2.0/terraform-provider-genesyscloud_1.2.0_linux_amd64.zip";
     };
   };
   owner = "MyPureCloud";
   repo = "genesyscloud";
-  version = "1.1.3";
+  version = "1.2.0";
 }
