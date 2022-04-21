@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "20bdada7019b599347d8a00edc37c1f93223317b0551e5e28d094aab77339e42";
-      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.7/terraform-provider-iterative_0.10.7_darwin_arm64.zip";
+      sha256 = "e19bdfb29269aef32047a154ec19246c071832c6a13e17bce327724e32072069";
+      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.8/terraform-provider-iterative_0.10.8_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "eb4c255209c1830d8ba0d2faaaa9f9f716d3a898209bd9b99dc2f043bcc8f0c6";
-      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.7/terraform-provider-iterative_0.10.7_linux_arm64.zip";
+      sha256 = "49b15f949a83802ba4624b558f8e2863915c3abed4f7b9ac3a4a812d77f90c4c";
+      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.8/terraform-provider-iterative_0.10.8_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "2fa19494eaa1d3710849b73342613c8677d18ee7feec618c0c54d5002c0f64a1";
-      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.7/terraform-provider-iterative_0.10.7_linux_386.zip";
+      sha256 = "b179051ad9af8d87b31f1f2be69d789d92ae3ba794fa6a9d21db69cd0ebdab2a";
+      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.8/terraform-provider-iterative_0.10.8_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "0a6c3b24d5562320bf95c9d17b1164b21bbc8cb88daa8b9687c1a8886dbc5c4d";
-      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.7/terraform-provider-iterative_0.10.7_darwin_amd64.zip";
+      sha256 = "a8fa718e98d141c845529f26c478c998c71110bcfe3d709c6d1cb08cbbc474c2";
+      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.8/terraform-provider-iterative_0.10.8_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "984b7ce1c85f08c4bc9155ee647bde3a0f5cb63b74a2aedd3b10d4d9f46c8fc9";
-      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.7/terraform-provider-iterative_0.10.7_linux_amd64.zip";
+      sha256 = "81c14f6d063f6ce86423ce502dd99e63986d8ef37b0d75595940d8703ebffe8e";
+      url = "https://github.com/iterative/terraform-provider-iterative/releases/download/v0.10.8/terraform-provider-iterative_0.10.8_linux_amd64.zip";
     };
   };
   owner = "iterative";
   repo = "iterative";
-  version = "0.10.7";
+  version = "0.10.8";
 }
