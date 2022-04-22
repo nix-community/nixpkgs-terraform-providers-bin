@@ -1,24 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "602b06cb8a7dd4a11d89b3a4f392857695429b95e124952a58f2ae95e54db947";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.2/terraform-provider-dcnm_1.2.2_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "6ce94dc7af77b51bc3b1199346f73ac48df577f1b017124d390bc3de48a41225";
-      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.1/terraform-provider-dcnm_1.2.1_linux_arm64.zip";
+      sha256 = "5eaeb08aeb9d60915b6261a394a1296c3f06ec2c71af46eec09384a969915875";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.2/terraform-provider-dcnm_1.2.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "8e4d2debeb8a6e2611a07c7fc18b6e9b35837534f4c30a0190b1db057396a402";
-      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.1/terraform-provider-dcnm_1.2.1_linux_386.zip";
+      sha256 = "637c1c90ecc5f68256ff6a134b4eb8a396861593458dbfbbcc6b37f35dc940c4";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.2/terraform-provider-dcnm_1.2.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "723400368a92c4bee3744c4477ad18d4fc565799c4c4af37e2733abcd0b0cd7e";
-      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.1/terraform-provider-dcnm_1.2.1_darwin_amd64.zip";
+      sha256 = "76a6089f015d5e07a3ae4062e6a2b8f8df8bdd6a6e8a2d5748664fbbbee5f2f3";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.2/terraform-provider-dcnm_1.2.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "d52f69a0bf45e8c020670016eb28c55ef9843d14d7b9e3d0cc6534dee643dceb";
-      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.1/terraform-provider-dcnm_1.2.1_linux_amd64.zip";
+      sha256 = "be99c80ed7e755979012c669b6a114d4091330db9cf38e79a7eb95800b7addcb";
+      url = "https://github.com/CiscoDevNet/terraform-provider-dcnm/releases/download/v1.2.2/terraform-provider-dcnm_1.2.2_linux_amd64.zip";
     };
   };
   owner = "CiscoDevNet";
   repo = "dcnm";
-  version = "1.2.1";
+  version = "1.2.2";
 }
