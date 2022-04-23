@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "ee52856e80451ffd26c5cf947327d26fbef6e77b2b4ebb4c580a045926d13e10";
-      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.4.1/terraform-provider-powerdns_1.4.1_darwin_arm64.zip";
+      sha256 = "1285a419c7fd2947f891771bd77d2f6e7dd0cb00621c547b6993947085616009";
+      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "d090297a9f86e7ecdb2a9ccc78dc6465d502fd910b85fb00cd681dc7af2ef611";
-      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.4.1/terraform-provider-powerdns_1.4.1_linux_arm64.zip";
+      sha256 = "02d1a87c28635779f66d1dcf165b5f16530f809deb6c71c35c3e58d715a88bf4";
+      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "483e5c8c13064433eb62903b1eb860a5465b8d7f1cdadf1acd825df599be5e10";
-      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.4.1/terraform-provider-powerdns_1.4.1_linux_386.zip";
+      sha256 = "340faecd0a0036e721480564acbad2ba0da6a9c0c0cd633957dcde76a4ba3798";
+      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "357899ce5ea36d1633ebec32cf1fd6ca4a2d296ddf6f5081d431d27384e32fd6";
-      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.4.1/terraform-provider-powerdns_1.4.1_darwin_amd64.zip";
+      sha256 = "5646f78d9980038c4ae70e09828da01c7cc6ba2b3b1e9ea8a1988efafaba1b75";
+      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "dc1ede93b5814795e0689f95387e597aafff6b6ea20721b394995a786f7b59a3";
-      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.4.1/terraform-provider-powerdns_1.4.1_linux_amd64.zip";
+      sha256 = "7130faa5dd892b1d41b9b3ebd1b2d7854bf780193073de58806e088311bb554c";
+      url = "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_linux_amd64.zip";
     };
   };
   owner = "pan-net";
   repo = "powerdns";
-  version = "1.4.1";
+  version = "1.5.0";
 }

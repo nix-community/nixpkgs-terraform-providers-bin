@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "03adf46e65b93e16cd0fc4cb6fa8d3517bd45be1d83d2c97a9a5b230efacf152";
-      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.1/terraform-provider-aiven_2.7.1_darwin_arm64.zip";
+      sha256 = "e7bcc60cc014e4442ec38cdf2df8ba0ab49a2d68fd069b7a5917001a567706c6";
+      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.2/terraform-provider-aiven_2.7.2_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "abc2504ebbc5ef8c5d4a97e803875423b6c4e466a289cac8965dacd58f4b1e0a";
-      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.1/terraform-provider-aiven_2.7.1_linux_arm64.zip";
+      sha256 = "76c59f07305b80a7aae7025b083092de4afb2f36593060aae9ef072bc1eb3717";
+      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.2/terraform-provider-aiven_2.7.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "22d64269333b7c2e4fd86b83d74f05269399aece176a4a71910c8d8f47ca58ae";
-      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.1/terraform-provider-aiven_2.7.1_linux_386.zip";
+      sha256 = "f43abe51b71f5d2f1d8e2a695ff0f97e70dee73b98aa1af57c46e1713e25bf1c";
+      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.2/terraform-provider-aiven_2.7.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "f1f80e31721d7de1d03dbe7265391d003d422e3c57fab1e43c1115beeaedd4d9";
-      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.1/terraform-provider-aiven_2.7.1_darwin_amd64.zip";
+      sha256 = "22ee9be51cb574ab254b496803a21b9b45cea367e25b66b031c57aca00ee16d9";
+      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.2/terraform-provider-aiven_2.7.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "193a4d785ce682f56e0abd7c65a27ee130ad652c0557657c826a0241c322c70f";
-      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.1/terraform-provider-aiven_2.7.1_linux_amd64.zip";
+      sha256 = "f3071215a0d28a3b53eb7d273efdbffb905e60ea07b768f8b068c11a6a5e259b";
+      url = "https://github.com/aiven/terraform-provider-aiven/releases/download/v2.7.2/terraform-provider-aiven_2.7.2_linux_amd64.zip";
     };
   };
   owner = "aiven";
   repo = "aiven";
-  version = "2.7.1";
+  version = "2.7.2";
 }
