@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "c975f8833d400b27d585afb98666f4f2e7e923abd7edd1d61d15b73bd4963753";
-      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.3/terraform-provider-newrelic_2.43.3_darwin_arm64.zip";
+      sha256 = "06eedf82adc8be5cc492e0161b72b2b4545b065acecf4aee9631c921f71c02e2";
+      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.4/terraform-provider-newrelic_2.43.4_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "13a751e2c2c6e4f96124f7d68fe525822ebcc48af16e2d3289ef0708ab84011f";
-      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.3/terraform-provider-newrelic_2.43.3_linux_arm64.zip";
+      sha256 = "43e310eefe1d41ad8cf8fb3a6056a5afda9cc0e3c00195a3c927f67204256940";
+      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.4/terraform-provider-newrelic_2.43.4_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "e65b14329c0596bc9f815c8ca6dbea689379fca5ca19b8cee270abdead0b9083";
-      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.3/terraform-provider-newrelic_2.43.3_linux_386.zip";
+      sha256 = "810ee904443cbf3a997a0564ce25c678ac1021b207a3eaa4527913a73f3f0dc6";
+      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.4/terraform-provider-newrelic_2.43.4_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "484af564beb0795fddcb60c87080d95e50cfe8c0d12d248f08bccb6fd26a522f";
-      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.3/terraform-provider-newrelic_2.43.3_darwin_amd64.zip";
+      sha256 = "bc8f2a0441b206260b498ef6e17794ba9ca909de178fdf2c89a7d44ae63ffae9";
+      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.4/terraform-provider-newrelic_2.43.4_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "95eab4d427d4442f4e6a6b5df5a0c3dcb813235fdb70aef9dfac92aeb7446a7f";
-      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.3/terraform-provider-newrelic_2.43.3_linux_amd64.zip";
+      sha256 = "c5cc136f0285b62c8971399f95be28ba27641995ff63ecd2e3a8ebeaf42ea7cb";
+      url = "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v2.43.4/terraform-provider-newrelic_2.43.4_linux_amd64.zip";
     };
   };
   owner = "newrelic";
   repo = "newrelic";
-  version = "2.43.3";
+  version = "2.43.4";
 }
