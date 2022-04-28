@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "ee0ddda6131b80a2308b2c76addbede27f7739f03e59a4665aff4f83e1e2ef4e";
-      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.1/terraform-provider-hcloud_1.33.1_darwin_arm64.zip";
+      sha256 = "fd662b483250326a1bfbe5684c22c5083955a43e0773347eea35cd4c2cfe700e";
+      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.2/terraform-provider-hcloud_1.33.2_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "7903ec07eba0db779aec46eaed0605aa9d5be360cd44fc6ed9267bed593ec02f";
-      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.1/terraform-provider-hcloud_1.33.1_linux_arm64.zip";
+      sha256 = "771062815e662979204ac2dc91c34c893f27670d67e02370e48124483d3c9838";
+      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.2/terraform-provider-hcloud_1.33.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "85a101fa71bbec512a7f015aaa18837f2e1218c9279429a110bd01b69dac3acf";
-      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.1/terraform-provider-hcloud_1.33.1_linux_386.zip";
+      sha256 = "1d3d0896f518df9e245c3207ed231e528f5dcfe628508e7c3ceba4a2bfefaa7a";
+      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.2/terraform-provider-hcloud_1.33.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "d1e6c2d1c07f496cdbde1eac4a6fb96a41edd6f8dbfbacabe33646eb78dbe15e";
-      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.1/terraform-provider-hcloud_1.33.1_darwin_amd64.zip";
+      sha256 = "aead1ba50640a51f20d574374f2c6065d9bfa4eea5ef044d1475873c33e58239";
+      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.2/terraform-provider-hcloud_1.33.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "24ffe93b2d9bcf0c7944c178497456f43c6096c80032ca15a7b7fe13021bac5c";
-      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.1/terraform-provider-hcloud_1.33.1_linux_amd64.zip";
+      sha256 = "95dbd8634000b979213cb97b5d869cad78299ac994d0665d150c8dafc1390429";
+      url = "https://github.com/hetznercloud/terraform-provider-hcloud/releases/download/v1.33.2/terraform-provider-hcloud_1.33.2_linux_amd64.zip";
     };
   };
   owner = "hetznercloud";
   repo = "hcloud";
-  version = "1.33.1";
+  version = "1.33.2";
 }

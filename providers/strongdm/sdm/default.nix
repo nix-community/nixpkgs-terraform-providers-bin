@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "43e56ab0c09fe3f613021a27239409d614dda78011586eee9cb3ceae7fbbf031";
-      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.0.0/terraform-provider-sdm_2.0.0_darwin_arm64.zip";
+      sha256 = "57b979f5e8f20fd5465f8625043220a1f3a48254012427e2defaa2dd9ec64543";
+      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.1.0/terraform-provider-sdm_2.1.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "72a9984f3ac228255ce82f32debfaea23a8155629c92448bbd00b97dafeaa204";
-      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.0.0/terraform-provider-sdm_2.0.0_linux_arm64.zip";
+      sha256 = "15277697d84b00aab5a6753e7cce1f633f432c038d5434d3392bb185aae5b862";
+      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.1.0/terraform-provider-sdm_2.1.0_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "d44d5a067e4fd1b74ee790aa983075580370c0e6f986df69c5b27333dd9d3289";
-      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.0.0/terraform-provider-sdm_2.0.0_darwin_amd64.zip";
+      sha256 = "116118d003f66d73bff0e69b72457536517f281bf072947e40e3e338be9bdd0f";
+      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.1.0/terraform-provider-sdm_2.1.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "6b26f8993aa9b6c63149ebacff91be05440c240f8e4c05ad1f0c9041afe7322e";
-      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.0.0/terraform-provider-sdm_2.0.0_linux_amd64.zip";
+      sha256 = "ecf4051688754c1d76e04a769b688f12e8516d3edc7ae81f5aa31992196bc650";
+      url = "https://github.com/strongdm/terraform-provider-sdm/releases/download/v2.1.0/terraform-provider-sdm_2.1.0_linux_amd64.zip";
     };
   };
   owner = "strongdm";
   repo = "sdm";
-  version = "2.0.0";
+  version = "2.1.0";
 }
