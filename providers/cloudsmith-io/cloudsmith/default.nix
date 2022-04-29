@@ -1,24 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "b71fe68b4809fdf6baf639fc5666119ffa6d47b6e12665f42d0625e5f1b26743";
+      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.8/terraform-provider-cloudsmith_0.0.8_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "1efb817ce53244b43b5c92de245132aafb5ca84dec7fa775a0ee982c7ae73404";
-      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.6/terraform-provider-cloudsmith_0.0.6_linux_arm64.zip";
+      sha256 = "4f2b8e7862f901903cc565d7ea7a22d5922f1784c5b1ec13e57a1925f3d99752";
+      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.8/terraform-provider-cloudsmith_0.0.8_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "b8d0b929889700443bc3c5feae0ff629d97f6d92fe3e26df9192dfa7a97400fd";
-      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.6/terraform-provider-cloudsmith_0.0.6_linux_386.zip";
+      sha256 = "e768086d468e70b3b63d7d5d3ffc1d005bdff7dd294fdb8147a73ddd24011464";
+      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.8/terraform-provider-cloudsmith_0.0.8_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "f561d6d47003d5b108f0e84fc25559d4cdeb7fb1dedb410270075e5d1d7cf30e";
-      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.6/terraform-provider-cloudsmith_0.0.6_darwin_amd64.zip";
+      sha256 = "aba34ef0b02fdcbda732809264718ffa027ec6e91fbf5b45aef821cc9d2cecce";
+      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.8/terraform-provider-cloudsmith_0.0.8_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "a95cbb0947c2b16abdd1841ff769954b4e1c674d28546774a8009d4cd02e8ce9";
-      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.6/terraform-provider-cloudsmith_0.0.6_linux_amd64.zip";
+      sha256 = "d5ac70827d2efb1ab13c17baac50968c1fa109c9b29cfdaeac6d898af7d59dca";
+      url = "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.8/terraform-provider-cloudsmith_0.0.8_linux_amd64.zip";
     };
   };
   owner = "cloudsmith-io";
   repo = "cloudsmith";
-  version = "0.0.6";
+  version = "0.0.8";
 }

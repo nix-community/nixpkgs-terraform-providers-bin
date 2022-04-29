@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "36b933193f45f13bb90bdcb8a96d571feb8dd92feffc6905719723ce869e8756";
-      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.12.1/terraform-provider-akamai_1.12.1_linux_arm64.zip";
+      sha256 = "e55147fe7255d17b95143328001661a2e11447930a9e27568752c511f5e64857";
+      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v2.0.0/terraform-provider-akamai_2.0.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "94d01c733e67d3f00a35fe8b2a49bc2b3da7fa8ede6ffbac3c78eba518d1ce64";
-      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.12.1/terraform-provider-akamai_1.12.1_linux_386.zip";
+      sha256 = "d908a5738cc1c3ab363486131db5dc5c587e9b484cbb1c0bbfac6a6075c205a0";
+      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v2.0.0/terraform-provider-akamai_2.0.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "c37bf2161bb07271919f016b377640a542c7448826ae3aef2cb79d8a4971b8da";
-      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.12.1/terraform-provider-akamai_1.12.1_darwin_amd64.zip";
+      sha256 = "c1f27ec3922bd67aeb5ba0583215ad47b057bf9eb9c654ee6d56a952286f5634";
+      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v2.0.0/terraform-provider-akamai_2.0.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "28ab526b1855325298745817693c090e59584b58d1021ccc539e46f942503986";
-      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v1.12.1/terraform-provider-akamai_1.12.1_linux_amd64.zip";
+      sha256 = "f572af1c5061e2cebbf0a685df87bf9b8982df7dc24b2621ac60f83c407f20b7";
+      url = "https://github.com/akamai/terraform-provider-akamai/releases/download/v2.0.0/terraform-provider-akamai_2.0.0_linux_amd64.zip";
     };
   };
   owner = "akamai";
   repo = "akamai";
-  version = "1.12.1";
+  version = "2.0.0";
 }
