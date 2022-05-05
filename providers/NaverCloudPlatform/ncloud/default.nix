@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "62161613014aa91f5a1e64c98ebdc7114635e500bcd804f83a6b1a53574fb01e";
-      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.6/terraform-provider-ncloud_2.2.6_darwin_arm64.zip";
+      sha256 = "d5910b81f6d198b28af7a75eca96b41e334c8136a200195a83a5d62420561b1e";
+      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.7/terraform-provider-ncloud_2.2.7_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "4f7ad6268b3f9fecb21af59c4b440a39324341a818f8da5cce001c50c9da7d2d";
-      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.6/terraform-provider-ncloud_2.2.6_linux_arm64.zip";
+      sha256 = "a809b94e7e4bac6c5bbf3ee05b740546bcd1e39d2f63218ba50b67eac1774ead";
+      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.7/terraform-provider-ncloud_2.2.7_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "5d7964c631d16c006f73e82a959131ff9cec46c92730b6b4247f33636f187e18";
-      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.6/terraform-provider-ncloud_2.2.6_linux_386.zip";
+      sha256 = "2e81e487dd1b31d712626125f1e15c8efce16db0f82188202d1baa1eac7b85a8";
+      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.7/terraform-provider-ncloud_2.2.7_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "dc77aa589caeb66de03e5fb94e91a44e1bbdd5214b2023b595cbb2e38574a9a4";
-      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.6/terraform-provider-ncloud_2.2.6_darwin_amd64.zip";
+      sha256 = "b9d3785efe240b86274fd1f0ce3f72f8850886832821c2743e24375c25f9b409";
+      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.7/terraform-provider-ncloud_2.2.7_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "b68a34bade6b295681d9191475616eef81395228eca1c00274595a95c61cb9e0";
-      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.6/terraform-provider-ncloud_2.2.6_linux_amd64.zip";
+      sha256 = "1c600764cea5aef3e92d575d0fc27fca3b40a096e814728c0884997cd3451e8d";
+      url = "https://github.com/NaverCloudPlatform/terraform-provider-ncloud/releases/download/v2.2.7/terraform-provider-ncloud_2.2.7_linux_amd64.zip";
     };
   };
   owner = "NaverCloudPlatform";
   repo = "ncloud";
-  version = "2.2.6";
+  version = "2.2.7";
 }

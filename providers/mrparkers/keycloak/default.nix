@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "a99b9313454e1faaf4e730e955f1b7895f3d2406b2b727d5f11cd75fd2db12d5";
-      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.7.0/terraform-provider-keycloak_3.7.0_darwin_arm64.zip";
+      sha256 = "8b249e713df5751a92c5c5011ff6a30e9135cd1cecd8acf2af1ea5495b39e1c5";
+      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.8.0/terraform-provider-keycloak_3.8.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "12f965c946ac4d7c8bad73f14786e03bb33a0fe5cd2e88053c2691cc4db6c96a";
-      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.7.0/terraform-provider-keycloak_3.7.0_linux_arm64.zip";
+      sha256 = "c02ea33fd312107cd27a9760ef68e16ae8245e2af2bf774015b80cbe7aceee85";
+      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.8.0/terraform-provider-keycloak_3.8.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "37defd41a475a7248977019fce26e68023c9e8a823146396b6a8f4357460256a";
-      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.7.0/terraform-provider-keycloak_3.7.0_linux_386.zip";
+      sha256 = "921636b9e34409c51c8efe8800cc63454f6ca6032e7d755b04d5dbc0b17af534";
+      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.8.0/terraform-provider-keycloak_3.8.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "e1962451b4e14b3f275b017ee14156a6bb32edb6ec45f488e225fabb4c5a5c32";
-      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.7.0/terraform-provider-keycloak_3.7.0_darwin_amd64.zip";
+      sha256 = "dbad30c56935ddf58bb5f7df630e55b045b951ebed8ac4c91e256c3a81d23585";
+      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.8.0/terraform-provider-keycloak_3.8.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "080269da2a4227f9dd1e4d870c118363c96c758af5596b3ae02eb73c822599c0";
-      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.7.0/terraform-provider-keycloak_3.7.0_linux_amd64.zip";
+      sha256 = "6c533cf8b92c5e90bba6ab144cd7ebf6aa85036e6e190fe2c4015b45fae364e0";
+      url = "https://github.com/mrparkers/terraform-provider-keycloak/releases/download/v3.8.0/terraform-provider-keycloak_3.8.0_linux_amd64.zip";
     };
   };
   owner = "mrparkers";
   repo = "keycloak";
-  version = "3.7.0";
+  version = "3.8.0";
 }
