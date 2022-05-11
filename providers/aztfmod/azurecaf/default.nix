@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "d1fdcde77a34e4c78f084e34c4980a01f59289f232f959eaa6dbee60cd3fd849";
-      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-2/terraform-provider-azurecaf_2.0.0-preview-2_darwin_arm64.zip";
+      sha256 = "b1934b635a349faed4ae43a2ab7629a3dfd31f6b93d07e6f6f9b22d92bbd46a1";
+      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-3/terraform-provider-azurecaf_2.0.0-preview-3_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "c06324ffff29ad566b299987661c1690b32c76651d8b0f94977761e36812d260";
-      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-2/terraform-provider-azurecaf_2.0.0-preview-2_linux_arm64.zip";
+      sha256 = "6cec30653612ac5663990aad161832423291bb9edd04075b2df627311cb9a98e";
+      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-3/terraform-provider-azurecaf_2.0.0-preview-3_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "09bee999898945bf447ba40f73bd532fa17c4d370331683534bb84cae76a2e44";
-      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-2/terraform-provider-azurecaf_2.0.0-preview-2_linux_386.zip";
+      sha256 = "08faa657cd0cca7c55efdbd004714f7fb5bf3a614242ea57224d497e2aa7f9f9";
+      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-3/terraform-provider-azurecaf_2.0.0-preview-3_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b9afb55df51280a3c73eb337ee2286b754d7713ce4299c845aa2093ece78f724";
-      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-2/terraform-provider-azurecaf_2.0.0-preview-2_darwin_amd64.zip";
+      sha256 = "74f77d8d358d7ceadb26768d4bf8f7e8dc16cc34fc9a56b071c54d5564f61456";
+      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-3/terraform-provider-azurecaf_2.0.0-preview-3_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "38eeaeeec92fbb3648cbbd1d1aaded0cd483a6e578f69822ebf9b2e3fd698a54";
-      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-2/terraform-provider-azurecaf_2.0.0-preview-2_linux_amd64.zip";
+      sha256 = "dddd260b937eeb9b82bac932b1b228716d8991c4599f70d86a8b840db992f1b4";
+      url = "https://github.com/aztfmod/terraform-provider-azurecaf/releases/download/v2.0.0-preview-3/terraform-provider-azurecaf_2.0.0-preview-3_linux_amd64.zip";
     };
   };
   owner = "aztfmod";
   repo = "azurecaf";
-  version = "2.0.0-preview-2";
+  version = "2.0.0-preview-3";
 }

@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "af6ce5cdde9eaedfb13b51df7c028f8a11ac1d8af6be8a67155e63cf0f0b11e7";
-      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.21.2/terraform-provider-aviatrix_2.21.2_darwin_arm64.zip";
+      sha256 = "3618f3fcae0c024109f7a119f93ebee85e59fd0070c742a3a09deb1d5a5837b5";
+      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.22.0/terraform-provider-aviatrix_2.22.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "4ba7d5b293b61cc5dcf206ea9cd56f3131bb8b06cc74e399bd05355dbc58d154";
-      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.21.2/terraform-provider-aviatrix_2.21.2_linux_arm64.zip";
+      sha256 = "17a136278675d3a041855d8958b2eac535f89d1ba9e09b4d3256c0582ca172ff";
+      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.22.0/terraform-provider-aviatrix_2.22.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "e6b69eb2b72f8f712ca01dea3dec8fae0f8f2111e307d1b7b5763fcce591ea9c";
-      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.21.2/terraform-provider-aviatrix_2.21.2_linux_386.zip";
+      sha256 = "7e9badd59bd7ba81f11a0c0d3700df1e9e33019d7b308d7fbac5181e72338074";
+      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.22.0/terraform-provider-aviatrix_2.22.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "2d9f56fa4b39b4512282c1b32e9259eb17ddbd26b9556e7647831cc66c028a2d";
-      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.21.2/terraform-provider-aviatrix_2.21.2_darwin_amd64.zip";
+      sha256 = "627f4b45b4915f954cac6e5f4589179458f58dd6f23d7c3d93ca9f273f675b5f";
+      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.22.0/terraform-provider-aviatrix_2.22.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "0d0b45d96e8059e47a2b90f790e656e561d7321efa405d083316ac6cebf96deb";
-      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.21.2/terraform-provider-aviatrix_2.21.2_linux_amd64.zip";
+      sha256 = "d3af66dcf855c8afab3aa61b78d30e7f92e8e3ac1b58b2bb1809db47f515b65e";
+      url = "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v2.22.0/terraform-provider-aviatrix_2.22.0_linux_amd64.zip";
     };
   };
   owner = "AviatrixSystems";
   repo = "aviatrix";
-  version = "2.21.2";
+  version = "2.22.0";
 }
