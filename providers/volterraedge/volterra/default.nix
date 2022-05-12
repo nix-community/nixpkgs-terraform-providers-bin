@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "f290ec73445ad2783e76f8c27b561c722c49416da80a5612f9e51a43fb57889c";
-      url = "https://github.com/volterraedge/terraform-provider-volterra/releases/download/v0.11.7/terraform-provider-volterra_0.11.7_darwin_arm64.zip";
+      sha256 = "ef7d2315219c502142defd66e2a0f996ab1c775940d882ff4dda7cadf52f235a";
+      url = "https://github.com/volterraedge/terraform-provider-volterra/releases/download/v0.11.8/terraform-provider-volterra_0.11.8_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "1f2a08d7bc02ef4bd1b4841d5d4f2b65b5ad4596a6b51aa1569c9aa35654087c";
-      url = "https://github.com/volterraedge/terraform-provider-volterra/releases/download/v0.11.7/terraform-provider-volterra_0.11.7_linux_arm64.zip";
+      sha256 = "1ca96453e592f02b366e51b6ffdd5ed1007320cb446d889faf64dee97808c529";
+      url = "https://github.com/volterraedge/terraform-provider-volterra/releases/download/v0.11.8/terraform-provider-volterra_0.11.8_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "6351c9dc38943ec69edf6df97150d5c1d9a15c8da2e13e8db33a72e07e512fa9";
-      url = "https://github.com/volterraedge/terraform-provider-volterra/releases/download/v0.11.7/terraform-provider-volterra_0.11.7_darwin_amd64.zip";
+      sha256 = "3f5501e1ce7710fae2ac30f8d048e15936c865f0c9671f45ed69958647ae156f";
+      url = "https://github.com/volterraedge/terraform-provider-volterra/releases/download/v0.11.8/terraform-provider-volterra_0.11.8_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "ccd307f96ac3c4266ea0fc0de934a798c15ebc0df392eff83f8348a7e037a243";
-      url = "https://github.com/volterraedge/terraform-provider-volterra/releases/download/v0.11.7/terraform-provider-volterra_0.11.7_linux_amd64.zip";
+      sha256 = "0ca470808e401dd30f8bffff62ef81a3cde75218cc9361aea0691bf5ddbdbe53";
+      url = "https://github.com/volterraedge/terraform-provider-volterra/releases/download/v0.11.8/terraform-provider-volterra_0.11.8_linux_amd64.zip";
     };
   };
   owner = "volterraedge";
   repo = "volterra";
-  version = "0.11.7";
+  version = "0.11.8";
 }
