@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "6ec3d04e53efb54c148d45e5a603eed405edb47c4cc8c1d5b7f632f0ffb1e8c5";
-      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.2/terraform-provider-ucloud_1.31.2_darwin_arm64.zip";
+      sha256 = "37ce4432cead2964a996fce984b21516ee5c949b44d82d4383d7c2c6004547db";
+      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.3/terraform-provider-ucloud_1.31.3_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "227c4bdc195507b9610acf4acda4367f002438ad1c1840ffbd5427d9144bcf88";
-      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.2/terraform-provider-ucloud_1.31.2_linux_arm64.zip";
+      sha256 = "3a12fbac344f753ac7a559749a39bc7add1d6ef9438b49f446dc2d8c85d5dd62";
+      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.3/terraform-provider-ucloud_1.31.3_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "7c41184b5402d5d22ce1891e2201b47a411ceb0f42ccc0761403ee9cc6c15908";
-      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.2/terraform-provider-ucloud_1.31.2_linux_386.zip";
+      sha256 = "dd98b634068f3843399a450263180e505bfb5795e58af6b861f8e5962a859a8c";
+      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.3/terraform-provider-ucloud_1.31.3_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "5ff0959cd9b342e4737fcecd02bf4c277d7843eeb3d58d19407dcbd157855b79";
-      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.2/terraform-provider-ucloud_1.31.2_darwin_amd64.zip";
+      sha256 = "aee08cf60d3473afdc68cf943789df5119dad3d1bce98ed677bf932244f46b76";
+      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.3/terraform-provider-ucloud_1.31.3_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "71da4bc20a078f26a626019f5281960fc58e82c9fe0f061def1358faaa86eaa7";
-      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.2/terraform-provider-ucloud_1.31.2_linux_amd64.zip";
+      sha256 = "2f2ab2b0f08fb6adabd180417ba80c116196676f14112216ec42ef8b3657b4e3";
+      url = "https://github.com/ucloud/terraform-provider-ucloud/releases/download/v1.31.3/terraform-provider-ucloud_1.31.3_linux_amd64.zip";
     };
   };
   owner = "ucloud";
   repo = "ucloud";
-  version = "1.31.2";
+  version = "1.31.3";
 }
