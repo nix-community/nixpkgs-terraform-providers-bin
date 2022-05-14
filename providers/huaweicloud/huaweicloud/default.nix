@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "de4a4680e4fd740133172fc0ab5c3f921b9f7f7824327b47a4410ff8d12ae98f";
-      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.35.2/terraform-provider-huaweicloud_1.35.2_darwin_arm64.zip";
+      sha256 = "869d4f0721129be317b0fdb31db56491ea30a60c2dc2a80e7d34aac2fa876368";
+      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.36.0/terraform-provider-huaweicloud_1.36.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "0b08995aed76b2c7ada53d67f3e5ed7718334e03b004b00b0e6cb720877578b7";
-      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.35.2/terraform-provider-huaweicloud_1.35.2_linux_arm64.zip";
+      sha256 = "65ba1cdc2d1371f8adb44e96cdac4499399de244dab45e868adc970c8b1b976f";
+      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.36.0/terraform-provider-huaweicloud_1.36.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "b230425f3f6c1af05a0a32ac2fc793fb68eb6b507dcf2ee268c145c59f7c5525";
-      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.35.2/terraform-provider-huaweicloud_1.35.2_linux_386.zip";
+      sha256 = "7254ce70b94344c846a32bd7cd95e9682b88ba6947cc0acaae091dbfb3fd5ec6";
+      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.36.0/terraform-provider-huaweicloud_1.36.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "2370d8879a3483ee79fe1eb130f72b2b425e5297d4318c83ca8f4d9572d2516e";
-      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.35.2/terraform-provider-huaweicloud_1.35.2_darwin_amd64.zip";
+      sha256 = "2d567243191921f9c47e28aa35546f4d2ae3f57828deacd8fc28250a557600ea";
+      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.36.0/terraform-provider-huaweicloud_1.36.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "71fc79328621978d21eb5d25a0b8823e901be9bdb260e121b5d051fc6af244ed";
-      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.35.2/terraform-provider-huaweicloud_1.35.2_linux_amd64.zip";
+      sha256 = "686f96f0de2ae1f7b87bc22075a89f558382ea4e376f67bf6f9f3861e8b0c091";
+      url = "https://github.com/huaweicloud/terraform-provider-huaweicloud/releases/download/v1.36.0/terraform-provider-huaweicloud_1.36.0_linux_amd64.zip";
     };
   };
   owner = "huaweicloud";
   repo = "huaweicloud";
-  version = "1.35.2";
+  version = "1.36.0";
 }
