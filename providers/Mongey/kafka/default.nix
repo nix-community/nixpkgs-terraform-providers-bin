@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "6cdb821d9c9326af5516d1baa3e1ba42cb80a90867f8d83631dcb63220a603dd";
-      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.0/terraform-provider-kafka_0.5.0_darwin_arm64.zip";
+      sha256 = "6432c6b19dec285367dceff0a2d176a15134397aba440580857c060a8d6976cd";
+      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.1/terraform-provider-kafka_0.5.1_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "a833eee00d7324582c719ca816c07e27080be3f46b7a7c882abc6d799b2c2e20";
-      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.0/terraform-provider-kafka_0.5.0_linux_arm64.zip";
+      sha256 = "6a59cbf20a936c554c5813dd5d812d7a1c7af3aa9c85a0d595eceeb2e9d2e984";
+      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.1/terraform-provider-kafka_0.5.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "1e5b7dbbb12f125e22d37181bbb0af073bbeefafaacead1bf0ccd686e41da98c";
-      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.0/terraform-provider-kafka_0.5.0_linux_386.zip";
+      sha256 = "982ad4c0cd48dcb60db436edd91cf7f874b6f25fdff6ea0b5118db151e98cc0c";
+      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.1/terraform-provider-kafka_0.5.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "2182c28c990986f1113a0c2edbacc81c3824720661e31d74dfdbe12724f864e1";
-      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.0/terraform-provider-kafka_0.5.0_darwin_amd64.zip";
+      sha256 = "8b68580259a6d8e3c89b3237a1a8334abf403431eee420cd4310923671335ac9";
+      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.1/terraform-provider-kafka_0.5.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "45aea2cff5cec2a031a5b46387792f20584be1773a752da803b0f7bba36d7e6e";
-      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.0/terraform-provider-kafka_0.5.0_linux_amd64.zip";
+      sha256 = "a115f8af50017a81dc8c6949558a7ccf4d6e554400c214e03ae9a4d0417628a4";
+      url = "https://github.com/Mongey/terraform-provider-kafka/releases/download/v0.5.1/terraform-provider-kafka_0.5.1_linux_amd64.zip";
     };
   };
   owner = "Mongey";
   repo = "kafka";
-  version = "0.5.0";
+  version = "0.5.1";
 }

@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "0b38fa82a59466c07c1958b628f28b3f42298a774a2c884a2b8486845406b808";
-      url = "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.13.1/terraform-provider-pnap_0.13.1_linux_arm64.zip";
+      sha256 = "0ba4379acb05935c35bcb8a94e7b9edeab71da3e6857662373d7a4fa2113dc6c";
+      url = "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.13.2/terraform-provider-pnap_0.13.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "97eaab4036b6605c294ec7a5c522bf7b23cc45a891715d82f0eb08abf853396e";
-      url = "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.13.1/terraform-provider-pnap_0.13.1_linux_386.zip";
+      sha256 = "e0fbb9fd1554e7921cc922a7494f57e44a86677508df44f3161d077859647f8d";
+      url = "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.13.2/terraform-provider-pnap_0.13.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "6f9cf3dc8ab8aded012af814e565671caedd1d82a4418af434bd35018f183bab";
-      url = "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.13.1/terraform-provider-pnap_0.13.1_darwin_amd64.zip";
+      sha256 = "fd98c67b28051755a102f000cb2053620efeefb9f7c76a8c8c1b69724e36ec63";
+      url = "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.13.2/terraform-provider-pnap_0.13.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "c820a6a04ea331eeff845c75414f4b86b530a639b5c6af01141bb818ea7d7138";
-      url = "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.13.1/terraform-provider-pnap_0.13.1_linux_amd64.zip";
+      sha256 = "bfce0a37b0311f8a3f0cfd05beecc3bc52f8f74768843b747682681dccee6695";
+      url = "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.13.2/terraform-provider-pnap_0.13.2_linux_amd64.zip";
     };
   };
   owner = "phoenixnap";
   repo = "pnap";
-  version = "0.13.1";
+  version = "0.13.2";
 }

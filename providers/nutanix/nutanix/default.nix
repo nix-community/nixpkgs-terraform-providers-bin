@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "b5e3a7c24a3d63b3f0cb150423bb9a7d17c520166ab1c8a8651522e8bbb1a3c9";
-      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0-beta.2/terraform-provider-nutanix_1.5.0-beta.2_darwin_arm64.zip";
+      sha256 = "58191496c3427745d153ed9c06b3504f51d30f764c8ca9a09a92f4dadacec98a";
+      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0/terraform-provider-nutanix_1.5.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "4a07bd360c612901e067360e46645f14c557eb9214101ecc6ad3c0ada41a1d16";
-      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0-beta.2/terraform-provider-nutanix_1.5.0-beta.2_linux_arm64.zip";
+      sha256 = "c54a0b85e1bfd5d126c88a516b168d2b963a3675f569fa6886519cd3c109c87e";
+      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0/terraform-provider-nutanix_1.5.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "5e26834723ebca10bcd38258ae6b568ddb9644c0ba16b826696a53f6bc40204f";
-      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0-beta.2/terraform-provider-nutanix_1.5.0-beta.2_linux_386.zip";
+      sha256 = "f8d7e1097b711ccf11317ea954ff627a6a5656912e3316cc1bfef1c8ba044da7";
+      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0/terraform-provider-nutanix_1.5.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "3caaf7b43d824a848e99d970f7f27fadb849a4d5ded1b1162fbd4c494551e5a7";
-      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0-beta.2/terraform-provider-nutanix_1.5.0-beta.2_darwin_amd64.zip";
+      sha256 = "06f9201929fae0937f2e96ab94fa5df8c4baa96d45e13522323d804129bc7daa";
+      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0/terraform-provider-nutanix_1.5.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "466412f8d84904fa04aa39865405c366269d3e3f4ef2c4444278007388961f89";
-      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0-beta.2/terraform-provider-nutanix_1.5.0-beta.2_linux_amd64.zip";
+      sha256 = "bdddc5cb2f5c47408c3133bb6e9dc432206b971cfa3f52cc5a95bb59fb820a77";
+      url = "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v1.5.0/terraform-provider-nutanix_1.5.0_linux_amd64.zip";
     };
   };
   owner = "nutanix";
   repo = "nutanix";
-  version = "1.5.0-beta.2";
+  version = "1.5.0";
 }

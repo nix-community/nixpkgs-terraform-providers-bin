@@ -1,28 +1,24 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
-    aarch64-darwin = {
-      sha256 = "7de09323faeeae9607f982efdcf3aa0ef8e7dbeb7078a98757565948ca9fbeed";
-      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v2.0.2-pre/terraform-provider-statuscake_2.0.2-pre_darwin_arm64.zip";
-    };
     aarch64-linux = {
-      sha256 = "7d1696eb318ffff4f4d23f1470ce149737cf6441d0563b6a8c9ab555779bb326";
-      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v2.0.2-pre/terraform-provider-statuscake_2.0.2-pre_linux_arm64.zip";
+      sha256 = "bead0801de80e9736b5ac1604d7e2ca18759b7266df60dfa29921e56df613966";
+      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v1.0.1/terraform-provider-statuscake_1.0.1_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "6f2a2082b4b9103e60625e7378500c24e4c5c8a478843f4a3c6f942599680bf3";
-      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v2.0.2-pre/terraform-provider-statuscake_2.0.2-pre_linux_386.zip";
+      sha256 = "4ef7e1839fa71de967cfccfdd3e33a7f5a36f67f048322861210089c8ec03c2f";
+      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v1.0.1/terraform-provider-statuscake_1.0.1_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "af020751c4b17bcbc49846686fa18bd58e0b9eab5238659e0abf6b106278f500";
-      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v2.0.2-pre/terraform-provider-statuscake_2.0.2-pre_darwin_amd64.zip";
+      sha256 = "6d760d682550ab34c2f1bb3af7b3a9afcaaf9ef589a84587fb85f37b0e4916db";
+      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v1.0.1/terraform-provider-statuscake_1.0.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "f7bd42a94d5599bfc8aa08bb2cefcb5de68163cc62f066e0dc0e74db458a1b7a";
-      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v2.0.2-pre/terraform-provider-statuscake_2.0.2-pre_linux_amd64.zip";
+      sha256 = "c8ac03fc938cd438addba11dd8674b153eb16e5450bf2edb8c669f0cfc3c7c24";
+      url = "https://github.com/StatusCakeDev/terraform-provider-statuscake/releases/download/v1.0.1/terraform-provider-statuscake_1.0.1_linux_amd64.zip";
     };
   };
   owner = "StatusCakeDev";
   repo = "statuscake";
-  version = "2.0.2-pre";
+  version = "1.0.1";
 }

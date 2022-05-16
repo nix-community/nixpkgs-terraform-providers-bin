@@ -53,6 +53,10 @@ end
 # Get the latest version of the provider and write it to the file
 def update_provider(file, owner, repo)
   versions = http_get("#{owner}/#{repo}/versions")["versions"]
+
+  # Filter out versions with alpha or beta, or any other non-numerical release
+  versions = versions.filter do |v| /^\d+\.\d+\.\d+(-\d+)?$/.match?(v["version"]) end
+
   # Sort the versions
   versions = versions.sort_by { |v| v["version"].split('.').map(&:to_i) }
   last_version_data = versions.last
