@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "65928929963bcce224557a1a8e990bb0bb0ed3e016905445fd36f27ea7a4c49c";
-      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.10/terraform-provider-better-uptime_0.3.10_darwin_arm64.zip";
+      sha256 = "5b8b8ca792ae95e5dbc95c5fd55b71c71dd86bab2035b463952ad61415259c62";
+      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.12/terraform-provider-better-uptime_0.3.12_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "53c7c98c16a7c0d61a69d8374c8935e40507b3dabff4dae007b4672a8d5742c4";
-      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.10/terraform-provider-better-uptime_0.3.10_linux_arm64.zip";
+      sha256 = "6a0b4d0c8c88158c4cdcadd70eb2f9aed7d1c3ab13c4496adf6d7141b2a49b80";
+      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.12/terraform-provider-better-uptime_0.3.12_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "abf5a418b632ff16e2f385d00be1f4be76eacca5d95b6685c9ee196337d3b81b";
-      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.10/terraform-provider-better-uptime_0.3.10_linux_386.zip";
+      sha256 = "2ff0d47300b7507b9f9935da7e512eaad788bf9b37bd27dc1812ceb140b5f9ee";
+      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.12/terraform-provider-better-uptime_0.3.12_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "fb6875fcd9286ec576ab9e12f15d1c5f11c57ec56318a31e5f84ddb608d62cdd";
-      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.10/terraform-provider-better-uptime_0.3.10_darwin_amd64.zip";
+      sha256 = "1cfab7031b13a287a98c546033fa7e8cdabfeca268e2e0e6f1bd83c4efa38b2d";
+      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.12/terraform-provider-better-uptime_0.3.12_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "1aff22531f5010398a596095bf3ca505021345f4ebd9adc876a97be7fea85c8a";
-      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.10/terraform-provider-better-uptime_0.3.10_linux_amd64.zip";
+      sha256 = "2eaa4a27fe5c842fb234dfbf8bbaae4bf4cf43be2dd5a3b1deccb819bcfaeeaf";
+      url = "https://github.com/BetterStackHQ/terraform-provider-better-uptime/releases/download/v0.3.12/terraform-provider-better-uptime_0.3.12_linux_amd64.zip";
     };
   };
   owner = "BetterStackHQ";
   repo = "better-uptime";
-  version = "0.3.10";
+  version = "0.3.12";
 }
