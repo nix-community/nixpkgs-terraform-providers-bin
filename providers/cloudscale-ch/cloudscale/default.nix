@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "28fb5b00906aca9abc1659fe1515b1b57bd51bf6c4428a37a38cff50f7c7f36e";
-      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v3.2.0/terraform-provider-cloudscale_3.2.0_darwin_arm64.zip";
+      sha256 = "91a4330d6139f3eaa72d683dd6881daed805e9b06898ff2c4a41a9487727b2d0";
+      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v4.0.0/terraform-provider-cloudscale_4.0.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "c3b3d5dc84f6a03e4e895d2acee9d8a335a5ca747333a920f6a4a82c01e123bf";
-      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v3.2.0/terraform-provider-cloudscale_3.2.0_linux_arm64.zip";
+      sha256 = "543409b279963166858d5758909ae5dd33d4717456494d7ae509ca2199e5a13b";
+      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v4.0.0/terraform-provider-cloudscale_4.0.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "9027607d63704ae74d813f0ebb20bec87b37959a51135a39cc03fc1a6cd54df4";
-      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v3.2.0/terraform-provider-cloudscale_3.2.0_linux_386.zip";
+      sha256 = "df02387c90afe7d642106a8aa5f97255f929ebd915059b32e29dcc90aea90352";
+      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v4.0.0/terraform-provider-cloudscale_4.0.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "25b94e445424819d7e812a031fb0bfc615ffd27ed099cc4c18a556c513480514";
-      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v3.2.0/terraform-provider-cloudscale_3.2.0_darwin_amd64.zip";
+      sha256 = "bb9fb20757fca32b87456602e2333237f38a2bf1098e2144a910fb76e75e5211";
+      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v4.0.0/terraform-provider-cloudscale_4.0.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "1af52f649d863cdca7667a1c27f780836d08574c890637b34b89a19dfc5e8a1f";
-      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v3.2.0/terraform-provider-cloudscale_3.2.0_linux_amd64.zip";
+      sha256 = "f8073075994d201c80591ea65661ed71ddaeeb308e77aff449ea7fe90ec31dfd";
+      url = "https://github.com/cloudscale-ch/terraform-provider-cloudscale/releases/download/v4.0.0/terraform-provider-cloudscale_4.0.0_linux_amd64.zip";
     };
   };
   owner = "cloudscale-ch";
   repo = "cloudscale";
-  version = "3.2.0";
+  version = "4.0.0";
 }
