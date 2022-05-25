@@ -2,19 +2,19 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "abef8dda1fd01631ab3f308968d62e8f1aafdf5abced51ac5e310bc5d321bc3f";
-      url = "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v1.22.1/terraform-provider-instaclustr_v1.22.1_linux_arm64.zip";
+      sha256 = "75fea4a68f135421ad0d9b940d9dd40ba1a449a518ddb7bae5b6f756f9f2f34b";
+      url = "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v1.23.0/terraform-provider-instaclustr_v1.23.0_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "6a1bce2fce64e9df00fa60a9854179eb55fbc52abd3ff912a763e54b3c8b38fc";
-      url = "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v1.22.1/terraform-provider-instaclustr_v1.22.1_darwin_amd64.zip";
+      sha256 = "3ffa06e49ad4c58b1330293025e6628c4cd5fb09e9a7147f55507a67e4ed5d42";
+      url = "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v1.23.0/terraform-provider-instaclustr_v1.23.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "a793ff556ed016e413772f111d2f7dbdc33b6ca5673efb42273163fd79770fd1";
-      url = "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v1.22.1/terraform-provider-instaclustr_v1.22.1_linux_amd64.zip";
+      sha256 = "15695069ead060cc6f43bad2fa21b42bb5b629ba95baa27c62334c4b906315e4";
+      url = "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v1.23.0/terraform-provider-instaclustr_v1.23.0_linux_amd64.zip";
     };
   };
   owner = "instaclustr";
   repo = "instaclustr";
-  version = "1.22.1";
+  version = "1.23.0";
 }
