@@ -42,7 +42,6 @@ data:
   aiven = import ./aiven data;
   akamai = import ./akamai data;
   alertmixer = import ./alertmixer data;
-  alexkappa = import ./alexkappa data;
   aliyun = import ./aliyun data;
   alkiranet = import ./alkiranet data;
   aminueza = import ./aminueza data;
