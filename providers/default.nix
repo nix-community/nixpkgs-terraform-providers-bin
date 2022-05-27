@@ -32,6 +32,7 @@ data:
   RafaySystems = import ./RafaySystems data;
   RedisLabs = import ./RedisLabs data;
   SatoriCyber = import ./SatoriCyber data;
+  Snowflake-Labs = import ./Snowflake-Labs data;
   StatusCakeDev = import ./StatusCakeDev data;
   SumoLogic = import ./SumoLogic data;
   ThalesGroup = import ./ThalesGroup data;
@@ -59,7 +60,6 @@ data:
   buildkite = import ./buildkite data;
   camptocamp = import ./camptocamp data;
   carlpett = import ./carlpett data;
-  chanzuckerberg = import ./chanzuckerberg data;
   checkly = import ./checkly data;
   circonus-labs = import ./circonus-labs data;
   citrix = import ./citrix data;
