@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "aeafce9f6c9066b9593c9e9c99efb60396a9463f3127f96c73e0cf88d151f635";
-      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.6/terraform-provider-ns1_1.12.6_darwin_arm64.zip";
+      sha256 = "3589a01a7262b8ada1cfdfdc74f1012052036ae3e506533b32d5195d45c69f2d";
+      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.7/terraform-provider-ns1_1.12.7_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "f6d35d56dc88f79123493097410aff2b5249fe16124d51004745503215cf26df";
-      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.6/terraform-provider-ns1_1.12.6_linux_arm64.zip";
+      sha256 = "67750fe03eccc5c6edf30add5c73bc99a7bb05e9d52ac881dd3a1b4288c98038";
+      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.7/terraform-provider-ns1_1.12.7_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "95c357cdf255520d36a77ef1007e201172db20771785d6a6feb8e9de6b1ca6d2";
-      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.6/terraform-provider-ns1_1.12.6_linux_386.zip";
+      sha256 = "192c92866c2e6d652965fd0803a8370ad014074b5159be7cf2e330c5ef2ad257";
+      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.7/terraform-provider-ns1_1.12.7_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b595b6eec3bb38e817c123cf020d04ab81ed0a316ce8b76f578c36e8474105b4";
-      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.6/terraform-provider-ns1_1.12.6_darwin_amd64.zip";
+      sha256 = "76e54b7937f4e8526fbef3cef68338e0a7d3a4aa1e5569421ca8cd5b227c7dd5";
+      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.7/terraform-provider-ns1_1.12.7_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "db3954cdf73677d59c6e4cd6aa4a8d28317d99bcf9b9dd45e3431ceb9a9f7473";
-      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.6/terraform-provider-ns1_1.12.6_linux_amd64.zip";
+      sha256 = "61d14fd588ce8108b933f154df25b454f9581e54f76d8f6ba8e4581279cba2f2";
+      url = "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v1.12.7/terraform-provider-ns1_1.12.7_linux_amd64.zip";
     };
   };
   owner = "ns1-terraform";
   repo = "ns1";
-  version = "1.12.6";
+  version = "1.12.7";
 }

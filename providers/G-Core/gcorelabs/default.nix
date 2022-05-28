@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "c5e48753353467bc3bfe9cd45728c32c1cd73990a54f3905749c8173db76ce3d";
-      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.39/terraform-provider-gcorelabs_0.3.39_darwin_arm64.zip";
+      sha256 = "40b6a487d00269fb3faa828f29240cd3f10b35305ae6a5f0d90d7e4c941f2cc6";
+      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.40/terraform-provider-gcorelabs_0.3.40_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "e1eb73c4fc7f8aab3fdc8cbda32e1d296f1cfe0e7c6c0099b7e0b200360208eb";
-      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.39/terraform-provider-gcorelabs_0.3.39_linux_arm64.zip";
+      sha256 = "c6016a36ff767f08e50fd5b71d47f673b3cd8b4eca10af33e65014dce8ccb7a5";
+      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.40/terraform-provider-gcorelabs_0.3.40_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "230ba8cd409a49493d1284d797c85397932c4d292ffd8d3cc502aba6f99e26c4";
-      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.39/terraform-provider-gcorelabs_0.3.39_linux_386.zip";
+      sha256 = "c6f97a037f7eb933defd1daef707b91384bb4ff97bb131cce3f1b3a0b7f803d9";
+      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.40/terraform-provider-gcorelabs_0.3.40_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "f6db80db9e84c4ee6373e636d2b42f3f4c0e56bf8892da1328f7f2d7e1a992e5";
-      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.39/terraform-provider-gcorelabs_0.3.39_darwin_amd64.zip";
+      sha256 = "ebe14acfe1aa768f9577d5697e6d6be1ce904ceb4fa9023e462c61a92068e6c7";
+      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.40/terraform-provider-gcorelabs_0.3.40_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "6fbc8b22ff72314e79009ea0ae5f0919519e6a877b544cb58bef8050d0a392c5";
-      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.39/terraform-provider-gcorelabs_0.3.39_linux_amd64.zip";
+      sha256 = "686f522e95b2bbdf32e579aa0b583cd3c041478d9578d95c468cd2a488ecb78d";
+      url = "https://github.com/G-Core/terraform-provider-gcorelabs/releases/download/v0.3.40/terraform-provider-gcorelabs_0.3.40_linux_amd64.zip";
     };
   };
   owner = "G-Core";
   repo = "gcorelabs";
-  version = "0.3.39";
+  version = "0.3.40";
 }

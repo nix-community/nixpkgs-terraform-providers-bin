@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-linux = {
-      sha256 = "d02bda33a2ff5291304ca2b85d87fe139ddcdf32e6e18ff7be4bd75f2c9237c5";
-      url = "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.4.0/terraform-provider-ecl_2.4.0_linux_arm64.zip";
+      sha256 = "9043285e7e778fc4ae1ce8f09f1c179a50d987053dfa0ba3c798dfdbb999d2c7";
+      url = "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.4.2/terraform-provider-ecl_2.4.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "9b86ac15068ef58d40a3b23a5d34a62976d27557c5f8191f5f7cddacf7f7b9a9";
-      url = "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.4.0/terraform-provider-ecl_2.4.0_linux_386.zip";
+      sha256 = "ac512a664d6c0252715d9c41b340addb824b5249682f08b297e2e58d846a8074";
+      url = "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.4.2/terraform-provider-ecl_2.4.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "2da76db9e5b9b9b58f1da86a769b16047ab85d0ff18c0855fef072bd3e32e40a";
-      url = "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.4.0/terraform-provider-ecl_2.4.0_darwin_amd64.zip";
+      sha256 = "3a68c3d6b933c18bf1abc869d58a20e08dad126898f6e776c71b5b180924b341";
+      url = "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.4.2/terraform-provider-ecl_2.4.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "25a39474858810f0617a901428eb3df1509cc8e5ff516a393201b1d64d102e3c";
-      url = "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.4.0/terraform-provider-ecl_2.4.0_linux_amd64.zip";
+      sha256 = "3a87096a272f46d556aad53cad16360b07fc2e891a16ea7245b335decfe44533";
+      url = "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.4.2/terraform-provider-ecl_2.4.2_linux_amd64.zip";
     };
   };
   owner = "nttcom";
   repo = "ecl";
-  version = "2.4.0";
+  version = "2.4.2";
 }
