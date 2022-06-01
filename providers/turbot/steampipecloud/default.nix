@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "1679e1c0e65350c090348559d1975c7bead3c95130393898c5270a242776bb99";
-      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.3.0/terraform-provider-steampipecloud_0.3.0_darwin_arm64.zip";
+      sha256 = "027165e4283184651133460ded91c0ea3b3883bfb56eaac6cbf7e96d4f7ed798";
+      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.4.0/terraform-provider-steampipecloud_0.4.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "1d033c6820918cbcd32b63f1eca24ea71e0e0498c4d40fb60cc8485186387c72";
-      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.3.0/terraform-provider-steampipecloud_0.3.0_linux_arm64.zip";
+      sha256 = "bce2eed263e05426cc1e049cd22d2fe49658a77e5e6f6c3acd20bdad38c5ae4a";
+      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.4.0/terraform-provider-steampipecloud_0.4.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "8abed6b2e44f4e784b8066169e9a10040b04c03b069a68439d8b121d5fb18564";
-      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.3.0/terraform-provider-steampipecloud_0.3.0_linux_386.zip";
+      sha256 = "967914bae7d73d3005380f84e3f922b5929e923821ee5b95a4f9f72095c7f723";
+      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.4.0/terraform-provider-steampipecloud_0.4.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "7d9f33a2bc7e26030a1180ff0835bf56d9d00f96bce80b88e1e4344df1076c23";
-      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.3.0/terraform-provider-steampipecloud_0.3.0_darwin_amd64.zip";
+      sha256 = "8f05b1dcbc9efb15fbc39142553497cda7bcc8bb062d30720eb433fc2bd1e1e0";
+      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.4.0/terraform-provider-steampipecloud_0.4.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "9365463bcae31ca823c699f41b1347eb25c84526b9f74a938e68d085b1dca670";
-      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.3.0/terraform-provider-steampipecloud_0.3.0_linux_amd64.zip";
+      sha256 = "87906cb4dd5705f500c7d455e566bdf716c8e85435acbe462697b128a74322d4";
+      url = "https://github.com/turbot/terraform-provider-steampipecloud/releases/download/v0.4.0/terraform-provider-steampipecloud_0.4.0_linux_amd64.zip";
     };
   };
   owner = "turbot";
   repo = "steampipecloud";
-  version = "0.3.0";
+  version = "0.4.0";
 }
