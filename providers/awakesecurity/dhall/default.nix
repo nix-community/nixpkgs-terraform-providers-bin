@@ -1,24 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "469e75f6623a7dc279a73f66fe501e3b58dd223675823f49fa3a2171da2f5695";
+      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.3/terraform-provider-dhall_0.0.3_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "2991ec2d034eb963ffb59d72515308ecc91078584fd4e44c5ee23752fac2c8af";
-      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.2/terraform-provider-dhall_0.0.2_linux_arm64.zip";
+      sha256 = "68b8f774548c29edb33d7f5558be2d338aa07db712b1359a55b65bfbfaeb7124";
+      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.3/terraform-provider-dhall_0.0.3_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "3c019b8f56a4fb22a9eabcdb6d9dc0e5ca947e3a7936a92fefc1c5544be38dc5";
-      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.2/terraform-provider-dhall_0.0.2_linux_386.zip";
+      sha256 = "38e88c2ef5265a8c0e438cf5e797d86490b7573550e88c6528e921cbd2f166ba";
+      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.3/terraform-provider-dhall_0.0.3_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "101f882d1942722a30fb3bd26d9a0b8a2bcbcaf3ca6366d17c5a98c502b48494";
-      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.2/terraform-provider-dhall_0.0.2_darwin_amd64.zip";
+      sha256 = "c7b97a47d133f15574aaa304ff7f45ef7ff1df0c98cbd2539b7aa1bfbfb5b9a6";
+      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.3/terraform-provider-dhall_0.0.3_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "d92c6db8992c8cd98c3b9c0d788b360cfef2877936e0fe8104c710b7565d0813";
-      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.2/terraform-provider-dhall_0.0.2_linux_amd64.zip";
+      sha256 = "1f10a4e8db65f0f861da65335a401e9e72a2321f51906d8c2e7d12b9c6d68d8d";
+      url = "https://github.com/awakesecurity/terraform-provider-dhall/releases/download/v0.0.3/terraform-provider-dhall_0.0.3_linux_amd64.zip";
     };
   };
   owner = "awakesecurity";
   repo = "dhall";
-  version = "0.0.2";
+  version = "0.0.3";
 }

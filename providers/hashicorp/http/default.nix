@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "b9b36b01d2ec4771838743517bc5f24ea27976634987c6d5529ac4223e44365d";
-      url = "https://releases.hashicorp.com/terraform-provider-http/2.1.0/terraform-provider-http_2.1.0_darwin_arm64.zip";
+      sha256 = "cb9d4a0aeebd25cbbae5b7c726deb285c007079191bc43a6a8d6b951b7ef928a";
+      url = "https://releases.hashicorp.com/terraform-provider-http/2.2.0/terraform-provider-http_2.2.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "0e255a170db598bd1142c396cefc59712ad6d4e1b0e08a840356a371e7b73bc4";
-      url = "https://releases.hashicorp.com/terraform-provider-http/2.1.0/terraform-provider-http_2.1.0_linux_arm64.zip";
+      sha256 = "abca2c2e14ce0984a1353f03fd13e9dc19312ab7844f64129ec09628e3d5d472";
+      url = "https://releases.hashicorp.com/terraform-provider-http/2.2.0/terraform-provider-http_2.2.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "75df05e25d14b5101d4bc6624ac4a01bb17af0263c9e8a740e739f8938b86ee3";
-      url = "https://releases.hashicorp.com/terraform-provider-http/2.1.0/terraform-provider-http_2.1.0_linux_386.zip";
+      sha256 = "4b150790ac5948ceec4f97df4deaff835e4798049d858c20413cbdff6e610c4d";
+      url = "https://releases.hashicorp.com/terraform-provider-http/2.2.0/terraform-provider-http_2.2.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "67c8091cfad226218c472c04881edf236db8f2dc149dc5ada878a1cd3c1de171";
-      url = "https://releases.hashicorp.com/terraform-provider-http/2.1.0/terraform-provider-http_2.1.0_darwin_amd64.zip";
+      sha256 = "1e5fbe9a4b8d3d9f167effc03bd5324ad6ef721c23a174e98c7eb2e8b85e34e8";
+      url = "https://releases.hashicorp.com/terraform-provider-http/2.2.0/terraform-provider-http_2.2.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "fe373b2fb2cc94777a91ecd7ac5372e699748c455f44f6ea27e494de9e5e6f92";
-      url = "https://releases.hashicorp.com/terraform-provider-http/2.1.0/terraform-provider-http_2.1.0_linux_amd64.zip";
+      sha256 = "8125231d0b16283130bac7cb4b0c4972a596af10e1a7348ff905dcb02ea61dc9";
+      url = "https://releases.hashicorp.com/terraform-provider-http/2.2.0/terraform-provider-http_2.2.0_linux_amd64.zip";
     };
   };
   owner = "hashicorp";
   repo = "http";
-  version = "2.1.0";
+  version = "2.2.0";
 }
