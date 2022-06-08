@@ -2,23 +2,23 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "990515a020190d4bc6e8735dae1572c5a1640eb05c73156cc984277ba37d0828";
-      url = "https://github.com/shorelinesoftware/terraform-provider-shoreline/releases/download/v1.6.0/terraform-provider-shoreline_1.6.0_darwin_arm64.zip";
+      sha256 = "c8f06bbf0f8c2af4ec33f9c2079ec5a18d140d06a7babbf6583f45f45fb9629f";
+      url = "https://github.com/shorelinesoftware/terraform-provider-shoreline/releases/download/v1.6.1/terraform-provider-shoreline_1.6.1_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "1d5255f69376a9192d44ee04b74de297efaad6a06b7a211f361bf143bac64244";
-      url = "https://github.com/shorelinesoftware/terraform-provider-shoreline/releases/download/v1.6.0/terraform-provider-shoreline_1.6.0_linux_arm64.zip";
+      sha256 = "798e155dd9bbab208790fd142bbe0bc7bcf0deac0f7a3a77d7e6bc9f1341513e";
+      url = "https://github.com/shorelinesoftware/terraform-provider-shoreline/releases/download/v1.6.1/terraform-provider-shoreline_1.6.1_linux_arm64.zip";
     };
     x86_64-darwin = {
-      sha256 = "5af61ac94b225d7fab1c8fff21ebb1baa58f7689785fd12a571129a0db857c84";
-      url = "https://github.com/shorelinesoftware/terraform-provider-shoreline/releases/download/v1.6.0/terraform-provider-shoreline_1.6.0_darwin_amd64.zip";
+      sha256 = "f5adf0f139295eadd2fe9d13d264549efbe91be13772ac4055fcaf63640bf8e9";
+      url = "https://github.com/shorelinesoftware/terraform-provider-shoreline/releases/download/v1.6.1/terraform-provider-shoreline_1.6.1_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "63dd68cfa1e6aaa3d73ad706b9bbe2829202e919d76f5fac039aff2d73203fa1";
-      url = "https://github.com/shorelinesoftware/terraform-provider-shoreline/releases/download/v1.6.0/terraform-provider-shoreline_1.6.0_linux_amd64.zip";
+      sha256 = "a9c98da6fb399c8a6622c041f34cf45f57f8bf8950b6d2dc624c4f7d068e9625";
+      url = "https://github.com/shorelinesoftware/terraform-provider-shoreline/releases/download/v1.6.1/terraform-provider-shoreline_1.6.1_linux_amd64.zip";
     };
   };
   owner = "shorelinesoftware";
   repo = "shoreline";
-  version = "1.6.0";
+  version = "1.6.1";
 }
