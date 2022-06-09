@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "dce2d2e3e433433e71638c6d598cba93533eadb5d97d82378691c696276bd21a";
-      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.72.8/terraform-provider-tencentcloud_1.72.8_darwin_arm64.zip";
+      sha256 = "18cd89213167ac365b20e431033a76bedba914b09199201e2f5342fbfdf95a64";
+      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.73.0/terraform-provider-tencentcloud_1.73.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "8cbcb6ce77394a647b0f27fe9f651ca02165e8b0fbfd235e520f7adab6481c36";
-      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.72.8/terraform-provider-tencentcloud_1.72.8_linux_arm64.zip";
+      sha256 = "f77de78748d6c5d901d6a6b79e508b1f8b48a0970f94bcc8f9328a003dba3765";
+      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.73.0/terraform-provider-tencentcloud_1.73.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "4c60805b1a73408fe82a51bb24e2608764de1688c60aea1b32f02c393c2d3f79";
-      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.72.8/terraform-provider-tencentcloud_1.72.8_linux_386.zip";
+      sha256 = "d0ea298aad6ec99664c4e79ef8d528081496c57b7a85a12d151fbe246803d41a";
+      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.73.0/terraform-provider-tencentcloud_1.73.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "2842847face3a5bb0147aeaac50d6d46d8d75a93fdc8229f0c71e2c57da07860";
-      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.72.8/terraform-provider-tencentcloud_1.72.8_darwin_amd64.zip";
+      sha256 = "846eb356003fa6c1c7c7d89e5d977291283d0d3ec6c848b18dda146f6b1e0221";
+      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.73.0/terraform-provider-tencentcloud_1.73.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "0905000186895865979c4ad58136648e2a43c711c623b2adfd6a8f95c744a7da";
-      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.72.8/terraform-provider-tencentcloud_1.72.8_linux_amd64.zip";
+      sha256 = "e2bb2d7b31b29305ba3ca1c9eca605e2b505f12f4250601c157bebfec0cb7fe2";
+      url = "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.73.0/terraform-provider-tencentcloud_1.73.0_linux_amd64.zip";
     };
   };
   owner = "tencentcloudstack";
   repo = "tencentcloud";
-  version = "1.72.8";
+  version = "1.73.0";
 }

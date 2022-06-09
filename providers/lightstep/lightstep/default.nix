@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "5c565faa1a5c8e43f0401e473d62797ae2628cda5605725dfa6c04d543b78870";
-      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.60.6/terraform-provider-lightstep_1.60.6_darwin_arm64.zip";
+      sha256 = "8f9f92fbfaeb869bae17616d2ae4d4de50106ba40cc38a4d65c058fec0274b10";
+      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.61.0/terraform-provider-lightstep_1.61.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "a201a473ff9928ca5da82caa78d7e9b2ae986654d3765683faae42df8830c7e7";
-      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.60.6/terraform-provider-lightstep_1.60.6_linux_arm64.zip";
+      sha256 = "565b86f445872cc69a4673705c4e7d6811a821929fa5534995cb8a6e8dd0aa67";
+      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.61.0/terraform-provider-lightstep_1.61.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "fa9fbef90738b6df107045b3d908ec6d7f5c1344b09c1a4014ac7f7c36bbd104";
-      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.60.6/terraform-provider-lightstep_1.60.6_linux_386.zip";
+      sha256 = "958d2d8cebf6b441c7535b0efd2f12fb43a198e1939d3bcd8a7ea00172a49d06";
+      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.61.0/terraform-provider-lightstep_1.61.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b15ebef4af11faa20fa88a3b8baa460bfacd96f40098945581216b0416287805";
-      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.60.6/terraform-provider-lightstep_1.60.6_darwin_amd64.zip";
+      sha256 = "dc94215be786584dbc40fd363edaf7ae864e427cdceb61be7d819dbba96f0916";
+      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.61.0/terraform-provider-lightstep_1.61.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "9e4cc801d768d7099304cf547596b45233179f206054fed6ce39648b2e1d0fae";
-      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.60.6/terraform-provider-lightstep_1.60.6_linux_amd64.zip";
+      sha256 = "34b3fb3ce3a69820f9e905c0e361e007d834f7aac470af6df9df336fa1a2b44e";
+      url = "https://github.com/lightstep/terraform-provider-lightstep/releases/download/v1.61.0/terraform-provider-lightstep_1.61.0_linux_amd64.zip";
     };
   };
   owner = "lightstep";
   repo = "lightstep";
-  version = "1.60.6";
+  version = "1.61.0";
 }

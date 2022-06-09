@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "05778922873b08b57f164388ac1d6772f950d84ee0bb0209f582698d24cae67c";
-      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.9/terraform-provider-circonus_0.12.9_darwin_arm64.zip";
+      sha256 = "9838472d7f693f3ce86bb7084c2437550c215cb4bec1e71f8f7a84159832d935";
+      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.10/terraform-provider-circonus_0.12.10_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "b6c3318905d996892302fd8b7611e9402b253aa2e9149bcd322a1a7f03f9fe42";
-      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.9/terraform-provider-circonus_0.12.9_linux_arm64.zip";
+      sha256 = "1e90b51b28d8a586e3be0833880d4de2086116df30e8528338dd150e871b082c";
+      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.10/terraform-provider-circonus_0.12.10_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "889cc67716da25cffe7f0373942d9246fe97b75598fe9475fecdbbe10a593c78";
-      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.9/terraform-provider-circonus_0.12.9_linux_386.zip";
+      sha256 = "6090b2637c926ce52a9674f35660901da67e51eff478d74186eaee567785285b";
+      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.10/terraform-provider-circonus_0.12.10_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "df818ccd93595cf7cc7331f6efd9cf5561211507b25639b28600057104f1490e";
-      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.9/terraform-provider-circonus_0.12.9_darwin_amd64.zip";
+      sha256 = "e3d384348002dfb025b1715d4cc1c6b5fdf677d5410757c4a1e23fd13b4c0a99";
+      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.10/terraform-provider-circonus_0.12.10_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "cc3001d0e08aad97f2a2c835da8d2c538295d12a1c39263ef9b17a45f7f58970";
-      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.9/terraform-provider-circonus_0.12.9_linux_amd64.zip";
+      sha256 = "fd8529b257917a6b3a199e96010b0bc240ab62c240fb11449125a2e8212be3de";
+      url = "https://github.com/circonus-labs/terraform-provider-circonus/releases/download/v0.12.10/terraform-provider-circonus_0.12.10_linux_amd64.zip";
     };
   };
   owner = "circonus-labs";
   repo = "circonus";
-  version = "0.12.9";
+  version = "0.12.10";
 }
