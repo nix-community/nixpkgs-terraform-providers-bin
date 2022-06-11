@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "8d73332955ff465f559f78b4729506031c1353d3efeb5f73ad78eed208e1060d";
-      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.10/terraform-provider-ns_0.6.10_darwin_arm64.zip";
+      sha256 = "1b25a6ebbe718bc6b81e18ac9d8f6f05f825a59a446c55dd255a121f208a76c2";
+      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.11/terraform-provider-ns_0.6.11_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "c8687a4f8c6d45cf86ca1863d663c85215a70a8c67a3e61ef3fdadb393aa35ca";
-      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.10/terraform-provider-ns_0.6.10_linux_arm64.zip";
+      sha256 = "d799f5a9e2a32f82f132c3094c692a5f90c4221c78c158c205357d0da8a55722";
+      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.11/terraform-provider-ns_0.6.11_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "99f1f3ae060308843dacaffb3c8b7d71e8c7e4b0c783195d3443715e50532709";
-      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.10/terraform-provider-ns_0.6.10_linux_386.zip";
+      sha256 = "fa11ba19fa7b19932253973c545bf1e824fadc2be5b4b614a88285198a3f6dea";
+      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.11/terraform-provider-ns_0.6.11_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "9810c9ddf0f28b629fb8624505992d3a64c8ce3ff0164531b6174ddc832bb2ec";
-      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.10/terraform-provider-ns_0.6.10_darwin_amd64.zip";
+      sha256 = "1773446ae901b4ca98d5455d91a0ab0744048bccbb9bd0b1ef8790e4a17e66ee";
+      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.11/terraform-provider-ns_0.6.11_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "d81213321ed48572a66cc87e620c8dbad5acd24fae057e665d5f2cb15325799c";
-      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.10/terraform-provider-ns_0.6.10_linux_amd64.zip";
+      sha256 = "31b044e491fcf38f53f61f5061b0ba22a219a805626b66ecffda87c610fdf0f5";
+      url = "https://github.com/nullstone-io/terraform-provider-ns/releases/download/v0.6.11/terraform-provider-ns_0.6.11_linux_amd64.zip";
     };
   };
   owner = "nullstone-io";
   repo = "ns";
-  version = "0.6.10";
+  version = "0.6.11";
 }
