@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "07a12ab0b07f2bbdecde1f9edcd79b0f1f9f4924dc404c5312bc60e7ce0d7290";
-      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.1/terraform-provider-sumologic_2.16.1_darwin_arm64.zip";
+      sha256 = "e94ae853a7aab6c8319a435e9cd53e1019494d66a766aff92ff3189957a93bbf";
+      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.2/terraform-provider-sumologic_2.16.2_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "51662b6fefe883bba5fe55cf1090494013bf7acd719e68beacba740d1bb2eae8";
-      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.1/terraform-provider-sumologic_2.16.1_linux_arm64.zip";
+      sha256 = "a36335f0717b4ff449640fce1d2e26bdef2d0d7d2f4643a712f5f03560cdbe94";
+      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.2/terraform-provider-sumologic_2.16.2_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "70d18b156096482c7ca1c9864655aff29510992827095b5ca6243c1d83f029fd";
-      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.1/terraform-provider-sumologic_2.16.1_linux_386.zip";
+      sha256 = "6e38185205d65ede3302644436316f5b112018720d86168aaf52de9b9125b5f8";
+      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.2/terraform-provider-sumologic_2.16.2_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "b0dba480be6ec8575ef7b24d8ae6f6971ea1df11adbb9574abf1b79c2a287ccc";
-      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.1/terraform-provider-sumologic_2.16.1_darwin_amd64.zip";
+      sha256 = "3122fa8f661e166084ba06415ba097d4c18db66898d34de1dede49c61d8a6187";
+      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.2/terraform-provider-sumologic_2.16.2_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "ec2185cc84953b5b9ef5415945a403fb276d3c119a805daed793797bc4d1d205";
-      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.1/terraform-provider-sumologic_2.16.1_linux_amd64.zip";
+      sha256 = "8249171aa4646a6eb8cf60e0e891d864c045f84260f594b454354d10e13eb260";
+      url = "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v2.16.2/terraform-provider-sumologic_2.16.2_linux_amd64.zip";
     };
   };
   owner = "SumoLogic";
   repo = "sumologic";
-  version = "2.16.1";
+  version = "2.16.2";
 }
