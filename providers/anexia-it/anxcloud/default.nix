@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "40e156efca44b9c3d63466f9ea974274ae38699263c7462bddfe4e499c7f96de";
-      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.4/terraform-provider-anxcloud_0.3.4_darwin_arm64.zip";
+      sha256 = "f89371371187890ad26a3bd17f7e7d98b22919f7c1ac7f12a8bde209648319d4";
+      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.5/terraform-provider-anxcloud_0.3.5_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "bb524d8a0b9c8b61c996d4d93cd2385fae30c11978bbdd04dd4a862f1cae08db";
-      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.4/terraform-provider-anxcloud_0.3.4_linux_arm64.zip";
+      sha256 = "0f880a739efa87eb7c38cd855e11231765cc7536d2157d0cb9942dcc3cf76625";
+      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.5/terraform-provider-anxcloud_0.3.5_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "5badcb020078c957c94907555dc86c2429a004cb4766b63d42d442d1908ae984";
-      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.4/terraform-provider-anxcloud_0.3.4_linux_386.zip";
+      sha256 = "7cf48a495d5167910f9598f29eb99eb45338452b6bf75b00b359fe18d5579f26";
+      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.5/terraform-provider-anxcloud_0.3.5_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "88a12f3f49a75adf8a2dd2a14fb62bddaebff4b00a9f8750e0c975bfdec67a6e";
-      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.4/terraform-provider-anxcloud_0.3.4_darwin_amd64.zip";
+      sha256 = "e76106829c822ce8b56c40214551d40a4c5aff84edb78015e2e85955fe0e5103";
+      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.5/terraform-provider-anxcloud_0.3.5_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "1ab0e25b858ddf2640db017feb1d185e37b27976105d21bd3039c94c617b9516";
-      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.4/terraform-provider-anxcloud_0.3.4_linux_amd64.zip";
+      sha256 = "3d73d9a4c6ac80c3630d267bdc867d1e8c9f65ed4a0d28a4152d9bdbf197e101";
+      url = "https://github.com/anexia-it/terraform-provider-anxcloud/releases/download/v0.3.5/terraform-provider-anxcloud_0.3.5_linux_amd64.zip";
     };
   };
   owner = "anexia-it";
   repo = "anxcloud";
-  version = "0.3.4";
+  version = "0.3.5";
 }
