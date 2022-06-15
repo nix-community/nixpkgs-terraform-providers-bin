@@ -2,27 +2,27 @@
 mkTerraformProvider {
   archSrc = {
     aarch64-darwin = {
-      sha256 = "55b71132ed43c86b92fd609d71b81727c2322e9eb9102a0c9ab168195b2aba6b";
-      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.16.0/terraform-provider-cloudflare_3.16.0_darwin_arm64.zip";
+      sha256 = "ba6488af23a6f7a84124243d8522dd0492b5c8197ba31dcdb4c00d50c31e0a3c";
+      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.17.0/terraform-provider-cloudflare_3.17.0_darwin_arm64.zip";
     };
     aarch64-linux = {
-      sha256 = "2b2a8d58eaf1bee68c4b65432cfcf6fd1f12113bbabcc4889cd653e9a4771054";
-      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.16.0/terraform-provider-cloudflare_3.16.0_linux_arm64.zip";
+      sha256 = "876b52e3d15b5a48f41b4f237ddbcf1390b46823de08db5c3b6323fe3f446b8a";
+      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.17.0/terraform-provider-cloudflare_3.17.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "ee6d6fd0facd6df282abd29d74965e0515a5ba29e944394416f8484fe6b6868f";
-      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.16.0/terraform-provider-cloudflare_3.16.0_linux_386.zip";
+      sha256 = "0e3e415afc6a2998dea519d195f71ece17e23f902af4dcf65e936af2dd5662ac";
+      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.17.0/terraform-provider-cloudflare_3.17.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "5762b82a5fd501862a9abf37d7032940b7287ac4f0f7aa831e6493829bfd7edc";
-      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.16.0/terraform-provider-cloudflare_3.16.0_darwin_amd64.zip";
+      sha256 = "0f3d2a2d61e50f6481fe3599e428d09af7725ae05a4c8e2b38ab64313a90d45a";
+      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.17.0/terraform-provider-cloudflare_3.17.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "e3a8644bba18809c4aea10f3d6157633f0a6d83d9ad6693e1069472a262eff74";
-      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.16.0/terraform-provider-cloudflare_3.16.0_linux_amd64.zip";
+      sha256 = "dee32bdbe8890f979c615d27deec7c6777c7d2207606d4acf75333a634a07389";
+      url = "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v3.17.0/terraform-provider-cloudflare_3.17.0_linux_amd64.zip";
     };
   };
   owner = "cloudflare";
   repo = "cloudflare";
-  version = "3.16.0";
+  version = "3.17.0";
 }

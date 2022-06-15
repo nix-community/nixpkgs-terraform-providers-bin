@@ -1,24 +1,28 @@
 { mkTerraformProvider }:
 mkTerraformProvider {
   archSrc = {
+    aarch64-darwin = {
+      sha256 = "f219e64979abe1c5859819fbc1a0fd5ead3a6fa84ce188945afc9ef3713bc05b";
+      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.6.0/terraform-provider-rollbar_1.6.0_darwin_arm64.zip";
+    };
     aarch64-linux = {
-      sha256 = "b1a22f8c4f383d048a1db2fa50cfc5ae7a54529bbde30448967f74517c21726f";
-      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.5.0/terraform-provider-rollbar_1.5.0_linux_arm64.zip";
+      sha256 = "13de1c8dbdeef1cb7df2b24901cc4ef025a8bddbd75fc8551850e6b3ad85290c";
+      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.6.0/terraform-provider-rollbar_1.6.0_linux_arm64.zip";
     };
     i686-linux = {
-      sha256 = "55e8b09dc20449087533e8c2dff191fe7b5a5437586e420e57db4043db8cd0d0";
-      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.5.0/terraform-provider-rollbar_1.5.0_linux_386.zip";
+      sha256 = "4e041ddded9be058b943da0c02a874ae15a8506ff04c946bdd74f3542bb98095";
+      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.6.0/terraform-provider-rollbar_1.6.0_linux_386.zip";
     };
     x86_64-darwin = {
-      sha256 = "a645d304446e4dc6711d09dc232a446f49c3f1cb5e0df93b4f8396197f11a990";
-      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.5.0/terraform-provider-rollbar_1.5.0_darwin_amd64.zip";
+      sha256 = "bef81e9832f7479aecdac61cfb50e0019afad598081e6be6ff113f5830ae28d0";
+      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.6.0/terraform-provider-rollbar_1.6.0_darwin_amd64.zip";
     };
     x86_64-linux = {
-      sha256 = "384355de26fb62c35ae3696fb978726987d517199696d84af4e5cb5d35387f15";
-      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.5.0/terraform-provider-rollbar_1.5.0_linux_amd64.zip";
+      sha256 = "bd82d51a9bfd8acc86deabc8be7c2726cc506c0d6fe90d65c6a936456f032e86";
+      url = "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.6.0/terraform-provider-rollbar_1.6.0_linux_amd64.zip";
     };
   };
   owner = "rollbar";
   repo = "rollbar";
-  version = "1.5.0";
+  version = "1.6.0";
 }
