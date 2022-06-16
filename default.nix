@@ -87,11 +87,16 @@ let
       '';
     in
     wrapper;
+
+  tests = nixpkgs.lib.recurseIntoAttrs (import ./test/file {
+    inherit system nixpkgs;
+  });
 in
 {
   inherit
     mkTerraformProvider
     providers
+    tests
     wrapTerraform
     ;
 }
