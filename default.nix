@@ -56,7 +56,22 @@ let
       '';
     };
 
-  providers = import ./providers { inherit mkTerraformProvider; };
+  providers = lib.mapAttrs
+    (name: type:
+      if type == "directory" then
+        lib.mapAttrs
+          (name': type':
+            if type == "directory" then
+              let data = lib.importJSON (./providers + "/${name}/${name'}/default.json"); in
+              mkTerraformProvider data
+            else
+              null
+          )
+          (builtins.readDir (./providers + "/${name}"))
+      else
+        null
+    )
+    (builtins.readDir ./providers);
 
   # DEPRECATED
   wrapTerraform = terraform: fn:
@@ -88,9 +103,9 @@ let
       '';
     in
     builtins.trace "wrapTerraform is deprecated. Please use nixpkgs.terraform.withPlugins in nixos-22.05 or later."
-    wrapper;
+      wrapper;
 
-  tests = nixpkgs.lib.recurseIntoAttrs (import ./test/file {
+  tests = lib.recurseIntoAttrs (import ./test/file {
     inherit system nixpkgs;
   });
 in

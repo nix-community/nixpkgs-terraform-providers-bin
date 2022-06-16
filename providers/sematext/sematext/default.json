@@ -1,0 +1,23 @@
+{
+  "archSrc": {
+    "aarch64-linux": {
+      "url": "https://github.com/sematext/terraform-provider-sematext/releases/download/v0.5.0/terraform-provider-sematext_0.5.0_linux_arm64.zip",
+      "sha256": "642507c65aee94228ac246fde595ac47360565eeb23267ae7d267128ca9252c6"
+    },
+    "i686-linux": {
+      "url": "https://github.com/sematext/terraform-provider-sematext/releases/download/v0.5.0/terraform-provider-sematext_0.5.0_linux_386.zip",
+      "sha256": "e817ffd17cc662200b1c41ed59f5dab9adfc009cb3a0cc7a3fb15ed1c2fbde0b"
+    },
+    "x86_64-linux": {
+      "url": "https://github.com/sematext/terraform-provider-sematext/releases/download/v0.5.0/terraform-provider-sematext_0.5.0_linux_amd64.zip",
+      "sha256": "c93602d951923ee7406e7ac389ed29db098b62711c3676e6d0c5a0494cdaf319"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/sematext/terraform-provider-sematext/releases/download/v0.5.0/terraform-provider-sematext_0.5.0_darwin_amd64.zip",
+      "sha256": "b5ea56ab1d3a82befa562c64a0bc232fbd357d62d6b8b1908944dc2330cc1ed6"
+    }
+  },
+  "owner": "sematext",
+  "repo": "sematext",
+  "version": "0.5.0"
+}

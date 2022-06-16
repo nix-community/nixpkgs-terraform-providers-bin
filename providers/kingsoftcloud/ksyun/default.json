@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "x86_64-darwin": {
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.3.46/terraform-provider-ksyun_1.3.46_darwin_amd64.zip",
+      "sha256": "c3a30a0c0a30ab5948c43b3315a4ffb0b6fd9ff31dbc9c0212107d8f555e70ba"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.3.46/terraform-provider-ksyun_1.3.46_darwin_arm64.zip",
+      "sha256": "3b60d8b5cbeffa4791dfe7444a567113990bcb52ab51db87a097de2e09a45a2f"
+    },
+    "i686-linux": {
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.3.46/terraform-provider-ksyun_1.3.46_linux_386.zip",
+      "sha256": "1680f98d96e37b435d41d899469f80c0d9f2c999a2867c337f84003bc71117df"
+    },
+    "x86_64-linux": {
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.3.46/terraform-provider-ksyun_1.3.46_linux_amd64.zip",
+      "sha256": "b1a4ce6ea64cc2cc2aac70466af560906ae1f3c659fd1fae2305c1191b9d3478"
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.3.46/terraform-provider-ksyun_1.3.46_linux_arm64.zip",
+      "sha256": "299b6b2b4e96516820ae9cfa50964eefb23414468b030091a180028f53be4b49"
+    }
+  },
+  "owner": "kingsoftcloud",
+  "repo": "ksyun",
+  "version": "1.3.46"
+}

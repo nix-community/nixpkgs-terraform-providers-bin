@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "x86_64-darwin": {
+      "url": "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_darwin_amd64.zip",
+      "sha256": "5646f78d9980038c4ae70e09828da01c7cc6ba2b3b1e9ea8a1988efafaba1b75"
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_linux_arm64.zip",
+      "sha256": "02d1a87c28635779f66d1dcf165b5f16530f809deb6c71c35c3e58d715a88bf4"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_darwin_arm64.zip",
+      "sha256": "1285a419c7fd2947f891771bd77d2f6e7dd0cb00621c547b6993947085616009"
+    },
+    "x86_64-linux": {
+      "url": "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_linux_amd64.zip",
+      "sha256": "7130faa5dd892b1d41b9b3ebd1b2d7854bf780193073de58806e088311bb554c"
+    },
+    "i686-linux": {
+      "url": "https://github.com/pan-net/terraform-provider-powerdns/releases/download/v1.5.0/terraform-provider-powerdns_1.5.0_linux_386.zip",
+      "sha256": "340faecd0a0036e721480564acbad2ba0da6a9c0c0cd633957dcde76a4ba3798"
+    }
+  },
+  "owner": "pan-net",
+  "repo": "powerdns",
+  "version": "1.5.0"
+}

@@ -1,0 +1,23 @@
+{
+  "archSrc": {
+    "aarch64-linux": {
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.6/terraform-provider-nirmata_1.1.6_linux_arm64.zip",
+      "sha256": "540815a5352701fcad6bbeb61ec0ff496b7baf533155f2528c25f72642d348b2"
+    },
+    "x86_64-linux": {
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.6/terraform-provider-nirmata_1.1.6_linux_amd64.zip",
+      "sha256": "ada686fc515c06e515298fbbb35b448d28b11bfcdc65ee7182f695863082f1c7"
+    },
+    "i686-linux": {
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.6/terraform-provider-nirmata_1.1.6_linux_386.zip",
+      "sha256": "106ccba798d7af49baf542c8c0562f90f63d30f2083c6fa1927dae16c37673da"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.6/terraform-provider-nirmata_1.1.6_darwin_amd64.zip",
+      "sha256": "42b5b1e717d85c1e8418cd6d51ed662fe87d6754cc9509468d097db902300ee8"
+    }
+  },
+  "owner": "nirmata",
+  "repo": "nirmata",
+  "version": "1.1.6"
+}
