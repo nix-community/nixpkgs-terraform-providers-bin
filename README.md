@@ -28,12 +28,12 @@ let
   terraform-providers-bin = import sources.nixpkgs-terraform-providers-bin { nixpkgs = pkgs; };
 
   # You can mix-and-match terraform providers
-  my-terraform = pkgs.terraform.withPlugins (_: [
+  my-terraform = pkgs.terraform.withPlugins (p: [
     # The providers coming from nixpkgs have a flat namespace
     p.random
     # The providers coming from terraform-providers-bin have the same
     # namespace as the terraform registry.
-    terraform-providers-bin.hashicorp.nomad
+    terraform-providers-bin.providers.hashicorp.nomad
   ]);
 in
 # ... the usual
@@ -65,12 +65,12 @@ Pretty much the same as above but using
           ];
         };
         # You can mix-and-match terraform providers
-        my-terraform = pkgs.terraform.withPlugins (_: [
+        my-terraform = pkgs.terraform.withPlugins (p: [
           # The providers coming from nixpkgs have a flat namespace
           p.random
           # The providers coming from terraform-providers-bin have the same
           # namespace as the terraform registry.
-          terraform-providers-bin.legacyPackages.${system}.hashicorp.nomad
+          terraform-providers-bin.legacyPackages.${system}.providers.hashicorp.nomad
         ]);
       in
       {
