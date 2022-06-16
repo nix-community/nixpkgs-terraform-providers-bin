@@ -58,6 +58,7 @@ let
 
   providers = import ./providers { inherit mkTerraformProvider; };
 
+  # DEPRECATED
   wrapTerraform = terraform: fn:
     let
       # It would be nice to be able to use a buildEnv here, but Terraform
@@ -86,6 +87,7 @@ let
         exec ${terraform}/bin/terraform "$@"
       '';
     in
+    builtins.trace "wrapTerraform is deprecated. Please use nixpkgs.terraform.withPlugins in nixos-22.05 or later."
     wrapper;
 
   tests = nixpkgs.lib.recurseIntoAttrs (import ./test/file {
