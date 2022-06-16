@@ -5,9 +5,9 @@ let
   self = import ../../. { inherit nixpkgs; };
 in
 rec {
-  tf = self.wrapTerraform nixpkgs.terraform_0_15 (p: [
-    p.hashicorp.local
-    p.hashicorp.null
+  tf = nixpkgs.terraform.withPlugins (p: [
+    self.providers.hashicorp.local
+    self.providers.hashicorp.null
   ]);
 
   shell = nixpkgs.mkShell {
