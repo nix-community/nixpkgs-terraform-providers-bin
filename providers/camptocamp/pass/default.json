@@ -1,0 +1,23 @@
+{
+  "archSrc": {
+    "x86_64-darwin": {
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.0.0/terraform-provider-pass_2.0.0_darwin_amd64.zip",
+      "sha256": "52e11c8c213e716a81b7baf5fcad158a1e97206de65d2ba139f8240a00237b8c"
+    },
+    "i686-linux": {
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.0.0/terraform-provider-pass_2.0.0_linux_386.zip",
+      "sha256": "a1c5597adebf8b6a07d9a9a7c1c46b11ce7d814eacfabbf9e2fdf1ebd996b377"
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.0.0/terraform-provider-pass_2.0.0_linux_arm64.zip",
+      "sha256": "fa11074bab6f884f912a24b53126d465c16adb8abd41652449fea868136ea18b"
+    },
+    "x86_64-linux": {
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.0.0/terraform-provider-pass_2.0.0_linux_amd64.zip",
+      "sha256": "774aaca25d279327329c0551ad466cb5a304815ea8e8e5546eb57de746a74998"
+    }
+  },
+  "owner": "camptocamp",
+  "repo": "pass",
+  "version": "2.0.0"
+}

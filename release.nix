@@ -1,4 +1,4 @@
 { system ? builtins.currentSystem }:
 {
-  inherit (import ./.  { inherit system; }) providers tests;
+  inherit (import ./. { inherit system; }) providers tests;
 }

@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/1.4.17/terraform-provider-nomad_1.4.17_darwin_arm64.zip",
+      "sha256": "af18c064a5f0dd5422d6771939274841f635b619ab392c73d5bf9720945fdb85"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/1.4.17/terraform-provider-nomad_1.4.17_linux_arm64.zip",
+      "sha256": "2eb89a6e5cee9aea03a96ea9f141096fe3baf219b2700ce30229d2d882f5015f"
+    },
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/1.4.17/terraform-provider-nomad_1.4.17_darwin_amd64.zip",
+      "sha256": "71e56006b013dcfe1e4e059b2b07148b44fcd79351ae2c357e0d97e27ae0d916"
+    },
+    "i686-linux": {
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/1.4.17/terraform-provider-nomad_1.4.17_linux_386.zip",
+      "sha256": "c894cf98d239b9f5a4b7cde9f5c836face0b5b93099048ee817b0380ea439c65"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/1.4.17/terraform-provider-nomad_1.4.17_linux_amd64.zip",
+      "sha256": "c918642870f0cafdbe4d7dd07c909701fc3ddb47cac8357bdcde1327bf78c11d"
+    }
+  },
+  "owner": "hashicorp",
+  "repo": "nomad",
+  "version": "1.4.17"
+}

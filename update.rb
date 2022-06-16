@@ -36,20 +36,6 @@ def get_version(owner, repo, version, os, arch)
   }
 end
 
-# A dumbed-down version
-def to_nix(val, indent = "")
-  case val
-  when Hash
-    "{\n" + val.keys.sort.map do |key|
-      "#{indent}  #{key} = #{to_nix val[key], indent + "  "};\n"
-    end.join + indent + "}"
-  when String
-    "\"#{val}\""
-  else
-    raise "class #{val.class} not supported"
-  end
-end
-
 # Get the latest version of the provider and write it to the file
 def update_provider(file, owner, repo)
   versions = http_get("#{owner}/#{repo}/versions")["versions"]
@@ -81,32 +67,18 @@ def update_provider(file, owner, repo)
     version: version,
   }
 
-  File.write(file, <<NIX)
-{ mkTerraformProvider }:
-mkTerraformProvider #{to_nix data}
-NIX
-end
-
-def update_folder(dir)
-  default = "data:\n{\n" +
-  Dir.chdir(dir) do
-    Dir.glob("*").sort.select{|v| File.directory? v}.map do |v|
-      "  #{v} = import ./#{v} data;\n"
-    end.join
-  end +
-  "\n  recurseForDerivations = true;\n}\n"
-  File.write("#{dir}/default.nix", default)
+  prev_data = JSON.load(File.read(file)) rescue {}
+  if prev_data["version"] != data[:version] then
+    puts "#{prev_data["version"]} => #{data[:version]}"
+    File.write(file, JSON.pretty_generate(data))
+  else
+    puts "no update"
+  end
 end
 
 Dir.chdir("#{__dir__}/providers") do
   Dir.glob(ARGV[0] || "*/*").select{|f| File.directory? f}.sort.each do |path|
-    puts "Updating #{path}"
-    update_provider File.join(path, "default.nix"), *path.split("/")
+    $stdout.write "Updating #{path}: "
+    update_provider File.join(path, "default.json"), *path.split("/")
   end
-
-  Dir.glob("*").select{|f| File.directory? f}.sort.each do |path|
-    update_folder(path)
-  end
-
-  update_folder(".")
 end

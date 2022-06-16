@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "url": "https://github.com/scottwinkler/terraform-provider-shell/releases/download/v1.7.10/terraform-provider-shell_1.7.10_darwin_arm64.zip",
+      "sha256": "00574d8102685054080ad68db5ee99f1ee02c07709d3f77324be2d134eddf0d4"
+    },
+    "x86_64-linux": {
+      "url": "https://github.com/scottwinkler/terraform-provider-shell/releases/download/v1.7.10/terraform-provider-shell_1.7.10_linux_amd64.zip",
+      "sha256": "cc24f9cd5ba535fbdb1bcabea69c5f150b43004ed180a3d14d740700d0d1a4b7"
+    },
+    "i686-linux": {
+      "url": "https://github.com/scottwinkler/terraform-provider-shell/releases/download/v1.7.10/terraform-provider-shell_1.7.10_linux_386.zip",
+      "sha256": "9daebe55771a8e5b7b21c59cd53d86af9a1435e903ca60de119ccb3bc73a87b8"
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/scottwinkler/terraform-provider-shell/releases/download/v1.7.10/terraform-provider-shell_1.7.10_linux_arm64.zip",
+      "sha256": "cd7283a1a9fb857eb0c2e436ad9859b557127b594a1c7f818c1cb7a20df1c724"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/scottwinkler/terraform-provider-shell/releases/download/v1.7.10/terraform-provider-shell_1.7.10_darwin_amd64.zip",
+      "sha256": "a2d477ed687592a392439c7f96e378c9aa356151f7b2b44dcebc9aae956018e0"
+    }
+  },
+  "owner": "scottwinkler",
+  "repo": "shell",
+  "version": "1.7.10"
+}
