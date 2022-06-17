@@ -21,11 +21,19 @@ $ niv add numtide/nixpkgs-terraform-providers-bin
 
 Then import the provider in your nix code:
 ```nix
-{ pkgs }:
+{ system ? builtins.currentSystem }:
 let
-  sources = import ./sources.nix;
+  # Dependencies managed by Niv
+  sources = import ./nix/sources.nix;
+
+  nixpkgs = import sources.nixpkgs {
+    inherit system;
+  };
+
   # Pass an instance of nixpkgs to this repo.
-  terraform-providers-bin = import sources.nixpkgs-terraform-providers-bin { nixpkgs = pkgs; };
+  terraform-providers-bin = import sources.nixpkgs-terraform-providers-bin {
+    inherit nixpkgs;
+  };
 
   # You can mix-and-match terraform providers
   my-terraform = pkgs.terraform.withPlugins (p: [
@@ -52,20 +60,15 @@ Pretty much the same as above but using
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     devshell.url = "github:numtide/devshell";
+    devshell.inputs.nixpkgs.follows = "nixpkgs";
     terraform-providers-bin.url = "github:numtide/nixpkgs-terraform-providers-bin";
     terraform-providers-bin.inputs.nixpkgs.follows = "nixpkgs";
   };
   outputs = { self, nixpkgs, flake-utils, devshell, terraform-providers-bin }@inputs:
     flake-utils.lib.eachSystem [ "x86_64-linux" ] (system:
       let
-        pkgs = import nixpkgs {
-          inherit system inputs;
-          overlays = [
-            devshell.overlay
-          ];
-        };
         # You can mix-and-match terraform providers
-        my-terraform = pkgs.terraform.withPlugins (p: [
+        my-terraform = nixpkgs.legacyPackages.${system}.terraform.withPlugins (p: [
           # The providers coming from nixpkgs have a flat namespace
           p.random
           # The providers coming from terraform-providers-bin have the same
@@ -78,11 +81,12 @@ Pretty much the same as above but using
           imports = [
             (pkgs.devshell.importTOML ./commands.toml)
           ];
-          packages = with pkgs; [
+          packages = [
             my-terraform
           ];
         };
-      });
+      }
+    );
 }
 ```
 
