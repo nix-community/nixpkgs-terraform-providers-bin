@@ -1,20 +1,20 @@
 {
   "archSrc": {
     "aarch64-linux": {
-      "url": "https://github.com/gocachebr/terraform-provider-gocache/releases/download/v0.3.2/terraform-provider-gocache_0.3.2_linux_arm64.zip",
-      "sha256": "43a35399f0c7dcc485947fdfbf983f0ff16ce8d8d5eb2f60649337dfeeaf2f9d"
+      "sha256": "43a35399f0c7dcc485947fdfbf983f0ff16ce8d8d5eb2f60649337dfeeaf2f9d",
+      "url": "https://github.com/gocachebr/terraform-provider-gocache/releases/download/v0.3.2/terraform-provider-gocache_0.3.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "url": "https://github.com/gocachebr/terraform-provider-gocache/releases/download/v0.3.2/terraform-provider-gocache_0.3.2_linux_386.zip",
-      "sha256": "a97d1b2abc0900a7cfd0f419aed2b5326cc7b068c71e74062c3eaeb0666c03a7"
-    },
-    "x86_64-linux": {
-      "url": "https://github.com/gocachebr/terraform-provider-gocache/releases/download/v0.3.2/terraform-provider-gocache_0.3.2_linux_amd64.zip",
-      "sha256": "7d758a7be50028de6fa68ae18f8bf111c076e39a50492c59c55c1422feb4078b"
+      "sha256": "a97d1b2abc0900a7cfd0f419aed2b5326cc7b068c71e74062c3eaeb0666c03a7",
+      "url": "https://github.com/gocachebr/terraform-provider-gocache/releases/download/v0.3.2/terraform-provider-gocache_0.3.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "url": "https://github.com/gocachebr/terraform-provider-gocache/releases/download/v0.3.2/terraform-provider-gocache_0.3.2_darwin_amd64.zip",
-      "sha256": "0d56a9c9663dfc6473788d3337fc1f11709d74c26527181b408e6a1a7d8505f1"
+      "sha256": "0d56a9c9663dfc6473788d3337fc1f11709d74c26527181b408e6a1a7d8505f1",
+      "url": "https://github.com/gocachebr/terraform-provider-gocache/releases/download/v0.3.2/terraform-provider-gocache_0.3.2_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "7d758a7be50028de6fa68ae18f8bf111c076e39a50492c59c55c1422feb4078b",
+      "url": "https://github.com/gocachebr/terraform-provider-gocache/releases/download/v0.3.2/terraform-provider-gocache_0.3.2_linux_amd64.zip"
     }
   },
   "owner": "gocachebr",

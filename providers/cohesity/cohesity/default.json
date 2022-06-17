@@ -1,20 +1,20 @@
 {
   "archSrc": {
+    "aarch64-linux": {
+      "sha256": "eed4929b090822b16c55d0d5d7ee50cec03f8b0cb4d5a2bd3999c3e2a89fa65d",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_arm64.zip"
+    },
     "i686-linux": {
-      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_386.zip",
-      "sha256": "54beaab9b7861f2a1a6437907062486d22c7ddf68b352fb173ddf175279996a9"
+      "sha256": "54beaab9b7861f2a1a6437907062486d22c7ddf68b352fb173ddf175279996a9",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_darwin_amd64.zip",
-      "sha256": "90ba177ef3b334f23bdee16aff12130da93ce78620c2bfbf1651bcf18a221836"
+      "sha256": "90ba177ef3b334f23bdee16aff12130da93ce78620c2bfbf1651bcf18a221836",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_amd64.zip",
-      "sha256": "3367a5839e981b243693cc66584a494ea03f173bea1a8f12ef59a3f0f3cd7887"
-    },
-    "aarch64-linux": {
-      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_arm64.zip",
-      "sha256": "eed4929b090822b16c55d0d5d7ee50cec03f8b0cb4d5a2bd3999c3e2a89fa65d"
+      "sha256": "3367a5839e981b243693cc66584a494ea03f173bea1a8f12ef59a3f0f3cd7887",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_amd64.zip"
     }
   },
   "owner": "cohesity",

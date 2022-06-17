@@ -1,24 +1,24 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "e73a2b54b3dd9594ec1baafb2c3228777faac31c70fbb97c21de7f48402edeab",
+      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_linux_arm64.zip",
-      "sha256": "0d152342af517843baaa819ea2870d0781588b6287f07287b1d0ef68351f859f"
+      "sha256": "0d152342af517843baaa819ea2870d0781588b6287f07287b1d0ef68351f859f",
+      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_linux_arm64.zip"
     },
     "i686-linux": {
-      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_linux_386.zip",
-      "sha256": "6a422a089e94f98bdcb11406f866b21fd2fd4e32ec26817c6ce47bbb078e7d61"
-    },
-    "x86_64-linux": {
-      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_linux_amd64.zip",
-      "sha256": "4d7cddf6e6ee343d678217ed86a9ad6aac88bed4a25335c1571347717cfe3dbf"
+      "sha256": "6a422a089e94f98bdcb11406f866b21fd2fd4e32ec26817c6ce47bbb078e7d61",
+      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_linux_386.zip"
     },
     "x86_64-darwin": {
-      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_darwin_amd64.zip",
-      "sha256": "c64ad0c9f90ade323c15c6ae2ea9efb09635794de44194b568cf129508edf127"
+      "sha256": "c64ad0c9f90ade323c15c6ae2ea9efb09635794de44194b568cf129508edf127",
+      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_darwin_amd64.zip"
     },
-    "aarch64-darwin": {
-      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_darwin_arm64.zip",
-      "sha256": "e73a2b54b3dd9594ec1baafb2c3228777faac31c70fbb97c21de7f48402edeab"
+    "x86_64-linux": {
+      "sha256": "4d7cddf6e6ee343d678217ed86a9ad6aac88bed4a25335c1571347717cfe3dbf",
+      "url": "https://github.com/shipa-corp/terraform-provider-shipa/releases/download/v0.0.13/terraform-provider-shipa_0.0.13_linux_amd64.zip"
     }
   },
   "owner": "shipa-corp",

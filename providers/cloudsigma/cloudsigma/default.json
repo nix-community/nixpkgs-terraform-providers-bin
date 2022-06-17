@@ -1,20 +1,20 @@
 {
   "archSrc": {
-    "x86_64-darwin": {
-      "url": "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.1/terraform-provider-cloudsigma_1.10.1_darwin_amd64.zip",
-      "sha256": "f74db0cdfb3b2550c3d9e80dff00e23c5b9da9974a09b0631f645c057b917582"
-    },
     "aarch64-darwin": {
-      "url": "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.1/terraform-provider-cloudsigma_1.10.1_darwin_arm64.zip",
-      "sha256": "89091b8e114f25d42cbe6b147cc509857d2a03e80df8339e02e4bc02bcfaf716"
-    },
-    "x86_64-linux": {
-      "url": "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.1/terraform-provider-cloudsigma_1.10.1_linux_amd64.zip",
-      "sha256": "b42b14acd073bb5e59644245fd6674230556f63b6c9ca88197916dae76fb63bf"
+      "sha256": "89091b8e114f25d42cbe6b147cc509857d2a03e80df8339e02e4bc02bcfaf716",
+      "url": "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.1/terraform-provider-cloudsigma_1.10.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "url": "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.1/terraform-provider-cloudsigma_1.10.1_linux_arm64.zip",
-      "sha256": "3df4650341b823f2aebf44f7eb8c0b3e5313178159b2295395e8078de160fd00"
+      "sha256": "3df4650341b823f2aebf44f7eb8c0b3e5313178159b2295395e8078de160fd00",
+      "url": "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.1/terraform-provider-cloudsigma_1.10.1_linux_arm64.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "f74db0cdfb3b2550c3d9e80dff00e23c5b9da9974a09b0631f645c057b917582",
+      "url": "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.1/terraform-provider-cloudsigma_1.10.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "b42b14acd073bb5e59644245fd6674230556f63b6c9ca88197916dae76fb63bf",
+      "url": "https://github.com/cloudsigma/terraform-provider-cloudsigma/releases/download/v1.10.1/terraform-provider-cloudsigma_1.10.1_linux_amd64.zip"
     }
   },
   "owner": "cloudsigma",

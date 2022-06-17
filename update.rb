@@ -31,8 +31,8 @@ end
 def get_version(owner, repo, version, os, arch)
   data = http_get("#{owner}/#{repo}/#{version}/download/#{os}/#{arch}")
   {
-    url: data["download_url"],
     sha256: data["shasum"],
+    url: data["download_url"],
   }
 end
 
@@ -58,7 +58,7 @@ def update_provider(file, owner, repo)
       sum["#{nix_arch}-#{nix_os}"] = get_version(owner, repo, version, os, arch)
     end
     sum
-  end
+  end.sort_by {|k, v| k}.to_h
 
   data = {
     archSrc: archSrc,
