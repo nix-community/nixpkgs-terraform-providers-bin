@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a8c956cd2f8875238eb391550813a8e76879ca1c2fbb4b68c0ac514185d9374a",
-      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.2.2/terraform-provider-metal_3.2.2_darwin_arm64.zip"
+      "sha256": "5300fade06db25aa2e98de10a313f634221d9934bbe93b8ad8282cbd46b0e75a",
+      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.3.0/terraform-provider-metal_3.3.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "3e3d6a6e79691e6117250d72f433216da417679592a9288ba448f5c455e3af57",
-      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.2.2/terraform-provider-metal_3.2.2_linux_arm64.zip"
+      "sha256": "42019d99f3374d48749c0a3f4a72b1f1a0055e81e378801f7b2b45661b93a016",
+      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.3.0/terraform-provider-metal_3.3.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "67a3190a03743b1116b4c38228f76522aa7539bcb04a2026e649c490e8b5d82f",
-      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.2.2/terraform-provider-metal_3.2.2_linux_386.zip"
+      "sha256": "41f89f5d2f3867613765808cd15687091c5456151ee1e0ec50313c93f1c78d45",
+      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.3.0/terraform-provider-metal_3.3.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "546b6ad06feae5beb2d7e8ce1e55a4f119fd3d28778e6b5d36d792cbbfc340ae",
-      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.2.2/terraform-provider-metal_3.2.2_darwin_amd64.zip"
+      "sha256": "38974c4cf3ada6fb571d33767bb2fb9d4721430276bb70e833bfe35f19e6c347",
+      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.3.0/terraform-provider-metal_3.3.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "dc190466f631cb3fc1d9788daea9f8dc611fe1ffe058d542eac15dba2eaa9286",
-      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.2.2/terraform-provider-metal_3.2.2_linux_amd64.zip"
+      "sha256": "913084757af995288e88d4ce6f21643c9e4004d3b3fe382cdd8ebb47a1d98013",
+      "url": "https://github.com/equinix/terraform-provider-metal/releases/download/v3.3.0/terraform-provider-metal_3.3.0_linux_amd64.zip"
     }
   },
   "owner": "equinix",
   "repo": "metal",
-  "version": "3.2.2"
+  "version": "3.3.0"
 }
