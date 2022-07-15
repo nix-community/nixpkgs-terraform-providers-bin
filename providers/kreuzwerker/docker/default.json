@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "818324d440594bbaddd62e6a63e3678ac28d43e3c955f4c801d88d2d10fce5c9",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.0/terraform-provider-docker_2.18.0_darwin_arm64.zip"
+      "sha256": "4f76e240f64db9c1eedf6861e707ac521f636773d3ee1ac8835ed6066cac2603",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.1/terraform-provider-docker_2.18.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f0206cf33dceb38d0b60c47ae19dc0fe39ca123f9fac97a496ed2e536122ce59",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.0/terraform-provider-docker_2.18.0_linux_arm64.zip"
+      "sha256": "9558f758b578f9c1d9af97c0e58023e629b1502d991efa9c942a2ac9f5e6108a",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.1/terraform-provider-docker_2.18.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "05cdce31d00637a5dd54b447e600b2bb4be98ca116b23e76ffb214d8817179f3",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.0/terraform-provider-docker_2.18.0_linux_386.zip"
+      "sha256": "03ac5185ed72611ba5bb2552319294be3f24bd48ca75fbb890eb0fa6e7bb7ff3",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.1/terraform-provider-docker_2.18.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "054ec6d18272057df5fc9d23538cf5555acb583dcc49fbdd7c693629cacccd14",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.0/terraform-provider-docker_2.18.0_darwin_amd64.zip"
+      "sha256": "dc1ca0edec5be3227b54f0a30c307742c18bfa30a28c1124798807b03af8a450",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.1/terraform-provider-docker_2.18.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "025ab3cea92211a3283c77725ad662c54a66da343f11e77f1ca40bbf694d2d4e",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.0/terraform-provider-docker_2.18.0_linux_amd64.zip"
+      "sha256": "52d19adb793a9f6db2137576f17c60249993fb3fecf46490d9bb05ae0a6bcd65",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v2.18.1/terraform-provider-docker_2.18.1_linux_amd64.zip"
     }
   },
   "owner": "kreuzwerker",
   "repo": "docker",
-  "version": "2.18.0"
+  "version": "2.18.1"
 }

@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "69d0996aadad4878130d7ebf344fc35a56a2b1df6d84a19295a092db559e79ba",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/0.11.0/terraform-provider-azurestack_0.11.0_darwin_arm64.zip"
+      "sha256": "e4b5ac96ef514c9abbea9c142f3164b88d34a6401265e530a9be452eac3eff90",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/1.0.0/terraform-provider-azurestack_1.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "9b4986bd452c49dbec104c8ce57cac99866e53377eb85db26ca1f70358d40c34",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/0.11.0/terraform-provider-azurestack_0.11.0_linux_arm64.zip"
+      "sha256": "5c666dc74a493b51c4c0902e94c915434d6106ec84f1c15c6896c48b5cbf42b9",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/1.0.0/terraform-provider-azurestack_1.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8372f3bf68740932fb2ffb218fe4fe517f695eaf517e82f1a99ae4cbb2a5c450",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/0.11.0/terraform-provider-azurestack_0.11.0_linux_386.zip"
+      "sha256": "787e338fdeae19bdb1572aca12cce31bcc5d5b304b9637f390697a566e2663d7",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/1.0.0/terraform-provider-azurestack_1.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "2fd1d5b7b544537117fad24af6daa98e5793636894f2ee908700a566a520ba0b",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/0.11.0/terraform-provider-azurestack_0.11.0_darwin_amd64.zip"
+      "sha256": "c93cce856420c7b22641871c6a655c8890ef71044c155caaff476182b53c0b95",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/1.0.0/terraform-provider-azurestack_1.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "434f70cdc328920450a39545e16fc606fd60ae0034b0cb4802b570ead8ec3cb4",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/0.11.0/terraform-provider-azurestack_0.11.0_linux_amd64.zip"
+      "sha256": "e193e131bd482f52b91e0552a300a723cb8b16f8c91f4407bde922c927a92057",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurestack/1.0.0/terraform-provider-azurestack_1.0.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "azurestack",
-  "version": "0.11.0"
+  "version": "1.0.0"
 }
