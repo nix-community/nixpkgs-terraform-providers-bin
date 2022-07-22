@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "16ff11cd23d833a04de68f5af7a91c376228e751d156f22afbfb4338c7b761e1",
-      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.0.2/terraform-provider-databricks_1.0.2_darwin_arm64.zip"
+      "sha256": "1a66bdafec3277e88a87b769e637c37d9c6101c41dbd32ff2292a98cdcc76a0b",
+      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.1.0/terraform-provider-databricks_1.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "bed8d9af7b214e772c1eb38324ce3d65ed7039a9e7ab96735f25792aa91e078c",
-      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.0.2/terraform-provider-databricks_1.0.2_linux_arm64.zip"
+      "sha256": "2504dfe91aa9bbd3a0b1508347ec0c0168a79a8734c9b97d300da9f1c42270d6",
+      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.1.0/terraform-provider-databricks_1.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a9de050500fe808b277ec9853372b48bc2b4faafa88f8b816720b86701cd150b",
-      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.0.2/terraform-provider-databricks_1.0.2_linux_386.zip"
+      "sha256": "f173190276991f077f12a34d2479817848404161f6915489f9ab2554a1b539a6",
+      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.1.0/terraform-provider-databricks_1.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "78e60f612a38c4b7a2a7580083b9d50c7c449497e97fa61875079c90d7b73f6a",
-      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.0.2/terraform-provider-databricks_1.0.2_darwin_amd64.zip"
+      "sha256": "40a3a5b07ac1b41acf8e6f2d486c06b4a57c28a722cdcefcc01e3d659c8146a2",
+      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.1.0/terraform-provider-databricks_1.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "96c07c1ef04e417c2c4ebf2a56acd3e9bfb65fc59b3620ac2cec78b5feca93ad",
-      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.0.2/terraform-provider-databricks_1.0.2_linux_amd64.zip"
+      "sha256": "5e519304fa80882ecccaebc634bda6d236fb927154b92dde46ba77643da37488",
+      "url": "https://github.com/databricks/terraform-provider-databricks/releases/download/v1.1.0/terraform-provider-databricks_1.1.0_linux_amd64.zip"
     }
   },
   "owner": "databrickslabs",
   "repo": "databricks",
-  "version": "1.0.2"
+  "version": "1.1.0"
 }
