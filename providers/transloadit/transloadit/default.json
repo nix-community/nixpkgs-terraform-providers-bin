@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "918d7a6643af125f1b8f8c7491068abc192dfe67d11eb8795719fcb52bef7a36",
+      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.5.1/terraform-provider-transloadit_0.5.1_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "6787d5abf392487e654c0fbbe0b17c8141bd95d143aa5a6058a679961240fb3d",
-      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.4.0/terraform-provider-transloadit_0.4.0_linux_arm64.zip"
+      "sha256": "022b099573f3b2a8b17791190e8c515cca269d0c421c043c5cf30d1dddb1bcd8",
+      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.5.1/terraform-provider-transloadit_0.5.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a5124fdedada6710fe92f9f6be7bd52237f0f9190655f30d5eb15a333341027d",
-      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.4.0/terraform-provider-transloadit_0.4.0_linux_386.zip"
+      "sha256": "1536ca63474a468e5a6851865384cc81a80e4aa08345807c7ba99199c55ff3b7",
+      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.5.1/terraform-provider-transloadit_0.5.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "3ed065c1c5ab9eb28f895c42da06e8d0cd1c4e8c46c10b98a1f9cd8adba3ed8d",
-      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.4.0/terraform-provider-transloadit_0.4.0_darwin_amd64.zip"
+      "sha256": "b0cdc0a55c6f558342d71385c3410259f93ad1763d7a22655018547441993500",
+      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.5.1/terraform-provider-transloadit_0.5.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "edab73092a02933b0192d93f6f2d4f779f3c2fb4f66b082ace2aa1dc9f31a1b1",
-      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.4.0/terraform-provider-transloadit_0.4.0_linux_amd64.zip"
+      "sha256": "138cfd5bd40b08f1f5c630b2505c0703bb5d1e05c8e35ccb4cc7cfd9c6ea5865",
+      "url": "https://github.com/transloadit/terraform-provider-transloadit/releases/download/v0.5.1/terraform-provider-transloadit_0.5.1_linux_amd64.zip"
     }
   },
   "owner": "transloadit",
   "repo": "transloadit",
-  "version": "0.4.0"
+  "version": "0.5.1"
 }
