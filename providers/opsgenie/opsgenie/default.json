@@ -1,19 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "ce2bfac2968d859edc3e6e560d550eb16bd167fbf3d21f9971c4b078b3b4dba5",
+      "url": "https://github.com/opsgenie/terraform-provider-opsgenie/releases/download/v0.6.14/terraform-provider-opsgenie_0.6.14_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "a7ee5eae3253cb2bf4f8fe926ab40dc447434b4af527a0c87c179134339d0ac2",
+      "url": "https://github.com/opsgenie/terraform-provider-opsgenie/releases/download/v0.6.14/terraform-provider-opsgenie_0.6.14_linux_arm64.zip"
+    },
     "i686-linux": {
-      "sha256": "000500e0d809d58db4c5b3db82d2318477f43bd5e24da454927ea92008bfbbe5",
-      "url": "https://github.com/opsgenie/terraform-provider-opsgenie/releases/download/v0.6.11/terraform-provider-opsgenie_0.6.11_linux_386.zip"
+      "sha256": "79123177f9cdd94660c7d9feaff439d9f1bcd91959eab5017f7757778d085602",
+      "url": "https://github.com/opsgenie/terraform-provider-opsgenie/releases/download/v0.6.14/terraform-provider-opsgenie_0.6.14_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "815e5df5578d7f46abaf51293d1b1aabf6139e0bd6eb1d7d8b5fffd64307ee4d",
-      "url": "https://github.com/opsgenie/terraform-provider-opsgenie/releases/download/v0.6.11/terraform-provider-opsgenie_0.6.11_darwin_amd64.zip"
+      "sha256": "ddcd99302f6d6c93142e941d0c8534e2c195dba7990209309f17123ec40aa01d",
+      "url": "https://github.com/opsgenie/terraform-provider-opsgenie/releases/download/v0.6.14/terraform-provider-opsgenie_0.6.14_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "4cd9040553f2a0c6576d848779d09ae65c940980f8cff0e20471d602b5a618c7",
-      "url": "https://github.com/opsgenie/terraform-provider-opsgenie/releases/download/v0.6.11/terraform-provider-opsgenie_0.6.11_linux_amd64.zip"
+      "sha256": "1591d84a65af3a2626a3dd8ef62e8694171177018f8787f9d6972ebbca7724df",
+      "url": "https://github.com/opsgenie/terraform-provider-opsgenie/releases/download/v0.6.14/terraform-provider-opsgenie_0.6.14_linux_amd64.zip"
     }
   },
   "owner": "opsgenie",
   "repo": "opsgenie",
-  "version": "0.6.11"
+  "version": "0.6.14"
 }
