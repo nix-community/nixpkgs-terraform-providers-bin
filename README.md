@@ -138,18 +138,14 @@ $ ./update.rb <owner>/<repo>
 
 ## Contributing
 
-This project is maintained by
-[![Numtide](https://numtide.com/logo.png)](https://numtide.com).
-
 Contributions are welcome. By sending PRs, you agree to license your work
 under the same license as this repository.
 
-## License
-
-Copyright held by [Numtide](https://numtide.com) and contributors.
-
-This project is licensed under the [MIT](LICENSE).
-
-This work has been sponsored by [NumTide](https://numtide.com).
+This project has been created and is maintained by [Numtide](https://numtide.com).
 
 <img src="https://numtide.com/logo.png" alt="NumTide Logo" width="80">
+
+## License
+
+Copyright [Numtide](https://numtide.com) and contributors and licensed under
+the [MIT](LICENSE).
