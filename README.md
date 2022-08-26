@@ -100,7 +100,7 @@ For example:
     nixpkgs-terraform-providers-bin.inputs.nixpkgs.follows = "nixpkgs";
   };
   outputs = { self, nixpkgs, flake-utils, nixpkgs-terraform-providers-bin }@inputs:
-    flake-utils.lib.eachSystem [ "x86_64-linux" ] (system:
+    flake-utils.lib.eachDefaultSystem (system:
       {
         devShells.default = import ./example.nix {
           nixpkgs = nixpkgs.legacyPackages.${system};
