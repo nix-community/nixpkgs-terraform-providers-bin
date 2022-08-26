@@ -18,6 +18,6 @@ jobs:
       - uses: cachix/install-nix-action@v17
       - uses: cachix/cachix-action@v10
         with:
-          name: numtide
+          name: nix-community
           authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
       - run: ./ci.sh

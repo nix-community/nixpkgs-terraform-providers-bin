@@ -55,7 +55,7 @@ nixpkgs.mkShell {
 Here is how to import the project with `niv`:
 
 ```console
-$ niv add numtide/nixpkgs-terraform-providers-bin
+$ niv add nix-community/nixpkgs-terraform-providers-bin
 ```
 
 Then import the provider in your nix code. This is glue code and can be
@@ -96,7 +96,7 @@ For example:
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
-    nixpkgs-terraform-providers-bin.url = "github:numtide/nixpkgs-terraform-providers-bin";
+    nixpkgs-terraform-providers-bin.url = "github:nix-community/nixpkgs-terraform-providers-bin";
     nixpkgs-terraform-providers-bin.inputs.nixpkgs.follows = "nixpkgs";
   };
   outputs = { self, nixpkgs, flake-utils, nixpkgs-terraform-providers-bin }@inputs:
