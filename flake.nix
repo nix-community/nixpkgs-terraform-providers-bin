@@ -7,7 +7,8 @@
     {
       overlay = import ./overlay.nix;
     } //
-    flake-utils.lib.eachDefaultSystem (system: {
+    flake-utils.lib.eachDefaultSystem (system: rec {
       legacyPackages = import ./. { nixpkgs = nixpkgs.legacyPackages.${system}; };
+      checks = builtins.removeAttrs legacyPackages.tests [ "recurseForDerivations" ];
     });
 }
