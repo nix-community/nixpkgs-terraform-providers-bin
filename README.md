@@ -23,6 +23,33 @@ The top-level `default.nix` enforces a 1:1 mapping with the hashicorp
 registry. For example https://registry.terraform.io/providers/hashicorp/aws
 maps to the `providers.hashicorp.aws` attribute.
 
+Eg:
+
+[$ example/example.nix](example/example.nix) as nix
+```nix
+{ nixpkgs, nixpkgs-terraform-providers-bin }:
+let
+  # Create a wrapper of terraform that has access to only the declared list of
+  # providers. Mixed-and-matched from both nixpkgs and this project.
+  my_terraform = nixpkgs.terraform.withPlugins (p: [
+    # The providers coming from nixpkgs have a flat namespace
+    p.random
+    p.null
+
+    # The providers coming from nixpkgs-terraform-providers-bin have a 1:1
+    # mapping with the terraform registry, replacing `/` with `.`:
+    # https://registry.terraform.io/providers/hashicorp/nomad
+    nixpkgs-terraform-providers-bin.providers.hashicorp.nomad
+  ]);
+in
+# Here we create a trivial shell with only that wrapper
+nixpkgs.mkShell {
+  packages = [
+    my_terraform
+  ];
+}
+```
+
 ### Niv
 
 Here is how to import the project with `niv`:
@@ -31,7 +58,10 @@ Here is how to import the project with `niv`:
 $ niv add numtide/nixpkgs-terraform-providers-bin
 ```
 
-Then import the provider in your nix code:
+Then import the provider in your nix code. This is glue code and can be
+arranged in various ways:
+
+[$ example/shell.nix](example/shell.nix) as nix
 ```nix
 { system ? builtins.currentSystem }:
 let
@@ -42,60 +72,39 @@ let
     inherit system;
   };
 
-  # Pass an instance of nixpkgs to this repo.
-  terraform-providers-bin = import sources.nixpkgs-terraform-providers-bin {
+  nixpkgs-terraform-providers-bin = import sources.nixpkgs-terraform-providers-bin {
+    # Pass an instance of nixpkgs to this repo.
     inherit nixpkgs;
   };
-
-  # You can mix-and-match terraform providers
-  my-terraform = pkgs.terraform.withPlugins (p: [
-    # The providers coming from nixpkgs have a flat namespace
-    p.random
-    # The providers coming from terraform-providers-bin have the same
-    # namespace as the terraform registry.
-    terraform-providers-bin.providers.hashicorp.nomad
-  ]);
 in
-# ... the usual
-null
+import ./example.nix {
+  inherit nixpkgs nixpkgs-terraform-providers-bin;
+}
 ```
 
 ### Flakes
 
 Pretty much the same as above but using
-`terraform-providers-bin.legacyPackages.${system}` instead of
-`terraform-providers-bin`:
+`nixpkgs-terraform-providers-bin.legacyPackages.${system}` instead of
+`nixpkgs-terraform-providers-bin`:
 
+For example:
+
+[$ example/flake.nix](example/flake.nix) as nix
 ```nix
 {
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
-    devshell.url = "github:numtide/devshell";
-    devshell.inputs.nixpkgs.follows = "nixpkgs";
-    terraform-providers-bin.url = "github:numtide/nixpkgs-terraform-providers-bin";
-    terraform-providers-bin.inputs.nixpkgs.follows = "nixpkgs";
+    nixpkgs-terraform-providers-bin.url = "github:numtide/nixpkgs-terraform-providers-bin";
+    nixpkgs-terraform-providers-bin.inputs.nixpkgs.follows = "nixpkgs";
   };
-  outputs = { self, nixpkgs, flake-utils, devshell, terraform-providers-bin }@inputs:
+  outputs = { self, nixpkgs, flake-utils, nixpkgs-terraform-providers-bin }@inputs:
     flake-utils.lib.eachSystem [ "x86_64-linux" ] (system:
-      let
-        # You can mix-and-match terraform providers
-        my-terraform = nixpkgs.legacyPackages.${system}.terraform.withPlugins (p: [
-          # The providers coming from nixpkgs have a flat namespace
-          p.random
-          # The providers coming from terraform-providers-bin have the same
-          # namespace as the terraform registry.
-          terraform-providers-bin.legacyPackages.${system}.providers.hashicorp.nomad
-        ]);
-      in
       {
-        devShell = pkgs.devshell.mkShell {
-          imports = [
-            (pkgs.devshell.importTOML ./commands.toml)
-          ];
-          packages = [
-            my-terraform
-          ];
+        devShells.default = import ./example.nix {
+          nixpkgs = nixpkgs.legacyPackages.${system};
+          nixpkgs-terraform-providers-bin = nixpkgs-terraform-providers-bin.legacyPackages.${system};
         };
       }
     );
@@ -127,9 +136,20 @@ $ mkdir -p providers/<owner>/<repo>
 $ ./update.rb <owner>/<repo>
 ```
 
-## License                                                                    
-                                                                              
-Unless explicitly stated otherwise, any contribution intentionally submitted
-for inclusion in the work by you shall be licensed under the [MIT
-license](LICENSE), without any additional terms or conditions.
+## Contributing
 
+This project is maintained by
+[![Numtide](https://numtide.com/logo.png)](https://numtide.com).
+
+Contributions are welcome. By sending PRs, you agree to license your work
+under the same license as this repository.
+
+## License
+
+Copyright held by [Numtide](https://numtide.com) and contributors.
+
+This project is licensed under the [MIT](LICENSE).
+
+This work has been sponsored by [NumTide](https://numtide.com).
+
+<img src="https://numtide.com/logo.png" alt="NumTide Logo" width="80">

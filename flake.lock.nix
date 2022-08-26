@@ -3,7 +3,7 @@
 # This version only gives back the inputs. In that mode, flake becomes little
 # more than a niv replacement.
 let
-  lockFilePath = ../flake.lock;
+  lockFilePath = ./flake.lock;
 
   lockFile = builtins.fromJSON (builtins.readFile lockFilePath);
 

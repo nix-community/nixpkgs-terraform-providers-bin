@@ -1,5 +1,9 @@
 { system ? builtins.currentSystem
-, nixpkgs ? import ./nix { inherit system; }
+, nixpkgs ? import (import ./flake.lock.nix).nixpkgs {
+    inherit system;
+    configuration = { };
+    overlays = [ ];
+  }
 }:
 let
   # shadow the above system on purpose as it should only be used to construct
