@@ -2,14 +2,13 @@
 
 **STATUS: stable**
 
-This is for people who use nixpkgs's `terraform.withPlugins` to manage
-terraform provider dependencies (TODO: explain in a blog post why it's great).
+The aim of this project is to provide a daily release of the latest terraform
+providers from https://registry.terraform.io/browse/providers packaged with
+Nix.
 
-It takes a while to update the terraform providers in nixpkgs. Then wait for
-the channel to bump. The channel bump might also bump other software versions.
-
-Here the approach is different; pull the latest versions from the official
-registry and translate them into Nix. This means no compilation times.
+It's useful if your project is using `terraform.withPlugins` and is stuck on
+an old nixpkgs channel. This project allows you to mix-and-match providers as
+needed.
 
 ## Usage
 
@@ -90,16 +89,25 @@ Pretty much the same as above but using
 }
 ```
 
-
 ## Maintenance
 
 ### Updating providers
+
+The CI does a daily run of the script below, and then pushes the changes back
+to the master branch.
 
 ```console
 $ ./update.rb
 ```
 
 ### Adding new providers
+
+By default, we included all the providers that are in nixpkgs, and the
+"official" providers from
+https://registry.terraform.io/browse/providers?tier=official
+
+If there is another provider that you want to see added to the list, feel free
+to send a PR after running this:
 
 ```console
 $ mkdir -p providers/<owner>/<repo>
