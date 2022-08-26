@@ -2,17 +2,30 @@
 
 **STATUS: stable**
 
-The aim of this project is to provide a daily release of the latest terraform
-providers from https://registry.terraform.io/browse/providers packaged with
-Nix.
+This project provides a daily snapshot of the latest terraform providers from
+https://registry.terraform.io/browse/providers packaged with Nix.
 
 It's useful if your project is using `terraform.withPlugins` and is stuck on
 an old nixpkgs channel. This project allows you to mix-and-match providers as
 needed.
 
+## Features
+
+* automatically updated daily
+* compatible with `terraform.withPlugins`
+* supports holding multiple providers with the same name
+
 ## Usage
 
+This is a Nix project, that you import using either `niv` or Nix Flakes.
+
+The top-level `default.nix` enforces a 1:1 mapping with the hashicorp
+registry. For example https://registry.terraform.io/providers/hashicorp/aws
+maps to the `providers.hashicorp.aws` attribute.
+
 ### Niv
+
+Here is how to import the project with `niv`:
 
 ```console
 $ niv add numtide/nixpkgs-terraform-providers-bin
