@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ee6d23208449a8eaa6c4f203e33f5176fa795b4b9ecf32903dffe6e2574732c2",
-      "url": "https://releases.hashicorp.com/terraform-provider-random/3.3.2/terraform-provider-random_3.3.2_darwin_arm64.zip"
+      "sha256": "2f816d7f8b6e1874b32602aa7df36b7e1614f9eebf526fdd2c3b23f3417e84b6",
+      "url": "https://releases.hashicorp.com/terraform-provider-random/3.4.0/terraform-provider-random_3.4.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "427611a4ce9d856b1c73bea986d841a969e4c2799c8ac7c18798d0cc42b78d32",
-      "url": "https://releases.hashicorp.com/terraform-provider-random/3.3.2/terraform-provider-random_3.3.2_linux_arm64.zip"
+      "sha256": "7b913a59be97b73e1ea8b9e70db1a456069f27d2cc2a4cdfc155e48da34fb9f6",
+      "url": "https://releases.hashicorp.com/terraform-provider-random/3.4.0/terraform-provider-random_3.4.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "7222e16f7833199dabf1bc5401c56d708ec052b2a5870988bc89ff85b68a5388",
-      "url": "https://releases.hashicorp.com/terraform-provider-random/3.3.2/terraform-provider-random_3.3.2_linux_386.zip"
+      "sha256": "5561e58372eb4b202ae4b57d55d3f3e7a2a36cc7612a6b0d95d628fc5c15b26c",
+      "url": "https://releases.hashicorp.com/terraform-provider-random/3.4.0/terraform-provider-random_3.4.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5574828d90b19ab762604c6306337e6cd430e65868e13ef6ddb4e25ddb9ad4c0",
-      "url": "https://releases.hashicorp.com/terraform-provider-random/3.3.2/terraform-provider-random_3.3.2_darwin_amd64.zip"
+      "sha256": "e170f63befa2f1f51a582c7ec9ff57e84b28b8ee129647a5338deaba6da39ce2",
+      "url": "https://releases.hashicorp.com/terraform-provider-random/3.4.0/terraform-provider-random_3.4.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b8f85b6a20bd264fcd0814866f415f0a368d1123cd7879c8ebbf905d370babc8",
-      "url": "https://releases.hashicorp.com/terraform-provider-random/3.3.2/terraform-provider-random_3.3.2_linux_amd64.zip"
+      "sha256": "6d5d0bc60b0f6762f90ecc246a2d245c16e945ff78c3ce2be5d022302d878211",
+      "url": "https://releases.hashicorp.com/terraform-provider-random/3.4.0/terraform-provider-random_3.4.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "random",
-  "version": "3.3.2"
+  "version": "3.4.0"
 }
