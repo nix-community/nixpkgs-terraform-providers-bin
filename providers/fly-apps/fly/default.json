@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "8880d7c6280cfcfbcb4653d9c4dda15b9a6578057be2c0422f89279700a8f212",
-      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.14/terraform-provider-fly_0.0.14_darwin_arm64.zip"
+      "sha256": "96d1400d8b720a7e88cc9c5c79c57ab4ee373e5730a901194fc5271b0ffd0dbc",
+      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.15/terraform-provider-fly_0.0.15_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "3a7f08797e6d9f4339b9661d54ef5f0cbe79d5d081342238fd373d5f529a6b67",
-      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.14/terraform-provider-fly_0.0.14_linux_arm64.zip"
+      "sha256": "a78e2fd5337871835b8be2e649f6fcdceea3bbc59e99cca061adf9784bfcb1c0",
+      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.15/terraform-provider-fly_0.0.15_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "354c178701a2a2381d1da46e2e5770fb39e07965f5285e2cf9358bddbe310b8d",
-      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.14/terraform-provider-fly_0.0.14_linux_386.zip"
+      "sha256": "766015bdbaf7ec5d00abc3ced4a9bb3af3955331cd8263d0081738f45953d780",
+      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.15/terraform-provider-fly_0.0.15_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "642164ddba9a924288ed87e1cd7c281a9d16f31183fdf925a4f699416709eb8b",
-      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.14/terraform-provider-fly_0.0.14_darwin_amd64.zip"
+      "sha256": "2c41771cce5be77a3f31138da5cc94bd6d3dda6ca66c7c260193455ff8e02119",
+      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.15/terraform-provider-fly_0.0.15_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "bc4e1dbf72b49953a3e712b4014f80608808fd49994a9d48b1d877f787cf108d",
-      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.14/terraform-provider-fly_0.0.14_linux_amd64.zip"
+      "sha256": "dbd1345e1dd75199eb6ba420ffcd289fd0e7b8b8e7ba7de668b4e04ea387e62f",
+      "url": "https://github.com/fly-apps/terraform-provider-fly/releases/download/v0.0.15/terraform-provider-fly_0.0.15_linux_amd64.zip"
     }
   },
   "owner": "fly-apps",
   "repo": "fly",
-  "version": "0.0.14"
+  "version": "0.0.15"
 }
