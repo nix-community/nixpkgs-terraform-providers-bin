@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "61bece02c09e1dd5b03be91ccb91b8ffac0b871a496189f0bc55621283ff91dc",
+      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.34/terraform-provider-jetstream_0.0.34_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "d758890da6bb70935474697cd1126741c33c9bc33429fa04e93e3ce3dc680a47",
-      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.31/terraform-provider-jetstream_0.0.31_linux_arm64.zip"
+      "sha256": "e799e6d2ff0c174ed5c1527a3e057deca2740ec511b2a49b8b630da45c40af77",
+      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.34/terraform-provider-jetstream_0.0.34_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "9cb4f82149f0e7e603d2dc7a388ff21f7031fa04beebbe9a27bd449a58b3a08f",
-      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.31/terraform-provider-jetstream_0.0.31_linux_386.zip"
+      "sha256": "2c2e7a0baaa2f870a0f55b722b51922e09e76a400a1c10161b938879521673b0",
+      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.34/terraform-provider-jetstream_0.0.34_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "1aa76e1701c2cb42f0290d10559ce7dec040383c671a6b5723d4f821f52ac6c8",
-      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.31/terraform-provider-jetstream_0.0.31_darwin_amd64.zip"
+      "sha256": "95600e34baea45e4495f37138e8091e2354a43c0bd3f94ea0b98cc070fd7a73d",
+      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.34/terraform-provider-jetstream_0.0.34_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "8e013e3cec294dba0e077b6aa1a6a6d9eda2ae6dcb54627eb87b529f0fd4ad60",
-      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.31/terraform-provider-jetstream_0.0.31_linux_amd64.zip"
+      "sha256": "514693800a08ad67a4d68a9b26059f681d5ef1d80e63968feb3888341311a47f",
+      "url": "https://github.com/nats-io/terraform-provider-jetstream/releases/download/v0.0.34/terraform-provider-jetstream_0.0.34_linux_amd64.zip"
     }
   },
   "owner": "nats-io",
   "repo": "jetstream",
-  "version": "0.0.31"
+  "version": "0.0.34"
 }
