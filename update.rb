@@ -70,7 +70,7 @@ def update_provider(file, owner, repo)
   prev_data = JSON.load(File.read(file)) rescue {}
   if prev_data["version"] != data[:version] then
     puts "#{prev_data["version"]} => #{data[:version]}"
-    File.write(file, JSON.pretty_generate(data))
+    File.write(file, "#{JSON.pretty_generate(data)}\n")
   else
     puts "no update"
   end
