@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "b08ca5dff29058d79670d7ca41535998e81a66c24b09287390aa8ce12fbcd800",
+      "url": "https://github.com/site24x7/terraform-provider-site24x7/releases/download/v1.0.37/terraform-provider-site24x7_1.0.37_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "4e8f270e441079a7237c138c2ca82d7163f67a53aea571a647807ab86fafbdad",
+      "url": "https://github.com/site24x7/terraform-provider-site24x7/releases/download/v1.0.37/terraform-provider-site24x7_1.0.37_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "b1ad82a157a75fd0bfc5cd87b6c92af478c9df3fd3a71a3bee671db09b1524d4",
+      "url": "https://github.com/site24x7/terraform-provider-site24x7/releases/download/v1.0.37/terraform-provider-site24x7_1.0.37_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "431602505ad9a5303aa52a5e9eadedef4910b7e58d0a9f280125286f298d7302",
+      "url": "https://github.com/site24x7/terraform-provider-site24x7/releases/download/v1.0.37/terraform-provider-site24x7_1.0.37_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "4800b3ca607c2635433e17d8371b4345b1b95ee53601f390b118cbdf14efc358",
+      "url": "https://github.com/site24x7/terraform-provider-site24x7/releases/download/v1.0.37/terraform-provider-site24x7_1.0.37_linux_amd64.zip"
+    }
+  },
+  "owner": "site24x7",
+  "repo": "site24x7",
+  "version": "1.0.37"
+}

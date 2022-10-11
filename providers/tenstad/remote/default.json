@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "c6e027516dd23c02fe036f9655bc299d3560aa7dbbdfc470602a41f28c756505",
+      "url": "https://github.com/tenstad/terraform-provider-remote/releases/download/v0.1.0/terraform-provider-remote_0.1.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "c8d27fb7813b9db11c501f2b2e7a215201bf0ef8bd6dddd9dfd1e96d0062101f",
+      "url": "https://github.com/tenstad/terraform-provider-remote/releases/download/v0.1.0/terraform-provider-remote_0.1.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "63f74af83ba3151830e1a858e2042380950b758e7e0b9167cbac7d636f8e967d",
+      "url": "https://github.com/tenstad/terraform-provider-remote/releases/download/v0.1.0/terraform-provider-remote_0.1.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "1db1dbb76439842da95dbcacb76a123c2d6c85ccc7926e0756b0e6f6c445fb1e",
+      "url": "https://github.com/tenstad/terraform-provider-remote/releases/download/v0.1.0/terraform-provider-remote_0.1.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "0a09315e860526a9fc8e8467b6eb406897b3f4088ba1054187c517e0cfddb37d",
+      "url": "https://github.com/tenstad/terraform-provider-remote/releases/download/v0.1.0/terraform-provider-remote_0.1.0_linux_amd64.zip"
+    }
+  },
+  "owner": "tenstad",
+  "repo": "remote",
+  "version": "0.1.0"
+}

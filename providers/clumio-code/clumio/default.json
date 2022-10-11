@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "2d2cef3dfc4c6e3cd610f4022b71da5611b510eafb6e0ee4b72b7ed94d2001d7",
+      "url": "https://github.com/clumio-code/terraform-provider-clumio/releases/download/v0.4.3/terraform-provider-clumio_0.4.3_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "3b85be6499270f2993775df2d91ca3096aa37790b4fdfa2b00e2c658a6525c36",
+      "url": "https://github.com/clumio-code/terraform-provider-clumio/releases/download/v0.4.3/terraform-provider-clumio_0.4.3_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "736a251df774852ccc7b157f2d7f692b52bff66bb0e93a0887ad582d25369909",
+      "url": "https://github.com/clumio-code/terraform-provider-clumio/releases/download/v0.4.3/terraform-provider-clumio_0.4.3_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "3f2e6ae17286cb9cb138cbceaef955852e09bd491312ddea4a07be096e5ab638",
+      "url": "https://github.com/clumio-code/terraform-provider-clumio/releases/download/v0.4.3/terraform-provider-clumio_0.4.3_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "890856e696dce53aab73b164977bef9a78de5448858dd8a57b15add5825e7c4e",
+      "url": "https://github.com/clumio-code/terraform-provider-clumio/releases/download/v0.4.3/terraform-provider-clumio_0.4.3_linux_amd64.zip"
+    }
+  },
+  "owner": "clumio-code",
+  "repo": "clumio",
+  "version": "0.4.3"
+}

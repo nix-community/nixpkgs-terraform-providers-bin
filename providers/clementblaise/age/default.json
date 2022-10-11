@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "1b5c3b125d22baab92ea8c65ef3650671dee19b17f5ccb1f09167228c6468fc9",
+      "url": "https://github.com/clementblaise/terraform-provider-age/releases/download/v0.1.1/terraform-provider-age_0.1.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "420b2c0bf37d69ee426dd84701d23361b41bc5dbc86503220363758bebeeb6b1",
+      "url": "https://github.com/clementblaise/terraform-provider-age/releases/download/v0.1.1/terraform-provider-age_0.1.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "fe8afdf0fe5ade3f2474042f731798c516ad556e9f0cc18f4772c746469672c2",
+      "url": "https://github.com/clementblaise/terraform-provider-age/releases/download/v0.1.1/terraform-provider-age_0.1.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "61318d662cbbc267af9644482fe379b20cd6b71c56f60e9c5f1b7667d265c20e",
+      "url": "https://github.com/clementblaise/terraform-provider-age/releases/download/v0.1.1/terraform-provider-age_0.1.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "28969f204e72957ad88037d2d878a57ea478640f0bf2f41768c28adafb24a53e",
+      "url": "https://github.com/clementblaise/terraform-provider-age/releases/download/v0.1.1/terraform-provider-age_0.1.1_linux_amd64.zip"
+    }
+  },
+  "owner": "clementblaise",
+  "repo": "age",
+  "version": "0.1.1"
+}

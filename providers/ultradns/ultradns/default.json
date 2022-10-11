@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "3b4b92dde61b302a7b4f5b8a30b9a028aba2292b11c2d009e5332b9885e96bc5",
+      "url": "https://github.com/ultradns/terraform-provider-ultradns/releases/download/v1.5.1/terraform-provider-ultradns_1.5.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "f673869e7e76000a2f194dcf6b7fe6c99de1e6fa6cc95b309acd41e48d710d54",
+      "url": "https://github.com/ultradns/terraform-provider-ultradns/releases/download/v1.5.1/terraform-provider-ultradns_1.5.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "d046a1a3ee4c483cbe9fe6ee85e5aacd194511bae448abc73dd79b8f18a36aa4",
+      "url": "https://github.com/ultradns/terraform-provider-ultradns/releases/download/v1.5.1/terraform-provider-ultradns_1.5.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "eab9fe47e41b92deb648af781ee9f411f087e065e9ab158d47ac937f69e239b1",
+      "url": "https://github.com/ultradns/terraform-provider-ultradns/releases/download/v1.5.1/terraform-provider-ultradns_1.5.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "eb1dc7772ce24a13edcbffa8534e0d6cda36061f7a84be701f838758bdbd56dd",
+      "url": "https://github.com/ultradns/terraform-provider-ultradns/releases/download/v1.5.1/terraform-provider-ultradns_1.5.1_linux_amd64.zip"
+    }
+  },
+  "owner": "ultradns",
+  "repo": "ultradns",
+  "version": "1.5.1"
+}

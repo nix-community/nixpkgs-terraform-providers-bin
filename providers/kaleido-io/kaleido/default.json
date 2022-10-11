@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "ee7534922f0c86f1d81ed1d9d1fdb3523425dafbd9e47c7a607865fb8df7389a",
+      "url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v0.2.15/terraform-provider-kaleido_0.2.15_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "56addc24fcafdf0a4c98722ed3efb3ed3e50d59ddf03982789c718051af91e2e",
+      "url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v0.2.15/terraform-provider-kaleido_0.2.15_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "75b6898cccdff9f7e3cdf2d3cb9d46464ed15f32efd770f6c5c311e53baf0dc0",
+      "url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v0.2.15/terraform-provider-kaleido_0.2.15_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "70b3a41b3dfb16250ab91758210b10bc9220e0b6eb9bcdcca4e2d5480c6aa05b",
+      "url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v0.2.15/terraform-provider-kaleido_0.2.15_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "a2c736919eace8eccd7aeca10f8d42b206ef0c04e1e67a05e1244469a8db60a8",
+      "url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v0.2.15/terraform-provider-kaleido_0.2.15_linux_amd64.zip"
+    }
+  },
+  "owner": "kaleido-io",
+  "repo": "kaleido",
+  "version": "0.2.15"
+}
