@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "daffa4c068ceb6d6b4af87cdb3c590ddd2047c3f9e6bc8048a414ea7d99942b0",
+      "url": "https://github.com/timohirt/terraform-provider-hetznerdns/releases/download/v2.1.0/terraform-provider-hetznerdns_2.1.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "1b1e1245a3c57995cddd0e094411715d9a71043ead2d4f427b5bd364616b5822",
+      "url": "https://github.com/timohirt/terraform-provider-hetznerdns/releases/download/v2.1.0/terraform-provider-hetznerdns_2.1.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "ab338f412a020f57931b4852c0ab236a592756d7c3f4a4adb3fe7b96bd847d27",
+      "url": "https://github.com/timohirt/terraform-provider-hetznerdns/releases/download/v2.1.0/terraform-provider-hetznerdns_2.1.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "4b3f4583cad7a106e8dad0252946df34ae908fd7237b1744b500a0428f3e6b02",
+      "url": "https://github.com/timohirt/terraform-provider-hetznerdns/releases/download/v2.1.0/terraform-provider-hetznerdns_2.1.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "c5491e35d3ddd777eab87b6c1b0ac7890e77eb611b8b1dcf6132af665f3a57d8",
+      "url": "https://github.com/timohirt/terraform-provider-hetznerdns/releases/download/v2.1.0/terraform-provider-hetznerdns_2.1.0_linux_amd64.zip"
+    }
+  },
+  "owner": "timohirt",
+  "repo": "hetznerdns",
+  "version": "2.1.0"
+}

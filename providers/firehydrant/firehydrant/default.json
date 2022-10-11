@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "8fad50309d9665a38c961c52364967e2369ce9d12f5661811f7995437d8ecc54",
+      "url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.3.1/terraform-provider-firehydrant_0.3.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "b28ed1cd71128e9c8bfa0c4db7a41c1954694f0ed90b2a7d83779d97f40bad7f",
+      "url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.3.1/terraform-provider-firehydrant_0.3.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "f9f94f9d9059d814cb1ed5de0e17b7cae401e7360d642627b7629945525ffb6f",
+      "url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.3.1/terraform-provider-firehydrant_0.3.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "060a3642f8ba74a7951681cfc53d9e3dd363eb3ccd5887ddc99e738e56152bf5",
+      "url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.3.1/terraform-provider-firehydrant_0.3.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "99e79d7a0b99000891d6268f1425c3e82640bb3e8d37cbc7c7ef5c1b0d812a10",
+      "url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.3.1/terraform-provider-firehydrant_0.3.1_linux_amd64.zip"
+    }
+  },
+  "owner": "firehydrant",
+  "repo": "firehydrant",
+  "version": "0.3.1"
+}

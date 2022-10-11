@@ -1,0 +1,23 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "ef5b30e3dd12ff0ade387af44694e5b4a38a27ad13c3ed1e9187e927b63ad65b",
+      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.19.3/terraform-provider-cloudamqp_1.19.3_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "2f580c20e6334b551800a1dc938e8f320c0c791fddd37c19987611a9753c3960",
+      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.19.3/terraform-provider-cloudamqp_1.19.3_linux_arm64.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "2ca7f93ca00ade2f9f7bb4670988f62d6fbd9ebf4a24a278b33fe69500f2063d",
+      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.19.3/terraform-provider-cloudamqp_1.19.3_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "4ca22a22bc26f3c91a4a225d035e1f3b9687b4e82e7161e98063c40989b4b4f8",
+      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.19.3/terraform-provider-cloudamqp_1.19.3_linux_amd64.zip"
+    }
+  },
+  "owner": "cloudamqp",
+  "repo": "cloudamqp",
+  "version": "1.19.3"
+}

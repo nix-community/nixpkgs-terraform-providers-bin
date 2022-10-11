@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "983796b8dcfe6d1a40e12e20fff453cffd27610b68f89465b3d834460864e69c",
+      "url": "https://github.com/nttcom/terraform-provider-fic/releases/download/v0.5.4/terraform-provider-fic_0.5.4_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "3ea088bfbe90c12bad01a46647d96367fc963015f957fc21259d0ae2d6953acf",
+      "url": "https://github.com/nttcom/terraform-provider-fic/releases/download/v0.5.4/terraform-provider-fic_0.5.4_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "21d9f061b300a16f6f3432ba2885da7398c00ceb3dd6b38dd33bc0f00aeb2775",
+      "url": "https://github.com/nttcom/terraform-provider-fic/releases/download/v0.5.4/terraform-provider-fic_0.5.4_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "8f414b04cba9a9341c1f8f74a3e06c6ccf85b6557f5ed44f39da41ce9b23deab",
+      "url": "https://github.com/nttcom/terraform-provider-fic/releases/download/v0.5.4/terraform-provider-fic_0.5.4_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "cd468ad345079161644c0ac4e3ebbe3739fd1e619bc8f94a43191d7bcb7cd9ee",
+      "url": "https://github.com/nttcom/terraform-provider-fic/releases/download/v0.5.4/terraform-provider-fic_0.5.4_linux_amd64.zip"
+    }
+  },
+  "owner": "nttcom",
+  "repo": "fic",
+  "version": "0.5.4"
+}

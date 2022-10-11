@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "7fe5b1f5fe68fe398a17f0c6c956e583aa8f703b7ba1fff4d9165348e809e515",
+      "url": "https://github.com/hivelocity/terraform-provider-hivelocity/releases/download/v0.7.0/terraform-provider-hivelocity_0.7.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "629c0bcf221dfa3c3df171b7c67d2103b9ee092d6bcfc4ac883e66ebfdcd610a",
+      "url": "https://github.com/hivelocity/terraform-provider-hivelocity/releases/download/v0.7.0/terraform-provider-hivelocity_0.7.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "06091c1c759809221d892ca1f61b81c46140542c79bdc6bf131d5ed1d4df2888",
+      "url": "https://github.com/hivelocity/terraform-provider-hivelocity/releases/download/v0.7.0/terraform-provider-hivelocity_0.7.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "0e5e59c02f7390352c521adeb68bd93efa01d94863e72e7b9db71cf3e5531896",
+      "url": "https://github.com/hivelocity/terraform-provider-hivelocity/releases/download/v0.7.0/terraform-provider-hivelocity_0.7.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "622a23cf0dd78a64b3c59bc0fdbe560deb23310053a642296bb0863bfa1105a7",
+      "url": "https://github.com/hivelocity/terraform-provider-hivelocity/releases/download/v0.7.0/terraform-provider-hivelocity_0.7.0_linux_amd64.zip"
+    }
+  },
+  "owner": "hivelocity",
+  "repo": "hivelocity",
+  "version": "0.7.0"
+}

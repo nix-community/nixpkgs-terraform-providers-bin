@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "fa9476dac2e81fc39d063e4ef3ece98a4f6804bd34318a8af8a587f539fa74dd",
+      "url": "https://github.com/DevCycleHQ/terraform-provider-devcycle/releases/download/v1.0.1/terraform-provider-devcycle_1.0.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "99f8dff31017a3b5c5707a3b6be8f876d6dd0da133ff183b21c103567680b38a",
+      "url": "https://github.com/DevCycleHQ/terraform-provider-devcycle/releases/download/v1.0.1/terraform-provider-devcycle_1.0.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "a732913ffa7e5256ac529bc7428519fe23dff7277df3c2a6b458d3530d46aa97",
+      "url": "https://github.com/DevCycleHQ/terraform-provider-devcycle/releases/download/v1.0.1/terraform-provider-devcycle_1.0.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "82250e9c1a9ee1e154852adbc751ec9ffc781f7cae6a46b5eec26983966cbc15",
+      "url": "https://github.com/DevCycleHQ/terraform-provider-devcycle/releases/download/v1.0.1/terraform-provider-devcycle_1.0.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "a274b250a902684d9442f22e17b63bf2a7b130ce58125646c43c26b3de496c3d",
+      "url": "https://github.com/DevCycleHQ/terraform-provider-devcycle/releases/download/v1.0.1/terraform-provider-devcycle_1.0.1_linux_amd64.zip"
+    }
+  },
+  "owner": "DevCycleHQ",
+  "repo": "devcycle",
+  "version": "1.0.1"
+}

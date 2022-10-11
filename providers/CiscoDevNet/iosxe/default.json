@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "bf00b68bafc2e7847b9d3ec58c8a456b4eaa4469f5a3b95b560fab95a97c4edc",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-iosxe/releases/download/v0.1.1/terraform-provider-iosxe_0.1.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "87f21369197e7588f91b9075e386dc64a293b2a826c530eccb6e261545cea765",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-iosxe/releases/download/v0.1.1/terraform-provider-iosxe_0.1.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "6cb71351fb5bc70c25ac23f3ab32ca90f7d1b43501343cf2b24815b403d8a580",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-iosxe/releases/download/v0.1.1/terraform-provider-iosxe_0.1.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "bc0ef6566ff8ff29c2445915867289d31fbd8e38b2dc5201b0e4d1d8cf5f1bfa",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-iosxe/releases/download/v0.1.1/terraform-provider-iosxe_0.1.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "154f8170eff68f3227c001958254ddd045c5e776319e7e06dfec8ca1c9c962f5",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-iosxe/releases/download/v0.1.1/terraform-provider-iosxe_0.1.1_linux_amd64.zip"
+    }
+  },
+  "owner": "CiscoDevNet",
+  "repo": "iosxe",
+  "version": "0.1.1"
+}
