@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "1db04c53c18d82bdb1c69175f3225ddc5ece5c094960ab6d281c5b81fb465853",
-      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.24/terraform-provider-civo_1.0.24_darwin_arm64.zip"
+      "sha256": "d73f484c7a069c137e6561d77507123753352f326a75b78b98b73ccba1888577",
+      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.25/terraform-provider-civo_1.0.25_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "89d08aeb6bcd9b4a5c2c36e2f83a5b45abb2e333dc235d1f59cad1245a887a13",
-      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.24/terraform-provider-civo_1.0.24_linux_arm64.zip"
+      "sha256": "69e56f2ecd69dd92051374274bb939cdb678a5b9642fb87bce344959e2fdb85b",
+      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.25/terraform-provider-civo_1.0.25_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "e0c2cc0167e0b409fee40a7250a56384b56504bd9151bd20c9ff79a6d28ffb47",
-      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.24/terraform-provider-civo_1.0.24_linux_386.zip"
+      "sha256": "6ec0a1de47a371d16ed03348ef1e04199dd85f96a6d5fa2b471343a0739e4124",
+      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.25/terraform-provider-civo_1.0.25_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "cf527f8b76fd57c87603d920dfd759be00b6ae35634bdf8c4a9326f3acd6dec6",
-      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.24/terraform-provider-civo_1.0.24_darwin_amd64.zip"
+      "sha256": "cd4149a872a5f6fe71ba451636ff4b01c4ca546e8ae84c3ec58f53cb76a5e9b3",
+      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.25/terraform-provider-civo_1.0.25_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "3350b9b7bb42b9916b8ac4cf7e39983df5fc4af40ffa74795e992233253607f2",
-      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.24/terraform-provider-civo_1.0.24_linux_amd64.zip"
+      "sha256": "560d279460c579a5216354a77a2802f552167466001430e2ef332785e57c3464",
+      "url": "https://github.com/civo/terraform-provider-civo/releases/download/v1.0.25/terraform-provider-civo_1.0.25_linux_amd64.zip"
     }
   },
   "owner": "civo",
   "repo": "civo",
-  "version": "1.0.24"
+  "version": "1.0.25"
 }
