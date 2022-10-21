@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "6e4ba6860feb07718c1fb597c31fb0efb2b5327f61ee8894651ab36ba7bb013a",
-      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.34.0/terraform-provider-awscc_0.34.0_darwin_arm64.zip"
+      "sha256": "ef0384762a2418dfc4daea319b0ee7725bdfc6111e97a260efb16d3150b9b9e7",
+      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.35.0/terraform-provider-awscc_0.35.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "dc339efd045e61a9c235f6fb5eed39905e54989a72ad0fdf677f61995b90bb9c",
-      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.34.0/terraform-provider-awscc_0.34.0_linux_arm64.zip"
+      "sha256": "c9b32ebef42cf421e4b1fa3d20ecac1c2ccd85badbe1747c95f72f23e2419ced",
+      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.35.0/terraform-provider-awscc_0.35.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "1610260ebe4a4ec034c8acb75ca2ca9a425b04968dcccd1b2c2e45fa673e13e4",
-      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.34.0/terraform-provider-awscc_0.34.0_linux_386.zip"
+      "sha256": "4bc9a524145e5129200f3ed0929fb6b341f0aec967c832aff3f72a536782f2c2",
+      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.35.0/terraform-provider-awscc_0.35.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "23db80834eb3324051a86be104f333fe98e9dfddafaa04736052305aeb78c46a",
-      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.34.0/terraform-provider-awscc_0.34.0_darwin_amd64.zip"
+      "sha256": "5753c177a45d01d112066484845c715f56e8ffbd8ee799862b7c5a995e34109a",
+      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.35.0/terraform-provider-awscc_0.35.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "28cb3478774892b2dbc1b99fedea003655103444c8a94681f63c6798a95cb410",
-      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.34.0/terraform-provider-awscc_0.34.0_linux_amd64.zip"
+      "sha256": "64710b2b483f8673e74276cadf3a89701f08752eff3786d70b8c861303ec16a4",
+      "url": "https://releases.hashicorp.com/terraform-provider-awscc/0.35.0/terraform-provider-awscc_0.35.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "awscc",
-  "version": "0.34.0"
+  "version": "0.35.0"
 }

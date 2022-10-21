@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "b62238e55c30d9ece9bcea8ec78f4bb94add2112c6ec720c4fd5d0c4044362d0",
+      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.7.0/terraform-provider-cbs_0.7.0_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "af925fc079ad6ad0ce3d36bbc24cc58a8f669254d6689dc6ce1adadf138757bd",
-      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.6.0/terraform-provider-cbs_0.6.0_linux_arm64.zip"
+      "sha256": "bc08f3bca1c237cbefd123c97c902889bd430a81eca7ee5748c4da94f222f629",
+      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.7.0/terraform-provider-cbs_0.7.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "65ea13010d80e55c03a6ebc246bbbd2c9954c96f2bc837886f0f616e664d5d90",
-      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.6.0/terraform-provider-cbs_0.6.0_linux_386.zip"
+      "sha256": "c03889dcef5b821f6e19ce8b398634e0e1da55d581d2b010d479b69c6518b861",
+      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.7.0/terraform-provider-cbs_0.7.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "86b7ed5ef454cc478b08af8abb815caca891fc2702cc1602ee46196b40c8f471",
-      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.6.0/terraform-provider-cbs_0.6.0_darwin_amd64.zip"
+      "sha256": "bf4007525b075e889e54f5ab34fdb8347cd533e9a53da1cf04b12d144c20995e",
+      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.7.0/terraform-provider-cbs_0.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "7bd063ca8c4699cd78a605a48edb263b9eebd30c1daff5aba2bc2e23cf1725e1",
-      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.6.0/terraform-provider-cbs_0.6.0_linux_amd64.zip"
+      "sha256": "ef859b426563bb140e6101c17451f1a0c202d59f866770759cce8382da7a2080",
+      "url": "https://github.com/PureStorage-OpenConnect/terraform-provider-cbs/releases/download/v0.7.0/terraform-provider-cbs_0.7.0_linux_amd64.zip"
     }
   },
   "owner": "PureStorage-OpenConnect",
   "repo": "cbs",
-  "version": "0.6.0"
+  "version": "0.7.0"
 }
