@@ -1,0 +1,23 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "aaa3d7e3fe240c6d899c468dffc044912471be4d8c50ff98af6161960bf3016b",
+      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v4.1.0/terraform-provider-argocd_4.1.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "92f614b99a6ffbca3249fd4820fbb16ae7208008ac8a65d29cc15d235590607d",
+      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v4.1.0/terraform-provider-argocd_4.1.0_linux_arm64.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "5c0637fae98dbcd97741b825cff0ce005fba15c9068e4142e041f226eec9689f",
+      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v4.1.0/terraform-provider-argocd_4.1.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "014d23675ea56d40de3388b1ada628cc56ac006e07573eb005ea2ea6a98874b8",
+      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v4.1.0/terraform-provider-argocd_4.1.0_linux_amd64.zip"
+    }
+  },
+  "owner": "oboukili",
+  "repo": "argocd",
+  "version": "4.1.0"
+}
