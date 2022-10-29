@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "efa4091ed8f124d261b3771259f28ca70fd926096445c0d6457342cb2f72092d",
-      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.29.0/terraform-provider-azuread_2.29.0_darwin_arm64.zip"
+      "sha256": "35d0d3a1b58fdb8b8c4462d6b7e7016042da43ea9cc734ce897f52a73407d9b0",
+      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.30.0/terraform-provider-azuread_2.30.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "59c8d53cf3a0c132fa4e1ee14358a4a1670af35c5a4ba4da8701cb6bce9b09fa",
-      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.29.0/terraform-provider-azuread_2.29.0_linux_arm64.zip"
+      "sha256": "7646980cf3438bff29c91ffedb74458febbb00a996638751fbd204ab1c628c9b",
+      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.30.0/terraform-provider-azuread_2.30.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a77b87f9fc87bb9fa892bb0a3fa695f3ad57dbd35831ead9dc8709bc5fc9f002",
-      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.29.0/terraform-provider-azuread_2.29.0_linux_386.zip"
+      "sha256": "eab175b1dfe9865ad9404dccb6d5542899f8c435095aa7c679314b811c717ce7",
+      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.30.0/terraform-provider-azuread_2.30.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5a4d0a6fe3f9d6e612e7bb1a4845c55efea906e09e4fd7b9883d67add27af1ab",
-      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.29.0/terraform-provider-azuread_2.29.0_darwin_amd64.zip"
+      "sha256": "47ede0cd0206ec953d40bf4a80aa6e59af64e26cbbd877614ac424533dbb693b",
+      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.30.0/terraform-provider-azuread_2.30.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "0d1e0a64c36451b77a6208a02a586e4f39960adc1d2db867383adeafaaf170bb",
-      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.29.0/terraform-provider-azuread_2.29.0_linux_amd64.zip"
+      "sha256": "48c190307d4d42ea67c9b8cc544025024753f46cef6ea64db84735e7055a72da",
+      "url": "https://releases.hashicorp.com/terraform-provider-azuread/2.30.0/terraform-provider-azuread_2.30.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "azuread",
-  "version": "2.29.0"
+  "version": "2.30.0"
 }
