@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ae98153253d32afdb0fc2a4241dc52882f5eb6b97e4c4a92ea410faddf20148a",
-      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.7.3/terraform-provider-lxd_1.7.3_darwin_arm64.zip"
+      "sha256": "e2e5fc4d85bd1611d5c57457971957341bf2ae02667ad4b9a505319510c7a304",
+      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.8.0/terraform-provider-lxd_1.8.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d05a74d37091bf47db5625ec8501028352b213d7e6ecc405085d198fc80a4073",
-      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.7.3/terraform-provider-lxd_1.7.3_linux_arm64.zip"
+      "sha256": "917462f91722f5b5ef5611ee2a22e04365166154802bd2b0d17e100cba0e0b63",
+      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.8.0/terraform-provider-lxd_1.8.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "3a2b94decb1d5cef7fe942baa6f630e298be959f9c4e7612da117c563545721d",
-      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.7.3/terraform-provider-lxd_1.7.3_linux_386.zip"
+      "sha256": "96b5d5432248035f24b93c154320a50b8c56a4152cde27e3299a5e5d3481d28c",
+      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.8.0/terraform-provider-lxd_1.8.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "9310dd8e9cba7c22746e7bc39ab1c78d7ad910551d91b9307a1e15d5491b9593",
-      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.7.3/terraform-provider-lxd_1.7.3_darwin_amd64.zip"
+      "sha256": "ba0e70bdb1ea51a8cc868dc69bf827c93c00b6c4dc44435da0eb3b3da05c2ba8",
+      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.8.0/terraform-provider-lxd_1.8.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6aa92f2dd2d6b0ef84f4ace9f1d28d980a9ea58727c0da89211fa76fccdc96a0",
-      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.7.3/terraform-provider-lxd_1.7.3_linux_amd64.zip"
+      "sha256": "0429dbbf35ee872e6a0de1820a4ffb38c0d315b2e313a53764ff3cc256ffce55",
+      "url": "https://github.com/terraform-lxd/terraform-provider-lxd/releases/download/v1.8.0/terraform-provider-lxd_1.8.0_linux_amd64.zip"
     }
   },
   "owner": "terraform-lxd",
   "repo": "lxd",
-  "version": "1.7.3"
+  "version": "1.8.0"
 }
