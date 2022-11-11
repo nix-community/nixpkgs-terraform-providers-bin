@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "622bf167a9e8e67ca3cc2d92aefa099ec5610e9be9714775146ab5a47a6a58e7",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.3.0/terraform-provider-wavefront_3.3.0_darwin_arm64.zip"
+      "sha256": "fd7f864a54f47dcdab072702b6a4ba60c64eb1ba376404817d8c3e8b4ae93de3",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.4.0/terraform-provider-wavefront_3.4.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "944a2c788fcbe3a4e24e6ea1fc86c76c6d9b5e8de0f219ce278fc6b1139860b4",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.3.0/terraform-provider-wavefront_3.3.0_linux_arm64.zip"
+      "sha256": "0ead776b006524a395289fc440b5a3a638171fdd1250b4c1ec272951ea373737",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.4.0/terraform-provider-wavefront_3.4.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "e1bd77b57ef47abad33cf8efe9c69fe3de12a9081c78ac69e65c65b724134e31",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.3.0/terraform-provider-wavefront_3.3.0_linux_386.zip"
+      "sha256": "5f49eaefdac3b4b4b8a99fa38eacd824e2b4299a17305818952113ff1ea74e2c",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.4.0/terraform-provider-wavefront_3.4.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "d24417fbef17d84fc2520429d0b4c0237c34fdaa17385f716ccd27f22a1514b1",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.3.0/terraform-provider-wavefront_3.3.0_darwin_amd64.zip"
+      "sha256": "9541ed34f85d9c0af8f5ae9d2c7a3cb09f8ee36b86382e47d159786154a0bb42",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.4.0/terraform-provider-wavefront_3.4.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "995647ee55f2c25ad43db0646bb1d3a7ac2e1043ae34af57e4f1745c8ba69f6c",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.3.0/terraform-provider-wavefront_3.3.0_linux_amd64.zip"
+      "sha256": "436a6fc137d68f2fe00b1ee3ed0cc158d6c9aed6dc7f214a3b86ed04f26afa14",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v3.4.0/terraform-provider-wavefront_3.4.0_linux_amd64.zip"
     }
   },
   "owner": "vmware",
   "repo": "wavefront",
-  "version": "3.3.0"
+  "version": "3.4.0"
 }
