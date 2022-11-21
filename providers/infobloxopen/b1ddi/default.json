@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "28ab66f787507e755f8bb953f2bf3a1f8f763573d27dbec71ecc11222d64650d",
+      "url": "https://github.com/infobloxopen/terraform-provider-b1ddi/releases/download/v0.1.1/terraform-provider-b1ddi_0.1.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "e513a02b67588e4133827b46b5d70ac0e99cdc932a0e3beed3a186bea0104fbe",
+      "url": "https://github.com/infobloxopen/terraform-provider-b1ddi/releases/download/v0.1.1/terraform-provider-b1ddi_0.1.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "6d4062cf958419d48e02b77dbcf889d7b19d9e8c480dd16271c160fe08b83707",
+      "url": "https://github.com/infobloxopen/terraform-provider-b1ddi/releases/download/v0.1.1/terraform-provider-b1ddi_0.1.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "f779617bd9b5eb3627afc1928bf433044b809b9e63d771d02062797257989a4e",
+      "url": "https://github.com/infobloxopen/terraform-provider-b1ddi/releases/download/v0.1.1/terraform-provider-b1ddi_0.1.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "887489fdcaf25cbb8ca12b1bfbf9cec22d411431be86e42c7c9b0640dac01a05",
+      "url": "https://github.com/infobloxopen/terraform-provider-b1ddi/releases/download/v0.1.1/terraform-provider-b1ddi_0.1.1_linux_amd64.zip"
+    }
+  },
+  "owner": "infobloxopen",
+  "repo": "b1ddi",
+  "version": "0.1.1"
+}
