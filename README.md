@@ -132,8 +132,8 @@ If there is another provider that you want to see added to the list, feel free
 to send a PR after running this:
 
 ```console
-$ mkdir -p providers/<owner>/<repo>
-$ ./update.rb <owner>/<repo>
+$ mkdir -p providers/<owner>/<provider-name>
+$ ./update.rb <owner>/<provider-name>
 ```
 
 ## Contributing
