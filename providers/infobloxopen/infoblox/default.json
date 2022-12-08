@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "0191b59019b6eb5ca3e836e7c55300c7a855621929b65105eb3283610b730f47",
+      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.2.0/terraform-provider-infoblox_2.2.0_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "0f1e7b20e4d240c37921443cc8c65c724075f0a3f3ec4acc40ebd2910882b937",
-      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.1.0/terraform-provider-infoblox_2.1.0_linux_arm64.zip"
+      "sha256": "f55d5482229b9343fa6908bb2483df7e7f527213e854265c27c4ef6c1207b04a",
+      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.2.0/terraform-provider-infoblox_2.2.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "13f133583b8d3133d92e99334e1c54f7101874865f7a87e6a1ccb24f1f3edb40",
-      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.1.0/terraform-provider-infoblox_2.1.0_linux_386.zip"
+      "sha256": "f3c4db0863cc352f5f6fb3131c9e46dd988c2442cb002235dc7ac4127f494ed4",
+      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.2.0/terraform-provider-infoblox_2.2.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8832073deca1ff11b4b4dbcfcebd322eae24781793d670e8970737db9fc2d766",
-      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.1.0/terraform-provider-infoblox_2.1.0_darwin_amd64.zip"
+      "sha256": "097f690150c7abdbc74eb8530977afcb87324d8094cc7b96a2639c0391587eb9",
+      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.2.0/terraform-provider-infoblox_2.2.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a70657baf42497e5475961d505f3efa0bdcbe2cc252ee621cb36e540d30690cb",
-      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.1.0/terraform-provider-infoblox_2.1.0_linux_amd64.zip"
+      "sha256": "35b06318c16f0be17dde2534fc2d444495cbfd2e61cf44ed2a96ee0a157c38af",
+      "url": "https://github.com/infobloxopen/terraform-provider-infoblox/releases/download/v2.2.0/terraform-provider-infoblox_2.2.0_linux_amd64.zip"
     }
   },
   "owner": "infobloxopen",
   "repo": "infoblox",
-  "version": "2.1.0"
+  "version": "2.2.0"
 }

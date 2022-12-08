@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "879a1e5ef58444ba31a4743a56f751041c45efa0543fcee27e695ba5183860e8",
-      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.6/terraform-provider-elasticsearch_2.0.6_darwin_arm64.zip"
+      "sha256": "64836b202d9ff298357c3d0ce7152a51c9d3c5108ea1158506e7d9892776681a",
+      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.7/terraform-provider-elasticsearch_2.0.7_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d2b119bf32119b65cacd6e6aee7b81f32aefc8df036b80e8fd093cb85c2238a9",
-      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.6/terraform-provider-elasticsearch_2.0.6_linux_arm64.zip"
+      "sha256": "b9b53935d1d5bd18194eb68aa86b92d436a4c4192551761e287bafb8adfbd373",
+      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.7/terraform-provider-elasticsearch_2.0.7_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "23464f4dc2bd91e4c8b0d935a2a494f7d3dd2cf9980cf1f40c2a8ac9b002af1b",
-      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.6/terraform-provider-elasticsearch_2.0.6_linux_386.zip"
+      "sha256": "fd37e32381688d24365a7fd82710d741117d514ec7a4a359278bb259f732e5b8",
+      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.7/terraform-provider-elasticsearch_2.0.7_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "125715179a825d4bb5642b71bbc1c6015e3d5b1e918f5731d7ec08614cf08b69",
-      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.6/terraform-provider-elasticsearch_2.0.6_darwin_amd64.zip"
+      "sha256": "3f643252b578a958506a1c254f7311b04e410aac4d9209b0f3bd55d059d64e9c",
+      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.7/terraform-provider-elasticsearch_2.0.7_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "01ded6b6bf5af4be483dbf5e0adeec824f4967f4af57dd03e71ac70a47500916",
-      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.6/terraform-provider-elasticsearch_2.0.6_linux_amd64.zip"
+      "sha256": "e99fc2bbf63a1ea2024935dc395af0cf5c87c7f1b3ced29eb2845a6305d3305e",
+      "url": "https://github.com/phillbaker/terraform-provider-elasticsearch/releases/download/v2.0.7/terraform-provider-elasticsearch_2.0.7_linux_amd64.zip"
     }
   },
   "owner": "phillbaker",
   "repo": "elasticsearch",
-  "version": "2.0.6"
+  "version": "2.0.7"
 }
