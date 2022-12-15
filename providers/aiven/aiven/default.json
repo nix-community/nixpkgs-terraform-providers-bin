@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "deaa212f319d5f3ac5d28c24a256b19a6804e37b132fed1eac54db1a0b8cdf4b",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.9.0/terraform-provider-aiven_3.9.0_darwin_arm64.zip"
+      "sha256": "2d9e7f2bc695d2941c9b9519019e16d908c2cb34d81a71bfc7a00ab18e317ac4",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.10.0/terraform-provider-aiven_3.10.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c693f8d188c606bd2ca46b09a1076ca60d9c45edfbd72ed3f6ed2fdd703fddb7",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.9.0/terraform-provider-aiven_3.9.0_linux_arm64.zip"
+      "sha256": "284d005666a805a49aea62f924ba0cbd0253cdc1653ed3ebd4bd8e0fd9022f01",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.10.0/terraform-provider-aiven_3.10.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8458491e598d01b9464b9326e33cfba534244eb6e8583db8f510df1b14f830d3",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.9.0/terraform-provider-aiven_3.9.0_linux_386.zip"
+      "sha256": "cfd3e7062a2bfaa46cd1a086c19d1088bace6026ed127439486a806790a7b100",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.10.0/terraform-provider-aiven_3.10.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "daddc1fe347d235a83b7fba930a6ae292d825cc335e13b8b195020983a682dd4",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.9.0/terraform-provider-aiven_3.9.0_darwin_amd64.zip"
+      "sha256": "cce91e7c1d5a278c8cb2bc37c4e8cfd9b1b11e186d0756d11e67c0da91007c0c",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.10.0/terraform-provider-aiven_3.10.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "26d60ae88504ab376b419db535144768f577aa6f92cb3dc98e458521728cf105",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.9.0/terraform-provider-aiven_3.9.0_linux_amd64.zip"
+      "sha256": "8625b951751f8ec605f6d33c3442769899c4dab548d97722fd89b980dc51a13b",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v3.10.0/terraform-provider-aiven_3.10.0_linux_amd64.zip"
     }
   },
   "owner": "aiven",
   "repo": "aiven",
-  "version": "3.9.0"
+  "version": "3.10.0"
 }
