@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "51cebd500df3fff3f7e0888cc3f4c71dac50f81179b5f50017332b869dc5f106",
-      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/0.17.1/terraform-provider-pnap_0.17.1_darwin_arm64.zip"
+      "sha256": "3041cad80980162ffc7273a217a7a1e11702e5579fda00e3505d15bd31f82e1e",
+      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.18.0/terraform-provider-pnap_0.18.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "393ed861b366c252fbae2fa8b82af10e00b5d77849bb4f9a7d4f198e34ceedd4",
-      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/0.17.1/terraform-provider-pnap_0.17.1_linux_arm64.zip"
+      "sha256": "0de0171c3d9f5c6639e3477ef239cbb6ad6934f2cd76c6dbeea17c945a3ac9d9",
+      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.18.0/terraform-provider-pnap_0.18.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "718de9aa1949f8f3bb643b689c273184578913684357b1dd6a055ce44e78b00a",
-      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/0.17.1/terraform-provider-pnap_0.17.1_linux_386.zip"
+      "sha256": "4f71e12ccccc4c5263a9a3483d66fe937b3dd6d8230586178aff861cd60ca2ba",
+      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.18.0/terraform-provider-pnap_0.18.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "3d60014d0d50ae71a7eddd235c14ad96f69313c80bce5ab48c1434f4853cd93f",
-      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/0.17.1/terraform-provider-pnap_0.17.1_darwin_amd64.zip"
+      "sha256": "d8cb6fb393a432115ddd7cf0db1a57db5a58c1dbc1a50de5da1691a404c0961c",
+      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.18.0/terraform-provider-pnap_0.18.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f4449897edd5a2b01d159e132bff882b11a7730ae05ab149678f869384e3c2b7",
-      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/0.17.1/terraform-provider-pnap_0.17.1_linux_amd64.zip"
+      "sha256": "bd3def220c603d075052d0868684e0ffc0e408fdcdb9123fe8a39290ab24d29e",
+      "url": "https://github.com/phoenixnap/terraform-provider-pnap/releases/download/v0.18.0/terraform-provider-pnap_0.18.0_linux_amd64.zip"
     }
   },
   "owner": "phoenixnap",
   "repo": "pnap",
-  "version": "0.17.1"
+  "version": "0.18.0"
 }
