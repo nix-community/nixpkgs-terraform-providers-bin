@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a9924c7a06af6dfcd978348b8d3f55bb739ef7b5c42487a617910611f1119632",
-      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.0/terraform-provider-bigip_1.16.0_darwin_arm64.zip"
+      "sha256": "8b1a9b0054635be2c87211bb1226af3ddb6508a75fa4a9996b2ca5be9b1702d7",
+      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.1/terraform-provider-bigip_1.16.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "a39c377d5c5c21aaad069232e4c4e260ab234022cfc9417a7b049877d345e4fa",
-      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.0/terraform-provider-bigip_1.16.0_linux_arm64.zip"
+      "sha256": "633c94aa77f916652804818974239e98c7991b884ccc49c26c66bf3a00074916",
+      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.1/terraform-provider-bigip_1.16.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "fabf973042a8fa9c26d9177f12e2e28c17a56a8f1792a1743ca2b0b38d9f1fd9",
-      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.0/terraform-provider-bigip_1.16.0_linux_386.zip"
+      "sha256": "78011bf45658e87148c51714db067c5c55a7a6b0902a6e2661b1b9713c948a44",
+      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.1/terraform-provider-bigip_1.16.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "26fd0c3d592a96739efba4d018d8c22fa7f028dbe5fe3f8bc916e91e48ceb630",
-      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.0/terraform-provider-bigip_1.16.0_darwin_amd64.zip"
+      "sha256": "f3308df7fd2a31a612806982834aa16ec089916ee7ac9ba3a5a1a829284d14ea",
+      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.1/terraform-provider-bigip_1.16.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "fb09accc7df1df23994e6a12dedaceca5873e4486bef03ae056e7d1279dd6de4",
-      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.0/terraform-provider-bigip_1.16.0_linux_amd64.zip"
+      "sha256": "8e6e5cf3890b08d492b5b5c50d05ebd7befa1fe0d37a5b12389067b21853942b",
+      "url": "https://github.com/F5Networks/terraform-provider-bigip/releases/download/v1.16.1/terraform-provider-bigip_1.16.1_linux_amd64.zip"
     }
   },
   "owner": "F5Networks",
   "repo": "bigip",
-  "version": "1.16.0"
+  "version": "1.16.1"
 }
