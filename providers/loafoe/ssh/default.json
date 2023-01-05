@@ -1,0 +1,23 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "51a0a2577d0649e76d12be2e9b0825fec9ca49dc78c7ef0ac19832d381943e38",
+      "url": "https://github.com/loafoe/terraform-provider-ssh/releases/download/v2.3.0/terraform-provider-ssh_2.3.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "434277271cee1dfcca2dcf6189989509d06459fa011d1a571c93b925f44ae4c0",
+      "url": "https://github.com/loafoe/terraform-provider-ssh/releases/download/v2.3.0/terraform-provider-ssh_2.3.0_linux_arm64.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "766ef65968c059ca24f4f09ae42cba19536abfd3503519f26e7e4dbfcbd59116",
+      "url": "https://github.com/loafoe/terraform-provider-ssh/releases/download/v2.3.0/terraform-provider-ssh_2.3.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "db50d9dfdc2b28ad7f53411fb26f60eecd3e8693eb36b944a1019f619d8c69e5",
+      "url": "https://github.com/loafoe/terraform-provider-ssh/releases/download/v2.3.0/terraform-provider-ssh_2.3.0_linux_amd64.zip"
+    }
+  },
+  "owner": "loafoe",
+  "repo": "ssh",
+  "version": "2.3.0"
+}
