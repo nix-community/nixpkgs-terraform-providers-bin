@@ -1,15 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "4a107c225e87cca77d0095850e59118f14b2a316b240b546d541ac111ab82e2f",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudvision/releases/download/v0.1.6/terraform-provider-cloudvision_0.1.6_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "976f7cf0f74415445b9fd5946ed6e7d10603d71a8547889547375ec75867676e",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudvision/releases/download/v0.1.6/terraform-provider-cloudvision_0.1.6_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "d846e1df1cb4aba49b663efea3f5053edde2c922adafdd21e0a93c40e96cf82d",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudvision/releases/download/v0.1.6/terraform-provider-cloudvision_0.1.6_linux_386.zip"
+    },
     "x86_64-darwin": {
-      "sha256": "c762ef9e4ee84de8ab3d9a8ca0c95f9224bb331903cbbb2133b2dad1db243340",
-      "url": "https://github.com/aristanetworks/terraform-provider-cloudvision/releases/download/v0.1.2/terraform-provider-cloudvision_0.1.2_darwin_amd64.zip"
+      "sha256": "77b9d8b05dea21b2083b1071b11a30149a15914fceb3cba4331b20a530a7ae83",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudvision/releases/download/v0.1.6/terraform-provider-cloudvision_0.1.6_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "baba6c4dad8e2ee174987f6eb3c80a070c788c9d6b0e1d2313220b34e809f104",
-      "url": "https://github.com/aristanetworks/terraform-provider-cloudvision/releases/download/v0.1.2/terraform-provider-cloudvision_0.1.2_linux_amd64.zip"
+      "sha256": "be3d54b666d214356cc54bec8b7c92a82011225ae5e71cbd45122ca651ebb25f",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudvision/releases/download/v0.1.6/terraform-provider-cloudvision_0.1.6_linux_amd64.zip"
     }
   },
   "owner": "aristanetworks",
   "repo": "cloudvision",
-  "version": "0.1.2"
+  "version": "0.1.6"
 }
