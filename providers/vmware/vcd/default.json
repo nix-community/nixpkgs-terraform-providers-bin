@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "4b673b7ba8d1f371ca0458bcf2d54e3d3b8af84a8b40ec9f0cabf3bf5cd83e78",
-      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.1/terraform-provider-vcd_3.8.1_darwin_arm64.zip"
+      "sha256": "f1144f169aa49ca4fe27ba1d33d81e1a7b08471562faa179d024dd3c538c9c19",
+      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.2/terraform-provider-vcd_3.8.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f5b3bc0539ce55a2291a0bbbcca379b2f1ff73b458d40333583a7dd0412a59ed",
-      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.1/terraform-provider-vcd_3.8.1_linux_arm64.zip"
+      "sha256": "cc8d281bc1fb5ce99ee3c353423b24c5662dd74b2efe81fdf4c350beaa528236",
+      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.2/terraform-provider-vcd_3.8.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "6530184b6f4fd3014027046ac46d4ea0766a2feac2bd0ec8eb480760630ee10c",
-      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.1/terraform-provider-vcd_3.8.1_linux_386.zip"
+      "sha256": "1a25fdb5cab4c0ac25629141a8bf8804303040c22564272794c6377bd24b4d07",
+      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.2/terraform-provider-vcd_3.8.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "60fc2ec3b0b33f16d656e7f01f286a1d0b1ae535de387ab691ddae712527ab8f",
-      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.1/terraform-provider-vcd_3.8.1_darwin_amd64.zip"
+      "sha256": "75ecba3b1648d94401bc024603b839db73e1d3f588bd344c845f0a39157b7117",
+      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.2/terraform-provider-vcd_3.8.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "5108aa2cf29792c11c4fe939000d82dfa321e14580f7f3232291a56ec3d20853",
-      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.1/terraform-provider-vcd_3.8.1_linux_amd64.zip"
+      "sha256": "f69bc278ee7b98f0fd5f3495e95f84557ae666335fc9da58a69f152c7b017f18",
+      "url": "https://github.com/vmware/terraform-provider-vcd/releases/download/v3.8.2/terraform-provider-vcd_3.8.2_linux_amd64.zip"
     }
   },
   "owner": "vmware",
   "repo": "vcd",
-  "version": "3.8.1"
+  "version": "3.8.2"
 }
