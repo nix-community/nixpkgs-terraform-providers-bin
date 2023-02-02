@@ -12,17 +12,6 @@ let
 
   inherit (nixpkgs) lib stdenv unzip;
 
-  goarch = platform: {
-    "i686" = "386";
-    "x86_64" = "amd64";
-    "aarch64" = "arm64";
-    "arm" = "arm";
-    "armv5tel" = "arm";
-    "armv6l" = "arm";
-    "armv7l" = "arm";
-    "powerpc64le" = "ppc64le";
-  }.${platform.parsed.cpu.name} or (throw "Unsupported system");
-
   fetchArchURL = system: archSrc:
     let
       src = archSrc.${system} or (throw "system ${system} not supported");
@@ -38,13 +27,12 @@ let
       registry ? "registry.terraform.io"
     }:
     let
-      GOOS = stdenv.targetPlatform.parsed.kernel.name;
-      GOARCH = goarch stdenv.targetPlatform;
+      inherit (nixpkgs.go) GOARCH GOOS;
     in
     stdenv.mkDerivation {
       pname = "terraform-provider-${repo}";
       version = version;
-      src = fetchArchURL nixpkgs.system archSrc;
+      src = fetchArchURL nixpkgs.stdenv.hostPlatform.system archSrc;
 
       unpackPhase = "unzip -o $src";
 
