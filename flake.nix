@@ -2,17 +2,32 @@
   description = "terraform-providers-bin";
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
-  inputs.flake-utils.url = "github:numtide/flake-utils";
 
-  outputs = { self, nixpkgs, flake-utils }:
+  outputs = { self, nixpkgs }:
+    let
+      lib = nixpkgs.lib;
+      forAllSystems = lib.genAttrs [
+        "aarch64-darwin"
+        "aarch64-linux"
+        "x86_64-darwin"
+        "x86_64-linux"
+      ];
+    in
     {
       overlay = import ./overlay.nix;
-    } //
-    flake-utils.lib.eachDefaultSystem (system: rec {
+
       # We use legacyPackages here because default.nix exports a nested tree
       # of functions and packages. `packages` only allows a flat set of
       # derivations.
-      legacyPackages = import ./. { nixpkgs = nixpkgs.legacyPackages.${system}; };
-      checks = builtins.removeAttrs legacyPackages.tests [ "recurseForDerivations" ];
-    });
+      legacyPackages = forAllSystems (system:
+        import ./. {
+          nixpkgs = nixpkgs.legacyPackages.${system};
+        }
+      );
+
+      checks = forAllSystems (system:
+        builtins.removeAttrs self.legacyPackages.${system}.tests [ "recurseForDerivations" ]
+      );
+
+    };
 }
