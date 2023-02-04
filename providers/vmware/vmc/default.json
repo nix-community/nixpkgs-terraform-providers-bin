@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "6aeff3580041febb2e6240dac3164e35c6307fddbcbc05d4fe1077ed082ba50f",
-      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.0/terraform-provider-vmc_1.12.0_darwin_arm64.zip"
+      "sha256": "6a0c4a9a276e659cab9ad42d1421448153c60df6009623f2f9ff491e8abaa1ec",
+      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.1/terraform-provider-vmc_1.12.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "48bb2f2cee8dd4280d1f1692569183f9a955e0861487fba10a137e8d66b2e8a9",
-      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.0/terraform-provider-vmc_1.12.0_linux_arm64.zip"
+      "sha256": "353a4a26485ec4a6479692be9f69a8152fc3b8eed8e8e8743c6dadc58778f474",
+      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.1/terraform-provider-vmc_1.12.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ca3dd1f9e1b03538727caa9eec14e26f98fd51194402678b57c999f73b6a6935",
-      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.0/terraform-provider-vmc_1.12.0_linux_386.zip"
+      "sha256": "c082e6ab6537f0e50752e695b5808ce1067bdc61dec78b50241d539bbf29cb74",
+      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.1/terraform-provider-vmc_1.12.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8a8d31ffa1654cf48422bd5f8695dd7571880acec02729b75c5fe260d6c9dceb",
-      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.0/terraform-provider-vmc_1.12.0_darwin_amd64.zip"
+      "sha256": "dd6a3aef9466202c14687573994536f4f8971ace51bb08a87c70f2f8a8ae9732",
+      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.1/terraform-provider-vmc_1.12.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a404e61dfdd45c3abb938462b9d80e7ce903e84b1c42653d0b533ff18b413e8e",
-      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.0/terraform-provider-vmc_1.12.0_linux_amd64.zip"
+      "sha256": "5e0db53601a43ea502264b06604ae90103e397e3f78725b7085c43cb44a85242",
+      "url": "https://github.com/vmware/terraform-provider-vmc/releases/download/v1.12.1/terraform-provider-vmc_1.12.1_linux_amd64.zip"
     }
   },
   "owner": "vmware",
   "repo": "vmc",
-  "version": "1.12.0"
+  "version": "1.12.1"
 }
