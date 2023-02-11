@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "b457d7d5273796523119bc0e5a4fa4ac3378ead2d46ff8327225b0d82c89698d",
-      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.9/terraform-provider-xray_1.9.9_darwin_arm64.zip"
+      "sha256": "81d1b3bea8d012e8da25c864e7f8125c5eba5f60520da67f0e5fbdd65e416261",
+      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.10/terraform-provider-xray_1.9.10_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "8221b18c3ba357734d7bc2c0a10d5b69fe4062210b07e2d2e0b2e8f76f066c7f",
-      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.9/terraform-provider-xray_1.9.9_linux_arm64.zip"
+      "sha256": "d70ca061583ff03dfa1e75052de3ee6a6180729c6131dededdb8d4c600e782e6",
+      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.10/terraform-provider-xray_1.9.10_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "62bfb9a294d7b8756cd150592c140ba6c12f7213f93310eb7ddbb598d1e1b181",
-      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.9/terraform-provider-xray_1.9.9_linux_386.zip"
+      "sha256": "745b89f138bd1e9e9aa370e7714303c4b3de6805d4ba4d937006f36ee5b0e05a",
+      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.10/terraform-provider-xray_1.9.10_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5706c916641c6ab140de36101e3dcf04e34443e6cdde68dacb5b19753e2ce6f7",
-      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.9/terraform-provider-xray_1.9.9_darwin_amd64.zip"
+      "sha256": "d83958be0567fcde73dfa591df069df32117831aaef9ca32cb064de8a8460504",
+      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.10/terraform-provider-xray_1.9.10_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "d7cf022699a4d98be3ff5d85ac69e7f7dd6353906805abfc281252a77e308692",
-      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.9/terraform-provider-xray_1.9.9_linux_amd64.zip"
+      "sha256": "7226f1d5cc8b093d2bb2c43fb52c7a76e6c1dacf26ccf808220e7bb086e3acef",
+      "url": "https://github.com/jfrog/terraform-provider-xray/releases/download/v1.9.10/terraform-provider-xray_1.9.10_linux_amd64.zip"
     }
   },
   "owner": "jfrog",
   "repo": "xray",
-  "version": "1.9.9"
+  "version": "1.9.10"
 }
