@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "49aab6cadd8acdb0be1b40a20b56ca37aad3663175497dcca749d6fdb92d4542",
-      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.5.1/terraform-provider-ec_0.5.1_darwin_arm64.zip"
+      "sha256": "575fea7a81679dd05849c2d53f5a34244bfbcca5d613ae34a09c8812f1d98cf3",
+      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.6.0/terraform-provider-ec_0.6.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "271c79328c5455d0e184da09e60f7ad2a2c6d4904fa664301e3d5d4e358d4b02",
-      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.5.1/terraform-provider-ec_0.5.1_linux_arm64.zip"
+      "sha256": "5b564bff20108140eef0a72317970270372c02678ce032f7310942e81b85a6a9",
+      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.6.0/terraform-provider-ec_0.6.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "5a9a416bfa38de0a1cd63e2e2f9f347b0c5a94e11f83c653644afacf8617a7a1",
-      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.5.1/terraform-provider-ec_0.5.1_linux_386.zip"
+      "sha256": "e3261d6a01f6ab4b1fa75a4e4535561978adc3a7466c94a58c175f6a6c05d364",
+      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.6.0/terraform-provider-ec_0.6.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "a4773c4155aad3203b0fc4ece2d184ad17f1c7287869b480a7247835c267f0dc",
-      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.5.1/terraform-provider-ec_0.5.1_darwin_amd64.zip"
+      "sha256": "8efe3b8cc28e0182ba9c7e425a808dcab4c2000e034872c0f5925383460af32f",
+      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.6.0/terraform-provider-ec_0.6.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "38623f3a7908c949b4aeaab857fb374f92a5a2610e92c43c154305e678a35082",
-      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.5.1/terraform-provider-ec_0.5.1_linux_amd64.zip"
+      "sha256": "2c27d566f1194cfe9c482ee53c3b58074fdd52c0463eacbff0c363d779059356",
+      "url": "https://github.com/elastic/terraform-provider-ec/releases/download/v0.6.0/terraform-provider-ec_0.6.0_linux_amd64.zip"
     }
   },
   "owner": "elastic",
   "repo": "ec",
-  "version": "0.5.1"
+  "version": "0.6.0"
 }
