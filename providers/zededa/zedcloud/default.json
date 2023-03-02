@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "7e3959107d1aa33f6336fc20204077707829f728733a9828a264feb219159a30",
-      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.2/terraform-provider-zedcloud_2.1.2_darwin_arm64.zip"
+      "sha256": "2684e690aff3ff55c409098c3df54a26539a1d12fc606ed46c36d771eb817660",
+      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.4/terraform-provider-zedcloud_2.1.4_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "da9797af0636b84e6b50f61a05362676faed3d7e7a474a124f40393089769c15",
-      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.2/terraform-provider-zedcloud_2.1.2_linux_arm64.zip"
+      "sha256": "85aecd30eabceb45138e32ad87841a67881eb7c005dc73edbab0e328a9eb5cab",
+      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.4/terraform-provider-zedcloud_2.1.4_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "29dcf142a16d4f494bafc6de653179ff1ae3151d3ffe4fa4367efca830660713",
-      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.2/terraform-provider-zedcloud_2.1.2_linux_386.zip"
+      "sha256": "0d6dbffe8d25d974abda6d259c0cf07782dc76270fc76318ec1214254ee99309",
+      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.4/terraform-provider-zedcloud_2.1.4_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "bb22f0ee669944c5d1857941f0478fb06276ac094fefad460b40f3e170b9ae3e",
-      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.2/terraform-provider-zedcloud_2.1.2_darwin_amd64.zip"
+      "sha256": "d09032ef248813370fed3f9030d532f32648deea5062646c6570914a20d8888e",
+      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.4/terraform-provider-zedcloud_2.1.4_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c07e30ea8084f08bd22281cc2d5b52dbc7258d426faea338fb02dd11bc32bac7",
-      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.2/terraform-provider-zedcloud_2.1.2_linux_amd64.zip"
+      "sha256": "f6934ddae9f6906b90271dee9dcfb656023291952e3eb90856f0c1be21fa98b6",
+      "url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.1.4/terraform-provider-zedcloud_2.1.4_linux_amd64.zip"
     }
   },
   "owner": "zededa",
   "repo": "zedcloud",
-  "version": "2.1.2"
+  "version": "2.1.4"
 }
