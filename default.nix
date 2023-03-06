@@ -28,6 +28,7 @@ let
     }:
     let
       inherit (nixpkgs.go) GOARCH GOOS;
+      provider-source-address = "${registry}/${owner}/${repo}";
     in
     stdenv.mkDerivation {
       pname = "terraform-provider-${repo}";
@@ -42,10 +43,14 @@ let
 
       # The upstream terraform wrapper assumes the provider filename here.
       installPhase = ''
-        dir=$out/libexec/terraform-providers/${registry}/${owner}/${repo}/${version}/${GOOS}_${GOARCH}
+        dir=$out/libexec/terraform-providers/${provider-source-address}/${version}/${GOOS}_${GOARCH}
         mkdir -p "$dir"
         mv terraform-* "$dir/"
       '';
+
+      passthru = {
+        inherit provider-source-address;
+      };
     };
 
   providers = lib.mapAttrs
