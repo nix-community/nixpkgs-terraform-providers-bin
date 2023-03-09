@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "4623ba53cc86a4de4c68d81a76ad59872febc0ee2801d6f31607dc146cbfb730",
-      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.54.0/terraform-provider-hcp_0.54.0_darwin_arm64.zip"
+      "sha256": "985a412ad23061d3198a276b18e20219cbcdedcb9da424dd11db42bde0c48c9d",
+      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.55.0/terraform-provider-hcp_0.55.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "a2d1c368903f06c956e2c7495aab7b73c2cb68aabb20ec477f692f7e3e50461f",
-      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.54.0/terraform-provider-hcp_0.54.0_linux_arm64.zip"
+      "sha256": "f93270e3e1c8ddb96a8871b950e70110ced2a5980d12d0cc50971e49ff40786c",
+      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.55.0/terraform-provider-hcp_0.55.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "93c5da22d835697595407ca3418a1c986884807f929d6917b53002c3e9c82bc3",
-      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.54.0/terraform-provider-hcp_0.54.0_linux_386.zip"
+      "sha256": "707772779b8a848495bfead3145d338a5255ab2a901a9a96597d77e41c289c69",
+      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.55.0/terraform-provider-hcp_0.55.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "4be5174faefe7f6417ccfe9d45eda16b0559c20c2a385309513964ddde667905",
-      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.54.0/terraform-provider-hcp_0.54.0_darwin_amd64.zip"
+      "sha256": "fc80751415ac24312d0ea4c2abe8f13640fa2737576b5fc5b43f7cfb6d255ae9",
+      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.55.0/terraform-provider-hcp_0.55.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f09d19cd2902e7ca34f2d22bc2807d67ee969a8f14e704a85a5d59796e2f5d95",
-      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.54.0/terraform-provider-hcp_0.54.0_linux_amd64.zip"
+      "sha256": "a3d420679edd2c54755f26885a7bd42f03cc383f6a52e34b23f4202fafad89c7",
+      "url": "https://releases.hashicorp.com/terraform-provider-hcp/0.55.0/terraform-provider-hcp_0.55.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "hcp",
-  "version": "0.54.0"
+  "version": "0.55.0"
 }
