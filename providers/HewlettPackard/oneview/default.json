@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "5c938dc4994706a49e4283dfe52affc1c749df452c6a1c61714b8c740cf38146",
+      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.2.0-13/terraform-provider-oneview_8.2.0-13_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "004c5f7c0f3d4516d71deacda0d42b7b18b9b4397617cb5cc03a0f7acbbb351c",
-      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.1.0-13/terraform-provider-oneview_8.1.0-13_linux_arm64.zip"
+      "sha256": "71bfa6c7bc5ce34edf5cf8a31cbb39e7b012930698d7cf3b366f86895b83e569",
+      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.2.0-13/terraform-provider-oneview_8.2.0-13_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "09c4ea867424fea99a2222171088aa70abf9e13a34d846118354489f22242fc3",
-      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.1.0-13/terraform-provider-oneview_8.1.0-13_linux_386.zip"
+      "sha256": "4dbd7b29ec7586db31434c825b8f7ff7241a96098502444d66cac3a3472fc9b8",
+      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.2.0-13/terraform-provider-oneview_8.2.0-13_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "39787f634d6ce05603cebb169d519328da6c74092c3e874c843c7147dabcca4a",
-      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.1.0-13/terraform-provider-oneview_8.1.0-13_darwin_amd64.zip"
+      "sha256": "cf90b2f93cbcaf9440eb93b68432a383ef94422ec6e723b701d0cc248bd6111b",
+      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.2.0-13/terraform-provider-oneview_8.2.0-13_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "96914acf37aca204dcb79b50b6a1b488bdf4aba061f55b91282b0f2489f2c4e1",
-      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.1.0-13/terraform-provider-oneview_8.1.0-13_linux_amd64.zip"
+      "sha256": "b69808df11a264df88d43fe1bd3ead741377bee951fc46892d30851b6b46e1de",
+      "url": "https://github.com/HewlettPackard/terraform-provider-oneview/releases/download/v8.2.0-13/terraform-provider-oneview_8.2.0-13_linux_amd64.zip"
     }
   },
   "owner": "HewlettPackard",
   "repo": "oneview",
-  "version": "8.1.0-13"
+  "version": "8.2.0-13"
 }
