@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "952e6d4c8f01b7247f6fcc3c78c8300db81084491bea3eed7de4b4ec6913346d",
+      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.1/terraform-provider-gridscale_1.18.1_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "f2cf17c7d20bd5644da5866a37f313ecb016ba4877ad87116a4602e2847c7d2c",
-      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.0/terraform-provider-gridscale_1.18.0_linux_arm64.zip"
+      "sha256": "4399214d8637751361d1c9473ea586a06f0824bc5d23a4af9c3b32852fac1f49",
+      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.1/terraform-provider-gridscale_1.18.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "d066da47ca1224b4659ae94f7d3927c3b12abb8529215a6042b43dfdd28d8304",
-      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.0/terraform-provider-gridscale_1.18.0_linux_386.zip"
+      "sha256": "ae45e181c4e95c88da2e1ff285dbe30c5b1cf6d0fa9efe208b2d0d1e377d8be9",
+      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.1/terraform-provider-gridscale_1.18.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "287ea138e02a0688743cfdf84d76092d14cfc79b0bfbb1a18147bdb926b9d348",
-      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.0/terraform-provider-gridscale_1.18.0_darwin_amd64.zip"
+      "sha256": "dbb4adff33bf0f2b16df6cce7d456b8b1c66a9a2f08e64b24bbb03e95fa5e092",
+      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.1/terraform-provider-gridscale_1.18.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "e0019aa6f7a6c1a352738fce36c49699bff71b0e0b10965223768ab31093cbaf",
-      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.0/terraform-provider-gridscale_1.18.0_linux_amd64.zip"
+      "sha256": "e5735f01fce3ed1daa304d672c39a10b82c5a677ca42e3dbc378623bf2222f9f",
+      "url": "https://github.com/gridscale/terraform-provider-gridscale/releases/download/v1.18.1/terraform-provider-gridscale_1.18.1_linux_amd64.zip"
     }
   },
   "owner": "gridscale",
   "repo": "gridscale",
-  "version": "1.18.0"
+  "version": "1.18.1"
 }
