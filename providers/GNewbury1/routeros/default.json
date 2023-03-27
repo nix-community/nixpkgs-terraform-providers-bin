@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "018b32525d9c88295e367ba1772a9890014b16d867df9b8ac8b267c99df7174a",
+      "url": "https://github.com/GNewbury1/terraform-provider-routeros/releases/download/v1.0.13/terraform-provider-routeros_1.0.13_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "66022b9e834c33a402013b77d621d26a1df28585fb825e9a39e35fa41cf3982c",
+      "url": "https://github.com/GNewbury1/terraform-provider-routeros/releases/download/v1.0.13/terraform-provider-routeros_1.0.13_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "11a1af69ba2469fa343310994633f5c6a9eaa5ce627a4f175706819df1af08b1",
+      "url": "https://github.com/GNewbury1/terraform-provider-routeros/releases/download/v1.0.13/terraform-provider-routeros_1.0.13_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "10c9c4b0759e1258f75520171024c58083658beea4b619e7cfa34c5049c5ceb8",
+      "url": "https://github.com/GNewbury1/terraform-provider-routeros/releases/download/v1.0.13/terraform-provider-routeros_1.0.13_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "6646c9fbae5094a79af5c5bc7bc6c51aea286c7a309adda668b67b7de0ce0b51",
+      "url": "https://github.com/GNewbury1/terraform-provider-routeros/releases/download/v1.0.13/terraform-provider-routeros_1.0.13_linux_amd64.zip"
+    }
+  },
+  "owner": "GNewbury1",
+  "repo": "routeros",
+  "version": "1.0.13"
+}
