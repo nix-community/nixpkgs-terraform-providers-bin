@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "abdf0bcf8e443739edfdedcef697a5d0e1de95567c6fce9669dd0d7620de6628",
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.8/terraform-provider-nirmata_1.1.8_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "540815a5352701fcad6bbeb61ec0ff496b7baf533155f2528c25f72642d348b2",
-      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.6/terraform-provider-nirmata_1.1.6_linux_arm64.zip"
+      "sha256": "e3a1bfd0634df091dade7d83c59a340140832850526a93ac78860a3764487be9",
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.8/terraform-provider-nirmata_1.1.8_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "106ccba798d7af49baf542c8c0562f90f63d30f2083c6fa1927dae16c37673da",
-      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.6/terraform-provider-nirmata_1.1.6_linux_386.zip"
+      "sha256": "8822c7038ff762cbffdbcbd0368fb07e6d62056f47ed1440ee912a8b702944ec",
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.8/terraform-provider-nirmata_1.1.8_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "42b5b1e717d85c1e8418cd6d51ed662fe87d6754cc9509468d097db902300ee8",
-      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.6/terraform-provider-nirmata_1.1.6_darwin_amd64.zip"
+      "sha256": "65a3e1e5b2e5380991f23d4a7512efc5ff1ce56c10a0b3ebdd057589b5bed742",
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.8/terraform-provider-nirmata_1.1.8_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "ada686fc515c06e515298fbbb35b448d28b11bfcdc65ee7182f695863082f1c7",
-      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.6/terraform-provider-nirmata_1.1.6_linux_amd64.zip"
+      "sha256": "8839db368ef648209cc62a9839612925954e95adb97904a9aece20c2ced3fa30",
+      "url": "https://github.com/nirmata/terraform-provider-nirmata/releases/download/v1.1.8/terraform-provider-nirmata_1.1.8_linux_amd64.zip"
     }
   },
   "owner": "nirmata",
   "repo": "nirmata",
-  "version": "1.1.6"
+  "version": "1.1.8"
 }
