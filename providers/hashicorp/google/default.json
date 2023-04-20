@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "80aca39806703cb26b2c579063c6a5a0040de5b4327c4e2785414abe3bf5c115",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.0/terraform-provider-google_4.62.0_darwin_arm64.zip"
+      "sha256": "d227ca244766b76913f70639c612d1e6b7a996484ad4177f41a5316fddf26594",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.1/terraform-provider-google_4.62.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "5b8db431183515795a8bdeec331feb31f3e520823068a5bb38ae432bc022a8c8",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.0/terraform-provider-google_4.62.0_linux_arm64.zip"
+      "sha256": "2286d2d182dd3df835665e8bb591ab72ed75af83a822ed91e44ed02d02e399d1",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.1/terraform-provider-google_4.62.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "15708ee9895424dc2b6c2e97c5b0e1f72fbd1222646f2a03ededbea567ef2758",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.0/terraform-provider-google_4.62.0_linux_386.zip"
+      "sha256": "2507695cd914fe08cccb2c6fd7ff0a1f566647fd733b89ba83396d8bbac1d4b7",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.1/terraform-provider-google_4.62.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "781674ab40ee646fa5fc5b2e387acd50ac037cb1c33bfaa8daaa8e50ef101d51",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.0/terraform-provider-google_4.62.0_darwin_amd64.zip"
+      "sha256": "dca333c358afe417d3f0610c2b89fc7e3741260a82f9626bcd1006e9016e3eff",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.1/terraform-provider-google_4.62.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b2afc7fb40c425319bed2cdd12bd060368561e15d8353cc572adfbca7baae0ff",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.0/terraform-provider-google_4.62.0_linux_amd64.zip"
+      "sha256": "739a0ab7647153c9b555d3e68b56f746bef17d822969124108775473ca375bfe",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/4.62.1/terraform-provider-google_4.62.1_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "google",
-  "version": "4.62.0"
+  "version": "4.62.1"
 }
