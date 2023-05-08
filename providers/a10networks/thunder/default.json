@@ -1,15 +1,19 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "4df9d08d435ad35bc173310ef2fda908e10be3006b1fd2662f7d4b0f007e4467",
+      "url": "https://github.com/a10networks/terraform-provider-thunder/releases/download/v1.2.2/terraform-provider-thunder_1.2.2_darwin_arm64.zip"
+    },
     "x86_64-darwin": {
-      "sha256": "1d44e32ea44ed5abb2ffa0ed6285e83285bb29f6c67481721de40e51241512b0",
-      "url": "https://github.com/a10networks/terraform-provider-thunder/releases/download/v1.2.1/terraform-provider-thunder_1.2.1_darwin_amd64.zip"
+      "sha256": "33aacae9abc86b600ed9cd90abba91ecbdfba77720f438e4212ecaaf64603e01",
+      "url": "https://github.com/a10networks/terraform-provider-thunder/releases/download/v1.2.2/terraform-provider-thunder_1.2.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "52d5c957e95fadf3c9f1306685ebdb1a83359ceed93b98e5cd59a3cc3c8b6359",
-      "url": "https://github.com/a10networks/terraform-provider-thunder/releases/download/v1.2.1/terraform-provider-thunder_1.2.1_linux_amd64.zip"
+      "sha256": "b8631193465f6e92c2a889ceafa00aade0b60fa321a87ff0584549be218c437c",
+      "url": "https://github.com/a10networks/terraform-provider-thunder/releases/download/v1.2.2/terraform-provider-thunder_1.2.2_linux_amd64.zip"
     }
   },
   "owner": "a10networks",
   "repo": "thunder",
-  "version": "1.2.1"
+  "version": "1.2.2"
 }
