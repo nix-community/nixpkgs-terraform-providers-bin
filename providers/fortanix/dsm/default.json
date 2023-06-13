@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e3b855669174be0d58bcd35efcd2794bf09d454501a928cee8464d45cc8c052b",
-      "url": "https://github.com/fortanix/terraform-provider-dsm/releases/download/v0.5.24/terraform-provider-dsm_0.5.24_darwin_arm64.zip"
+      "sha256": "173b52021de334e0e83d74c73a3010d76d822c7c8de5776c1f1b5ee7e16a70ac",
+      "url": "https://github.com/fortanix/terraform-provider-dsm/releases/download/v0.5.25/terraform-provider-dsm_0.5.25_darwin_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "de7115c094c9e1c044d73a4d60e36cf2abbe3cb68bc782de31f036a0e2a49dfc",
-      "url": "https://github.com/fortanix/terraform-provider-dsm/releases/download/v0.5.24/terraform-provider-dsm_0.5.24_linux_386.zip"
+      "sha256": "fe1c4529b0e4d2c80cf6bae34c5e91ddcedead62efcd1c3e315ca80e9183ad6d",
+      "url": "https://github.com/fortanix/terraform-provider-dsm/releases/download/v0.5.25/terraform-provider-dsm_0.5.25_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "74068db949b4c9e784f31cb847455dba67c01283afe93e379ed917be4468c24a",
-      "url": "https://github.com/fortanix/terraform-provider-dsm/releases/download/v0.5.24/terraform-provider-dsm_0.5.24_darwin_amd64.zip"
+      "sha256": "e2a8b220c513bd6ea2ac5416fee1d4721fdbc814c46ae47ce132b56da22e5fbb",
+      "url": "https://github.com/fortanix/terraform-provider-dsm/releases/download/v0.5.25/terraform-provider-dsm_0.5.25_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "9c859134160480b9e19c959041e166a132b739bfc8d57c03077fcb2670465e19",
-      "url": "https://github.com/fortanix/terraform-provider-dsm/releases/download/v0.5.24/terraform-provider-dsm_0.5.24_linux_amd64.zip"
+      "sha256": "bea2246a47ac4a9b9f50d6eee668b29efc78d96e42e1252663e4dec6f31dc16c",
+      "url": "https://github.com/fortanix/terraform-provider-dsm/releases/download/v0.5.25/terraform-provider-dsm_0.5.25_linux_amd64.zip"
     }
   },
   "owner": "fortanix",
   "repo": "dsm",
-  "version": "0.5.24"
+  "version": "0.5.25"
 }
