@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "c5a17251335c4263703136ee043c2f6f7f001fdeb503203af272caab3f3de30b",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/v1.16.0/terraform-provider-fortios_1.16.0_darwin_arm64.zip"
+      "sha256": "5be41ea7ff7d846df866aaf18c288763fd4a6c5f41fc30ead64673fc781a062e",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.17.0/terraform-provider-fortios_1.17.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c5b70a0884c45dee76f4f88d4bcd9372ba1a0b9f3741c391829ce37fe7e03d74",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/v1.16.0/terraform-provider-fortios_1.16.0_linux_arm64.zip"
+      "sha256": "240effa0961cc1fca91ee7d5944fa14b4e08e36495fc8f3134ad7a97415c79e4",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.17.0/terraform-provider-fortios_1.17.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "206f1d9ebf0565025dda2b9eabdaaf3ea96788d005d73c08a8edb3cd8235956d",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/v1.16.0/terraform-provider-fortios_1.16.0_linux_386.zip"
+      "sha256": "78f71f65152803ad386194ebd2708e04389af2185339356220867e7b8d0d6ba1",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.17.0/terraform-provider-fortios_1.17.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "3185f57be327e90e12d2a63ac24a099ca185eb23df346a08f860e4e05ae1f6cf",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/v1.16.0/terraform-provider-fortios_1.16.0_darwin_amd64.zip"
+      "sha256": "9ebb4eb8b6fc2a66e8d50685bbee2d622a466028663a59dc243e6b12b74e93c6",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.17.0/terraform-provider-fortios_1.17.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "9754d188d634c73b28eb459647c982037275c759e4032d5572f5f9584a08e2bd",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/v1.16.0/terraform-provider-fortios_1.16.0_linux_amd64.zip"
+      "sha256": "17e76610e5d0cfd779049a6b37d7a7ca18b2949593b8a2c259b23091efc1dee1",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.17.0/terraform-provider-fortios_1.17.0_linux_amd64.zip"
     }
   },
   "owner": "fortinetdev",
   "repo": "fortios",
-  "version": "1.16.0"
+  "version": "1.17.0"
 }
