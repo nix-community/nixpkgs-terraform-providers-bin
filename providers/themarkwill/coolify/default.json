@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "4a46cdc0cd0c0110a16002bd4172de5a7a44103ce68a3021933f987cd0005b7d",
+      "url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v0.4.11/terraform-provider-coolify_0.4.11_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "b2edbdaafd82b5104c54d9b0f994f541f969883aacdcd4dc64e8d0ae28451588",
+      "url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v0.4.11/terraform-provider-coolify_0.4.11_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "900de1737506c811c77ded8fb238f21b853291f86ad968bb699196c490aa81e0",
+      "url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v0.4.11/terraform-provider-coolify_0.4.11_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "92ae7b43da6935d4f2debe95b358f5b1afd1b4aa1a79bb5c36001963fdea6d63",
+      "url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v0.4.11/terraform-provider-coolify_0.4.11_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "d05707c8ac33ef423b466db0294a0562248b1f77ee06eb446df4dc4ea1219274",
+      "url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v0.4.11/terraform-provider-coolify_0.4.11_linux_amd64.zip"
+    }
+  },
+  "owner": "themarkwill",
+  "repo": "coolify",
+  "version": "0.4.11"
+}

@@ -1,27 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e29517423f0ca6b7fcae7a9a7f037807f037f7621b495f089db3098f87566871",
-      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.59.0/terraform-provider-snowflake_0.59.0_darwin_arm64.zip"
+      "sha256": "466e7001141c41197ed52337aa75696673aeaf01b2a038b4ab11c3931e4f9754",
+      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.67.0/terraform-provider-snowflake_0.67.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f92b7828ef6118f854b04b67056ad562da4986edde43d410334b7845a828a0f7",
-      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.59.0/terraform-provider-snowflake_0.59.0_linux_arm64.zip"
-    },
-    "i686-linux": {
-      "sha256": "1ce286cc813aa799fef14847dd9a150454792207a7d0bf6c8995abc3fb920673",
-      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.59.0/terraform-provider-snowflake_0.59.0_linux_386.zip"
+      "sha256": "8901ddbb0cb41b96c7fee6e9ec097e17c7e6e2815dbb3ef4827c161600e2e6a1",
+      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.67.0/terraform-provider-snowflake_0.67.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8729ba1cb92cc7ecedadc89a21c82a30b80f871d895235518c00315ece08dc0a",
-      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.59.0/terraform-provider-snowflake_0.59.0_darwin_amd64.zip"
+      "sha256": "5a91844c5f13b494cf967e292630ce330d467c98d9a3d1dffb3c396756a89a2d",
+      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.67.0/terraform-provider-snowflake_0.67.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "1a0430b95f2ef18fe84b891004e2ef952cb4c6911b8e92fd18aa92a7e5a360da",
-      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.59.0/terraform-provider-snowflake_0.59.0_linux_amd64.zip"
+      "sha256": "b069e48817d9ea84dbcdc37e87ffe6bcb9b520d0f86b6b719fbd5b8659402d76",
+      "url": "https://github.com/Snowflake-Labs/terraform-provider-snowflake/releases/download/v0.67.0/terraform-provider-snowflake_0.67.0_linux_amd64.zip"
     }
   },
   "owner": "Snowflake-Labs",
   "repo": "snowflake",
-  "version": "0.59.0"
+  "version": "0.67.0"
 }

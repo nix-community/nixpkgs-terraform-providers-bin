@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "82003fec48e97443d362557aa4b505bd4d60ea77b3c3cd09a6036ad29c2f666e",
-      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.15/terraform-provider-hpegl_0.3.15_darwin_arm64.zip"
+      "sha256": "3baa9906ea8a192b3093945b6bc879bfaee3ff71f5f653d7e614750be73573e9",
+      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.17/terraform-provider-hpegl_0.3.17_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "58582a0bc76d54f144192c370a7b5930a865e458ec9576abfde2a3ede867ec9f",
-      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.15/terraform-provider-hpegl_0.3.15_linux_arm64.zip"
+      "sha256": "d73d68dd9d94974f687f94d8877983ffe85ce3094539ad1f5e3bcbe989bf884d",
+      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.17/terraform-provider-hpegl_0.3.17_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "7b0a37cf98a64ac05bb754f23cbbea10cf38ada02136eac6b89cccb6abd04330",
-      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.15/terraform-provider-hpegl_0.3.15_linux_386.zip"
+      "sha256": "ccb41c97c46f22456779791397310eff1d3894fb23c2361afcaefc2aaac0d4e8",
+      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.17/terraform-provider-hpegl_0.3.17_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "01f68fa4596d9bab34480f10ce17b247ec0abad83dc5ca66eb4e439e589cf904",
-      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.15/terraform-provider-hpegl_0.3.15_darwin_amd64.zip"
+      "sha256": "425451add2835a15da81b4bca08d0d50215aac04c6023c2a90d1d4d0e08b195c",
+      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.17/terraform-provider-hpegl_0.3.17_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "43959f9f3d1f3a5e6125683ac473d5e8d6cd89877efb2f4be07372245a7e4c77",
-      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.15/terraform-provider-hpegl_0.3.15_linux_amd64.zip"
+      "sha256": "52f051e93bf7ae23d6dd8ed9e30aa4433190feec32cccf0cb70812d06f69e2a1",
+      "url": "https://github.com/HPE/terraform-provider-hpegl/releases/download/v0.3.17/terraform-provider-hpegl_0.3.17_linux_amd64.zip"
     }
   },
   "owner": "HPE",
   "repo": "hpegl",
-  "version": "0.3.15"
+  "version": "0.3.17"
 }

@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "eb0e0895ee2a4d2075b4be930ed094ee48067cb8a20b562103b50f26926f6b9a",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.6.1/terraform-provider-aci_2.6.1_darwin_arm64.zip"
+      "sha256": "24b2d8430882bfac86dcac914a4d02d728e7448fa3bb5eeea2feaa6c78cf5046",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.8.0/terraform-provider-aci_2.8.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "55ddc869f37ba9201efd86596024cd10765c639ac656321080865ccffa676e6a",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.6.1/terraform-provider-aci_2.6.1_linux_arm64.zip"
+      "sha256": "ae2a509265048a477c20d317f6ef61ad2043289ba58daa3beb0460c45d0a1889",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.8.0/terraform-provider-aci_2.8.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "2cf0b874903443bb986d6ec164c3f40f38253caeb28c4d6ba2508af8ee62f924",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.6.1/terraform-provider-aci_2.6.1_linux_386.zip"
+      "sha256": "ac69926c8f7a2b7ba627733363098b98f728f5a8ec625573693a99a998e6a957",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.8.0/terraform-provider-aci_2.8.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "85b5bdf54ec5619d6841ec31b94cecec5df48bf656ba2f730e544af6b252f55d",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.6.1/terraform-provider-aci_2.6.1_darwin_amd64.zip"
+      "sha256": "a4cfb70edb981166f133696c8da371d22b23e3be4654ca73b42961868221ed9f",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.8.0/terraform-provider-aci_2.8.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "ea7e482dc7e5b05130a282a9f80a595283e813a6cf572223b6b754c6c639e9b8",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.6.1/terraform-provider-aci_2.6.1_linux_amd64.zip"
+      "sha256": "7423a2bcda13e7503301d1ed68a23368ccbf8992cb29ffab79903db760bdca00",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-aci/releases/download/v2.8.0/terraform-provider-aci_2.8.0_linux_amd64.zip"
     }
   },
   "owner": "CiscoDevNet",
   "repo": "aci",
-  "version": "2.6.1"
+  "version": "2.8.0"
 }

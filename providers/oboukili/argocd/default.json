@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "4ad6b013476b3eef3163ee4c8d5679ae2e39ec20a5ae6e6b8a7801dd0a2ba103",
-      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v5.0.1/terraform-provider-argocd_5.0.1_darwin_arm64.zip"
+      "sha256": "79d4e1814fa20cd461f8d8abe4b300a201c0f698149084d65838d2ed5713919b",
+      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v5.5.0/terraform-provider-argocd_5.5.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "50da2c53068afbecc49e24946bdb6395005389c125237e4400ba3b7398e2cac1",
-      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v5.0.1/terraform-provider-argocd_5.0.1_linux_arm64.zip"
+      "sha256": "4452a99b9cf8398f9637315635036340729e7caa3ebd773a2980e2ef7a408304",
+      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v5.5.0/terraform-provider-argocd_5.5.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "a06d2c2a9ba452b579d082b589cdaf0696a8f314b2973012fd795b76980a97fa",
-      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v5.0.1/terraform-provider-argocd_5.0.1_darwin_amd64.zip"
+      "sha256": "8c11fb7b0443f55cb543ccd602abec46b3b56584866eca85cc0aaf1ef632ef8f",
+      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v5.5.0/terraform-provider-argocd_5.5.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "61ed5707d1f03c89c79bc688a2ae46aa394776932744621598ad144399616a73",
-      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v5.0.1/terraform-provider-argocd_5.0.1_linux_amd64.zip"
+      "sha256": "8c3ce382714e7ede2f0f92e904e18148e0a3b815325833c9f77f5b6e2250e55f",
+      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v5.5.0/terraform-provider-argocd_5.5.0_linux_amd64.zip"
     }
   },
   "owner": "oboukili",
   "repo": "argocd",
-  "version": "5.0.1"
+  "version": "5.5.0"
 }
