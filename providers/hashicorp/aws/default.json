@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "d4cf29d67ead2c5feb999c2882e5365bd4d04c115e98fb1639b747b682507fea",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.6.2/terraform-provider-aws_5.6.2_darwin_arm64.zip"
+      "sha256": "8a7d5f33b11a3f5c7281413b431fa85de149ed8493ec1eea73d50d2d80a475e6",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.7.0/terraform-provider-aws_5.7.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "ac3403e3ab5c10869b23626467b919e3f010e7cae6e0acf8515e0cefab0dbff0",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.6.2/terraform-provider-aws_5.6.2_linux_arm64.zip"
+      "sha256": "36512725c9d7c559927b98fead04be58494a3a997e5270b905a75a468e307427",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.7.0/terraform-provider-aws_5.7.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "c3534972986cd68a421359f07ab86631ffa8731606936276fce18ec8ae9045f4",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.6.2/terraform-provider-aws_5.6.2_linux_386.zip"
+      "sha256": "5483e696d3ea764f746d3fe439f7dcc49001c3c774122d7baa51ce01011f0075",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.7.0/terraform-provider-aws_5.7.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "394aa5bff70003e76d1d33ef4fe37c4826918577cf339d35e56ae84d01e86765",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.6.2/terraform-provider-aws_5.6.2_darwin_amd64.zip"
+      "sha256": "f3de076fa3402768d27af0187c6a677777b47691d1f0f84c9b259ff66e65953e",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.7.0/terraform-provider-aws_5.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6ab11d052d681b5157e261b9dd9167482acffe2018fffd1204575e9bf6a08522",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.6.2/terraform-provider-aws_5.6.2_linux_amd64.zip"
+      "sha256": "2f9e317ffc57d2b5117cfe8dc266f88aa139b760bc93d8adeed7ad533a78b5a3",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/5.7.0/terraform-provider-aws_5.7.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "aws",
-  "version": "5.6.2"
+  "version": "5.7.0"
 }
