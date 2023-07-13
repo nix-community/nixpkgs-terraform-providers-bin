@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e13f80de54be3a23a85ff08b7e565357384ab064fde6c7682a9c95e9e8b50f4e",
-      "url": "https://github.com/rancher/terraform-provider-rke/releases/download/v1.4.1/terraform-provider-rke_1.4.1_darwin_arm64.zip"
+      "sha256": "2d7404a8612f63c527cd60ca4426fd77c185609fa766549540e85c6493b43f3c",
+      "url": "https://github.com/rancher/terraform-provider-rke/releases/download/v1.4.2/terraform-provider-rke_1.4.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "68df46382311e35dbbcd0c070e6b7356581017d5721680795dcf482a8652140f",
-      "url": "https://github.com/rancher/terraform-provider-rke/releases/download/v1.4.1/terraform-provider-rke_1.4.1_linux_arm64.zip"
+      "sha256": "e19254208d520086e1c8eea41d9e8bba8121bb752c4a8694a4ac4fb788c88d97",
+      "url": "https://github.com/rancher/terraform-provider-rke/releases/download/v1.4.2/terraform-provider-rke_1.4.2_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "c22cef162e29a8519cafbcd9a429b6797567e189e1ffb69407c3a35b9c72f7f3",
-      "url": "https://github.com/rancher/terraform-provider-rke/releases/download/v1.4.1/terraform-provider-rke_1.4.1_darwin_amd64.zip"
+      "sha256": "f496d2831498dc695f564951c11a5443b5cee2352c93c2fab5524f20e740f801",
+      "url": "https://github.com/rancher/terraform-provider-rke/releases/download/v1.4.2/terraform-provider-rke_1.4.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6e5333b7bf95eac4ec17734b8e5df55657384136995b72f9d0a46eec4c19ed70",
-      "url": "https://github.com/rancher/terraform-provider-rke/releases/download/v1.4.1/terraform-provider-rke_1.4.1_linux_amd64.zip"
+      "sha256": "24c95f0af490628335a30b38001b845825a601543c3b2e5d1ea2843c9d7305dc",
+      "url": "https://github.com/rancher/terraform-provider-rke/releases/download/v1.4.2/terraform-provider-rke_1.4.2_linux_amd64.zip"
     }
   },
   "owner": "rancher",
   "repo": "rke",
-  "version": "1.4.1"
+  "version": "1.4.2"
 }
