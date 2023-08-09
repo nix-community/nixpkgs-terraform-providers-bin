@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "30f1316960051568401d0e65ffe3eaf42987316ce9f7ce4b3cb0d956ad8ffa76",
-      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.208.1/terraform-provider-alicloud_1.208.1_darwin_arm64.zip"
+      "sha256": "6ec0c10866aa8b96113dce1a351bc076651e60c2337de0746276e46f9fc51236",
+      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.209.0/terraform-provider-alicloud_1.209.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d1c6bca82c11b672ee34e3435a5ad66160c2ee2f1b62091bec1db635c7ef0a10",
-      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.208.1/terraform-provider-alicloud_1.208.1_linux_arm64.zip"
+      "sha256": "8db8d309f229cf368b81f8012b9ff05cf8416f9f4792040c1f687ca139c570b2",
+      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.209.0/terraform-provider-alicloud_1.209.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "b0e0a62bed6cede2dd04364108b3b1560bcaa6dd2771888825ea680885b6575f",
-      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.208.1/terraform-provider-alicloud_1.208.1_linux_386.zip"
+      "sha256": "618df7758a1c9cb3815838d19ec54abd64b93863a3bae2c8f7458302880af784",
+      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.209.0/terraform-provider-alicloud_1.209.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5fe5cf026a150f286090dbd30287182be58e67ae23031717f1070f5bad430634",
-      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.208.1/terraform-provider-alicloud_1.208.1_darwin_amd64.zip"
+      "sha256": "e62ae1a403e9205004248c2c5c0890cdaae7218235af17ade02bc4a5170e4584",
+      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.209.0/terraform-provider-alicloud_1.209.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "5f07864b79185651fd5873e351755c8e0e1b939307ea46a1abf8137349739cc4",
-      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.208.1/terraform-provider-alicloud_1.208.1_linux_amd64.zip"
+      "sha256": "37bcc98bac48b69b0d61726d0c64a186237bdf9f25bdbaa6b312815f0a960c13",
+      "url": "https://github.com/aliyun/terraform-provider-alicloud/releases/download/v1.209.0/terraform-provider-alicloud_1.209.0_linux_amd64.zip"
     }
   },
   "owner": "aliyun",
   "repo": "alicloud",
-  "version": "1.208.1"
+  "version": "1.209.0"
 }

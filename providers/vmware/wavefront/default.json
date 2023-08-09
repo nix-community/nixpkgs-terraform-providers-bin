@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "849658dbaf040f111b1618c3c7afd90934a23a547bd69b70b5f922fc340ed4cd",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.0/terraform-provider-wavefront_5.0.0_darwin_arm64.zip"
+      "sha256": "f5c0b3bf5bdbaa880ea1c74c059c834ed91a65f6df82cc57890e9cf116d79f02",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.1/terraform-provider-wavefront_5.0.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "1ce9225e6e1f1022af22e07b9b85cf7ce6b428978575471cbb4b3af2656f5091",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.0/terraform-provider-wavefront_5.0.0_linux_arm64.zip"
+      "sha256": "4071e9c48a43a869ba5a56ee1b927c59fd97de8b16d24f48c90a98995c750835",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.1/terraform-provider-wavefront_5.0.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "cba3fa401107a3b1c3d3afcaf6acd3724f35e780dd59155de47d7612644ee96c",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.0/terraform-provider-wavefront_5.0.0_linux_386.zip"
+      "sha256": "d1fb36aab38f05a17fa021e201db62ca124638a45aadf4de23646ea70cfca3d4",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.1/terraform-provider-wavefront_5.0.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "0c756a7c8108f2f179889e497d1d0b0e2ba4fb5ee69a421cb9bfdc846c0a0f79",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.0/terraform-provider-wavefront_5.0.0_darwin_amd64.zip"
+      "sha256": "5ded1922b96417c1f7dfd26b70ea08673f7a794a78467a8fe2609071af409f71",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.1/terraform-provider-wavefront_5.0.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "8e0c6cbbf711f968b2313038643f309ade2390760ff9497efbf6e2d6aefe80bf",
-      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.0/terraform-provider-wavefront_5.0.0_linux_amd64.zip"
+      "sha256": "b254327214ab3136bf8915f375f9d72af38cf930b4e04ecbbcfefc5d064c8b97",
+      "url": "https://github.com/vmware/terraform-provider-wavefront/releases/download/v5.0.1/terraform-provider-wavefront_5.0.1_linux_amd64.zip"
     }
   },
   "owner": "vmware",
   "repo": "wavefront",
-  "version": "5.0.0"
+  "version": "5.0.1"
 }
