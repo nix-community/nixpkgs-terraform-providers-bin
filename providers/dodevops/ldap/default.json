@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "7ba1c3ca2d4cb15f9361f114b2bcf454ad7e103f99b736e33ec95e2c406616a1",
+      "url": "https://github.com/dodevops/terraform-provider-ldap/releases/download/v0.3.0/terraform-provider-ldap_0.3.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "8902f517648d397767fde717c1f4d3197fa41de39e891d95a04e2fb2eedfffc8",
+      "url": "https://github.com/dodevops/terraform-provider-ldap/releases/download/v0.3.0/terraform-provider-ldap_0.3.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "4ca4bbaa81f7456c32f741d55b217438cad91cd5137de10c1a5e3b7f4b37291d",
+      "url": "https://github.com/dodevops/terraform-provider-ldap/releases/download/v0.3.0/terraform-provider-ldap_0.3.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "305c28762c4496494774c25ea0bdbc33292a174c986e44cfeda623556c2d5d22",
+      "url": "https://github.com/dodevops/terraform-provider-ldap/releases/download/v0.3.0/terraform-provider-ldap_0.3.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "247dff9bd78273323344c9986bfe620cf21d217efce2eb3dd01d2677a5dd3316",
+      "url": "https://github.com/dodevops/terraform-provider-ldap/releases/download/v0.3.0/terraform-provider-ldap_0.3.0_linux_amd64.zip"
+    }
+  },
+  "owner": "dodevops",
+  "repo": "ldap",
+  "version": "0.3.0"
+}
