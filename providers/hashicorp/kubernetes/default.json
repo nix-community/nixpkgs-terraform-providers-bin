@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "5f65194ddd6ea7e89b378297d882083a4b84962edb35dd35752f0c7e9d6282a0",
-      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.22.0/terraform-provider-kubernetes_2.22.0_darwin_arm64.zip"
+      "sha256": "6217a20686b631b1dcb448ee4bc795747ebc61b56fbe97a1ad51f375ebb0d996",
+      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.23.0/terraform-provider-kubernetes_2.23.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f95625f317795f0e38cc6293dd31c85863f4e225209d07d1e233c50d9295083c",
-      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.22.0/terraform-provider-kubernetes_2.22.0_linux_arm64.zip"
+      "sha256": "2cb18e9f5156bc1b1ee6bc580a709f7c2737d142722948f4a6c3c8efe757fa8d",
+      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.23.0/terraform-provider-kubernetes_2.23.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a0ad9eb863b51586ea306c5f2beef74476c96684aed41a3ee99eb4b6d8898d01",
-      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.22.0/terraform-provider-kubernetes_2.22.0_linux_386.zip"
+      "sha256": "1347cf958ed3f3f80b3c7b3e23ddda3d6c6573a81847a8ee92b7df231c238bf6",
+      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.23.0/terraform-provider-kubernetes_2.23.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "4c35651603493437b0b13e070148a330c034ac62c8967c2de9da6620b26adca4",
-      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.22.0/terraform-provider-kubernetes_2.22.0_darwin_amd64.zip"
+      "sha256": "5506aa6f28dcca2a265ccf8e34478b5ec2cb43b867fe6d93b0158f01590fdadd",
+      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.23.0/terraform-provider-kubernetes_2.23.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "50c0e8654efb46e3a3666c638ca2e0c8aec07f985fbc80f9205bed960386dc9b",
-      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.22.0/terraform-provider-kubernetes_2.22.0_linux_amd64.zip"
+      "sha256": "c57376d169875990ac68664d227fb69cd0037b92d0eba6921d757c3fd1879080",
+      "url": "https://releases.hashicorp.com/terraform-provider-kubernetes/2.23.0/terraform-provider-kubernetes_2.23.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "kubernetes",
-  "version": "2.22.0"
+  "version": "2.23.0"
 }
