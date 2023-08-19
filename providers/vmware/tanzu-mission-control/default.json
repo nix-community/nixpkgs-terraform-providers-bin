@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "9639bbf7048dc33144ee4434de522ff09c0d32584385abd65eaeee9f8ae71445",
-      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.0/terraform-provider-tanzu-mission-control_1.2.0_darwin_arm64.zip"
+      "sha256": "d6892fe1f76fa664039637f89251bd071e7422dad90a2072f7ec3f1743934cc1",
+      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.1/terraform-provider-tanzu-mission-control_1.2.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "71b50847b160c0545c72c77c713eb8f6a691bcbfac94963f935a7abaacb2e349",
-      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.0/terraform-provider-tanzu-mission-control_1.2.0_linux_arm64.zip"
+      "sha256": "cbb18a3955c1de565d0d3c85e547e4bb2338bbb09073d3e525e4930591f03ad9",
+      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.1/terraform-provider-tanzu-mission-control_1.2.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8cdead6d915040fbd497374e479bb2032955d0c87619bb29d89e72942d10f671",
-      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.0/terraform-provider-tanzu-mission-control_1.2.0_linux_386.zip"
+      "sha256": "b92651e8f06bfdbf9b5ec737f89d0fd413ede363bed6e2521eefba24beab0e57",
+      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.1/terraform-provider-tanzu-mission-control_1.2.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "fe449d7ee09a4b036c91fb804c8db6272c2974561c266229860b337b11a54823",
-      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.0/terraform-provider-tanzu-mission-control_1.2.0_darwin_amd64.zip"
+      "sha256": "a117c9f673182231e6ec655d5e1d124c965cd19699474cc83973069d62add34f",
+      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.1/terraform-provider-tanzu-mission-control_1.2.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "ef8fe68286b15d3521edcfa398567654cea7126df9b2c4478accddf6caad9f20",
-      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.0/terraform-provider-tanzu-mission-control_1.2.0_linux_amd64.zip"
+      "sha256": "0cde016346322ad31becd69b5a6bfd63f414ab1ebdebdd7ecdcdb3542c0bb91d",
+      "url": "https://github.com/vmware/terraform-provider-tanzu-mission-control/releases/download/v1.2.1/terraform-provider-tanzu-mission-control_1.2.1_linux_amd64.zip"
     }
   },
   "owner": "vmware",
   "repo": "tanzu-mission-control",
-  "version": "1.2.0"
+  "version": "1.2.1"
 }
