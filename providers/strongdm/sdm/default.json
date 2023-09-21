@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "636fa2bcdfc714b74ccb1975a620c07d570d36bf7b84479c5a880fceb94b45c3",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v5.3.2/terraform-provider-sdm_5.3.2_darwin_arm64.zip"
+      "sha256": "9619df507538136847315daad30228e5d1a6cd419191b9815f6662d9a414df01",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v6.0.0/terraform-provider-sdm_6.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "8a347c8886719b76bbc77b7d2f4d342efd4c6c7ea0fe6640f8150d172ce06f23",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v5.3.2/terraform-provider-sdm_5.3.2_linux_arm64.zip"
+      "sha256": "9a665a85b876b9945125d582880e2dcc7c4f4b7a978212c3ab31b7e546ab86d8",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v6.0.0/terraform-provider-sdm_6.0.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "81959f60f2900d4a31aeaaf5cfc95bec7e9ddab48661695d6872900aeb49af33",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v5.3.2/terraform-provider-sdm_5.3.2_darwin_amd64.zip"
+      "sha256": "50bbe080149c4e3526bb52bd721217225f807e8400f6654dc8f8300fe1e383c3",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v6.0.0/terraform-provider-sdm_6.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f67eaddb4cc689f6e16eb78812a062f04cb08ff5c432180e4617132d38122bee",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v5.3.2/terraform-provider-sdm_5.3.2_linux_amd64.zip"
+      "sha256": "ac8fd1a39af8477048364b02d6c57ccdce7391b4eec6fc3c92de41dc886d1d86",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v6.0.0/terraform-provider-sdm_6.0.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "5.3.2"
+  "version": "6.0.0"
 }
