@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "74bc56db4d9917787b661933ab4a2e1ed85fb4dd48c7895f875ffe62adb9849d",
+      "url": "https://github.com/massdriver-cloud/terraform-provider-jq/releases/download/v0.2.1/terraform-provider-jq_0.2.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "8c70f95596ed3b5bb06a719fd7d6f07a330ec9750319117617e6464c008ed0cf",
+      "url": "https://github.com/massdriver-cloud/terraform-provider-jq/releases/download/v0.2.1/terraform-provider-jq_0.2.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "7271507b52846658e469d10c04d746489dc5e9801771f4d60cf9af1af5b0b9fd",
+      "url": "https://github.com/massdriver-cloud/terraform-provider-jq/releases/download/v0.2.1/terraform-provider-jq_0.2.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "5592380a8d773c8b50db45f264fe47d4cf8a91d926d24c46fdc24f4c5dd78981",
+      "url": "https://github.com/massdriver-cloud/terraform-provider-jq/releases/download/v0.2.1/terraform-provider-jq_0.2.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "3dd50a4d7464bce80d9da5bc703a90fbf30370c107f8b457c0b3c77da95c1dd1",
+      "url": "https://github.com/massdriver-cloud/terraform-provider-jq/releases/download/v0.2.1/terraform-provider-jq_0.2.1_linux_amd64.zip"
+    }
+  },
+  "owner": "massdriver-cloud",
+  "repo": "jq",
+  "version": "0.2.1"
+}
