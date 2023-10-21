@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "2e3cb2bcc8910ea5348d37afc807db60567495f3e2b2e9962364811cac12139f",
-      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.0/terraform-provider-sysdig_1.15.0_darwin_arm64.zip"
+      "sha256": "c7190bd638e55003a25b3f2fb78a21babf1577af20f0740f5c6c4cfb3bfe4d70",
+      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.1/terraform-provider-sysdig_1.15.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d7cb46cb2853d93245338d8bafe58007edd9666b3f7b261af853d8033d640aea",
-      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.0/terraform-provider-sysdig_1.15.0_linux_arm64.zip"
+      "sha256": "80af2826de23d3e326f4636b12388c84542a23b3522d951a701a551dab069e70",
+      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.1/terraform-provider-sysdig_1.15.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "bfbc7d750ac02289961638b5cdf82537b4d05e3bab753eedd4b3ee7daea9ba83",
-      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.0/terraform-provider-sysdig_1.15.0_linux_386.zip"
+      "sha256": "ee46ba6518700149767c5b3efa9a87a1357476f869bdc86e1ad09676d058a00f",
+      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.1/terraform-provider-sysdig_1.15.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "a9b60256655cff16cb5bfb24a100c1942115e375407b5d1e8112209ed0e728e6",
-      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.0/terraform-provider-sysdig_1.15.0_darwin_amd64.zip"
+      "sha256": "4b51f7a585a9a6bfe5a179be0bb6253658e9aa3d6dff4bda45d1a4ff9f184c7c",
+      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.1/terraform-provider-sysdig_1.15.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "11e72f94c61fe9d27a2cfc0714945c1a70730380a394eb4964e04c414850c4e4",
-      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.0/terraform-provider-sysdig_1.15.0_linux_amd64.zip"
+      "sha256": "4ca3a63e7ec785fc36265188db731caf02fb931e37e60a5243b83d6225a8ba90",
+      "url": "https://github.com/sysdiglabs/terraform-provider-sysdig/releases/download/v1.15.1/terraform-provider-sysdig_1.15.1_linux_amd64.zip"
     }
   },
   "owner": "sysdiglabs",
   "repo": "sysdig",
-  "version": "1.15.0"
+  "version": "1.15.1"
 }
