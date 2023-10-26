@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a2b4cb07aca99589944a3024a596a2e0de89178c7fec42adac99e38da5555f32",
-      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.16.4/terraform-provider-vultr_2.16.4_darwin_arm64.zip"
+      "sha256": "e1b3cf4c52da2c74d762031c43725046df833752794ae9bd7d697eb188641050",
+      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.17.0/terraform-provider-vultr_2.17.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "40a5123f2c2d33c9048b685ca3e91c571bd25c3280977a9cbec9b6b9c8015161",
-      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.16.4/terraform-provider-vultr_2.16.4_linux_arm64.zip"
+      "sha256": "c55c4167e6549144621a0f352d2e618b19b514fe6a15ca843e770456b9bfede2",
+      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.17.0/terraform-provider-vultr_2.17.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "c71129120e043218dd0e2cb2e3c0365891f14a43528558ef33cc29bef3a56903",
-      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.16.4/terraform-provider-vultr_2.16.4_linux_386.zip"
+      "sha256": "2d4cf049cb76e144944a17058dcb99f1a4f34e0eb38f3933a8043eb9eaee591c",
+      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.17.0/terraform-provider-vultr_2.17.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "77a4a93af7810efecec347a3a6cbb907beb199e93ec85cb88e77a284a3514594",
-      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.16.4/terraform-provider-vultr_2.16.4_darwin_amd64.zip"
+      "sha256": "09c9a13d4766f3918cbf3f685b899763dc695b1896d32764af0bf10bea6d6de0",
+      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.17.0/terraform-provider-vultr_2.17.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "7a5fde5a61801a48c979e45557b353e290e5240168d9b53949387e7bbe1e3e95",
-      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.16.4/terraform-provider-vultr_2.16.4_linux_amd64.zip"
+      "sha256": "5268f9ab0551713163b0ef2b68459a6954bd65208fe302824a0e9b0d4b2fb758",
+      "url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.17.0/terraform-provider-vultr_2.17.0_linux_amd64.zip"
     }
   },
   "owner": "vultr",
   "repo": "vultr",
-  "version": "2.16.4"
+  "version": "2.17.0"
 }
