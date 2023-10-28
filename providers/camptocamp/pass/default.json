@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "573ef7bf9dd08fba1c1a476b71ca325ca3d9f25c50ef89b62dc38b40b919dec1",
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.1.0/terraform-provider-pass_2.1.0_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "fa11074bab6f884f912a24b53126d465c16adb8abd41652449fea868136ea18b",
-      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.0.0/terraform-provider-pass_2.0.0_linux_arm64.zip"
+      "sha256": "1c57823a2c1b0c366a583a4ea20757ccc80574efbc889f1017e3968474630ca4",
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.1.0/terraform-provider-pass_2.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a1c5597adebf8b6a07d9a9a7c1c46b11ce7d814eacfabbf9e2fdf1ebd996b377",
-      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.0.0/terraform-provider-pass_2.0.0_linux_386.zip"
+      "sha256": "a945473d81971143c2a0bff29fa6bc55cf36a26ad427dd78f7cf1e0451e5b710",
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.1.0/terraform-provider-pass_2.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "52e11c8c213e716a81b7baf5fcad158a1e97206de65d2ba139f8240a00237b8c",
-      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.0.0/terraform-provider-pass_2.0.0_darwin_amd64.zip"
+      "sha256": "6f9a3e60a0ce5ec006aa2ece30fafe9f904d3e81179b06e90215823a6a8b32e6",
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.1.0/terraform-provider-pass_2.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "774aaca25d279327329c0551ad466cb5a304815ea8e8e5546eb57de746a74998",
-      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.0.0/terraform-provider-pass_2.0.0_linux_amd64.zip"
+      "sha256": "956fb427272d9e8f4e57fdfdcca22296dc325a961a050ae1c101dc681f7e71e7",
+      "url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v2.1.0/terraform-provider-pass_2.1.0_linux_amd64.zip"
     }
   },
   "owner": "camptocamp",
   "repo": "pass",
-  "version": "2.0.0"
+  "version": "2.1.0"
 }
