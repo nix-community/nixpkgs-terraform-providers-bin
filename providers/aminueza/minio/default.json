@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "668fa76be6765f363caecd5268022af0ef9594218b499e999b1e0a2f4d6af7e7",
-      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.0/terraform-provider-minio_2.0.0_darwin_arm64.zip"
+      "sha256": "dffaa97cf15b746c9761073fd219bec230de1dd9f011d315f2414e2213462efa",
+      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.1/terraform-provider-minio_2.0.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "7b8e1bdd7b52c5db205319dbd0f1db5b950599092081d642afb4709620ba5078",
-      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.0/terraform-provider-minio_2.0.0_linux_arm64.zip"
+      "sha256": "8c75ca2180761c2af53a989a31fe0f5cdd49354894a239a254524e313fb7aa17",
+      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.1/terraform-provider-minio_2.0.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "b8b80e4d3974f682b3175072df77a14883a689391f5c0eb7a278d99874c60609",
-      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.0/terraform-provider-minio_2.0.0_linux_386.zip"
+      "sha256": "94baebdf52305512e700c7ec8b6c98f030069a823371e8a4c0382877c45ca06f",
+      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.1/terraform-provider-minio_2.0.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "f1ae698130d335d55eb7552eebae99b07dc370e873c966dc888c0c8f6cfeafda",
-      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.0/terraform-provider-minio_2.0.0_darwin_amd64.zip"
+      "sha256": "e267eb315ba9b2d55759bc04341772ab7d0678a1da6810d769d8bf9a5280c87b",
+      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.1/terraform-provider-minio_2.0.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "42086618b070cc4f7126507ea8e936207d1943c63a81807139d8b9ee3d8b2425",
-      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.0/terraform-provider-minio_2.0.0_linux_amd64.zip"
+      "sha256": "e3206eda408253174b90856ee9b11e3578c65bc63a918f6824be064b6895cf70",
+      "url": "https://github.com/aminueza/terraform-provider-minio/releases/download/v2.0.1/terraform-provider-minio_2.0.1_linux_amd64.zip"
     }
   },
   "owner": "aminueza",
   "repo": "minio",
-  "version": "2.0.0"
+  "version": "2.0.1"
 }
