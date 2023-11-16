@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "9097ca5bc78c701126c610b34127f58aeeba446ae2e03e94d8a42b4fb7ed6e4c",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.22.0/terraform-provider-vault_3.22.0_darwin_arm64.zip"
+      "sha256": "9218066d107c14dbc53061966dde55f88c056782458e2b59df1d185a948e2308",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.23.0/terraform-provider-vault_3.23.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "98a81d03a45ada9a10a4d3cfdf4a7c223e5da3251aa0aaa6e24a48cea475903f",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.22.0/terraform-provider-vault_3.22.0_linux_arm64.zip"
+      "sha256": "55e08eed3b1d8e5c395fa1ffd71cb98755dad6c52dcc4f48ea1faa3538ebe995",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.23.0/terraform-provider-vault_3.23.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "cd6cc39872ed1439897e3f63d4251f31e5758b303ff8f471aac3dff32fb53e54",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.22.0/terraform-provider-vault_3.22.0_linux_386.zip"
+      "sha256": "e49210cc09b96932844950ff4fd2cf034fea0041612f43fb79d01e44ce030c8c",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.23.0/terraform-provider-vault_3.23.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "6b445c90130201f6babb83b3d68969c7fc8936ddb29bd62597782b973a204a67",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.22.0/terraform-provider-vault_3.22.0_darwin_amd64.zip"
+      "sha256": "2e6b6435f3ee58c0a2c633e05b9e0091d31e653433028e455b681b601ac36712",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.23.0/terraform-provider-vault_3.23.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "d149c68271db77344b278e7e6c40db5dcf35a83642a60d588fbe72822bb40977",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.22.0/terraform-provider-vault_3.22.0_linux_amd64.zip"
+      "sha256": "b4f87e51739ccba8429f6d03f037a236261373dcd49df9edb6e17d41e013b155",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/3.23.0/terraform-provider-vault_3.23.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "vault",
-  "version": "3.22.0"
+  "version": "3.23.0"
 }
