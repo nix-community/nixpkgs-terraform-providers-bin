@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "43e90052d05a4adde7aab9df2d6b807de0bbae550a9b7a76f93d946c30cf9814",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.0/terraform-provider-helm_2.12.0_darwin_arm64.zip"
+      "sha256": "4fd06af3091a382b3f0d8f0a60880f59640d2b6d9d6a31f9a873c6f1bde1ec50",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.1/terraform-provider-helm_2.12.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c006da0cb8e80d37f7386336671018b3e437113a9fd54b32954b454731da6376",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.0/terraform-provider-helm_2.12.0_linux_arm64.zip"
+      "sha256": "b2b2d904b2821a6e579910320605bc478bbef063579a23fbfdd6fcb5871b81f8",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.1/terraform-provider-helm_2.12.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "da8d7c2b7c8256f2c0c968a2e1690ffb7a183a3daa911e98fa15f6d2c0562ea1",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.0/terraform-provider-helm_2.12.0_linux_386.zip"
+      "sha256": "282358f4ad4f20d0ccaab670b8645228bfad1c03ac0d0df5889f0aea8aeac01a",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.1/terraform-provider-helm_2.12.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "a4bb8fea89baae7bb1a7c0a99d32e4e39c9ad822efa8ad76821cabf3b5f0da5b",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.0/terraform-provider-helm_2.12.0_darwin_amd64.zip"
+      "sha256": "6816976b1830f5629ae279569175e88b497abbbac30ee809948a1f923c67a80d",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.1/terraform-provider-helm_2.12.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "4451cf0f8bd3a62a72451d0941eb936b2ff5089bf7acf80a28d82f486e19188e",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.0/terraform-provider-helm_2.12.0_linux_amd64.zip"
+      "sha256": "e91177ca06a15487fc570cb81ecef6359aa399459ea2aa7c4f7367ba86f6fcad",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/2.12.1/terraform-provider-helm_2.12.1_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "helm",
-  "version": "2.12.0"
+  "version": "2.12.1"
 }
