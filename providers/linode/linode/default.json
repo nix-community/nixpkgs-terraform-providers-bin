@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "311c85af8507444271f700f72e8822a81328ce4cf342391902acd45883812e4c",
-      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.0/terraform-provider-linode_2.10.0_darwin_arm64.zip"
+      "sha256": "21e25a2080e7d81c6b10b1ace99faceabde484cff3a93c34370a797db55e8476",
+      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.1/terraform-provider-linode_2.10.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "2b1e6ee97b68546c31c7078b79b5133d8a242ad0f38c7ee3c064c152a9b2791d",
-      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.0/terraform-provider-linode_2.10.0_linux_arm64.zip"
+      "sha256": "a3a533288f1670b3e4872448e31d75ad73d4c7a942fe2636755c9f2ef9ebaf46",
+      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.1/terraform-provider-linode_2.10.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a541cd0c42baf661666a77e675562056dd1a87626ae7f8ef03096223f4dbfaf9",
-      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.0/terraform-provider-linode_2.10.0_linux_386.zip"
+      "sha256": "431aabc67fec939cf8537049bbf803839ab9440adb0f8987f8ff457a7d6ce8ff",
+      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.1/terraform-provider-linode_2.10.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "db45a9ea3b2ecfd19670e4617e0253d483edc04814f1e59e1bb9750777c158d8",
-      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.0/terraform-provider-linode_2.10.0_darwin_amd64.zip"
+      "sha256": "64581089b2284fbc2f5df5897763dc93951e27dfa79f249461e491e99f07bd38",
+      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.1/terraform-provider-linode_2.10.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c4586b7ddc3ea6a6af6ff17d420c9811d494aa4aa1e2abfbe37299185299e452",
-      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.0/terraform-provider-linode_2.10.0_linux_amd64.zip"
+      "sha256": "2a0da322ba713bf7dd61f94de36bd03e54e5115d5911292626b5791b4853a373",
+      "url": "https://github.com/linode/terraform-provider-linode/releases/download/v2.10.1/terraform-provider-linode_2.10.1_linux_amd64.zip"
     }
   },
   "owner": "linode",
   "repo": "linode",
-  "version": "2.10.0"
+  "version": "2.10.1"
 }
