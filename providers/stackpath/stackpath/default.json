@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ead2af0f75ec3e5ecc1a1c30fb3a5ce598aa43722fafd8495fa847b6df9e6969",
-      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v1.5.0/terraform-provider-stackpath_1.5.0_darwin_arm64.zip"
+      "sha256": "d52f5b6d706ade43d61e8fc17c064bdfa814460dbfcbdb0b87eafff1c9a9c38f",
+      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v2.0.0/terraform-provider-stackpath_2.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "2ba4c9c14fdbb66e4e9b78a1c2efe37733efa8045274691b8259b1bda79cc5b2",
-      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v1.5.0/terraform-provider-stackpath_1.5.0_linux_arm64.zip"
+      "sha256": "bf465d71ba74d365d4ed171cf8c13cee45e33d4c43a228ba5857fdae85da66ce",
+      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v2.0.0/terraform-provider-stackpath_2.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "4b8435619d84b94388f6a98de88bb146b241adf03de6ea9c827aae1ed52de0f5",
-      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v1.5.0/terraform-provider-stackpath_1.5.0_linux_386.zip"
+      "sha256": "a0d0a259733b12727dfb81a6048bcd152b3c3c1641119a96344e73cc09154351",
+      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v2.0.0/terraform-provider-stackpath_2.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "933a7cb8afd818f39bc2736d72c2545b672679e31888503e005a8f44e52859cf",
-      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v1.5.0/terraform-provider-stackpath_1.5.0_darwin_amd64.zip"
+      "sha256": "89bae6d5e2a57232b37fdc7e094b01ec17c3d06d10832b7233ca5a1ef8c5e151",
+      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v2.0.0/terraform-provider-stackpath_2.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c17fc2d220ef902d0c71fa0f4d7c7ce613e5d09314dd42abf2131b0267ae44f3",
-      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v1.5.0/terraform-provider-stackpath_1.5.0_linux_amd64.zip"
+      "sha256": "d80e38796da70e265c200c7ce6c05f8120bc762ab631019a1dbd0768974b8e5e",
+      "url": "https://github.com/stackpath/terraform-provider-stackpath/releases/download/v2.0.0/terraform-provider-stackpath_2.0.0_linux_amd64.zip"
     }
   },
   "owner": "stackpath",
   "repo": "stackpath",
-  "version": "1.5.0"
+  "version": "2.0.0"
 }

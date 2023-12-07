@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "cfd073f85f503cbe9e2afe565d731c982eb4d9142f638f2dcf5dbe4bfa2da649",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v0.11.1/terraform-provider-mso_0.11.1_darwin_arm64.zip"
+      "sha256": "6fd98880552446e90000aa771398b35f2e51f20bec4e0342fca7c14888b7d45e",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v1.0.0/terraform-provider-mso_1.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "5a576df4910389a5b08fe53a795b56aec23580c9aef7b6b19afd6b6b1971f192",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v0.11.1/terraform-provider-mso_0.11.1_linux_arm64.zip"
+      "sha256": "06e0c8188855b51aa65fc327065dd9e542d6c769e8e10898ffde24e3ace1e7f8",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v1.0.0/terraform-provider-mso_1.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "7b49819fe2c109607c0c92e1739e15bdf1b57bec23932fa1db38d49ecec04540",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v0.11.1/terraform-provider-mso_0.11.1_linux_386.zip"
+      "sha256": "d11ae947771c88d7a0fd83653d68023c473180b0c87e3c9c0e6710497fdbb72d",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v1.0.0/terraform-provider-mso_1.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "11af6325ab366b36ca434a16f697ddadd8ff25010f6bc7726ecdf5a66b9d4518",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v0.11.1/terraform-provider-mso_0.11.1_darwin_amd64.zip"
+      "sha256": "ba24f508c5bc7d40d38b3aedd241e499f359215efbf7b63dd2b8437cc868513c",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v1.0.0/terraform-provider-mso_1.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b50f7b36bee7df09e0fa64390ae8f8e328a1a0c7b70d3763f2b4a172445f523c",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v0.11.1/terraform-provider-mso_0.11.1_linux_amd64.zip"
+      "sha256": "8f63dce55e30f29de11f02428b8121ca3a5a084f144a65c7056e3ae165815115",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-mso/releases/download/v1.0.0/terraform-provider-mso_1.0.0_linux_amd64.zip"
     }
   },
   "owner": "CiscoDevNet",
   "repo": "mso",
-  "version": "0.11.1"
+  "version": "1.0.0"
 }
