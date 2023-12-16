@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "65dbed3a41326dfeaeacbc2c3f972df2798814a003c58fcbcca19258ed09cb8a",
-      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v2.1.1/terraform-provider-configcat_2.1.1_darwin_arm64.zip"
+      "sha256": "07337c021700f8600f043251ac1b3d3bd412f353c05f448fa5ffe12108da7e33",
+      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v3.0.0/terraform-provider-configcat_3.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "0b182c40467df022d04f67c7ae302d48dcbe2f64cfe8e04fe0a9ba9494cd5f43",
-      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v2.1.1/terraform-provider-configcat_2.1.1_linux_arm64.zip"
+      "sha256": "9e524577eb73f52db4d233ba210e11139e2bcccf52634eb36673663d87bc8999",
+      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v3.0.0/terraform-provider-configcat_3.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "c76f7449f5266312b5100e306da2c9b12291d6fb392afa7eb7abef9953caf86f",
-      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v2.1.1/terraform-provider-configcat_2.1.1_linux_386.zip"
+      "sha256": "ee32d8370855839358630607dc53ba837a0927c942153aef7b216f4c9dbe02af",
+      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v3.0.0/terraform-provider-configcat_3.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "c263d3a5122358ccd00c116ff16ba6a84bf5e5306359087049739c9b5ed88313",
-      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v2.1.1/terraform-provider-configcat_2.1.1_darwin_amd64.zip"
+      "sha256": "3368b4b9898f852d90754f148da0e92d1190cb6714b06253498e717873d0f4cc",
+      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v3.0.0/terraform-provider-configcat_3.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "3b22310019eba32d939a23c4ea30fde3fc8c84a6c39e78b3e08f1937c6ab0d9a",
-      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v2.1.1/terraform-provider-configcat_2.1.1_linux_amd64.zip"
+      "sha256": "8ee020309ad729ba09553719db29c701ff8a358d882cb8ebd22e19757fa7659c",
+      "url": "https://github.com/configcat/terraform-provider-configcat/releases/download/v3.0.0/terraform-provider-configcat_3.0.0_linux_amd64.zip"
     }
   },
   "owner": "configcat",
   "repo": "configcat",
-  "version": "2.1.1"
+  "version": "3.0.0"
 }

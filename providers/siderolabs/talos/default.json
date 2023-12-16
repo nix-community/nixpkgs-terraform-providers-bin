@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "7309c275c8fd30e5697bd4f909a47b9ddcdb5353013fc5be64a28d8df335356c",
-      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.3.4/terraform-provider-talos_0.3.4_darwin_arm64.zip"
+      "sha256": "56cd09f6ef968b1af827a889b44ddf60f3b3a92b774ed95ecd076db21bcebc8c",
+      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.4.0/terraform-provider-talos_0.4.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "45e597c86c15015c11d9dc17d9aacdc50890fc62deea6d9e0b3c98c39af9f923",
-      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.3.4/terraform-provider-talos_0.3.4_linux_arm64.zip"
+      "sha256": "1c2246f69fee54420100a74ecb03a1c32ab1a00c6cc2b44329cd838b547502da",
+      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.4.0/terraform-provider-talos_0.4.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "6d52273370e8df84ceb31d7f846a2bfec74a11677dab5fb1700fb8a9eebc647d",
-      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.3.4/terraform-provider-talos_0.3.4_linux_386.zip"
+      "sha256": "24687dda8bea73ad9dbd50f20b418f5c6c452133855eebb8255db62ddea2c464",
+      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.4.0/terraform-provider-talos_0.4.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "82ee0cfc8cbafcecbfa30b689461ae06200e236cfdc0fe079db2e3e4df6f1f5d",
-      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.3.4/terraform-provider-talos_0.3.4_darwin_amd64.zip"
+      "sha256": "306ef50dbfca9f9bd5260ca92737d26d48a77df9157f9b1d7272170cd48324e7",
+      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.4.0/terraform-provider-talos_0.4.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "4b2fdf931233773829df7d532d3d6a4703cf30885de1a3cfbf055e56684818b6",
-      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.3.4/terraform-provider-talos_0.3.4_linux_amd64.zip"
+      "sha256": "921a9b381f1ffd12528d1d928cb020138380dcc312d6d7892cc9dd3b484d76eb",
+      "url": "https://github.com/siderolabs/terraform-provider-talos/releases/download/v0.4.0/terraform-provider-talos_0.4.0_linux_amd64.zip"
     }
   },
   "owner": "siderolabs",
   "repo": "talos",
-  "version": "0.3.4"
+  "version": "0.4.0"
 }
