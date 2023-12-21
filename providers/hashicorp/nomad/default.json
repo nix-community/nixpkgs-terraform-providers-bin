@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "435cc106799290f64078ec24b6c59cb32b33784d609088638ed32c6d12121199",
-      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.0.0/terraform-provider-nomad_2.0.0_darwin_arm64.zip"
+      "sha256": "ce59797282505d872903789db8f092861036da6ec3e73f6507dac725458a5ec9",
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.1.0/terraform-provider-nomad_2.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "b71b273a2aca7ad5f1e07c767b25b5a888881ba9ca93b30044ccc39c2937f03c",
-      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.0.0/terraform-provider-nomad_2.0.0_linux_arm64.zip"
+      "sha256": "8b8bcc136c05916234cb0c3bcc3d48fda7ca551a091ad8461ea4ab16fb6960a3",
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.1.0/terraform-provider-nomad_2.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "cd14357e520e0f09fb25badfb4f2ee37d7741afdc3ed47c7bcf54c1683772543",
-      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.0.0/terraform-provider-nomad_2.0.0_linux_386.zip"
+      "sha256": "39ba4d4fc9557d4d2c1e4bf866cf63973359b73e908cce237c54384512bdb454",
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.1.0/terraform-provider-nomad_2.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "7073444bd064e8c4ec115ca7d9d7f030cc56795c0a83c27f6668bba519e6849a",
-      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.0.0/terraform-provider-nomad_2.0.0_darwin_amd64.zip"
+      "sha256": "abc6e725531fc06a8e02e84946aaabc3453ecafbc1b7a442ea175db14fd9c86a",
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.1.0/terraform-provider-nomad_2.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "09b897d64db293f9a904a4a0849b11ec1e3fff5c638f734d82ae36d8dc044b72",
-      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.0.0/terraform-provider-nomad_2.0.0_linux_amd64.zip"
+      "sha256": "b735fcd1fb20971df3e92f81bb6d73eef845dcc9d3d98e908faa3f40013f0f69",
+      "url": "https://releases.hashicorp.com/terraform-provider-nomad/2.1.0/terraform-provider-nomad_2.1.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "nomad",
-  "version": "2.0.0"
+  "version": "2.1.0"
 }
