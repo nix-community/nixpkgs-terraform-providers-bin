@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "0936a0dfdfd6d39d7f27142426df83abeff345aa4b3a6bb795adea8d10bbeeee",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.0/terraform-provider-openstack_1.54.0_darwin_arm64.zip"
+      "sha256": "45ba84df17f94b15af7aab7007241e035dde8a5b46aeb761259d937058a80f71",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.1/terraform-provider-openstack_1.54.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "ed9c7e045d71f168c19be8dcd780229fb6193b912f47befc456261891a5e0dc0",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.0/terraform-provider-openstack_1.54.0_linux_arm64.zip"
+      "sha256": "dfad1be943769780d5e948c06db957ce45f98b057a774964da0b82130c22f139",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.1/terraform-provider-openstack_1.54.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "535ad292c2d7aba6889162af5348956811e7ff47fc3e6ee7fd6f4e29485c9747",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.0/terraform-provider-openstack_1.54.0_linux_386.zip"
+      "sha256": "cc2060f93c66276dff6366b48e3a0e619874e3d939e0d2a39fc6ce10ca91232d",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.1/terraform-provider-openstack_1.54.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "b703ed2a032d46f639d2917257af360417f0e5f12a5ab6f6d3bcb003a1c66d34",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.0/terraform-provider-openstack_1.54.0_darwin_amd64.zip"
+      "sha256": "cb8343c0cf1bf5ca4d060826a8b68e3e5935b4a65974c76ac9c071c5a510e67e",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.1/terraform-provider-openstack_1.54.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "9c29cc764453bc47dd48117df408cfab3328f1407c8b1bbc127f22dbfdda467a",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.0/terraform-provider-openstack_1.54.0_linux_amd64.zip"
+      "sha256": "9cc22af51e5124dd5c2e0f1adefb1b08dcff3138aba9c92961cef36b1641d7aa",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v1.54.1/terraform-provider-openstack_1.54.1_linux_amd64.zip"
     }
   },
   "owner": "terraform-provider-openstack",
   "repo": "openstack",
-  "version": "1.54.0"
+  "version": "1.54.1"
 }
