@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "e16d43079cc894bfb0980ff211ea1787cdb913f24826461a8967ac91fd146ea8",
+      "url": "https://github.com/neuspaces/terraform-provider-system/releases/download/v0.4.0/terraform-provider-system_0.4.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "04862132feb60ff990e15f4b878e96fbcc296720bd31a39e7b0a8fe5788b5b33",
+      "url": "https://github.com/neuspaces/terraform-provider-system/releases/download/v0.4.0/terraform-provider-system_0.4.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "1d8b6050274b5b915fbf241a66c63fe1b2088bc4720e0ef36a3d75a197a97d78",
+      "url": "https://github.com/neuspaces/terraform-provider-system/releases/download/v0.4.0/terraform-provider-system_0.4.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "97523ef340365bfaf759cc1eb4a202af7b27ac87e1cb5f0309a585d63e205bbd",
+      "url": "https://github.com/neuspaces/terraform-provider-system/releases/download/v0.4.0/terraform-provider-system_0.4.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "7fce212ccf0fd267a7f318c793e174605cbaa7814f9b30be16ed1d0526ab398f",
+      "url": "https://github.com/neuspaces/terraform-provider-system/releases/download/v0.4.0/terraform-provider-system_0.4.0_linux_amd64.zip"
+    }
+  },
+  "owner": "neuspaces",
+  "repo": "system",
+  "version": "0.4.0"
+}
