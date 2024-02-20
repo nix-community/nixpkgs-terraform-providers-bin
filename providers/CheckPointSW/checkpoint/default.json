@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "b48a62ead186f9121458512f8d5e1cee287aa9c2a05bdce4259cbb30c52986b9",
-      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.6.0/terraform-provider-checkpoint_2.6.0_darwin_arm64.zip"
+      "sha256": "c0ade029b7b4db911357425229acd169524cab95eb829c7f265b75538d32cf50",
+      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.7.0/terraform-provider-checkpoint_2.7.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "97b98bd518222075c7a9ce366e16a5d1dd190439201cf337599508319bcde0f9",
-      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.6.0/terraform-provider-checkpoint_2.6.0_linux_arm64.zip"
+      "sha256": "b455680a02ba192fd0c30dcacf17b6189b839e600ab059b57b097ce761af6ff7",
+      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.7.0/terraform-provider-checkpoint_2.7.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "64904067ae6f2d375d5ba54a029ad6e33aba74514849af36fcffcd1ec8014a86",
-      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.6.0/terraform-provider-checkpoint_2.6.0_linux_386.zip"
+      "sha256": "315f209ba2645671717c82cbfcd12ac404ca5f303108f40f7cc3d4ea7e446b59",
+      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.7.0/terraform-provider-checkpoint_2.7.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "497bb4b32e2e0be9d89e70f737cc1fbdfc10e983b05c31486105c4ca0bd97cf9",
-      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.6.0/terraform-provider-checkpoint_2.6.0_darwin_amd64.zip"
+      "sha256": "29099d99b9aa71f6f6e7da9a8aa7e8d955abb0f0bac073767880733d6f5a7865",
+      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.7.0/terraform-provider-checkpoint_2.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "9931ab9a018b0507784f293d6d33338ce6b0d5f3f1f38fb852894d89ecd1bc4c",
-      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.6.0/terraform-provider-checkpoint_2.6.0_linux_amd64.zip"
+      "sha256": "a4be0d6dcf2356eb09ec6a852294994a67da70a58bf1b9e9c550c0ed922258e0",
+      "url": "https://github.com/CheckPointSW/terraform-provider-checkpoint/releases/download/v2.7.0/terraform-provider-checkpoint_2.7.0_linux_amd64.zip"
     }
   },
   "owner": "CheckPointSW",
   "repo": "checkpoint",
-  "version": "2.6.0"
+  "version": "2.7.0"
 }
