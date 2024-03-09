@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "e831603a98c761a8782f2bd03a24cc16a841a69d0db9238969752a07d35ea587",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v1.1.1/terraform-provider-zitadel_1.1.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "0aa41e237828256029f0ce2140a531319f3da6afcc8e2fa92484ade9d702dfa2",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v1.1.1/terraform-provider-zitadel_1.1.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "731a5bd794ba628315c608169af45c586598515916ca471e26136bf5dbbe061e",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v1.1.1/terraform-provider-zitadel_1.1.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "ab72ff7703bab2a815e30a0ef0f57c62658797945d433fff18cd15698c584d7a",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v1.1.1/terraform-provider-zitadel_1.1.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "a720714e984b0d8deceabb1e908e57020fffdb99f11b05511c807407b200d880",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v1.1.1/terraform-provider-zitadel_1.1.1_linux_amd64.zip"
+    }
+  },
+  "owner": "zitadel",
+  "repo": "zitadel",
+  "version": "1.1.1"
+}
