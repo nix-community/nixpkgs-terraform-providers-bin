@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a17d0effbad81554e93abfab65a814a5791105d328ea4c60dc48879fd81540f0",
-      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.2/terraform-provider-netbox_3.8.2_darwin_arm64.zip"
+      "sha256": "6c3622aaec80c8c499237160dcf57511b5e29dc4ac8c31d2f0000fdfc41d19db",
+      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.4/terraform-provider-netbox_3.8.4_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "8f15495c7825e361814ebe4a788f446299e64b376fb1ee70659e1e39c430f9a7",
-      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.2/terraform-provider-netbox_3.8.2_linux_arm64.zip"
+      "sha256": "0da38e66bad29897d5692d8915d4939ce4cacbc1278b2414cd07c8bd26930290",
+      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.4/terraform-provider-netbox_3.8.4_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "77e7d91ee1a1237c4afc275e1d97d10aaf68b06cc165e37e574ef7f62719fad8",
-      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.2/terraform-provider-netbox_3.8.2_linux_386.zip"
+      "sha256": "4f12f49e5c7735c81d398f29bc57d3e563f28eeb458a0f5a490f4162a78c3704",
+      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.4/terraform-provider-netbox_3.8.4_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "4e613f292004bc0163a734f9ed4f3765fd882dfdd78f71e6047608720f2abe4c",
-      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.2/terraform-provider-netbox_3.8.2_darwin_amd64.zip"
+      "sha256": "ae9598d17ae54c3ef83cff0bc7deabfa0eb156e20cfaaf0f2400e67d11424732",
+      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.4/terraform-provider-netbox_3.8.4_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "50ade29f12081f0568cb74167e816bd8e08296d5cd9a91b9df1cd89a72c86534",
-      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.2/terraform-provider-netbox_3.8.2_linux_amd64.zip"
+      "sha256": "1fe79abc8f0645a916a90d65950acff65ea651067fe66802c1478f016298949f",
+      "url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v3.8.4/terraform-provider-netbox_3.8.4_linux_amd64.zip"
     }
   },
   "owner": "e-breuninger",
   "repo": "netbox",
-  "version": "3.8.2"
+  "version": "3.8.4"
 }
