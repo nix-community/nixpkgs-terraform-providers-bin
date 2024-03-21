@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "db2342df14c8cb6803ce6a69c67d4698170e3c66d06ce52a137768426c7a1f4b",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.0.0/terraform-provider-vault_4.0.0_darwin_arm64.zip"
+      "sha256": "e9e539042af40a35356bb62d803edb6c925c482fde7bfad35252b2902fd1bf13",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.1.0/terraform-provider-vault_4.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "940babe12f3f33dc578e5e1aef8b7508897cc4446bfa034d86539cba26f7800c",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.0.0/terraform-provider-vault_4.0.0_linux_arm64.zip"
+      "sha256": "6d5a9cefbdfcbc93f68d4b3c276179ac63447cc6d5dbeaa789150c556beb9838",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.1.0/terraform-provider-vault_4.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "600ac59f77b0f96c5c0e741fa8fa35657ac5e02e535951d4d0ffab1e370d7c4f",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.0.0/terraform-provider-vault_4.0.0_linux_386.zip"
+      "sha256": "f8e63f68b6300b9e7ed7c935b72f899fa6337004ca7b7d1d711340a1f41bc459",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.1.0/terraform-provider-vault_4.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e4dd2cbfe3fcdf7d3df68fe6f9cf76ba33508014fc0a89c6ae1f93fb927a08f8",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.0.0/terraform-provider-vault_4.0.0_darwin_amd64.zip"
+      "sha256": "53d8904972acfb44c654acb1cc74394329505bceb563842d7728a5a6d55868a9",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.1.0/terraform-provider-vault_4.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "2397095dbeebe4df8186e8e4bb32e59e6b672607dc3a32459a7a44f39b2605a5",
-      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.0.0/terraform-provider-vault_4.0.0_linux_amd64.zip"
+      "sha256": "8f1af97c61102dbb6df4f9edbd97c6bccb09d291b4f7fdeccd38a41a1a7c5769",
+      "url": "https://releases.hashicorp.com/terraform-provider-vault/4.1.0/terraform-provider-vault_4.1.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "vault",
-  "version": "4.0.0"
+  "version": "4.1.0"
 }
