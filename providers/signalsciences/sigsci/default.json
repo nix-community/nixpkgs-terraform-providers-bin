@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "fab0f475edf0b90151a828ee283aa1d575d0a049fc8593ba222bca29415eb767",
-      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v2.1.7/terraform-provider-sigsci_2.1.7_darwin_arm64.zip"
+      "sha256": "65f3f1fa55076c56ff8457922e247b4502a04f0d503d40ed2be4282c756e1664",
+      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v3.0.0/terraform-provider-sigsci_3.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "8b990b89dc37b107156c60d10a5202102ac395e1ccdbfe3824f834ffbdab7149",
-      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v2.1.7/terraform-provider-sigsci_2.1.7_linux_arm64.zip"
+      "sha256": "620beba124b9a79b45902e26ac8c995b82be1f7605398a115675f3c611d38a3d",
+      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v3.0.0/terraform-provider-sigsci_3.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "def61274c9c6977e9d1e886e035ecaf8d64771f4b76105c61fcd0db87f213dd6",
-      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v2.1.7/terraform-provider-sigsci_2.1.7_linux_386.zip"
+      "sha256": "5be0b373abb4d8dad93e9e07ab7be463bbc2b2bbe1a33996848388a7c85e27af",
+      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v3.0.0/terraform-provider-sigsci_3.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "55742b3eff24a79f2e7de02fcd4a2b82ab2e6347e3596ccd8da36b46cc48750c",
-      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v2.1.7/terraform-provider-sigsci_2.1.7_darwin_amd64.zip"
+      "sha256": "2b10e53cbc1c45fce166318cf03b53dd43ea8a2266b2d66819d64fd2390e48e0",
+      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v3.0.0/terraform-provider-sigsci_3.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "eb4c63bcd8f7aba2f135a2d42516d64deaa5a3227b1ef6d7e44d9d46e4d4390f",
-      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v2.1.7/terraform-provider-sigsci_2.1.7_linux_amd64.zip"
+      "sha256": "d10dd52768558a32f066ba1b9bc4308e800553fd4dffdf20dfa6b1b8f8d64322",
+      "url": "https://github.com/signalsciences/terraform-provider-sigsci/releases/download/v3.0.0/terraform-provider-sigsci_3.0.0_linux_amd64.zip"
     }
   },
   "owner": "signalsciences",
   "repo": "sigsci",
-  "version": "2.1.7"
+  "version": "3.0.0"
 }
