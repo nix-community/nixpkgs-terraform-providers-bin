@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "72a1369b2b14273efcdf2aab911aa84c78f2017db8a82f84c1e3facb7d99fca6",
-      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/1.2.1/terraform-provider-cloudeos_1.2.1_darwin_arm64.zip"
+      "sha256": "c8eb3032164a4048a36b807bc90279c2366caf03b5b62f80b0a82f5394ff5484",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/v1.2.2/terraform-provider-cloudeos_1.2.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "0ce09ca8f7ca63381a3d0cc8398506a3ec909c70b2a0dae8ee0c4c43d1541f19",
-      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/1.2.1/terraform-provider-cloudeos_1.2.1_linux_arm64.zip"
+      "sha256": "542dfdca5923857356ca85f10f2a3038c88424a7f2e0b5bb5c4877271bd09264",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/v1.2.2/terraform-provider-cloudeos_1.2.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "10ddd04b75d7ff9b7c80118d22dd5cd328e144e44cfed9b9575a116385722276",
-      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/1.2.1/terraform-provider-cloudeos_1.2.1_linux_386.zip"
+      "sha256": "98bc83a5ec23dd912bd528e56f2d7d85634a2be29b6c69e4357866d83209ea71",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/v1.2.2/terraform-provider-cloudeos_1.2.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8464d42a0b58b9ab60914ff65aca6735a72c477edd57d17628dc59b7d0197d39",
-      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/1.2.1/terraform-provider-cloudeos_1.2.1_darwin_amd64.zip"
+      "sha256": "837412fba2b03d89c56213aef6c5e931d5f08504ed38095ba9d227b604075605",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/v1.2.2/terraform-provider-cloudeos_1.2.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6493fd2b27e06e5dc1754d52c63eef11e337aea96afd9e7538d7e8df24afeffa",
-      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/1.2.1/terraform-provider-cloudeos_1.2.1_linux_amd64.zip"
+      "sha256": "706af29312a475a0fd2f4d9291867e4b26a2527ade67809b27cc44179f41e2d0",
+      "url": "https://github.com/aristanetworks/terraform-provider-cloudeos/releases/download/v1.2.2/terraform-provider-cloudeos_1.2.2_linux_amd64.zip"
     }
   },
   "owner": "aristanetworks",
   "repo": "cloudeos",
-  "version": "1.2.1"
+  "version": "1.2.2"
 }
