@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "837232f4c47070ca0dff866237f760da5e15f9f1dd761f5efc87ff59a022195f",
-      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v4.1.1/terraform-provider-selectel_4.1.1_darwin_arm64.zip"
+      "sha256": "af34b40cce1846e9edf24942345c68885572e5a553958d845db9c8e249d92020",
+      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v5.0.0/terraform-provider-selectel_5.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "27f72fe2a4b6a1c81347686c28dde00c8596fe3991ab9e0664b569dbbfeb6257",
-      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v4.1.1/terraform-provider-selectel_4.1.1_linux_arm64.zip"
+      "sha256": "775ad665b128e77d52bef3ccba5b47a05e4914cdf4c36404836be66e45ab41c4",
+      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v5.0.0/terraform-provider-selectel_5.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "3efaae3a913d4ca628aed6357df0f9bdac648f7a24fdd4bdf9161f95143d4235",
-      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v4.1.1/terraform-provider-selectel_4.1.1_linux_386.zip"
+      "sha256": "8928ba46e0247430624da0547b9cbef96772f9259fb05287a5e85d74c0b1b62d",
+      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v5.0.0/terraform-provider-selectel_5.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "72ca7cd9e222ce194359e525e1319cb299d311e4b7761df4205e9073902a55c0",
-      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v4.1.1/terraform-provider-selectel_4.1.1_darwin_amd64.zip"
+      "sha256": "93dee69f14932c4bb321d7499f4e038a095a3a9854b9799afea63bdd2096c44a",
+      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v5.0.0/terraform-provider-selectel_5.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f8cc85fb69ffb5a4070b732840280e2cc2f3a2dba12d1a4c1c1c797ccf3eb3f9",
-      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v4.1.1/terraform-provider-selectel_4.1.1_linux_amd64.zip"
+      "sha256": "5e83ec4ce5da2aa35904f890e36e32791eb2325b571868596bd1ca54ae10cf1c",
+      "url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v5.0.0/terraform-provider-selectel_5.0.0_linux_amd64.zip"
     }
   },
   "owner": "selectel",
   "repo": "selectel",
-  "version": "4.1.1"
+  "version": "5.0.0"
 }
