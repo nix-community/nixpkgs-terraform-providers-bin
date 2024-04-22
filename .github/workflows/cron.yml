@@ -16,7 +16,7 @@ jobs:
         # Check that everything is still working
       - run: ./ci.sh
       - name: Commit & Push changes
-        uses: actions-js/push@v1.4
+        uses: actions-js/push@v1.5
         with:
           branch: 'master'
           github_token: ${{ secrets.GITHUB_TOKEN }}
