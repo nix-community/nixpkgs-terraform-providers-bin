@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "79b7a6e3260b084530f6bdaba13536843fa55fc28569965a69cbdcb5d5c208a5",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.0.4/terraform-provider-htpasswd_1.0.4_darwin_arm64.zip"
+      "sha256": "69f31dd783266cac54c6c59c73b5bc97186df26af0e70bc9489d2a4a6f39b2b0",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.2.0/terraform-provider-htpasswd_1.2.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "1f17ffcb8ab2f19de1242a6980f78334fc81efeaddfa85545435048f54045e4a",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.0.4/terraform-provider-htpasswd_1.0.4_linux_arm64.zip"
+      "sha256": "dcbbf4f7a1e1f5703b11528b2b31410b53316a4566dc04f696701297beab115e",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.2.0/terraform-provider-htpasswd_1.2.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "f7e1feafd63a1987f5e39f9c75ac05dc153ffde2c9dd669847c19ad318bbebe7",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.0.4/terraform-provider-htpasswd_1.0.4_darwin_amd64.zip"
+      "sha256": "cb313d463a4b46c84d4811da996561c5ab855bf892523280e993c80a1892cb24",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.2.0/terraform-provider-htpasswd_1.2.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6265fd9bbb718d55655120044b4969c80aa938ecfb17a0fd7541ff7de8c54e1e",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.0.4/terraform-provider-htpasswd_1.0.4_linux_amd64.zip"
+      "sha256": "1b170124978e600e3760c77a026809c6397f1e331b9a7e7a36ae5a804c37c632",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.2.0/terraform-provider-htpasswd_1.2.0_linux_amd64.zip"
     }
   },
   "owner": "loafoe",
   "repo": "htpasswd",
-  "version": "1.0.4"
+  "version": "1.2.0"
 }
