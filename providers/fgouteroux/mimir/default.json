@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "d4d52c676111d06ae550567869f8978c2180226a058e42ebdd10b6e54536b4d9",
-      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.1/terraform-provider-mimir_1.0.1_darwin_arm64.zip"
+      "sha256": "6284c7c4e481f94790e149881ad622a4d40917530a10ae459d4970dc46dc0b77",
+      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.2/terraform-provider-mimir_1.0.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "6e92f6fab605f2aed05a7a760b2d68cac2ec6d27689aa031a33213183a5d9205",
-      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.1/terraform-provider-mimir_1.0.1_linux_arm64.zip"
+      "sha256": "a1ea012a8c0b46b4a6f888bec84dc8c09d2524568cce4485d77b57ca73356f9c",
+      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.2/terraform-provider-mimir_1.0.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "2059e226d55979aa4999b4c9384f1446d016cc18e12a866cd9ef2bfe283dc634",
-      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.1/terraform-provider-mimir_1.0.1_linux_386.zip"
+      "sha256": "93a7d1b892ca9504df01f0a53bc8736b509c12a403479415c808f4498c3b86a7",
+      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.2/terraform-provider-mimir_1.0.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "02b50afacde18b5d04b05a93adf1806d3f75dfdc212905f918020af4c2df8ab5",
-      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.1/terraform-provider-mimir_1.0.1_darwin_amd64.zip"
+      "sha256": "394c0127a23b55f08f62fa2a62458aa84c384b8e1794d7a3853ddbec1b192389",
+      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.2/terraform-provider-mimir_1.0.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "66f3719c893ba96d26d17b127c32066830c7ef38fbe96280e0eb4a58bf6f6fc5",
-      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.1/terraform-provider-mimir_1.0.1_linux_amd64.zip"
+      "sha256": "85b910d2717898e4bcba780383c1f6a83d805399f0c96d8a227a94df4f58320e",
+      "url": "https://github.com/fgouteroux/terraform-provider-mimir/releases/download/v1.0.2/terraform-provider-mimir_1.0.2_linux_amd64.zip"
     }
   },
   "owner": "fgouteroux",
   "repo": "mimir",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
