@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "045fbb938759a3d2877cf2f31ba4df620e1d8c748f51d651105f1f1dc155824c",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.1.0/terraform-provider-oci_6.1.0_darwin_arm64.zip"
+      "sha256": "304e6252e002789c41f8b2eacd72842d8deb20bf31f2b88f3438a51ffd795346",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.2.0/terraform-provider-oci_6.2.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c4d11a7ce47361f89f19bc1704c5cea318f80440ea419145e7292c9a870b1046",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.1.0/terraform-provider-oci_6.1.0_linux_arm64.zip"
+      "sha256": "d04f4c02720438136dde746ac942949fa1ebfe094239554eef627f455c997845",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.2.0/terraform-provider-oci_6.2.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "fb54b6b52478a0152b80b5bee5a907b2aca0b9a2006a550efdd7d116f59ede7c",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.1.0/terraform-provider-oci_6.1.0_linux_386.zip"
+      "sha256": "b2dcbc45b43a463ea515442355e7f196eb9e9372ff55bea0e0cf211d121b867b",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.2.0/terraform-provider-oci_6.2.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "9dbf146e9a59c376cf8f688f03e40997260000b6db795fe36337fe120da2ffce",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.1.0/terraform-provider-oci_6.1.0_darwin_amd64.zip"
+      "sha256": "10e8a6a5e216392b825dd017b0f61067970a57363c86fdb176dc4a2507322c16",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.2.0/terraform-provider-oci_6.2.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "3e74ba00b5d0c6052a87e7da00793280baa3602a9ca64c5103300afdb2c38b0f",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.1.0/terraform-provider-oci_6.1.0_linux_amd64.zip"
+      "sha256": "74f12c8e01b04bf01489e3a20fec9aa71d0171d9e8b4ca78afa5442ad55155ba",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v6.2.0/terraform-provider-oci_6.2.0_linux_amd64.zip"
     }
   },
   "owner": "oracle",
   "repo": "oci",
-  "version": "6.1.0"
+  "version": "6.2.0"
 }
