@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "8bb795aca36d132467da9e41ce199dbb15c53d9b27d733431dddc1f1b93b4616",
-      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.6/terraform-provider-loki_0.0.6_darwin_arm64.zip"
+      "sha256": "225f6d92a3ef89ef894cc2ce85de0cc78365f7ca7be880c598ccdd81a050a91b",
+      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.7/terraform-provider-loki_0.0.7_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "66d02176269be9ece1017d3491b39e28de29ffef651c60627426d16d337b4834",
-      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.6/terraform-provider-loki_0.0.6_linux_arm64.zip"
+      "sha256": "600818d968e5c7591ae995b3b83e092bf7a8944641ce2fce58c757f1a72032af",
+      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.7/terraform-provider-loki_0.0.7_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "6972489a76f1190e0b0542471ece7525d0726691f459bb610d1645c9addb38e2",
-      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.6/terraform-provider-loki_0.0.6_linux_386.zip"
+      "sha256": "37820b42296321508af73a6c3cfbc4a103a2c4fde2c6f529b752c42124153453",
+      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.7/terraform-provider-loki_0.0.7_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "a4620cdb22338a9455667522ad38ca4182cbb6d882b01b2d8fc0204476ee1df7",
-      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.6/terraform-provider-loki_0.0.6_darwin_amd64.zip"
+      "sha256": "9ca0c9c2af05109a424f4e0e3093e18201b5df3de3e352745f498317c92cf25e",
+      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.7/terraform-provider-loki_0.0.7_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "e13d69e21347dbd70686652039e72224ab1b8069075d30fa05c6971b679414fa",
-      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.6/terraform-provider-loki_0.0.6_linux_amd64.zip"
+      "sha256": "19c236b8b4e8834a2e3c75170f780e1dbd96b502cddb62dc0c2ef40511b487f3",
+      "url": "https://github.com/fgouteroux/terraform-provider-loki/releases/download/v0.0.7/terraform-provider-loki_0.0.7_linux_amd64.zip"
     }
   },
   "owner": "fgouteroux",
   "repo": "loki",
-  "version": "0.0.6"
+  "version": "0.0.7"
 }

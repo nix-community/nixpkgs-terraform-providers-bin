@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a88486ebe920873dcedea0a584b6719bd7c78fcfbc4c402234f60ab8fafc9ec7",
-      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.12/terraform-provider-harbor_3.10.12_darwin_arm64.zip"
+      "sha256": "a021b0bac2d8e961e96716a677f0106cfadf8179f0b4ff5af1b62ed154de4c1b",
+      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.13/terraform-provider-harbor_3.10.13_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "cac86268692fedda0cc4d5ce170eb81cb10641606cc968dfe3bc35957618b2a4",
-      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.12/terraform-provider-harbor_3.10.12_linux_arm64.zip"
+      "sha256": "7e3eb0bec68d464c86b171b95745e1d4307107da88e58c727f8110b7fb5223b8",
+      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.13/terraform-provider-harbor_3.10.13_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "37eb9dfcb1902bb17cb367842ff2862eb4c9df66cd24d0282d57429b9596e6e2",
-      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.12/terraform-provider-harbor_3.10.12_linux_386.zip"
+      "sha256": "d4e91fccc21d77538ef8e037b9d0520ffa4d9e526566c8a0dd0f811112f9c575",
+      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.13/terraform-provider-harbor_3.10.13_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "d6d74389f94cbcbab384165f779501e78839d7d5fe63a4bb52aec5cb41f8bad9",
-      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.12/terraform-provider-harbor_3.10.12_darwin_amd64.zip"
+      "sha256": "d99099cdc0115b6a74783b93a702029a3cf8f549b2e96a62aed2374d0c634648",
+      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.13/terraform-provider-harbor_3.10.13_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "e3e943a78b073dc7f326fb472469cb80dfa900a8e8955cd32c609f4784c5bd0c",
-      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.12/terraform-provider-harbor_3.10.12_linux_amd64.zip"
+      "sha256": "a8c7f78d97dd05bde92d05d8bbfdaf179e556eaccb52f00033e7f709031f9c52",
+      "url": "https://github.com/goharbor/terraform-provider-harbor/releases/download/v3.10.13/terraform-provider-harbor_3.10.13_linux_amd64.zip"
     }
   },
   "owner": "goharbor",
   "repo": "harbor",
-  "version": "3.10.12"
+  "version": "3.10.13"
 }
