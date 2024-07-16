@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "f65566780c7786e725dee73fb6b64fd0011cfe79d136993b2e5ccb72db24391e",
-      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.56.0/terraform-provider-tfe_0.56.0_darwin_arm64.zip"
+      "sha256": "424d020b3f97de50b0b9c0333f8600cb49ef898ac7cc2f43251bea1bbe66c50c",
+      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.57.0/terraform-provider-tfe_0.57.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "77eb879879f7b754844d0c0eaf1cc8c10de5bc1db3123bb8daf6ef5fd6d994d9",
-      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.56.0/terraform-provider-tfe_0.56.0_linux_arm64.zip"
+      "sha256": "1219661f8f27123b48e37936720a94f98d06f716a04c5e58d776b75a4c3f82bf",
+      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.57.0/terraform-provider-tfe_0.57.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "867fea104abe81ab01e3fd118e92992698ef43bcecef05d32c823a0aafbbf7ca",
-      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.56.0/terraform-provider-tfe_0.56.0_linux_386.zip"
+      "sha256": "49f7b2fc2371d24f31ee6c0578d96c1a5a28e87efffe211933942045f0bc4a1f",
+      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.57.0/terraform-provider-tfe_0.57.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "94bad291730959c8d5f7db96ec8ccd56466f16f9533bd29b4ff03e89fbeee441",
-      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.56.0/terraform-provider-tfe_0.56.0_darwin_amd64.zip"
+      "sha256": "0771b145e274b5e3adfd3dfebff5c59b99477a7456ccc5b14c37a80f1941d24a",
+      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.57.0/terraform-provider-tfe_0.57.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "67607ba775d09098541bb89f46bf50c291906bc5bbaf6bc561d2f7c399b2fa0a",
-      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.56.0/terraform-provider-tfe_0.56.0_linux_amd64.zip"
+      "sha256": "3233c81eff8508f8f3bc786cef85eda4de879f97766e37e18694f83f27e7ae0a",
+      "url": "https://releases.hashicorp.com/terraform-provider-tfe/0.57.0/terraform-provider-tfe_0.57.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "tfe",
-  "version": "0.56.0"
+  "version": "0.57.0"
 }
