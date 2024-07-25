@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ddff650262d481ec789b4de19ac5aac24299f89c7490ebc4ef640b7ab26b2761",
-      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.5/terraform-provider-ilert_2.8.5_darwin_arm64.zip"
+      "sha256": "40c660f60049e64ccd08ab54549eb234ebe4d7cc77d8702e1ed1c7b595bab602",
+      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.6/terraform-provider-ilert_2.8.6_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "4afc169929bbbe77126851468ef2e4f5da1d93104c4ca76875c5abbfdc3b2950",
-      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.5/terraform-provider-ilert_2.8.5_linux_arm64.zip"
+      "sha256": "630096d40ab09359587cc836be524c1055efe989b96005d8efb797718913d92c",
+      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.6/terraform-provider-ilert_2.8.6_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "33d91ff70e2dcb7395db629a5abd2080c221b33e7d92e965b76d425866583103",
-      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.5/terraform-provider-ilert_2.8.5_linux_386.zip"
+      "sha256": "d28c2eba1ce3cb0b6b121b26aee78c9fa31c4f5be5a4c8381ef7bd3576ec8897",
+      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.6/terraform-provider-ilert_2.8.6_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "f9adaa4df05527723655a3976654f61410130b3e772fa753396e9647d64f3384",
-      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.5/terraform-provider-ilert_2.8.5_darwin_amd64.zip"
+      "sha256": "3a1292d1c6186eb9afc23d78a385575e9428122ada2398a248f0c553909f99e5",
+      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.6/terraform-provider-ilert_2.8.6_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f43419751538d28aae884e3d27922fe812a280bad894b6e839e9121b2a032c4b",
-      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.5/terraform-provider-ilert_2.8.5_linux_amd64.zip"
+      "sha256": "dd3e7fbc92ecb7623e8e4e958941a6e6ef460fda2848b4913ba22d3c606d48fe",
+      "url": "https://github.com/iLert/terraform-provider-ilert/releases/download/v2.8.6/terraform-provider-ilert_2.8.6_linux_amd64.zip"
     }
   },
   "owner": "iLert",
   "repo": "ilert",
-  "version": "2.8.5"
+  "version": "2.8.6"
 }
