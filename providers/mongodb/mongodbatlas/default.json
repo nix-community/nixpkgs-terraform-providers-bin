@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "dbe445f50745e86dfef4206a89303f6d50b2b8bea0a49101f8a19409cb44ad0c",
-      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.17.6/terraform-provider-mongodbatlas_1.17.6_darwin_arm64.zip"
+      "sha256": "d00f7cdf8d22af6f292ad7bc0f28ec7ab5b1028b040a4a4dc98696a2400ffb53",
+      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.18.0/terraform-provider-mongodbatlas_1.18.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "304169f83d412faaa80e19eff9293a2b4e5611c558ceef88baf0b1749a7ff618",
-      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.17.6/terraform-provider-mongodbatlas_1.17.6_linux_arm64.zip"
+      "sha256": "f9c48c085fc9ac3e766fb96c999b906604db54ab13ebfb15eacbf4e399f21751",
+      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.18.0/terraform-provider-mongodbatlas_1.18.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "4b49ac17fbace575663a064a4f76d8bae3a52c809670727e529953c68d138126",
-      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.17.6/terraform-provider-mongodbatlas_1.17.6_linux_386.zip"
+      "sha256": "cc983874dd129e8bea25fba5f1bb8559bad79a8b4cffb5933310735d0ae6c1a6",
+      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.18.0/terraform-provider-mongodbatlas_1.18.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "d2c988e523323d05cffef1fb1e916c44d2a4e642fd9c1ae1701dbeb13c0adf50",
-      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.17.6/terraform-provider-mongodbatlas_1.17.6_darwin_amd64.zip"
+      "sha256": "52a804d883fc9d0923a83249fdaf8166f8fdec63d478cd22da9086b4b3c1aff3",
+      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.18.0/terraform-provider-mongodbatlas_1.18.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "0533b328b3bdbf374eb1d1eafc74c16a4eb82f2f083dff7dc3a2f79658606315",
-      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.17.6/terraform-provider-mongodbatlas_1.17.6_linux_amd64.zip"
+      "sha256": "48166200b82058214d91823a91c7f2dc033f5136041abf92aab3bb1d8cfa9c18",
+      "url": "https://github.com/mongodb/terraform-provider-mongodbatlas/releases/download/v1.18.0/terraform-provider-mongodbatlas_1.18.0_linux_amd64.zip"
     }
   },
   "owner": "mongodb",
   "repo": "mongodbatlas",
-  "version": "1.17.6"
+  "version": "1.18.0"
 }
