@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "3dcf1a7818b9bdd92142b6449322f213735a0cc3e11e51c54e849dc4e09fbe47",
-      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.0/terraform-provider-rediscloud_1.8.0_darwin_arm64.zip"
+      "sha256": "7c8bc3d9a22cbcf59038da7d49884db7743fd1ae4dc1cdf84334e02d0acec2e9",
+      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.1/terraform-provider-rediscloud_1.8.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d7605030ba3253a44651cb99ff0518de22e7e6e456e20e3e511d48ccf456ece5",
-      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.0/terraform-provider-rediscloud_1.8.0_linux_arm64.zip"
+      "sha256": "e6fef4e73ff05fe2f798f3d75d8491c3549186c6a1c6db5d9d786e7e7aa57538",
+      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.1/terraform-provider-rediscloud_1.8.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8da1232fc37365b28a93b0a25318a3ba38ee75cedf894dd021cad55e22d13e8c",
-      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.0/terraform-provider-rediscloud_1.8.0_linux_386.zip"
+      "sha256": "863f801655ba6d4571011ef5f0f089d07af921799be6e88d0fdf2029cf49984d",
+      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.1/terraform-provider-rediscloud_1.8.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "b430f332b9ff9b7fbec885a7ffc7349b2ee87e3d93be598fd549f47f75e9921d",
-      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.0/terraform-provider-rediscloud_1.8.0_darwin_amd64.zip"
+      "sha256": "0852fcb141f4d24ecbebe9fdf9182a78f38c263ae0c849fc3819fb7b71b363e4",
+      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.1/terraform-provider-rediscloud_1.8.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "0c688f448d38f5163374fcc57cc25d0c0f7133f309e14267751628e7daa7cf03",
-      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.0/terraform-provider-rediscloud_1.8.0_linux_amd64.zip"
+      "sha256": "7c77da83bb311acb34cc272158572d7624e3543a739b2cd59b943ac4666eea0a",
+      "url": "https://github.com/RedisLabs/terraform-provider-rediscloud/releases/download/v1.8.1/terraform-provider-rediscloud_1.8.1_linux_amd64.zip"
     }
   },
   "owner": "RedisLabs",
   "repo": "rediscloud",
-  "version": "1.8.0"
+  "version": "1.8.1"
 }
