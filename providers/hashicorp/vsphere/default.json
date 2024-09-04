@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "997e59c69920aac41e4422c1ad58a2621e14881188e3ec23ed71140bcdb27915",
-      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.8.3/terraform-provider-vsphere_2.8.3_darwin_arm64.zip"
+      "sha256": "b25a77a04328163a330ba77260fe6dd9958e430e83a62a65844338e32d24ec83",
+      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.9.0/terraform-provider-vsphere_2.9.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "ec50d8bb37461a0980df9cf3bbfa7d9cbd24fd39f47f2c90a8088bbe26914d16",
-      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.8.3/terraform-provider-vsphere_2.8.3_linux_arm64.zip"
+      "sha256": "83ebb7543b6a66d7020ee205debcee3f393caf67fe22d3de0e262449be5fe6b1",
+      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.9.0/terraform-provider-vsphere_2.9.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "e7de83ab3d81e50859fcac3864c5cb68f143f768a0e4a279d04ecc193edeeae6",
-      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.8.3/terraform-provider-vsphere_2.8.3_linux_386.zip"
+      "sha256": "a3f8616337ffcf9d33afe34f1196265a4707b4d9cc138649b3524c4b3d931cad",
+      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.9.0/terraform-provider-vsphere_2.9.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "3901c94844330b83075d20490a503bdc331dc529070eeea6359dd00ece5da3c2",
-      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.8.3/terraform-provider-vsphere_2.8.3_darwin_amd64.zip"
+      "sha256": "38ccf8110bf0a5f13e7b4bf922c0cdae4391436c8815a9f2e2303e93f3cee898",
+      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.9.0/terraform-provider-vsphere_2.9.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "8d1313153ab64525a62cf532ae716e330661b69f20e8f60230fdc9dd5ff2f6dc",
-      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.8.3/terraform-provider-vsphere_2.8.3_linux_amd64.zip"
+      "sha256": "b32ba97602e1ac5c009cd581e9c0dae101522f705181a71439415f76256a1d57",
+      "url": "https://releases.hashicorp.com/terraform-provider-vsphere/2.9.0/terraform-provider-vsphere_2.9.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "vsphere",
-  "version": "2.8.3"
+  "version": "2.9.0"
 }
