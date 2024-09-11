@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "4b5612e01d369ba56abe87daaea12e65114da9befdd080bf26269dfcbd1c07fa",
-      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.1/terraform-provider-dns_3.4.1_darwin_arm64.zip"
+      "sha256": "96f83dfaeba393b1cf17feef05f25ffc4083432c1e3336a28977e626aac6eb53",
+      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.2/terraform-provider-dns_3.4.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "5a2e3af49eabe6592bc24ff6c718872cc8a3fbc3b7be152b00d124ef1dd5d0bd",
-      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.1/terraform-provider-dns_3.4.1_linux_arm64.zip"
+      "sha256": "75e40862402368e23cd298b62519203621cf4891b95e1c863530bf7d8e9614e6",
+      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.2/terraform-provider-dns_3.4.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "00fc9ba46d66a35c0f4cb66d19b402280f5d074a5652b6a378aac9b11b93d069",
-      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.1/terraform-provider-dns_3.4.1_linux_386.zip"
+      "sha256": "dee0ccb0588f4c4224fe36e50f649ae36add82d72ccbf070800438860da820ac",
+      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.2/terraform-provider-dns_3.4.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e8d8b93b1c13b199c929819b2b049627a6d3874fd3f16e05b3f594d526233dd6",
-      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.1/terraform-provider-dns_3.4.1_darwin_amd64.zip"
+      "sha256": "96bd331cdd3673037e679b20cbf64e02e16f16f05a8c5dc2567c484fdd271d48",
+      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.2/terraform-provider-dns_3.4.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b803d82cf6fc8ae6660f896144e065d6ed032273a3eb418e62b39a7dec73f734",
-      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.1/terraform-provider-dns_3.4.1_linux_amd64.zip"
+      "sha256": "c663da6c3fda06a69d082d23935cebc34c7dc1b898e03a825b50628ad0e0ba71",
+      "url": "https://releases.hashicorp.com/terraform-provider-dns/3.4.2/terraform-provider-dns_3.4.2_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "dns",
-  "version": "3.4.1"
+  "version": "3.4.2"
 }
