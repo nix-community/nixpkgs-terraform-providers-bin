@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "37487fe2d9b3132a8b582bbea4c00060cc1fe9561535b143df08e34e7cd60b8a",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v2.1.0/terraform-provider-cohesity_2.1.0_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "eed4929b090822b16c55d0d5d7ee50cec03f8b0cb4d5a2bd3999c3e2a89fa65d",
-      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_arm64.zip"
+      "sha256": "9c6c8a5e8c7e704b2e6020c072594b2442c113733740fd068d53728c73fd53c3",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v2.1.0/terraform-provider-cohesity_2.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "54beaab9b7861f2a1a6437907062486d22c7ddf68b352fb173ddf175279996a9",
-      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_386.zip"
+      "sha256": "ca2aeb9ad57c64b0f120a7bc2f64cb778445fb4f4a1e938a1c0f744aa40af677",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v2.1.0/terraform-provider-cohesity_2.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "90ba177ef3b334f23bdee16aff12130da93ce78620c2bfbf1651bcf18a221836",
-      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_darwin_amd64.zip"
+      "sha256": "9a79d133010da6a0213bc219e64a29621e745dd8517819228259fb474f10fbeb",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v2.1.0/terraform-provider-cohesity_2.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "3367a5839e981b243693cc66584a494ea03f173bea1a8f12ef59a3f0f3cd7887",
-      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v1.0.1/terraform-provider-cohesity_1.0.1_linux_amd64.zip"
+      "sha256": "ac208b14859faed2c559b7c5ad9bf8c945e82cd560a84209126f655688322b55",
+      "url": "https://github.com/cohesity/terraform-provider-cohesity/releases/download/v2.1.0/terraform-provider-cohesity_2.1.0_linux_amd64.zip"
     }
   },
   "owner": "cohesity",
   "repo": "cohesity",
-  "version": "1.0.1"
+  "version": "2.1.0"
 }
