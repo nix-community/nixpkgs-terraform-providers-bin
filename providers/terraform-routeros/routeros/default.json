@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "239be4d65e37f89e4ebcd30153270873d6147e89303e5a083d04fa8ba928e489",
-      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.61.2/terraform-provider-routeros_1.61.2_darwin_arm64.zip"
+      "sha256": "88644e5e08bd1f771de5a0da624cd5efbcac22409c84b381993f50063d883424",
+      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.62.0/terraform-provider-routeros_1.62.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c854e9d470d5fa666ccf2d2e9e73102dd8eacfde2557615c9128f521d465e085",
-      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.61.2/terraform-provider-routeros_1.61.2_linux_arm64.zip"
+      "sha256": "708b46a5c7a7544ba9b0990f4617765ff5c068065c43ff82c03c2e98065e16bf",
+      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.62.0/terraform-provider-routeros_1.62.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "5189290049e0793f8a26501432c154f4a0f209b053b04983d50908e38b4e198a",
-      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.61.2/terraform-provider-routeros_1.61.2_linux_386.zip"
+      "sha256": "c9513c6a8f770c3ee25aa467547ba18ec48d38fd7dc3ced7c37d79a0fda2a58a",
+      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.62.0/terraform-provider-routeros_1.62.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "95e6e2b01c3f50ac3faf176f3b4d6620b79bbfc10226353466ec08e2c46a3982",
-      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.61.2/terraform-provider-routeros_1.61.2_darwin_amd64.zip"
+      "sha256": "2c7d44ecedeed4fcd7dfa2aac8ab55b41f204ef799645daf634ca105649c85df",
+      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.62.0/terraform-provider-routeros_1.62.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f8d87e045d447754f59b4e157ea2aaf6f74039591e0efa95289e86657499ce82",
-      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.61.2/terraform-provider-routeros_1.61.2_linux_amd64.zip"
+      "sha256": "f8f481170681083ae5ce8ca49c325b16d335dfa23de95ba6f8a19d024dfbe382",
+      "url": "https://github.com/terraform-routeros/terraform-provider-routeros/releases/download/v1.62.0/terraform-provider-routeros_1.62.0_linux_amd64.zip"
     }
   },
   "owner": "terraform-routeros",
   "repo": "routeros",
-  "version": "1.61.2"
+  "version": "1.62.0"
 }

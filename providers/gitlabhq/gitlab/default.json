@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "cf47b1dbb62573aa4be9d56cf36587637c26d299ccb229f2aaad8b2ea3dfac88",
-      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.3.1/terraform-provider-gitlab_17.3.1_darwin_arm64.zip"
+      "sha256": "f9c06b52c38fa19907b60a73901a418e801fcee86e624e3822b029f7ad24c360",
+      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.4.0/terraform-provider-gitlab_17.4.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "9ed6078fb395a263576231a09da2e682e8335f1766925a45e684d4c58e2117c5",
-      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.3.1/terraform-provider-gitlab_17.3.1_linux_arm64.zip"
+      "sha256": "c786071562127d78e83383614d6c815fb5427c8c9a65470e77963fb00d35b5ee",
+      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.4.0/terraform-provider-gitlab_17.4.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "76f9b4a24249d4f7b35f5b3f16ed3d03a5455dfa7d4121eb849badeea866d0bf",
-      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.3.1/terraform-provider-gitlab_17.3.1_linux_386.zip"
+      "sha256": "95ccd2ba7121eae0090c32df77eb31a277fd86ad23fb4e5ac08b1c66d333db7e",
+      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.4.0/terraform-provider-gitlab_17.4.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5cb214d2145b220380b1e9fed5fafaef99656e82e249792c5ea993ae9ebd2a79",
-      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.3.1/terraform-provider-gitlab_17.3.1_darwin_amd64.zip"
+      "sha256": "fed111472e307b17fead8b68820a16e3429c95918d39c911deca826301580798",
+      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.4.0/terraform-provider-gitlab_17.4.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "1716f817860f03d29c387ba72889fe86d60d2be61d2c6724e1adc996746e8b76",
-      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.3.1/terraform-provider-gitlab_17.3.1_linux_amd64.zip"
+      "sha256": "7a313ad387e58d6841c5f7fb9bd292564a1972a6042d5cbb8a3bb338a6739459",
+      "url": "https://github.com/gitlabhq/terraform-provider-gitlab/releases/download/v17.4.0/terraform-provider-gitlab_17.4.0_linux_amd64.zip"
     }
   },
   "owner": "gitlabhq",
   "repo": "gitlab",
-  "version": "17.3.1"
+  "version": "17.4.0"
 }
