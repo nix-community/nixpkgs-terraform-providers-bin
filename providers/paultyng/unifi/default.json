@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "a855c89b12326eb1c89bbf292a2bb1de3651794e3409d5012076ada89aabdc8a",
+      "url": "https://github.com/paultyng/terraform-provider-unifi/releases/download/v0.41.0/terraform-provider-unifi_0.41.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "b3c72a6a02e29b4d21aa0d0831a272ca7cb82c3f8c2c3c7f09fcc2d2dcd78752",
+      "url": "https://github.com/paultyng/terraform-provider-unifi/releases/download/v0.41.0/terraform-provider-unifi_0.41.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "03ddd3aee05a08e1446f75a7b3f52810181d3307728cba08ce8fb67f109a9c00",
+      "url": "https://github.com/paultyng/terraform-provider-unifi/releases/download/v0.41.0/terraform-provider-unifi_0.41.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "dc29f1e70f20ce86d3c6a66c7a817616f993a1cf9d941604dfd5222a06992c4c",
+      "url": "https://github.com/paultyng/terraform-provider-unifi/releases/download/v0.41.0/terraform-provider-unifi_0.41.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "9547b7831852cc5b9c0fd13ab447d48539eae94582c8725ad255af36e31fb5d9",
+      "url": "https://github.com/paultyng/terraform-provider-unifi/releases/download/v0.41.0/terraform-provider-unifi_0.41.0_linux_amd64.zip"
+    }
+  },
+  "owner": "paultyng",
+  "repo": "unifi",
+  "version": "0.41.0"
+}
