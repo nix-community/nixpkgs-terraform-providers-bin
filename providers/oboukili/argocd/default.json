@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "9f1bb4ee552bc027a54ff99f68b867f76e0567761fe3703d9b7606464ad74276",
-      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v6.1.1/terraform-provider-argocd_6.1.1_darwin_arm64.zip"
+      "sha256": "fa2cd21a03011535e488756671eab0a4575115d8d69d1e0d8bb6fd8b871ef168",
+      "url": "https://github.com/argoproj-labs/terraform-provider-argocd/releases/download/v6.2.0/terraform-provider-argocd_6.2.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d0b410bf208fdb818897109543de7ebcafe479b8de5e7af05a8b0cd5449b4edf",
-      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v6.1.1/terraform-provider-argocd_6.1.1_linux_arm64.zip"
+      "sha256": "8cc95e77262fc8584ccc801af6b32bff28ad4e51dcaaca4ca6bda31fb9f56aa8",
+      "url": "https://github.com/argoproj-labs/terraform-provider-argocd/releases/download/v6.2.0/terraform-provider-argocd_6.2.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "76a5a1f0c5d2c4b97f51211c14f2abe3bb9ef7e855d44501bf7f661fab31dd55",
-      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v6.1.1/terraform-provider-argocd_6.1.1_darwin_amd64.zip"
+      "sha256": "7c13b4f6b0c0e0ac6fbd019f12babd4a5f380694e00f474efc4f08a98669bb76",
+      "url": "https://github.com/argoproj-labs/terraform-provider-argocd/releases/download/v6.2.0/terraform-provider-argocd_6.2.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "bec504dd356e9b15be2a737a54bdeaebab11c0c23b50d3fc22d01f8d3a4de086",
-      "url": "https://github.com/oboukili/terraform-provider-argocd/releases/download/v6.1.1/terraform-provider-argocd_6.1.1_linux_amd64.zip"
+      "sha256": "f5adbe92c12e221a16871ab5f71dda12ae21ccdf1d9581ae0e923dec39d018ad",
+      "url": "https://github.com/argoproj-labs/terraform-provider-argocd/releases/download/v6.2.0/terraform-provider-argocd_6.2.0_linux_amd64.zip"
     }
   },
   "owner": "oboukili",
   "repo": "argocd",
-  "version": "6.1.1"
+  "version": "6.2.0"
 }
