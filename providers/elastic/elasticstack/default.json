@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "143181cf2c847e684fb680fc781c2a565f87380172ab5176dceb67b7bcad33fa",
-      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.7/terraform-provider-elasticstack_0.11.7_darwin_arm64.zip"
+      "sha256": "7a58d197debd3247c5d2856074541028fe8c16088eb75d1d72cb86aff67f6a6f",
+      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.8/terraform-provider-elasticstack_0.11.8_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "38971351635504d43fd6d287c176549d6db0d8fd9fa2ef7503a8ee41602fc38b",
-      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.7/terraform-provider-elasticstack_0.11.7_linux_arm64.zip"
+      "sha256": "1471fc618e7a99dcafd33e4a43e8a7818b2dccd7b71cc7c0c242842e9f8e8876",
+      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.8/terraform-provider-elasticstack_0.11.8_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ce59359acfcac902c116149cef466633805f4ef9065456a3ce3cfedc4a5b7f0e",
-      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.7/terraform-provider-elasticstack_0.11.7_linux_386.zip"
+      "sha256": "279d4fd16ccaa9ca5514a04fe8115d1815763912d02a224872b87052fffb6c47",
+      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.8/terraform-provider-elasticstack_0.11.8_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "a8f4b37247ba4723913e77384f93ffb71c77c70b76c88ff5bf3a3127722e0b26",
-      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.7/terraform-provider-elasticstack_0.11.7_darwin_amd64.zip"
+      "sha256": "a56d7ad67cd956a811f946dcb5b56d974be2fd099c2bd6d84ec1c5de39a9ed37",
+      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.8/terraform-provider-elasticstack_0.11.8_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f4a231bf5f34903b3b815101ad221c299369401d782c782680cc85db97f067e4",
-      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.7/terraform-provider-elasticstack_0.11.7_linux_amd64.zip"
+      "sha256": "954dd33935d8507f5b86a5d79a8ec704477929255ebfa5579a317698f0139229",
+      "url": "https://github.com/elastic/terraform-provider-elasticstack/releases/download/v0.11.8/terraform-provider-elasticstack_0.11.8_linux_amd64.zip"
     }
   },
   "owner": "elastic",
   "repo": "elasticstack",
-  "version": "0.11.7"
+  "version": "0.11.8"
 }
