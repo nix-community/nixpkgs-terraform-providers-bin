@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "79941f1236de54634d1af4e9a7eab04c60973ef077efdeab3f72e251753ff588",
-      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.7/terraform-provider-astra_2.3.7_darwin_arm64.zip"
+      "sha256": "6390f6000af4dd71e9bf5ce5304dcc1a3ffd0948efcbc2ddc93a49d34eaf04ad",
+      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.8/terraform-provider-astra_2.3.8_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "7ce897f58675017b99e2217fd310993b527335789e7595570d8a8deead0a6a52",
-      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.7/terraform-provider-astra_2.3.7_linux_arm64.zip"
+      "sha256": "88ea0059be5c698c9e3edcd96164f72ba3bb4604cf68deb515f0e11784f9dc34",
+      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.8/terraform-provider-astra_2.3.8_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ef0629c7923977fbb70c55191159ddd2fa4a840ebc730cdad40cf421aa1e04d3",
-      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.7/terraform-provider-astra_2.3.7_linux_386.zip"
+      "sha256": "b13bcdb682418e10ee7fa158f013b45f241857a3df406755f1ff71ff0e7bea8c",
+      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.8/terraform-provider-astra_2.3.8_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "b3b5cc9aba4801b5b55ed37f31bda0f39855c74e5bc0804baf33d56970edf5fc",
-      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.7/terraform-provider-astra_2.3.7_darwin_amd64.zip"
+      "sha256": "0d854e67aa0bd02f2146e9f0c27e391001966e7bfbd161aa7d116fe8ead52429",
+      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.8/terraform-provider-astra_2.3.8_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "2fa92d9dbf4fa33c92fb546baf918e3049e81c7da6ec318e51426f65c32ad855",
-      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.7/terraform-provider-astra_2.3.7_linux_amd64.zip"
+      "sha256": "aa13b62dd76701318b7b7e84be7a30cbeb485eef9d4bf192db37aa68758f17a2",
+      "url": "https://github.com/datastax/terraform-provider-astra/releases/download/v2.3.8/terraform-provider-astra_2.3.8_linux_amd64.zip"
     }
   },
   "owner": "datastax",
   "repo": "astra",
-  "version": "2.3.7"
+  "version": "2.3.8"
 }
