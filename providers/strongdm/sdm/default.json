@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "6c6f1a59921afac522b4398b8d59c00eb6a701bf8c1b30c987426cee2f8c6b28",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v11.14.2/terraform-provider-sdm_11.14.2_darwin_arm64.zip"
+      "sha256": "6f5c4477bcff1040cab263ef387886eff9b7c1e0207e3ddf861a2980009456ea",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v11.15.0/terraform-provider-sdm_11.15.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f69651152a44e65f62a79903b03d17657d7d3971d2e2a9f9409603b9583ed941",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v11.14.2/terraform-provider-sdm_11.14.2_linux_arm64.zip"
+      "sha256": "2657762cb60ce97942fbc6ed777ef65781cb807fe6835d0ae2412a9d16acdfa0",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v11.15.0/terraform-provider-sdm_11.15.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "fc4d302973ec3cefbd9034e9fbc4d02c80eb963a83b74686ab010435fc043805",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v11.14.2/terraform-provider-sdm_11.14.2_darwin_amd64.zip"
+      "sha256": "34095e74cf1cb58de1f081d4ce4322fa823871b6078ca379577bb190364385bc",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v11.15.0/terraform-provider-sdm_11.15.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b34f320a657a25f2270f393e1a38d86e57b943dad3f7bb04f25eb7ae6916d75b",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v11.14.2/terraform-provider-sdm_11.14.2_linux_amd64.zip"
+      "sha256": "08f1f7d469d70263502d9c06fa478454a6f1ba1f4b47fa9210a133fcdf0859fd",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v11.15.0/terraform-provider-sdm_11.15.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "11.14.2"
+  "version": "11.15.0"
 }
