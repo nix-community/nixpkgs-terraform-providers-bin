@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "5e24a36743e07c4f798189a41c44dc463265bbb89078d516a110420aa130c4ab",
-      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.8.0/terraform-provider-project_1.8.0_darwin_arm64.zip"
+      "sha256": "fec34b90552569c6add02a831184cea329418eb3fd1215db9c126d260822bee2",
+      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.9.0/terraform-provider-project_1.9.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "e22f5379609060e8da2e2d5ea49e245db18dd47b65d7cf363c6b41832f73f11b",
-      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.8.0/terraform-provider-project_1.8.0_linux_arm64.zip"
+      "sha256": "61033796a89a3375e692d1e7caf870d8d2a35f0f0276501a49bc75a74fe53c56",
+      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.9.0/terraform-provider-project_1.9.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "f11fc087f2b61d54c612cad4ba70cef9c9a3e151f6e1eef1a184d3dc66556ced",
-      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.8.0/terraform-provider-project_1.8.0_linux_386.zip"
+      "sha256": "0e9c2845db09da451de7d1d85c21157bb6c860b163386d1783778444cb45cdb8",
+      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.9.0/terraform-provider-project_1.9.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e305ccb7eaa04600342cda482a2af01a8bd5fe3672b52304066b7c8ca0bd9a61",
-      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.8.0/terraform-provider-project_1.8.0_darwin_amd64.zip"
+      "sha256": "5f93b2abc2d6d2040c711f02f250accc660ab4a0a53a85f237174e1f18cad42a",
+      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.9.0/terraform-provider-project_1.9.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a00ae5fb8c0e1ce554acd0aa8f4c61c43316c73e8da55c7940b7ca4fc9cef6c1",
-      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.8.0/terraform-provider-project_1.8.0_linux_amd64.zip"
+      "sha256": "7074f4e1bcf2da0a7b9f0c0174c0826dd3a161923184fac118058c19e436a63f",
+      "url": "https://github.com/jfrog/terraform-provider-project/releases/download/v1.9.0/terraform-provider-project_1.9.0_linux_amd64.zip"
     }
   },
   "owner": "jfrog",
   "repo": "project",
-  "version": "1.8.0"
+  "version": "1.9.0"
 }
