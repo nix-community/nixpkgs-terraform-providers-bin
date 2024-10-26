@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "13107f35a7060efa62570e3482285003092ead0afa0fa9fa1b0dda4f70080cb9",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.6.0/terraform-provider-azurerm_4.6.0_darwin_arm64.zip"
+      "sha256": "c2c4efbc861248d89620db3e36370ce3053d886930db38d87c6e24a73ca5017e",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.7.0/terraform-provider-azurerm_4.7.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "a6b110c6cff0ed8c1a8969bd86583db1d5b4f3100f89ce0a0e0350b1ad8cd47b",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.6.0/terraform-provider-azurerm_4.6.0_linux_arm64.zip"
+      "sha256": "83dea535e067547215595141ffd954aab36dd67f646a53a12dc811557fb38acd",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.7.0/terraform-provider-azurerm_4.7.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "22703b9f318adbda7e75d50e76b345651cbf371bce227566a8b8532c9c4f0880",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.6.0/terraform-provider-azurerm_4.6.0_linux_386.zip"
+      "sha256": "2cdfb75f3b375410da63deb17b7dadec1e3ddfac7e2f5168624a4fc51dd3e177",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.7.0/terraform-provider-azurerm_4.7.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "c472fdcafbca86a0a5b515378409d0bbddff6a6abb0bd0ecf438c610944b1e98",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.6.0/terraform-provider-azurerm_4.6.0_darwin_amd64.zip"
+      "sha256": "f866502c6a996e5c2cf42b262a5e5c35e13f3bcb40f364f90c9f4e8e64db733d",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.7.0/terraform-provider-azurerm_4.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6c19ab78c6cf7eb04b8db978daa611db04598fd490c90b85889d08726da1d095",
-      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.6.0/terraform-provider-azurerm_4.6.0_linux_amd64.zip"
+      "sha256": "826acb1bf9b335ca6992796bfd3898b15d0f99a888f02d9c97b7771c31765456",
+      "url": "https://releases.hashicorp.com/terraform-provider-azurerm/4.7.0/terraform-provider-azurerm_4.7.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "azurerm",
-  "version": "4.6.0"
+  "version": "4.7.0"
 }

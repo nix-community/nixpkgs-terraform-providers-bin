@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a188438b17aba8a680d37f3c69be5688571df77ab94c2e1585dad199b3a82e46",
-      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v1.19.2/terraform-provider-lacework_1.19.2_darwin_arm64.zip"
+      "sha256": "afc45c1daa84245b441603c6df9780686571d4ffdab3c55557e955d4966d50a7",
+      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v2.0.0/terraform-provider-lacework_2.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "aa7cd6b170c210e98cf2a4d8a44c0c478d48d8046bdbc437674fae0e0581cd5c",
-      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v1.19.2/terraform-provider-lacework_1.19.2_linux_arm64.zip"
+      "sha256": "325b28507bdc05cc11f351221327b26663b1e99ca34eace2d2db85f9353fb61a",
+      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v2.0.0/terraform-provider-lacework_2.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "6eb0beb2ece503f96d859910c82e82f86f8fca8268053989e03f3077b6107d6a",
-      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v1.19.2/terraform-provider-lacework_1.19.2_linux_386.zip"
+      "sha256": "f39e6ffe03b65dc87697cec2ec003db0742ec06d2d065f6f0b8413252d255b15",
+      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v2.0.0/terraform-provider-lacework_2.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "664bfedf72a6dc5c58e6afbbbb0548e04472a846d129dc73952d411328ec3e86",
-      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v1.19.2/terraform-provider-lacework_1.19.2_darwin_amd64.zip"
+      "sha256": "eed1a37505d1f101a7f1e4fdbeb00331633779334ac12552155b21905abff84d",
+      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v2.0.0/terraform-provider-lacework_2.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "ca8a88995c0fb46fadeabbad81e0b1f3c5ab8666076042cdc358251d7ad14c55",
-      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v1.19.2/terraform-provider-lacework_1.19.2_linux_amd64.zip"
+      "sha256": "51613af771842f06cdcc1209d7f41a3415424546bd2b9acceb8ce74caf2f2404",
+      "url": "https://github.com/lacework/terraform-provider-lacework/releases/download/v2.0.0/terraform-provider-lacework_2.0.0_linux_amd64.zip"
     }
   },
   "owner": "lacework",
   "repo": "lacework",
-  "version": "1.19.2"
+  "version": "2.0.0"
 }
