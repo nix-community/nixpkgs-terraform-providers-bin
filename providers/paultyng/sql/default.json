@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "d84bccecb9d6a4a1090c0bf22c6f23c36f71ecdcf62348970cfe5d966e1889a0",
+      "url": "https://github.com/paultyng/terraform-provider-sql/releases/download/v0.5.0/terraform-provider-sql_0.5.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "1dde17f8284e3e387da8d82af6a70776e515d998f543e98aa1381fe09be3a845",
+      "url": "https://github.com/paultyng/terraform-provider-sql/releases/download/v0.5.0/terraform-provider-sql_0.5.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "4025b93180d6b60caa8597defdecc51dbece03eab9530959b960c430e2ba1a80",
+      "url": "https://github.com/paultyng/terraform-provider-sql/releases/download/v0.5.0/terraform-provider-sql_0.5.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "4352dea6e75a96158e289995d5a00b24d613a34da71e646d92d7300e8aa6c497",
+      "url": "https://github.com/paultyng/terraform-provider-sql/releases/download/v0.5.0/terraform-provider-sql_0.5.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "cef10db10097c1a35ffac0808835729d199596c96cd36e7be51940a204eb02c1",
+      "url": "https://github.com/paultyng/terraform-provider-sql/releases/download/v0.5.0/terraform-provider-sql_0.5.0_linux_amd64.zip"
+    }
+  },
+  "owner": "paultyng",
+  "repo": "sql",
+  "version": "0.5.0"
+}
