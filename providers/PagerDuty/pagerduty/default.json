@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "862b0818b17dc6fc4a65ced9c13faea1800de78d5b0412d409168327de82c26f",
-      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.0/terraform-provider-pagerduty_3.18.0_darwin_arm64.zip"
+      "sha256": "415b794dd07d28389cb8074c40076cfa78bfe14fa26a085d7810ce1351fcf96e",
+      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.1/terraform-provider-pagerduty_3.18.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "61132adbba972c96c79bdf926b5a6e01b61c7e4aef217d8d5f329d6f10d91248",
-      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.0/terraform-provider-pagerduty_3.18.0_linux_arm64.zip"
+      "sha256": "c42cdcb97bad844b334d92e7af951fdd850dd6c37ba64334890ada9b1092049f",
+      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.1/terraform-provider-pagerduty_3.18.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "4c66cbdc9d66e97b3331ee6fdeee6a36e335782c5cb0d9087eb31ad75350a0f4",
-      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.0/terraform-provider-pagerduty_3.18.0_linux_386.zip"
+      "sha256": "3d9cde301a4093791fff6d18cdccb5d00f5071d553604da071e3e798f2247296",
+      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.1/terraform-provider-pagerduty_3.18.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "f5246c6efff4bc8fb940c89e11938609478e3e92be8cdcbdbf8b953feeb7ce1b",
-      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.0/terraform-provider-pagerduty_3.18.0_darwin_amd64.zip"
+      "sha256": "c6b7bdd1ace35684c17369f3ead828006a533e310be7f8da55ab109531af7653",
+      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.1/terraform-provider-pagerduty_3.18.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "e5435ff4cc8750a95af8681113a24c509ba0c02a9e81d0676c5084f372bdd622",
-      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.0/terraform-provider-pagerduty_3.18.0_linux_amd64.zip"
+      "sha256": "2764aa1f4ea191988b4e8d4fd37cf1be279fa72f7615444e1fd0ad3becdcfd68",
+      "url": "https://github.com/PagerDuty/terraform-provider-pagerduty/releases/download/v3.18.1/terraform-provider-pagerduty_3.18.1_linux_amd64.zip"
     }
   },
   "owner": "PagerDuty",
   "repo": "pagerduty",
-  "version": "3.18.0"
+  "version": "3.18.1"
 }
