@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "12de29ca0c35d259658c3ddeffb9180033b58dfc7f70e41281fa9ae7ba47d41e",
-      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.9.0/terraform-provider-ecl_2.9.0_darwin_arm64.zip"
+      "sha256": "9b1fdea609ed1a75141e1eee9f69b8afb83e9c46367d2e382496216d3507830f",
+      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.10.0/terraform-provider-ecl_2.10.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d4d983fcd288056658f3b5f95ff62f484de861389420bf42fbdb8d4e489da4b7",
-      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.9.0/terraform-provider-ecl_2.9.0_linux_arm64.zip"
+      "sha256": "e67f351d5ea6c9060614e7a4b33724c6ccfe3503a744e2fd96a31864dc2248ba",
+      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.10.0/terraform-provider-ecl_2.10.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "cfa82d320283754c7a5d8a984666a7cea1c0cc87877ed825f6598c21e84d51b4",
-      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.9.0/terraform-provider-ecl_2.9.0_linux_386.zip"
+      "sha256": "2b583e954bfc320e51d380d3fd934d1dda49dc9b295ff57317c995fd34050ef3",
+      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.10.0/terraform-provider-ecl_2.10.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "19558c2786acf688928444643ea3c0d9403c176d708f4e6d4ec43810290600e3",
-      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.9.0/terraform-provider-ecl_2.9.0_darwin_amd64.zip"
+      "sha256": "b13fdcb59c21ed80c532d8d38ddaf339a04c3e1ee4721b623fa1d6d803f58661",
+      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.10.0/terraform-provider-ecl_2.10.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "1b6d33da2e480032415cee41c2decf09bad4ea08a164c785bcb490bd3ee0b6af",
-      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.9.0/terraform-provider-ecl_2.9.0_linux_amd64.zip"
+      "sha256": "7d4c57d9562a7e53275928d622dee6db46a7bb17bca2c3e482bfb776efd4f1a0",
+      "url": "https://github.com/nttcom/terraform-provider-ecl/releases/download/v2.10.0/terraform-provider-ecl_2.10.0_linux_amd64.zip"
     }
   },
   "owner": "nttcom",
   "repo": "ecl",
-  "version": "2.9.0"
+  "version": "2.10.0"
 }
