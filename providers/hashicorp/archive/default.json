@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "29273484f7423b7c5b3f5df34ccfc53e52bb5e3d7f46a81b65908e7a8fd69072",
-      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.6.0/terraform-provider-archive_2.6.0_darwin_arm64.zip"
+      "sha256": "821d9148d261df1d1a8e5a4812df2a6a3ffaf0d2070dad3c785382e489069239",
+      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.7.0/terraform-provider-archive_2.7.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "8bf7fe0915d7fb152a3a6b9162614d2ec82749a06dba13fab3f98d33c020ec4f",
-      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.6.0/terraform-provider-archive_2.6.0_linux_arm64.zip"
+      "sha256": "f21de276f857b7e51fa2593d8fef05a7faafb0a7b62db14ac58a03ce1be7d881",
+      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.7.0/terraform-provider-archive_2.7.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "7197db402ba35631930c3a4814520f0ebe980ae3acb7f8b5a6f70ec90dc4a388",
-      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.6.0/terraform-provider-archive_2.6.0_linux_386.zip"
+      "sha256": "dfb70306fcc0ad1d512ab7c24765703783cc286062d4849de4fbe23526f5dc8e",
+      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.7.0/terraform-provider-archive_2.7.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "dc32cc32cfd8abf8752d34f2a783de0d3f7200c573b885ecb64ece5acea173b4",
-      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.6.0/terraform-provider-archive_2.6.0_darwin_amd64.zip"
+      "sha256": "a7d92251118fb723048c482154a6ac6368aad583d28d15fffc6f5dafd9507463",
+      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.7.0/terraform-provider-archive_2.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "55170cd17dbfdea842852c6ae2416d057fec631ba49f3bb6466a7268cd39130e",
-      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.6.0/terraform-provider-archive_2.6.0_linux_amd64.zip"
+      "sha256": "697695ab9cce351adf91a1823bdd72ce6f0d219138f5124ef7645cedf8f59a1f",
+      "url": "https://releases.hashicorp.com/terraform-provider-archive/2.7.0/terraform-provider-archive_2.7.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "archive",
-  "version": "2.6.0"
+  "version": "2.7.0"
 }

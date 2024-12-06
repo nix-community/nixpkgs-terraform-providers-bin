@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "55d6584517ebaf7b4ecefedbf600af0d12077a00834b777f884b4631f77b7e13",
-      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.24.0/terraform-provider-postgresql_1.24.0_darwin_arm64.zip"
+      "sha256": "f24b73645d8bc225f692bdf9c035411099ef57138569f45f3605ec79ac872e3b",
+      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.25.0/terraform-provider-postgresql_1.25.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "39e540af29165e9dc28712651d308fdf0fcac018850a0841f7c5380f58aafb64",
-      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.24.0/terraform-provider-postgresql_1.24.0_linux_arm64.zip"
+      "sha256": "9819551b61542a6d322d6a323bbb552ce02e769ce2222fd9bb1935473c7c4b3c",
+      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.25.0/terraform-provider-postgresql_1.25.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "5fac6d4d676425d9491a42b992b166bdbae5ecd1fe6815bc75435f7c3024015b",
-      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.24.0/terraform-provider-postgresql_1.24.0_linux_386.zip"
+      "sha256": "c7af02f5338bfe7f1976e01d3fcf82e05b3551893e732539a84c568d25571a84",
+      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.25.0/terraform-provider-postgresql_1.25.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "18d047ffa30156da8281206b977d23dc9690e87137b0a9dd7049d2776e603ce6",
-      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.24.0/terraform-provider-postgresql_1.24.0_darwin_amd64.zip"
+      "sha256": "1819470f0304c6a60b2b51817cb43f6ff59a49e08cc9e50644b86b3a76c91601",
+      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.25.0/terraform-provider-postgresql_1.25.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "4d33f4a9f449166a5cb495e764c8a09bf9710927162d30f5db46283a88023cad",
-      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.24.0/terraform-provider-postgresql_1.24.0_linux_amd64.zip"
+      "sha256": "944d7ded418c022dd3ee513246677d601376fa38d76c9c4aecff2c2eefcaa35b",
+      "url": "https://github.com/cyrilgdn/terraform-provider-postgresql/releases/download/v1.25.0/terraform-provider-postgresql_1.25.0_linux_amd64.zip"
     }
   },
   "owner": "cyrilgdn",
   "repo": "postgresql",
-  "version": "1.24.0"
+  "version": "1.25.0"
 }
