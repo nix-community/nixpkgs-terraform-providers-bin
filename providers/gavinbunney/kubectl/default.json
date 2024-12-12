@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "601339e8a9c54d73581b72681d2536776c56e7ac8813b403e596d320c35f81c8",
-      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.17.0/terraform-provider-kubectl_1.17.0_darwin_arm64.zip"
+      "sha256": "3dc5623d74a5f373bff189b2939aa05d6b48c9d5070b20c6514c05c0c2b3d1bc",
+      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.18.0/terraform-provider-kubectl_1.18.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d7f942d2b56c227f3f58333914ff2ef34d8c2e9d94841be3c02ccd1d639cb263",
-      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.17.0/terraform-provider-kubectl_1.17.0_linux_arm64.zip"
+      "sha256": "4f4169427d5f13348e378cdb1cebd4c34914a8aaa0a6fc42b5aa63df76ca1e47",
+      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.18.0/terraform-provider-kubectl_1.18.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "0251c202f6bd2f06d69a262ddd082acc720c645da0315768f4c12c2234cbea78",
-      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.17.0/terraform-provider-kubectl_1.17.0_linux_386.zip"
+      "sha256": "cfb135b0488b76be5a016299730da749fd9493200ca43ac13c57c665e43eecd7",
+      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.18.0/terraform-provider-kubectl_1.18.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "b699deb0d2425dd11059ddc472f07cb1652601356c521104864ccd96a3022f9a",
-      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.17.0/terraform-provider-kubectl_1.17.0_darwin_amd64.zip"
+      "sha256": "fd1e6d5fa802723dfb26a87405117dca70530b168222f2fbd62075e91f748e18",
+      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.18.0/terraform-provider-kubectl_1.18.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "040dc19a1bc748c958e97f6401ca641ab645b98404ee2670b861158c0707c8d0",
-      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.17.0/terraform-provider-kubectl_1.17.0_linux_amd64.zip"
+      "sha256": "2c34140c46674971bc2dd45f84c9701e86654b8c6b019c5a0ff26c4f111232c4",
+      "url": "https://github.com/gavinbunney/terraform-provider-kubectl/releases/download/v1.18.0/terraform-provider-kubectl_1.18.0_linux_amd64.zip"
     }
   },
   "owner": "gavinbunney",
   "repo": "kubectl",
-  "version": "1.17.0"
+  "version": "1.18.0"
 }
