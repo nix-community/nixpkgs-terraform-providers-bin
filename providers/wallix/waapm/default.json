@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "7bda40887b7440cd14829dd74d559f64d4ca387f9b6b869dc9d473c890781437",
+      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.4/terraform-provider-waapm_2.0.4_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "5638c67fa5821ddaba88e54b1d183b4615c89113dd5402ebbcfb98d5b3fc7d2c",
-      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.2/terraform-provider-waapm_2.0.2_linux_arm64.zip"
+      "sha256": "d7576fc6b7fae8290bd096694cee8f8c19c6fe5828c93b25f181bf2c0dfc3a0c",
+      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.4/terraform-provider-waapm_2.0.4_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ddaed66b908c5597f75156d79a3a0c8b00c21fda4d2b18fa28d3e5a01552c9a2",
-      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.2/terraform-provider-waapm_2.0.2_linux_386.zip"
+      "sha256": "f985d71b7bcbb5b5e9ea9ac37a9434fbd8095856580d5c12497525ff4b4e1238",
+      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.4/terraform-provider-waapm_2.0.4_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "b2ebd07487975e8b069a675a13d4fab90ae534258ffbcbdc8985f65f981f6923",
-      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.2/terraform-provider-waapm_2.0.2_darwin_amd64.zip"
+      "sha256": "a1887f55623fa348cb45b69fe94d3e61e77aaee713d5ca8622dd01566224a305",
+      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.4/terraform-provider-waapm_2.0.4_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "056fa09b18146831ed43a8b8d0a254371efb724bde0a9fc71769255c566e0948",
-      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.2/terraform-provider-waapm_2.0.2_linux_amd64.zip"
+      "sha256": "f9f24a3f7cfe78d2200df7b11a5aab46bcddc138cdd1b720af0c53095325cd69",
+      "url": "https://github.com/wallix/terraform-provider-waapm/releases/download/v2.0.4/terraform-provider-waapm_2.0.4_linux_amd64.zip"
     }
   },
   "owner": "wallix",
   "repo": "waapm",
-  "version": "2.0.2"
+  "version": "2.0.4"
 }
