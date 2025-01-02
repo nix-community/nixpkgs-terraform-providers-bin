@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "5cc1dafc7eabe20c92ec4e82db08a92295fe6def09c426ca81e1836e5c2640a2",
+      "url": "https://github.com/random-things/terraform-provider-string-functions/releases/download/v0.3.0/terraform-provider-string-functions_0.3.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "7390ffa54b57fa8813273abe5389782294649e979039c1ff11be35a351485b4e",
+      "url": "https://github.com/random-things/terraform-provider-string-functions/releases/download/v0.3.0/terraform-provider-string-functions_0.3.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "f753ce183e15ebee1b404bee392d2c1bdf31e50c28258000e493f16811ead696",
+      "url": "https://github.com/random-things/terraform-provider-string-functions/releases/download/v0.3.0/terraform-provider-string-functions_0.3.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "4fe78c86ccb880fef35395b170aac2edbca123fdc6c6fd5454c6838088660e0a",
+      "url": "https://github.com/random-things/terraform-provider-string-functions/releases/download/v0.3.0/terraform-provider-string-functions_0.3.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "806d8249704b99175e234a139b9137684caa76479a5782a128c4e33d173c2532",
+      "url": "https://github.com/random-things/terraform-provider-string-functions/releases/download/v0.3.0/terraform-provider-string-functions_0.3.0_linux_amd64.zip"
+    }
+  },
+  "owner": "random-things",
+  "repo": "string-functions",
+  "version": "0.3.0"
+}
