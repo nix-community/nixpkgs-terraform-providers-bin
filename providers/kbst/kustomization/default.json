@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "f397be4632e06e4766cc38607a93b4606941a1940afc8a48aa5222384886fa82",
+      "url": "https://github.com/kbst/terraform-provider-kustomization/releases/download/v0.9.6/terraform-provider-kustomization_0.9.6_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "7fbde5cdaec981ec958e680d66f35b664470d7ef0c74e8d79ab5b104bc2de105",
+      "url": "https://github.com/kbst/terraform-provider-kustomization/releases/download/v0.9.6/terraform-provider-kustomization_0.9.6_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "dbc2ce52f067d36485630afba4ee606c85361ba7e7d7f424b1da9f498c095cf1",
+      "url": "https://github.com/kbst/terraform-provider-kustomization/releases/download/v0.9.6/terraform-provider-kustomization_0.9.6_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "cebce7b15cf666d66421f6ee56577af99845778a54d4485ee0cce593aaa82cda",
+      "url": "https://github.com/kbst/terraform-provider-kustomization/releases/download/v0.9.6/terraform-provider-kustomization_0.9.6_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "c3165710124f6fd7ed3cda5ccac26d926070ff61f7650843d4dffe60379b78c6",
+      "url": "https://github.com/kbst/terraform-provider-kustomization/releases/download/v0.9.6/terraform-provider-kustomization_0.9.6_linux_amd64.zip"
+    }
+  },
+  "owner": "kbst",
+  "repo": "kustomization",
+  "version": "0.9.6"
+}
