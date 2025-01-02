@@ -18,7 +18,7 @@ let
     in
     nixpkgs.fetchurl src;
 
-  mkTerraformProvider =
+  mkTerraformProvider = lib.makeOverridable (
     { owner
     , repo
     , version
@@ -51,7 +51,7 @@ let
       passthru = {
         inherit provider-source-address;
       };
-    };
+    });
 
   providers = lib.mapAttrs
     (name: type:
