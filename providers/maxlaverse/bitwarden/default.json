@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "aa63a2986f1f54cb5b161da15f1820f6b25560d0657223103945b3be9398563f",
+      "url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.12.1/terraform-provider-bitwarden_0.12.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "e2b272e88274cd4c921a27f0bd65f9fac3fd18d5913b6431cfbc77cb04dc201c",
+      "url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.12.1/terraform-provider-bitwarden_0.12.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "ebaedc720eb82bfc4c072e24bd064499803526bb0469886740e83f34e6e7dd6e",
+      "url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.12.1/terraform-provider-bitwarden_0.12.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "aca8a6e3b012ac3158a57fbcc7d5891b0d9fbb46bbbd67e9f3edfe6e83802605",
+      "url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.12.1/terraform-provider-bitwarden_0.12.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "74ac084fb3d86e2d4422d08c493d732ec375c5392d48b1cd405eef367ee4f621",
+      "url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.12.1/terraform-provider-bitwarden_0.12.1_linux_amd64.zip"
+    }
+  },
+  "owner": "maxlaverse",
+  "repo": "bitwarden",
+  "version": "0.12.1"
+}
