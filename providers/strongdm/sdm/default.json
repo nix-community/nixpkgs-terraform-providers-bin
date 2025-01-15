@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "0f14599ef9b5975056cce033aa8c73e08f411244d96e8c03f7f854ded1419fd2",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.0.0/terraform-provider-sdm_12.0.0_darwin_arm64.zip"
+      "sha256": "b8706c0dd253a2a4ed43e99e12fb79aac30d4643cf2ffddbce32ad8d8a105d6c",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.2.0/terraform-provider-sdm_12.2.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c29c32cf1c46370c7a1e374a98d92fe580c9f38ad662f08d94ef5f2bf4933f07",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.0.0/terraform-provider-sdm_12.0.0_linux_arm64.zip"
+      "sha256": "4ef0a3cc2da3ffc50f0d086e902ff3d7bf91c17ca0aad73cd41de4fc0422561b",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.2.0/terraform-provider-sdm_12.2.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "a37e14c6f0f01e25c614baa5ee47c41856e9557243c4d26528058a33848783b5",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.0.0/terraform-provider-sdm_12.0.0_darwin_amd64.zip"
+      "sha256": "627fea17628e0fb76551c0ca4cd840477b6fe4453a6cacc0126007c38834e123",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.2.0/terraform-provider-sdm_12.2.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c2cb17118e647950d73566cc3746f18be8e3629fce06fbda1889b3196e598a95",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.0.0/terraform-provider-sdm_12.0.0_linux_amd64.zip"
+      "sha256": "1ef2a1512de24abec4b2aadf707ada146d74019e8f974ca34146e397ac071695",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.2.0/terraform-provider-sdm_12.2.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "12.0.0"
+  "version": "12.2.0"
 }
