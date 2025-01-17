@@ -25,6 +25,7 @@ let
     , archSrc
     , # TODO: pass this down
       registry ? "registry.terraform.io"
+    , ...
     }:
     let
       inherit (nixpkgs.go) GOARCH GOOS;
