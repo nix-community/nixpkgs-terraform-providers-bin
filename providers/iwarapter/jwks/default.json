@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "90a7c89ba393332832812db89c8824cd37d2f3d1d6cba2eb372acaba317df827",
+      "url": "https://github.com/iwarapter/terraform-provider-jwks/releases/download/v0.1.0/terraform-provider-jwks_0.1.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "8ee9c324b8e27619faae27a424e4c557f3605a2de4a04c599e175f0d216f1137",
+      "url": "https://github.com/iwarapter/terraform-provider-jwks/releases/download/v0.1.0/terraform-provider-jwks_0.1.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "fead67929f5ab0615a5a6aeacc67d92877c2a8c3f8414103b32fa5630787ba66",
+      "url": "https://github.com/iwarapter/terraform-provider-jwks/releases/download/v0.1.0/terraform-provider-jwks_0.1.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "66fd668f4d33a22208e6f07c8fa42427aab4a49efc21853a1e2ca5806472aa09",
+      "url": "https://github.com/iwarapter/terraform-provider-jwks/releases/download/v0.1.0/terraform-provider-jwks_0.1.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "339aee4b8baa0a89305caa06f6b3108a7cc5a25ed8779216737e04aa6a9558c5",
+      "url": "https://github.com/iwarapter/terraform-provider-jwks/releases/download/v0.1.0/terraform-provider-jwks_0.1.0_linux_amd64.zip"
+    }
+  },
+  "owner": "iwarapter",
+  "repo": "jwks",
+  "version": "0.1.0"
+}
