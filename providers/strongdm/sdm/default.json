@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "b8706c0dd253a2a4ed43e99e12fb79aac30d4643cf2ffddbce32ad8d8a105d6c",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.2.0/terraform-provider-sdm_12.2.0_darwin_arm64.zip"
+      "sha256": "b0b3ac0f852903821808bbf13eb3b8c465f36f50f51068eb5456e4cdcc528b8b",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.6.0/terraform-provider-sdm_12.6.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "4ef0a3cc2da3ffc50f0d086e902ff3d7bf91c17ca0aad73cd41de4fc0422561b",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.2.0/terraform-provider-sdm_12.2.0_linux_arm64.zip"
+      "sha256": "3f77b1df49f6a8f6900858a58f452f3f0b43bbd56f6076af9fc962bec5ae877a",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.6.0/terraform-provider-sdm_12.6.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "627fea17628e0fb76551c0ca4cd840477b6fe4453a6cacc0126007c38834e123",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.2.0/terraform-provider-sdm_12.2.0_darwin_amd64.zip"
+      "sha256": "99a0aa1b884d5254d110f8253f0994d8ac2a488916906e41dc936d1569cb9072",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.6.0/terraform-provider-sdm_12.6.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "1ef2a1512de24abec4b2aadf707ada146d74019e8f974ca34146e397ac071695",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.2.0/terraform-provider-sdm_12.2.0_linux_amd64.zip"
+      "sha256": "e18b0fd3c79accbde462d1626fa83291d0e9024d13204dfdfdf6392a50b9f785",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v12.6.0/terraform-provider-sdm_12.6.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "12.2.0"
+  "version": "12.6.0"
 }
