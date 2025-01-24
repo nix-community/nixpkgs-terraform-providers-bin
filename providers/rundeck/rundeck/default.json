@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ecd76150738b7f4b0260326fc3f01a50d158a74b67123a36bd16a8fc3fcd157c",
-      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.4.9/terraform-provider-rundeck_0.4.9_darwin_arm64.zip"
+      "sha256": "bfa82b7b4ac2a1e314dceab4b52e6f051e712aee1423cbd3bcb4e4793df4ea5e",
+      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.0/terraform-provider-rundeck_0.5.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "6f7c0533d16ffe08b1c0e10cf3f8a80ba7a5862c6a062bc81068f9f829070c85",
-      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.4.9/terraform-provider-rundeck_0.4.9_linux_arm64.zip"
+      "sha256": "56ca2ab4c0d87a4602a4ddc2db966131eed6a4a89e27415591f08150e29f13c2",
+      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.0/terraform-provider-rundeck_0.5.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "0ac33781bdf2191aa05577589aadadf829086c568fe6b87a32c08f08ab3f6684",
-      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.4.9/terraform-provider-rundeck_0.4.9_linux_386.zip"
+      "sha256": "10293f97e58db3408e670fdb3b28657489549ef8770ddd33b8fa69a93693e397",
+      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.0/terraform-provider-rundeck_0.5.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "9e414f4631ddcd138338dc8eba5b92040bed7e82421a6b75909e174fa99cdff1",
-      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.4.9/terraform-provider-rundeck_0.4.9_darwin_amd64.zip"
+      "sha256": "29fa45ec8058dbb43e3fc2c443b7d217fe103f75d97797c68fc8a3c78a693634",
+      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.0/terraform-provider-rundeck_0.5.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "54255ed1106b215bab022a5225fc4fbb3021fd718ff7a06ae5d1a53e5d25fe58",
-      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.4.9/terraform-provider-rundeck_0.4.9_linux_amd64.zip"
+      "sha256": "bed89678c79384f3bfde9d7576840bef438ca94e6a077a57eb3b1310cd287b2f",
+      "url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.0/terraform-provider-rundeck_0.5.0_linux_amd64.zip"
     }
   },
   "owner": "rundeck",
   "repo": "rundeck",
-  "version": "0.4.9"
+  "version": "0.5.0"
 }
