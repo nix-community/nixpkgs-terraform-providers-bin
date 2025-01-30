@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ce1598b230934b99d4e664f7a77c1a144b38eedc7b6776eb4724bb7fc1e5dfa8",
-      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.1/terraform-provider-kafka-connect_0.4.1_darwin_arm64.zip"
+      "sha256": "460c4a7482bc72f90a181ea75bab892fcdace929a04ac404e2e7f8824ab8d498",
+      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.3/terraform-provider-kafka-connect_0.4.3_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f7cdf737138667ab34964a76f59bccaebbe67256fdcb207dcfa351548679f782",
-      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.1/terraform-provider-kafka-connect_0.4.1_linux_arm64.zip"
+      "sha256": "7e9b64a2e43e4d5844508308d889354f6d48f115776125b9c2c9445e1029ac49",
+      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.3/terraform-provider-kafka-connect_0.4.3_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "71d3aa2977ad55294b704d85b57a91c8fc196596774908b45d0656a9956ee175",
-      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.1/terraform-provider-kafka-connect_0.4.1_linux_386.zip"
+      "sha256": "36216513e823c5693791905d236988a606dea94d7fdb439afa845c54fd20bf39",
+      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.3/terraform-provider-kafka-connect_0.4.3_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "ec6ccd8abc26a2e19c818526f9f9e8d6504e74b16e488e48740afcd63c80c722",
-      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.1/terraform-provider-kafka-connect_0.4.1_darwin_amd64.zip"
+      "sha256": "d41899ca64245ed7ef72b4fad6f589e3e78494af6d275bc5192d5f20d585ca6b",
+      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.3/terraform-provider-kafka-connect_0.4.3_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a44068f795f76126823bfde93427d2ce3b56254a64510d0f9cf1fcf82a707e63",
-      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.1/terraform-provider-kafka-connect_0.4.1_linux_amd64.zip"
+      "sha256": "d67f4f3cd5fff6f80009c0e1a5414ebf4616f4a2fc146242789c1f0cbf4d8464",
+      "url": "https://github.com/Mongey/terraform-provider-kafka-connect/releases/download/v0.4.3/terraform-provider-kafka-connect_0.4.3_linux_amd64.zip"
     }
   },
   "owner": "Mongey",
   "repo": "kafka-connect",
-  "version": "0.4.1"
+  "version": "0.4.3"
 }
