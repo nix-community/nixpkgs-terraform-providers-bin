@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "b7c56e54892ddb8015fbf153bbabe1ddfcf48e3d4811867da90736b3326d94fc",
-      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.2/terraform-provider-harness_0.35.2_darwin_arm64.zip"
+      "sha256": "ca305782fa2ada929bcd471d555dd2365e7c309777291a03d2802c5997fc06a2",
+      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.3/terraform-provider-harness_0.35.3_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f2430508836b66bdc8931673ecfd23a3793026f4be94740e27668cd00f681afa",
-      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.2/terraform-provider-harness_0.35.2_linux_arm64.zip"
+      "sha256": "2b74c47e6e15ed0008609d9a0339a71c918aeac08bbac275b5394b40d64b819b",
+      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.3/terraform-provider-harness_0.35.3_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "54d27c8a5ca89dc3fc6af18e1487b13ce218d8ee5cca5d5795a85839b2353c18",
-      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.2/terraform-provider-harness_0.35.2_linux_386.zip"
+      "sha256": "c7eb3763b5facee1d001a4e0b125fbf53ce0ec62557607bd51d7f9f4cbc3eb52",
+      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.3/terraform-provider-harness_0.35.3_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "1ee76bf3881f108fc45b08892a908e370f88c7fa186a0971a6f5d53ed46c9eb5",
-      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.2/terraform-provider-harness_0.35.2_darwin_amd64.zip"
+      "sha256": "f8bb89c27d1743e47247693b92ee54a05bd51eed438efad7c36cad0f855ccb24",
+      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.3/terraform-provider-harness_0.35.3_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "5647c70d87f3b176ca75cd4fc60776e8da9c4ddaffef31d9e5452c23c12d4793",
-      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.2/terraform-provider-harness_0.35.2_linux_amd64.zip"
+      "sha256": "9eab0b4703fc011f862f62ca662845a9673fd6d8b4e7598aa3690d5cf5e06a12",
+      "url": "https://github.com/harness/terraform-provider-harness/releases/download/v0.35.3/terraform-provider-harness_0.35.3_linux_amd64.zip"
     }
   },
   "owner": "harness",
   "repo": "harness",
-  "version": "0.35.2"
+  "version": "0.35.3"
 }
