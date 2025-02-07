@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e4e661c88cd828daff99549ce4127cfd4bfdeef79209b701605e14f105a13298",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.5.0/terraform-provider-ovh_1.5.0_darwin_arm64.zip"
+      "sha256": "fc873db450c530d51de494884345b601651f08b4c885d2e157ed7da20e8f18d6",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.6.0/terraform-provider-ovh_1.6.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "23668c6e0b1293d2daeeaba80fba3f6a971f0d6f393a15adc8982f4618d91d77",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.5.0/terraform-provider-ovh_1.5.0_linux_arm64.zip"
+      "sha256": "b101a11bfb770f9f1f601e9de9a795aeac461dfec23c5f7d0d55991334f9a360",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.6.0/terraform-provider-ovh_1.6.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "04a3798343a183b70c2f2176ffcbc95b59c7b998786234fdf6a8d5c88532072c",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.5.0/terraform-provider-ovh_1.5.0_linux_386.zip"
+      "sha256": "22eaf2b01dd220b8d8a917436eb9ef540d77fe59b7a08728ac3acaae45457180",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.6.0/terraform-provider-ovh_1.6.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5fb800953503fd50b274ebe4546ae13a9d1c172a3f84becd832f2c73fd7f5322",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.5.0/terraform-provider-ovh_1.5.0_darwin_amd64.zip"
+      "sha256": "72b488b29b6eec07365c47f446cda9fede78bb625f759ba82b61271650fa8af1",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.6.0/terraform-provider-ovh_1.6.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "da8418b596c8efbe74173015e0732fcdcc2a870956c561b152836d1a11d02734",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.5.0/terraform-provider-ovh_1.5.0_linux_amd64.zip"
+      "sha256": "acbee884c4ad40e96a2c0975abe288f33b30feab718d3f2f1088ccef7b4a4b64",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v1.6.0/terraform-provider-ovh_1.6.0_linux_amd64.zip"
     }
   },
   "owner": "ovh",
   "repo": "ovh",
-  "version": "1.5.0"
+  "version": "1.6.0"
 }
