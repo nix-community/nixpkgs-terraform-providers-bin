@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "df2409fc6a364b1f0a0f8a9cd8a86e61e80307996979ce3790243c4ce88f2915",
-      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.5/terraform-provider-cloudinit_2.3.5_darwin_arm64.zip"
+      "sha256": "af7ed71b8fceb60a5e3b7fa663be171e0bd41bb0af30e0e1f06a004c7b584e4a",
+      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.6/terraform-provider-cloudinit_2.3.6_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "17c20574de8eb925b0091c9b6a4d859e9d6e399cd890b44cfbc028f4f312ac7a",
-      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.5/terraform-provider-cloudinit_2.3.5_linux_arm64.zip"
+      "sha256": "8dca3bb3f85ff8ac4d1b3f93975dcb751ed788396c56ebf0c3737ce1a4c60492",
+      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.6/terraform-provider-cloudinit_2.3.6_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "5a876a468ffabff0299f8348e719cb704daf81a4867f8c6892f3c3c4add2c755",
-      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.5/terraform-provider-cloudinit_2.3.5_linux_386.zip"
+      "sha256": "3875c3a20e082ac55d5ff24bcaf7133ebc90c7f999fd0fb37cf0f0003474c94c",
+      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.6/terraform-provider-cloudinit_2.3.6_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8283e5a785e3c518a440f6ac6e7cc4fc07fe266bf34974246f4e2ef05762feda",
-      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.5/terraform-provider-cloudinit_2.3.5_darwin_amd64.zip"
+      "sha256": "265d66e61b9cd16ca1182ebf094cc0a08fb3687e8193a1dbac6899b16c237151",
+      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.6/terraform-provider-cloudinit_2.3.6_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "ed3c263396ff1f4d29639cc43339b655235acf4d06296a7c120a80e4e0fd6409",
-      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.5/terraform-provider-cloudinit_2.3.5_linux_amd64.zip"
+      "sha256": "c69321caca20009abead617f888a67aca990276cb7388b738b19157b88749190",
+      "url": "https://releases.hashicorp.com/terraform-provider-cloudinit/2.3.6/terraform-provider-cloudinit_2.3.6_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "cloudinit",
-  "version": "2.3.5"
+  "version": "2.3.6"
 }
