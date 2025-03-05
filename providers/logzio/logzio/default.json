@@ -1,27 +1,23 @@
 {
   "archSrc": {
-    "aarch64-darwin": {
-      "sha256": "b22a94c89c3d4721a32c2fbe7e70b0ca9a83e25d946bbfc8700e59ea1a0e781b",
-      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.16.0/terraform-provider-logzio_1.16.0_darwin_arm64.zip"
-    },
     "aarch64-linux": {
-      "sha256": "ec0c025219cb2c25ccea0407a3b51f4162d5bd75b2acfdcf95f45f70e80365de",
-      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.16.0/terraform-provider-logzio_1.16.0_linux_arm64.zip"
+      "sha256": "9b764a33106040b907c5d65abd13825a6a41653ae16fc51d98a526033efd5fae",
+      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.17.0/terraform-provider-logzio_1.17.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "7b88c55e84cc79e2ba0c2ecc6b6e758376782d838eaffd097a8bf203f210ac23",
-      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.16.0/terraform-provider-logzio_1.16.0_linux_386.zip"
+      "sha256": "26f25259de5d2302fb793d0036918428610c83e3e52d71fd40ecd21bcf4009fa",
+      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.17.0/terraform-provider-logzio_1.17.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "6774546392073851694162aa604ba902c7fedd5a5691f2293565257a077d5ca2",
-      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.16.0/terraform-provider-logzio_1.16.0_darwin_amd64.zip"
+      "sha256": "0cfa5c3e5ff542bf9c8d48364eecffe51b4656589133f269688286efaaa37234",
+      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.17.0/terraform-provider-logzio_1.17.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "392998a3479129813a3b61ff4ba2e47378496416f1a0b117cdef76071f6b5d54",
-      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.16.0/terraform-provider-logzio_1.16.0_linux_amd64.zip"
+      "sha256": "0ede12bd6227192ecc857125635fe61998af9323a23f40b6daa00dbf3e047581",
+      "url": "https://github.com/logzio/terraform-provider-logzio/releases/download/v1.17.0/terraform-provider-logzio_1.17.0_linux_amd64.zip"
     }
   },
   "owner": "logzio",
   "repo": "logzio",
-  "version": "1.16.0"
+  "version": "1.17.0"
 }

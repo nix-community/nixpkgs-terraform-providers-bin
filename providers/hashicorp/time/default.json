@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "26f1e458358ba55f6558613f1427dcfa6ae2be5119b722d0b3adb27cd001efea",
-      "url": "https://releases.hashicorp.com/terraform-provider-time/0.12.1/terraform-provider-time_0.12.1_darwin_arm64.zip"
+      "sha256": "a294103aeed868c58987e131357a3ec259316c937c909e8a726b862d5a227b82",
+      "url": "https://releases.hashicorp.com/terraform-provider-time/0.13.0/terraform-provider-time_0.13.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "98bbe309c9ff5b2352de6a047e0ec6c7e3764b4ed3dfd370839c4be2fbfff869",
-      "url": "https://releases.hashicorp.com/terraform-provider-time/0.12.1/terraform-provider-time_0.12.1_linux_arm64.zip"
+      "sha256": "93c24b7c87b5db9721f60782ac784152599aa78b30fdea2fc9c594d46d92767c",
+      "url": "https://releases.hashicorp.com/terraform-provider-time/0.13.0/terraform-provider-time_0.13.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "272ccc73a03384b72b964918c7afeb22c2e6be22460d92b150aaf28f29a7d511",
-      "url": "https://releases.hashicorp.com/terraform-provider-time/0.12.1/terraform-provider-time_0.12.1_linux_386.zip"
+      "sha256": "b2d9c16b7acd20d3813060c4d3647dc5f40598ebbdf59f642d53d189e4e3870a",
+      "url": "https://releases.hashicorp.com/terraform-provider-time/0.13.0/terraform-provider-time_0.13.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "090023137df8effe8804e81c65f636dadf8f9d35b79c3afff282d39367ba44b2",
-      "url": "https://releases.hashicorp.com/terraform-provider-time/0.12.1/terraform-provider-time_0.12.1_darwin_amd64.zip"
+      "sha256": "ce6df2c1052c60b4432cb5c0ead471d7cdb4b285b807c265328a358631fc3610",
+      "url": "https://releases.hashicorp.com/terraform-provider-time/0.13.0/terraform-provider-time_0.13.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "d2200f7f6ab8ecb8373cda796b864ad4867f5c255cff9d3b032f666e4c78f625",
-      "url": "https://releases.hashicorp.com/terraform-provider-time/0.12.1/terraform-provider-time_0.12.1_linux_amd64.zip"
+      "sha256": "69dc375845bcfc451426480119f2941ee28b9ef01273d228bb66918180863b3a",
+      "url": "https://releases.hashicorp.com/terraform-provider-time/0.13.0/terraform-provider-time_0.13.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "time",
-  "version": "0.12.1"
+  "version": "0.13.0"
 }
