@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "69df32515e0d0778d52bf94a6a3c7f074f2c3ee6f689ab289dd97b423335b3b0",
-      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.74.1/terraform-provider-proxmox_0.74.1_darwin_arm64.zip"
+      "sha256": "86782c28d296bd393892813ceb8798bf9cd0a1b030654b571db0c20fc7a5c98e",
+      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.75.0/terraform-provider-proxmox_0.75.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "b4ebdc3a30357ccae35dd7af03b09b3985f279afe29ce6e34d3e511521140b2f",
-      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.74.1/terraform-provider-proxmox_0.74.1_linux_arm64.zip"
+      "sha256": "1eb17bee81d6b23660334203b55dfa5ca9e84eeded54bb6821ad4c2a6a226aa2",
+      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.75.0/terraform-provider-proxmox_0.75.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "35be4a93645691315b8f97dd4a678aab0864b078478044a723ff30ccaae0bbad",
-      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.74.1/terraform-provider-proxmox_0.74.1_linux_386.zip"
+      "sha256": "4ea051d519167f3fe490265242a663658dd8e447472cc0c6c3e4f019e781ffa4",
+      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.75.0/terraform-provider-proxmox_0.75.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "7f454ebef6115f83bf629e79c26b8a9a2ff45a6a559cdd9a68d47a4bc744712c",
-      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.74.1/terraform-provider-proxmox_0.74.1_darwin_amd64.zip"
+      "sha256": "6cf7d9b8749386ab4c504c135089004e21eee7e8da354255993eaf07d75671e9",
+      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.75.0/terraform-provider-proxmox_0.75.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "64584f90678e4851c6b301ea1e36b3731cce183da593e8de6ca66b81641294f6",
-      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.74.1/terraform-provider-proxmox_0.74.1_linux_amd64.zip"
+      "sha256": "d84245844bd70c8d45344e8279b583389af50c6634c440d511b0a97e4cd84e07",
+      "url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.75.0/terraform-provider-proxmox_0.75.0_linux_amd64.zip"
     }
   },
   "owner": "bpg",
   "repo": "proxmox",
-  "version": "0.74.1"
+  "version": "0.75.0"
 }
