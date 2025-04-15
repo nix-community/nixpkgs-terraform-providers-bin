@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "1803a267ce443e890c7e4d2a362b4b56dcd79c7f61e3d82e785cddda94591631",
-      "url": "https://github.com/rancher/terraform-provider-rancher2/releases/download/v6.1.4/terraform-provider-rancher2_6.1.4_darwin_arm64.zip"
+      "sha256": "777394549dd5a66f96ac227b28f29821b699e839e819dce8aa8817d393b0df2d",
+      "url": "https://github.com/rancher/terraform-provider-rancher2/releases/download/v7.0.0/terraform-provider-rancher2_7.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d0d5c171a4bc28d79b2e20897461b73d36addd39892caf1392f0234517f35f3a",
-      "url": "https://github.com/rancher/terraform-provider-rancher2/releases/download/v6.1.4/terraform-provider-rancher2_6.1.4_linux_arm64.zip"
+      "sha256": "a3a1a98916246336d7ffed8ff8262a04082b3e2815c1e2f6974690e455ca2331",
+      "url": "https://github.com/rancher/terraform-provider-rancher2/releases/download/v7.0.0/terraform-provider-rancher2_7.0.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "dc5fc20e932d32fad36cf89a4f9290c269ef3f983ed36ba07a72dd3cc1d67f28",
-      "url": "https://github.com/rancher/terraform-provider-rancher2/releases/download/v6.1.4/terraform-provider-rancher2_6.1.4_darwin_amd64.zip"
+      "sha256": "48ccb13ba943a7cc0f8ea1bc3263c33d4702dff483c3507df467bb5b3b169087",
+      "url": "https://github.com/rancher/terraform-provider-rancher2/releases/download/v7.0.0/terraform-provider-rancher2_7.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "d4b51e33d88cbe502572d165f104006e06723a28801d226c1562c2442bb3d57e",
-      "url": "https://github.com/rancher/terraform-provider-rancher2/releases/download/v6.1.4/terraform-provider-rancher2_6.1.4_linux_amd64.zip"
+      "sha256": "9e64a42aa34326f426edfe641076df23efbe5c1c97346e3f8a33c5aab68a1025",
+      "url": "https://github.com/rancher/terraform-provider-rancher2/releases/download/v7.0.0/terraform-provider-rancher2_7.0.0_linux_amd64.zip"
     }
   },
   "owner": "rancher",
   "repo": "rancher2",
-  "version": "6.1.4"
+  "version": "7.0.0"
 }
