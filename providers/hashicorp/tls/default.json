@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "81bde94d53cdababa5b376bbc6947668be4c45ab655de7aa2e8e4736dfd52509",
-      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.0.6/terraform-provider-tls_4.0.6_darwin_arm64.zip"
+      "sha256": "51fb247e3a2e88f0047cb97bb9df7c228254a3b3021c5534e4563b4007e6f882",
+      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.1.0/terraform-provider-tls_4.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "abdce260840b7b050c4e401d4f75c7a199fafe58a8b213947a258f75ac18b3e8",
-      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.0.6/terraform-provider-tls_4.0.6_linux_arm64.zip"
+      "sha256": "35b5dc95bc75f0b3b9c5ce54d4d7600c1ebc96fbb8dfca174536e8bf103c8cdc",
+      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.1.0/terraform-provider-tls_4.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "b754cebfc5184873840f16a642a7c9ef78c34dc246a8ae29e056c79939963c7a",
-      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.0.6/terraform-provider-tls_4.0.6_linux_386.zip"
+      "sha256": "62b981ce491e38d892ba6364d1d0cdaadcee37cc218590e07b310b1dfa34be2d",
+      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.1.0/terraform-provider-tls_4.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "4578ca03d1dd0b7f572d96bd03f744be24c726bfd282173d54b100fd221608bb",
-      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.0.6/terraform-provider-tls_4.0.6_darwin_amd64.zip"
+      "sha256": "35808142ef850c0c60dd93dc06b95c747720ed2c40c89031781165f0c2baa2fc",
+      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.1.0/terraform-provider-tls_4.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6c475491d1250050765a91a493ef330adc24689e8837a0f07da5a0e1269e11c1",
-      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.0.6/terraform-provider-tls_4.0.6_linux_amd64.zip"
+      "sha256": "2fb9fe7a8b5afdbd3e903acb6776ef1be3f2e587fb236a8c60f11a9fa165faa8",
+      "url": "https://releases.hashicorp.com/terraform-provider-tls/4.1.0/terraform-provider-tls_4.1.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "tls",
-  "version": "4.0.6"
+  "version": "4.1.0"
 }
