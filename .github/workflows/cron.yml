@@ -5,7 +5,7 @@ on:
   - cron: '0 0 * * *'  # every day at midnight
 jobs:
   update:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: cachix/install-nix-action@v30
