@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "bda648bc6f9db20d6160472251bddf1bc2a83d071c4bd16222268622f9454c2a",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.9.0/terraform-provider-sdm_14.9.0_darwin_arm64.zip"
+      "sha256": "1f38a972524b6275a8365595a995af9023f97408a0e6ce57ef5ec5b76ece4f89",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.11.0/terraform-provider-sdm_14.11.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "022b173d54e4a09c5449264db85b308052165ba2c3827f3bdd246e434343ee6a",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.9.0/terraform-provider-sdm_14.9.0_linux_arm64.zip"
+      "sha256": "7c1794d5e6f96b0ba81feb72bba61f64e2e2d282dbaa4a973f82c57bce567cc8",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.11.0/terraform-provider-sdm_14.11.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "1a10b54b380b262bb073ee8239ec5135e8a000c64d9ab2e7357b2d37a35e15f0",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.9.0/terraform-provider-sdm_14.9.0_darwin_amd64.zip"
+      "sha256": "768e9a7e18d8655bf60949eb3070483fae514b6e992ca7314f7077ca237cf875",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.11.0/terraform-provider-sdm_14.11.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "0d9d86fd342ccbf913b63836d956a5023723766da2712f0322f213dc83e298e1",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.9.0/terraform-provider-sdm_14.9.0_linux_amd64.zip"
+      "sha256": "49a53297aef7e17630ef3095fab4f2fee58045b1e5f96b69d74c70da3f33d493",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.11.0/terraform-provider-sdm_14.11.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "14.9.0"
+  "version": "14.11.0"
 }
