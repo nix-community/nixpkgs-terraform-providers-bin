@@ -23,12 +23,11 @@ let
     , repo
     , version
     , archSrc
-    , # TODO: pass this down
-      registry ? "registry.terraform.io"
+    , registry ? "registry.terraform.io"
+    , provider-source-address ? "${registry}/${owner}/${repo}"
     }:
     let
       inherit (nixpkgs.go) GOARCH GOOS;
-      provider-source-address = "${registry}/${owner}/${repo}";
     in
     stdenv.mkDerivation {
       pname = "terraform-provider-${repo}";
