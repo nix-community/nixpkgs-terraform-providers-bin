@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a592b12249d80eb620113a62fef35aca0a14df44c81a676f0b04d6107af0f016",
-      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.9.0/terraform-provider-azuredevops_1.9.0_darwin_arm64.zip"
+      "sha256": "6fe5451c3211e88f76d8751349969fa2d1b86ed5b9be9a3d9a3c4583cceffa63",
+      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.10.0/terraform-provider-azuredevops_1.10.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "3bea6764199d8b40a1d3fbe32ad42b81e1b1aa2883268b6dcf6f20ef7749f18a",
-      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.9.0/terraform-provider-azuredevops_1.9.0_linux_arm64.zip"
+      "sha256": "5f7c5d698e2fda94acf187c599d6898eea3b1deb796236d6bfb5f2be21f2be5f",
+      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.10.0/terraform-provider-azuredevops_1.10.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "42d74eb610696cf69557b5ef24206f56f7d0fd7801711990a51d63c1ff5e6f50",
-      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.9.0/terraform-provider-azuredevops_1.9.0_linux_386.zip"
+      "sha256": "0f1e89add4546e96223a0d4a1583a335b2d04b7cf5053679b98fd75c7a7a8765",
+      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.10.0/terraform-provider-azuredevops_1.10.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5f1383b167758d7b981fe3b907ae8eedc6b95a3bdebb3738ba6e51f6922b94f6",
-      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.9.0/terraform-provider-azuredevops_1.9.0_darwin_amd64.zip"
+      "sha256": "0fa1ef3313231ca491aeda61e77cb340d6d7632ae29361a8a29d08557bb4e88b",
+      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.10.0/terraform-provider-azuredevops_1.10.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "8db998bc2e3a8ec9337d7f03031f060b19b03c6eea024c932377e4aa3b405c88",
-      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.9.0/terraform-provider-azuredevops_1.9.0_linux_amd64.zip"
+      "sha256": "48def44ca0a8ff7a81450992fa4b01a7b698416d23f00403b28b281f9197f490",
+      "url": "https://github.com/microsoft/terraform-provider-azuredevops/releases/download/1.10.0/terraform-provider-azuredevops_1.10.0_linux_amd64.zip"
     }
   },
   "owner": "microsoft",
   "repo": "azuredevops",
-  "version": "1.9.0"
+  "version": "1.10.0"
 }
