@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e1d974e79f6a64851eda56c1095287304a70420dd194133a5f9bfcef955dd9b1",
-      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.0/terraform-provider-flux_1.6.0_darwin_arm64.zip"
+      "sha256": "9b0ab9894910568650b07496d882c54921511143c4b44df7e713158ee38090d3",
+      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.1/terraform-provider-flux_1.6.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "0a4edb3115b74cca823e0d53ca42aedb0660b284966e5dd52953308c34dc5748",
-      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.0/terraform-provider-flux_1.6.0_linux_arm64.zip"
+      "sha256": "1ac98b550c401dc36bd67ec7606779f2023ffee236fc00425d2bf4987f3250e5",
+      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.1/terraform-provider-flux_1.6.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "11b121424c8b9087a0d41492799e8d94d989e02dee231686fa28768b1d499d8d",
-      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.0/terraform-provider-flux_1.6.0_linux_386.zip"
+      "sha256": "8bef8d4ca7c6bef424b247aa6eee0f3b97cb00fc0e72e255e28450f1467a1dcc",
+      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.1/terraform-provider-flux_1.6.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "48efdef6ecd09577336b140c7f09ab44530dbfb1f7201906d12948e95df3bedf",
-      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.0/terraform-provider-flux_1.6.0_darwin_amd64.zip"
+      "sha256": "134e619f66d997e9410b50e626279a2c44ed60a49397e1cfe9336de97376004d",
+      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.1/terraform-provider-flux_1.6.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c415e17d653bd078941402c1b39833cf1be140f7a6dcb7e84c754fcbbf420a5c",
-      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.0/terraform-provider-flux_1.6.0_linux_amd64.zip"
+      "sha256": "693cd3502f57e64a17a988ec1033c583667e3fcfb7aa7d9420c5869849b990ab",
+      "url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.6.1/terraform-provider-flux_1.6.1_linux_amd64.zip"
     }
   },
   "owner": "fluxcd",
   "repo": "flux",
-  "version": "1.6.0"
+  "version": "1.6.1"
 }
