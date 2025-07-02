@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "1a2f17720973a01bafe036ae100df31d07bfbb2885e69a88cb3f3f93e80bd386",
-      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v2.7.4/terraform-provider-metalcloud_2.7.4_darwin_arm64.zip"
+      "sha256": "933a2c9c5f91071745e2bb5ae3e718e1383f88e6b9a132324238fcdf2de19389",
+      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v7.0.0/terraform-provider-metalcloud_7.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "00a6ce737e868d35329cddd6497bd2469627d5af5b06d2cc1b03786ac73333ca",
-      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v2.7.4/terraform-provider-metalcloud_2.7.4_linux_arm64.zip"
+      "sha256": "de858fdee2d60ebadd47321bfb0eb02f08268e6185d187fa70b536d2a84cfcf7",
+      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v7.0.0/terraform-provider-metalcloud_7.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8ed96f0003cd1da5dde58cd083a258b60d1b982c3e5a9cff05448a329cdf79ed",
-      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v2.7.4/terraform-provider-metalcloud_2.7.4_linux_386.zip"
+      "sha256": "5a84f78544ba8fe19dcc5acb43fa6b3fef2149dad17ca9d573bc0e906bab0301",
+      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v7.0.0/terraform-provider-metalcloud_7.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "42ec6f4a5a43cde494c40b6ffc7f6b5eb53bde8e1ff3923af6d13bba725585df",
-      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v2.7.4/terraform-provider-metalcloud_2.7.4_darwin_amd64.zip"
+      "sha256": "d20b20461e9645ff7d7b00d77535f03c8d07dbe437bc0a902f36cf15eae91443",
+      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v7.0.0/terraform-provider-metalcloud_7.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "29050557ad3909a8be351f530dd72e4badb866a9aab858f870c1f92d2c765553",
-      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v2.7.4/terraform-provider-metalcloud_2.7.4_linux_amd64.zip"
+      "sha256": "5a638d22dbc16ecbcedf1db36557e6b30fdfd922560c129ce32f589864abaab8",
+      "url": "https://github.com/metalsoft-io/terraform-provider-metalcloud/releases/download/v7.0.0/terraform-provider-metalcloud_7.0.0_linux_amd64.zip"
     }
   },
   "owner": "metalsoft-io",
   "repo": "metalcloud",
-  "version": "2.7.4"
+  "version": "7.0.0"
 }

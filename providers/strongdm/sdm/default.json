@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "bf1d20e208ca92e770e8748428e0b7a6fa37c480105867dd39d5690bb65fb8da",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.20.0/terraform-provider-sdm_14.20.0_darwin_arm64.zip"
+      "sha256": "1ea71113811096ea83bd9f6786da4e95080f39f39dbf782dcb42eb144e69ac2d",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.26.0/terraform-provider-sdm_14.26.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "90ec787a545c5332b83152619e52ffd5cb1a67ddf4d7d9dc9f4e2b6765749de8",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.20.0/terraform-provider-sdm_14.20.0_linux_arm64.zip"
+      "sha256": "e520f2ad3512977de4d9f4fa111ae72fa66870576b53a9cc3a0549d4f44cc170",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.26.0/terraform-provider-sdm_14.26.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e165498f7591d2a3aca93c236c52ffc816fd5b4555d11e707dd50ad6f63de7e3",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.20.0/terraform-provider-sdm_14.20.0_darwin_amd64.zip"
+      "sha256": "354031feb657466fcb5713b34758225e230a682b366d4ca005cd244d89411475",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.26.0/terraform-provider-sdm_14.26.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "2a6c87042c406137bc14f2ddcf09f596711fcc2d5d572af23f432bd9847c37d2",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.20.0/terraform-provider-sdm_14.20.0_linux_amd64.zip"
+      "sha256": "92112ecc4060949ace864c2bc050cc12d327ac66fb98691edc13ddc9d3bd3678",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.26.0/terraform-provider-sdm_14.26.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "14.20.0"
+  "version": "14.26.0"
 }
