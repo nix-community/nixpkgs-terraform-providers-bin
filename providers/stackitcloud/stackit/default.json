@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "70bac59ec6e74097d8b32daf6646efb8f6f6c0ff09f709eb1e7cecd6717da987",
+      "url": "https://github.com/stackitcloud/terraform-provider-stackit/releases/download/v0.57.0/terraform-provider-stackit_0.57.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "18a740c3477c09f3a293266dd234874372cfe29fe5bad486879f9635ad5b1f55",
+      "url": "https://github.com/stackitcloud/terraform-provider-stackit/releases/download/v0.57.0/terraform-provider-stackit_0.57.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "86295f0f2ab79c6c77f3148cc60621a323ef678fe9b189fa12658c10c7aa86d6",
+      "url": "https://github.com/stackitcloud/terraform-provider-stackit/releases/download/v0.57.0/terraform-provider-stackit_0.57.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "4ab27217f674f24f6be04d03b020058f6ae7a21ca0a59d81f94a55f3f27e4a0f",
+      "url": "https://github.com/stackitcloud/terraform-provider-stackit/releases/download/v0.57.0/terraform-provider-stackit_0.57.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "17a653ec41936321b78d19eff09ca79ba81bd9dc2281a0179a1a2ec2d8197e8a",
+      "url": "https://github.com/stackitcloud/terraform-provider-stackit/releases/download/v0.57.0/terraform-provider-stackit_0.57.0_linux_amd64.zip"
+    }
+  },
+  "owner": "stackitcloud",
+  "repo": "stackit",
+  "version": "0.57.0"
+}
