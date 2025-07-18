@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "2c5617ddfddfa1c20b022fad5b04d2d7d80a87d3c1dcf54ba0509c5927755dc8",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.1/terraform-provider-openstack_3.3.1_darwin_arm64.zip"
+      "sha256": "00f589ab6fb91188ecb57afba86ed13216bd56535674850986780520e37aa141",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.2/terraform-provider-openstack_3.3.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "a4211e281de72b14bccc6312144c1a7cb10683fc66567c34f0b1f0510a2c3b5a",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.1/terraform-provider-openstack_3.3.1_linux_arm64.zip"
+      "sha256": "78daa11af9d70af93db2d3110804b35f96bf9e6479de4db3a82650d37f098306",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.2/terraform-provider-openstack_3.3.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "89d569b5a64b4fb59a311027cc7d022369666fc7cae343e0152e6d39fd90df78",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.1/terraform-provider-openstack_3.3.1_linux_386.zip"
+      "sha256": "954921f1ab585523ca390e9542f6c27f162412aeb5b134fc5f61a7218e4e5f52",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.2/terraform-provider-openstack_3.3.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "0207f6097dfea83fa6bc126fb2363890b0b8e6614bba6b70092b1450b0e90a01",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.1/terraform-provider-openstack_3.3.1_darwin_amd64.zip"
+      "sha256": "c52ba8171b1fa0c2a78eb57c9015c8071d1fb9645ebba3b6217a42c3d19286e6",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.2/terraform-provider-openstack_3.3.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "d1288a3c61b827d54a94855de00500300a6067ca8e8fe63fa0a822730fddab80",
-      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.1/terraform-provider-openstack_3.3.1_linux_amd64.zip"
+      "sha256": "8cf52662f3b1aab3ffe8b49a226f9c5ee0a8231216023539b09ef4c91f59bad1",
+      "url": "https://github.com/terraform-provider-openstack/terraform-provider-openstack/releases/download/v3.3.2/terraform-provider-openstack_3.3.2_linux_amd64.zip"
     }
   },
   "owner": "terraform-provider-openstack",
   "repo": "openstack",
-  "version": "3.3.1"
+  "version": "3.3.2"
 }
