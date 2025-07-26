@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "cb29e0165b6f49ecdb84a488526be1d0391b3d36b312a6605d17f5c97a0268e2",
-      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.0/terraform-provider-auth0_1.24.0_darwin_arm64.zip"
+      "sha256": "48dc05d73bb5e3750ed3717d6f23995bd2219fdc5d6424ab777909b17a4ae14f",
+      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.1/terraform-provider-auth0_1.24.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "67f4252090b076580861a77e42a278d43f80bec0de5805e84b59cd83bff86715",
-      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.0/terraform-provider-auth0_1.24.0_linux_arm64.zip"
+      "sha256": "bd3b73981d341aa784c212f117c972eaae9d25fa9b2da051a59b87526450ddc3",
+      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.1/terraform-provider-auth0_1.24.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8a56697fa389f1ba93d1d342c98aa41d296c0a710101c0ac9215f78ba7a4ad05",
-      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.0/terraform-provider-auth0_1.24.0_linux_386.zip"
+      "sha256": "df972e14484034469d93dc0a22400c939b4c08a345829e43967b0ef3f57d551d",
+      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.1/terraform-provider-auth0_1.24.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "44a835ce4d89b402b163700cafe19ab1b338b970e6fdfcb9e072fcd0dd790f11",
-      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.0/terraform-provider-auth0_1.24.0_darwin_amd64.zip"
+      "sha256": "f2319e161c8da38b4bb1fa6782ec058f90dec06f382d84d79106d998550cf747",
+      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.1/terraform-provider-auth0_1.24.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "de701ceb5754d9157b0aa1ebc97c42a79214d6c387ea89a51f25d54248383c14",
-      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.0/terraform-provider-auth0_1.24.0_linux_amd64.zip"
+      "sha256": "4d34a0f46b78c0d84859c0ae1d1d19537265a6d0e0cb49c04c2633b6fa8b944b",
+      "url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.24.1/terraform-provider-auth0_1.24.1_linux_amd64.zip"
     }
   },
   "owner": "auth0",
   "repo": "auth0",
-  "version": "1.24.0"
+  "version": "1.24.1"
 }
