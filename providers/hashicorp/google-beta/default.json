@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "4257bae7ebd81ef03f19aa89c83eff0c6f7f65f49d20cbdb7ee2d0aa4250dc4b",
-      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.0.1/terraform-provider-google-beta_7.0.1_darwin_arm64.zip"
+      "sha256": "461c25272edfd63883cb0d0faf733e7f345b78cc6abc6eda8502e145711b4eec",
+      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.1.0/terraform-provider-google-beta_7.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "4415b56af68139c2b30a72293de96798da33a464baec715856ff3ac3bee6cd44",
-      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.0.1/terraform-provider-google-beta_7.0.1_linux_arm64.zip"
+      "sha256": "22fd38fb0392e67df9be95bd2dbbdec582c961ea29126b8611f6e388697ff6e7",
+      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.1.0/terraform-provider-google-beta_7.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "1346490a10bf389429e9b49482bfea1f421266e0c57ca65197246cd824fde04f",
-      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.0.1/terraform-provider-google-beta_7.0.1_linux_386.zip"
+      "sha256": "287a8e186331246c460b3094a2e3d8143c0ef53401a9660426af87bb51c23ce2",
+      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.1.0/terraform-provider-google-beta_7.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "9a1109e02f9e720edd843b031cfd9974b200488beddf6c99db5d83166a86a9f9",
-      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.0.1/terraform-provider-google-beta_7.0.1_darwin_amd64.zip"
+      "sha256": "e5d69413ccd1caae01ba6319eff5b5728c4bf439db27c583dd83624551670b8b",
+      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.1.0/terraform-provider-google-beta_7.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "5e43dec68c623da2bbafac4f700ce70a680bd722db4c17bbfa03f0c8ce9868e4",
-      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.0.1/terraform-provider-google-beta_7.0.1_linux_amd64.zip"
+      "sha256": "c2de8e3cec7a1d1117d6abaaf29680703d555cbe89a143f75c4a4356ed2273ce",
+      "url": "https://releases.hashicorp.com/terraform-provider-google-beta/7.1.0/terraform-provider-google-beta_7.1.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "google-beta",
-  "version": "7.0.1"
+  "version": "7.1.0"
 }
