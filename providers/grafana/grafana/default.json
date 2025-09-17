@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "1c027943561884b3a59462cd1e18c5b3d9ca910769fbaf9172e011e07faef078",
-      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.7.1/terraform-provider-grafana_4.7.1_darwin_arm64.zip"
+      "sha256": "b91a96f12db2bc28e41f89b8d99346958ab89d8c859087bfbb48116483f3bf8b",
+      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.8.0/terraform-provider-grafana_4.8.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "463fc182da55951394a750a5c258ca3e4417493d7f8733934342f4fbc2da3edd",
-      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.7.1/terraform-provider-grafana_4.7.1_linux_arm64.zip"
+      "sha256": "2219106c7bac228582c513856b88c74001d49ac8a4e380463a82dfd9dd67f9e4",
+      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.8.0/terraform-provider-grafana_4.8.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "9c804c016ef6f945b166a4625c9f6448fe2c12e2dc5317d35dd829263ca863d2",
-      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.7.1/terraform-provider-grafana_4.7.1_linux_386.zip"
+      "sha256": "8f2cc7bcf8b53a9b93b31d789505ae82943b0552ba8a4af992f2334c5c114381",
+      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.8.0/terraform-provider-grafana_4.8.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e3043a5a83f95ac093c4e2df52e897896d4a7bb1d1c49f4e489c8109caa35fab",
-      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.7.1/terraform-provider-grafana_4.7.1_darwin_amd64.zip"
+      "sha256": "32dc6888238abd8a793b84f7aba26e9d12c4bbdecea7d0985b9df8174e3b574e",
+      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.8.0/terraform-provider-grafana_4.8.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "e5c422395c1e43d9d0f39015243e4e12aa47212ae070ba152e95ac224df82e6d",
-      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.7.1/terraform-provider-grafana_4.7.1_linux_amd64.zip"
+      "sha256": "29513baabb0fa6bdf75829f9c677e495b8272dc24c174a1da053337e5bd4b467",
+      "url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.8.0/terraform-provider-grafana_4.8.0_linux_amd64.zip"
     }
   },
   "owner": "grafana",
   "repo": "grafana",
-  "version": "4.7.1"
+  "version": "4.8.0"
 }
