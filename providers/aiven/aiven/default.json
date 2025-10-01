@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "2154731bc0358cf331139da230a1b6088bf0233c876cc7454addd0d1fdfd353e",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.0/terraform-provider-aiven_4.45.0_darwin_arm64.zip"
+      "sha256": "4b68ead8a2da6107a920ea2bf0c774672d3e354063a1a95ad39dde5aa55ee285",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.1/terraform-provider-aiven_4.45.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f34dc61848c8158df7f872b240a2c337e113121f1fd6599f28ffaadf477ad052",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.0/terraform-provider-aiven_4.45.0_linux_arm64.zip"
+      "sha256": "e05bd45e99641166164da9471cb38afe3f15e685eedb443dbb7be8308f4fb3e5",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.1/terraform-provider-aiven_4.45.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "62f3d1f3206f947eebf8a7c6760fe855e2dc77d58866b10ca5f9ce12805cafef",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.0/terraform-provider-aiven_4.45.0_linux_386.zip"
+      "sha256": "0430dd1d0237134422a99fcf92362ec3ab0b1e157a4d1a87346fb8bf9fea08dc",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.1/terraform-provider-aiven_4.45.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "6f90e14f927a6e244235d1af3c6b82d1d06e86efb97bd4dcc201d1e8a95b887c",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.0/terraform-provider-aiven_4.45.0_darwin_amd64.zip"
+      "sha256": "3cf8f9ed6661cf7b2e430a522e0ef6458c7d9b72a9391d8d80038904a9b1c71b",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.1/terraform-provider-aiven_4.45.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "8699b329a9ef22124e612d3db11757090a99fcf6c5035458422aead696211c75",
-      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.0/terraform-provider-aiven_4.45.0_linux_amd64.zip"
+      "sha256": "d7c89ed2ffa6bec6224ceefea755cc0911c393cb3ec373ca0beb3ba30ba37e26",
+      "url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.45.1/terraform-provider-aiven_4.45.1_linux_amd64.zip"
     }
   },
   "owner": "aiven",
   "repo": "aiven",
-  "version": "4.45.0"
+  "version": "4.45.1"
 }
