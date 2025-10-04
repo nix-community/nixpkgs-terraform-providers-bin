@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ad71ca77730ff3c58b38bb677c036b88f12036990479c7c25c9359a33c319012",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.22.2/terraform-provider-fortios_1.22.2_darwin_arm64.zip"
+      "sha256": "0a4f5e558dd812ba2193f25cd1b352f851dfe4bd0039d16bf7a3b47262cb48ed",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.23.0/terraform-provider-fortios_1.23.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c281cb8ece558c670751760b2f306a5da158af21ea88ee64767f16b78206f9c9",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.22.2/terraform-provider-fortios_1.22.2_linux_arm64.zip"
+      "sha256": "688739bc610be91604445483d1cdcf4caade48f6afb398cb35be655134cbc337",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.23.0/terraform-provider-fortios_1.23.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "3db6547ae80529cdd997766e7db9216dd081a81c5dfaad370fcc1d09d655a80e",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.22.2/terraform-provider-fortios_1.22.2_linux_386.zip"
+      "sha256": "fe1363e677791dd63e719f4edf752d936b675062413f68fdb9d79e2cf5c91fe9",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.23.0/terraform-provider-fortios_1.23.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e55e896f4b650f0626bf46d81d7853f3110e0216e963fe1647ccd6f3610e3b88",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.22.2/terraform-provider-fortios_1.22.2_darwin_amd64.zip"
+      "sha256": "c0ed446106157f248c3d60a78a8c657f88a65b0cce1f86d18ce796163b8dffbf",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.23.0/terraform-provider-fortios_1.23.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "beb7b307374919da2c72fb136cb74f07493ab5ab4604db8ac299c209c44d6bcc",
-      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.22.2/terraform-provider-fortios_1.22.2_linux_amd64.zip"
+      "sha256": "93cd380cca4656da64aa20dd66475849a12b6733e538f7c8835cd502342d4457",
+      "url": "https://github.com/fortinetdev/terraform-provider-fortios/releases/download/1.23.0/terraform-provider-fortios_1.23.0_linux_amd64.zip"
     }
   },
   "owner": "fortinetdev",
   "repo": "fortios",
-  "version": "1.22.2"
+  "version": "1.23.0"
 }
