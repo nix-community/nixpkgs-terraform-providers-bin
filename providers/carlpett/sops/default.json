@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "7c3a90a71d968bc962d469b70c36cb08a64e654d606bec0a20c9eab4b8fcc9e9",
-      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.2.1/terraform-provider-sops_1.2.1_darwin_arm64.zip"
+      "sha256": "8949626f40b6c7dfaaccb82587b0903cfea8b086b573153b2133143125bf8734",
+      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.3.0/terraform-provider-sops_1.3.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "79e36cdf201c8d32f18ae00fbde2286d1b6dcb4f8d4186725bdb2c69126b7a54",
-      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.2.1/terraform-provider-sops_1.2.1_linux_arm64.zip"
+      "sha256": "c295b628dacecf54c53ad149427a6940c97e4ac70dce0efebb2a8784ed57b8dc",
+      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.3.0/terraform-provider-sops_1.3.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "4d618d46b83354e37679219f6181a86789e89d7900f39fa582d59a9a233c5c37",
-      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.2.1/terraform-provider-sops_1.2.1_linux_386.zip"
+      "sha256": "e0c01959d8bb5153a85e77283cc11ec9615d979029e3ad0b0be34706354fffe2",
+      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.3.0/terraform-provider-sops_1.3.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5a6a880ba939d10d14068ace595ddf0c132add407a4a8b56af3e882171a554af",
-      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.2.1/terraform-provider-sops_1.2.1_darwin_amd64.zip"
+      "sha256": "54a0c509596392908213ccde07c9be140fc707dbd8699bb68a5d248e1c454ee8",
+      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.3.0/terraform-provider-sops_1.3.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "4ee8ef5241be752ae7ab3096f772a0714ce905572439e2381d5302c9818c4e3d",
-      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.2.1/terraform-provider-sops_1.2.1_linux_amd64.zip"
+      "sha256": "e2f8085f8f7c3aa43302229963e64decfdf2e0b6dd43ee1eaf365d31bcd488e4",
+      "url": "https://github.com/carlpett/terraform-provider-sops/releases/download/v1.3.0/terraform-provider-sops_1.3.0_linux_amd64.zip"
     }
   },
   "owner": "carlpett",
   "repo": "sops",
-  "version": "1.2.1"
+  "version": "1.3.0"
 }
