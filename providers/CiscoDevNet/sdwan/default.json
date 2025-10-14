@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "5a24e29fc43b080b5574db57df4748fdf280c18d83ca1a2bddbc80e6065e80fc",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.7.1/terraform-provider-sdwan_0.7.1_darwin_arm64.zip"
+      "sha256": "128b205a64ce4feeabbccfb84c223f120ab674a8c9cdc47733a3b90d5458823d",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.8.0/terraform-provider-sdwan_0.8.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "9460a911927e89f75160b0766d87f20e7ffb0599392a518d9724efa440d10c39",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.7.1/terraform-provider-sdwan_0.7.1_linux_arm64.zip"
+      "sha256": "a54161c28050e49ee598f6b215c1b6318120eb74135db21b82f144d5ee47076c",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.8.0/terraform-provider-sdwan_0.8.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "5f4c164dce076b9541ccfb55b6dfd916ef5bb90f5993bd7dbab29f4480310fc1",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.7.1/terraform-provider-sdwan_0.7.1_linux_386.zip"
+      "sha256": "3df3299724f1bf07ca36a613c27a5410866c489ced896825f2467922c266b9e7",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.8.0/terraform-provider-sdwan_0.8.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "ddf6e5d1795f57982208cbee93cda2a008686c6a4f49a887935f2357c43fdedb",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.7.1/terraform-provider-sdwan_0.7.1_darwin_amd64.zip"
+      "sha256": "1e4a7f1c8543324f9b158a1b18f0ab8ac5bd61567d099cbcbb66cb6c31e6b6e1",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.8.0/terraform-provider-sdwan_0.8.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "0ea41bdbab6982d3f37e48e01322446ec605c59689a2305fc98e21a4b8b828eb",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.7.1/terraform-provider-sdwan_0.7.1_linux_amd64.zip"
+      "sha256": "8eda5c3ebeac281dcf651d445ca1116992f74f53972e6e9cf11ddda08b71bf10",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-sdwan/releases/download/v0.8.0/terraform-provider-sdwan_0.8.0_linux_amd64.zip"
     }
   },
   "owner": "CiscoDevNet",
   "repo": "sdwan",
-  "version": "0.7.1"
+  "version": "0.8.0"
 }
