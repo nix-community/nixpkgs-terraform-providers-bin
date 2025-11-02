@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "4e7a47e95f8bb5e1d8b39be49e57101c820ae2a8a998fb9cc0ce56badea1b26a",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.3.0/terraform-provider-ansible_1.3.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "0307c80c6a890b629e866318688ac6c73acd99dfd61c371e9036feb001baff45",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.3.0/terraform-provider-ansible_1.3.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "a9c042b23d24d5a10eabb012bdd5ca0b0766074019d2380f713fcbfaf7c55c31",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.3.0/terraform-provider-ansible_1.3.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "3bd68c5c9344e5de161688d49b286d25f32aaa9b47418ff4025db42b1a00fdf9",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.3.0/terraform-provider-ansible_1.3.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "82d4b17b383a78e0ba5c0639c1d92edcc5ece8dc73bda5f9235c0f7f2330618b",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.3.0/terraform-provider-ansible_1.3.0_linux_amd64.zip"
+    }
+  },
+  "owner": "ansible",
+  "repo": "ansible",
+  "version": "1.3.0"
+}
