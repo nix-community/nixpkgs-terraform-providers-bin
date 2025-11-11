@@ -13,9 +13,9 @@
         "x86_64-linux"
       ];
     in
-    {
+    rec {
       overlay = import ./overlay.nix;
-
+      overlays.default = overlay;
       # We use legacyPackages here because default.nix exports a nested tree
       # of functions and packages. `packages` only allows a flat set of
       # derivations.
