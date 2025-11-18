@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "2fbde58d2f66aa87909db4fea5b0c86385a1ba7398e39097d70bc76ba2c0cfde",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.0/terraform-provider-helm_3.1.0_darwin_arm64.zip"
+      "sha256": "a79139abf687387a6efdbbb04289a0a8e7eaca2bd91cdc0ce68ea4f3286c2c34",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.1/terraform-provider-helm_3.1.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "7abccbd43adee40533a2d6a8fec2c0fccdb8b82ee93edd3f98502ec0b48f359f",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.0/terraform-provider-helm_3.1.0_linux_arm64.zip"
+      "sha256": "81b36138b8f2320dc7f877b50f9e38f4bc614affe68de885d322629dd0d16a29",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.1/terraform-provider-helm_3.1.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "0cae240ca20f3636e7af94e4955a3239759693604220eaedc1fe0ebee9cf7c14",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.0/terraform-provider-helm_3.1.0_linux_386.zip"
+      "sha256": "3411919ba2a5941801e677f0fea08bdd0ae22ba3c9ce3309f55554699e06524a",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.1/terraform-provider-helm_3.1.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "07d49de0d21d6a8436c3699eecab9d2eee40f641c26ae2965fedf9136ede7044",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.0/terraform-provider-helm_3.1.0_darwin_amd64.zip"
+      "sha256": "c54c22b18d48ff9053d899d178d9ffef7d9d19785d9bf310a07d648b7aac075b",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.1/terraform-provider-helm_3.1.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c009f7ee4d3a573b4fa902d771e24c54d945b7485367c533d7d4150dde2e04e5",
-      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.0/terraform-provider-helm_3.1.0_linux_amd64.zip"
+      "sha256": "9d3e78c2d1bb46508b972210ad706dd8c8b106f8b206ecf096cd211c54f46990",
+      "url": "https://releases.hashicorp.com/terraform-provider-helm/3.1.1/terraform-provider-helm_3.1.1_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "helm",
-  "version": "3.1.0"
+  "version": "3.1.1"
 }

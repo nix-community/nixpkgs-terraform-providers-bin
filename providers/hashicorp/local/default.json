@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e0dafdd4500bec23d3ff221e3a9b60621c5273e5df867bc59ef6b7e41f5c91f6",
-      "url": "https://releases.hashicorp.com/terraform-provider-local/2.5.3/terraform-provider-local_2.5.3_darwin_arm64.zip"
+      "sha256": "eafe5b873ef42b32feb2f969c38ff8652507e695620cbaf03b9db714bee52249",
+      "url": "https://releases.hashicorp.com/terraform-provider-local/2.6.1/terraform-provider-local_2.6.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f4c6b3eb8f39105004cf720e202f04f57e3578441cfb76ca27611139bc116a82",
-      "url": "https://releases.hashicorp.com/terraform-provider-local/2.5.3/terraform-provider-local_2.5.3_linux_arm64.zip"
+      "sha256": "10050d08f416de42a857e4b6f76809aae63ea4ec6f5c852a126a915dede814b4",
+      "url": "https://releases.hashicorp.com/terraform-provider-local/2.6.1/terraform-provider-local_2.6.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "d36c0b5770841ddb6eaf0499ba3de48e5d4fc99f4829b6ab66b0fab59b1aaf4f",
-      "url": "https://releases.hashicorp.com/terraform-provider-local/2.5.3/terraform-provider-local_2.5.3_linux_386.zip"
+      "sha256": "e9a5c09e6f35e510acf15b666fd0b34a30164cecdcd81ce7cda0f4b2dade8d91",
+      "url": "https://releases.hashicorp.com/terraform-provider-local/2.6.1/terraform-provider-local_2.6.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "c505ff1bf9442a889ac7dca3ac05a8ee6f852e0118dd9a61796a2f6ff4837f09",
-      "url": "https://releases.hashicorp.com/terraform-provider-local/2.5.3/terraform-provider-local_2.5.3_darwin_amd64.zip"
+      "sha256": "8dddae588971a996f622e7589cd8b9da7834c744ac12bfb59c97fa77ded95255",
+      "url": "https://releases.hashicorp.com/terraform-provider-local/2.6.1/terraform-provider-local_2.6.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "40d9dfc9c549e406b5aab73c023aa485633c1b6b730c933d7bcc2fa67fd1ae6e",
-      "url": "https://releases.hashicorp.com/terraform-provider-local/2.5.3/terraform-provider-local_2.5.3_linux_amd64.zip"
+      "sha256": "2df2a3ebe9830d4759c59b51702e209fe053f47453cb4688f43c063bac8746b7",
+      "url": "https://releases.hashicorp.com/terraform-provider-local/2.6.1/terraform-provider-local_2.6.1_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "local",
-  "version": "2.5.3"
+  "version": "2.6.1"
 }
