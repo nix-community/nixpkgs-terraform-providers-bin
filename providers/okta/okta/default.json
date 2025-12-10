@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "91f338a9b68caed63bf1f1d4be473384347f4f41f3ff4ecbbdf02c0ec5fea87e",
-      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.1/terraform-provider-okta_6.5.1_darwin_arm64.zip"
+      "sha256": "1c18043c3f3fcb77f7048dba3fa15ac9bf691befdf88a3c6665d6dee3d09647d",
+      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.2/terraform-provider-okta_6.5.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "54a530648c33064499c9a8af0714b2d101ff23a71cf7379b44c3fbfba78bd9d4",
-      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.1/terraform-provider-okta_6.5.1_linux_arm64.zip"
+      "sha256": "7f5fe390db0dc0ce17230ef8bef7f7aa30cf4f70ad5eb212fc2e07dd89e0c135",
+      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.2/terraform-provider-okta_6.5.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8e1fc788cbe063c2630abfc6bb09724aa5fa49963ecb1b952e5cbff29e663a40",
-      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.1/terraform-provider-okta_6.5.1_linux_386.zip"
+      "sha256": "e5262aa624af0d543414a55156dbe4f0a531407401756698cabf2bc83192e643",
+      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.2/terraform-provider-okta_6.5.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "2165499f53febd570d8cc961328edc15e0650ddf76b7f2ac132c6a7578e20d2a",
-      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.1/terraform-provider-okta_6.5.1_darwin_amd64.zip"
+      "sha256": "25c986d0e5d946ac4386fd659bb3d7ed2899a3d1d8e00390d321d759111ecc5c",
+      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.2/terraform-provider-okta_6.5.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "51bc93616ad64306cb2a3bb32dcb4f357c5b8054ab4c3d767409d388472febc2",
-      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.1/terraform-provider-okta_6.5.1_linux_amd64.zip"
+      "sha256": "43b2dae79647adde19e92002537c76d456d47d5cf9429989c6bc0ac7509e71c8",
+      "url": "https://github.com/okta/terraform-provider-okta/releases/download/v6.5.2/terraform-provider-okta_6.5.2_linux_amd64.zip"
     }
   },
   "owner": "okta",
   "repo": "okta",
-  "version": "6.5.1"
+  "version": "6.5.2"
 }
