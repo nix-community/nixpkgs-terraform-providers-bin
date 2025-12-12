@@ -1,23 +1,27 @@
 {
   "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "a82f6f0fc0bf8106a9304af09db3d044d69ca5a60c3a85e86cb6a67412a65b8e",
+      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.6.0/terraform-provider-icinga2_0.6.0_darwin_arm64.zip"
+    },
     "aarch64-linux": {
-      "sha256": "e9b8cd475ed9bde10f93fa8a688d00462a650f3b82b822071f91726d934b730b",
-      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.5.0/terraform-provider-icinga2_0.5.0_linux_arm64.zip"
+      "sha256": "6170e4a22750b3fc99af0bb595e9b741f13e6149753b3ca8cc73145eed903296",
+      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.6.0/terraform-provider-icinga2_0.6.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "6aaf9c97dac56d387782622e39fdcecae04e9eb6cd27a864ff065be8260ce16b",
-      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.5.0/terraform-provider-icinga2_0.5.0_linux_386.zip"
+      "sha256": "b93bdc44ef4ec1531a1c1d634a868a38ac9d5a431f384e4fd8380402c12834ec",
+      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.6.0/terraform-provider-icinga2_0.6.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "4e21d93abfa4ee3e2833366a37c7a49b5204b737320153bdd18a9bb84d42e3e1",
-      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.5.0/terraform-provider-icinga2_0.5.0_darwin_amd64.zip"
+      "sha256": "7d74d517ef445d3f2d321e1b4820c65c4c26bccd7ddd74754e31f0f28835c223",
+      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.6.0/terraform-provider-icinga2_0.6.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "e7e03f391311a6ae90042ea2f8d52493851a0738faef7ef774312fda026a974d",
-      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.5.0/terraform-provider-icinga2_0.5.0_linux_amd64.zip"
+      "sha256": "0bce24a35f548008f2693bfe47fa2c93ccfb31ee62f3387a3f9d219c4b4c9d86",
+      "url": "https://github.com/Icinga/terraform-provider-icinga2/releases/download/v0.6.0/terraform-provider-icinga2_0.6.0_linux_amd64.zip"
     }
   },
   "owner": "Icinga",
   "repo": "icinga2",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }
