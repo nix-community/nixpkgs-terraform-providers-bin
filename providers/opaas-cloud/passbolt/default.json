@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "aba4ce6b36f5fb53551791464c0c78ed62a5769223a7ddae881e6fe656812a60",
+      "url": "https://github.com/opaas-cloud/terraform-provider-passbolt/releases/download/v1.0.7/terraform-provider-passbolt_1.0.7_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "d43ce7e1e7e209b86e26700c15851dfca2a0fe185eacbbc343b1080467aaa800",
+      "url": "https://github.com/opaas-cloud/terraform-provider-passbolt/releases/download/v1.0.7/terraform-provider-passbolt_1.0.7_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "e4e6c439129a35b320d01c57c1ecea2a10fa4e2bac2a9bc827501565615076a5",
+      "url": "https://github.com/opaas-cloud/terraform-provider-passbolt/releases/download/v1.0.7/terraform-provider-passbolt_1.0.7_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "302dbe2ae8c28431d731077c364ce1d6a3f5dc1022f24b9184945c81919afff7",
+      "url": "https://github.com/opaas-cloud/terraform-provider-passbolt/releases/download/v1.0.7/terraform-provider-passbolt_1.0.7_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "270b56b41a1abc27807a9edaa30ef4731438a79c050c131adbe8cd8349040a27",
+      "url": "https://github.com/opaas-cloud/terraform-provider-passbolt/releases/download/v1.0.7/terraform-provider-passbolt_1.0.7_linux_amd64.zip"
+    }
+  },
+  "owner": "opaas-cloud",
+  "repo": "passbolt",
+  "version": "1.0.7"
+}
