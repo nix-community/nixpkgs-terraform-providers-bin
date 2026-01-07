@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "24ccca014bec2dfb38e2a8d712a5f1d293417ee002f6ddd78a89aee0e6b0a992",
-      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.24.0/terraform-provider-tailscale_0.24.0_darwin_arm64.zip"
+      "sha256": "7c8a0facf95cf06190cc920f9fcf05535edea8cc9d636b06dc5a4204d8c8f8f0",
+      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "2b09f56a7380b50784d5692baeb157edea025f8f1d8665d1b5c285040a05b4bc",
-      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.24.0/terraform-provider-tailscale_0.24.0_linux_arm64.zip"
+      "sha256": "aea2a1fe52ef0736f7ef5d8608fe56e5c9018b2d09b5671637fc742ed1d6df69",
+      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "6e388a2eb91512b2e4d2d8a03358fdcfd79a650512f9205fa6857c0e08c56b9e",
-      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.24.0/terraform-provider-tailscale_0.24.0_linux_386.zip"
+      "sha256": "3f45bec088ad6f39d47c048adff2902d760714b01c10fbb59b511c90a5a7f8ca",
+      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5fd83b0d2cb0fd46aa47e5c43b5c1dbf7acb4114c8073bf62bcf33167091501a",
-      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.24.0/terraform-provider-tailscale_0.24.0_darwin_amd64.zip"
+      "sha256": "e40e28bcbfc619d79ceef211da0c202dd40af116ebc2187c7d9fd7af04ffca01",
+      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b4867157d854e273dad54e08604989b4c0a495b21f4d5d1aa07af8f888ff1ac3",
-      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.24.0/terraform-provider-tailscale_0.24.0_linux_amd64.zip"
+      "sha256": "ba34871eb04cff318f427e87db417d012298abac166f3485a16a204916152847",
+      "url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_linux_amd64.zip"
     }
   },
   "owner": "tailscale",
   "repo": "tailscale",
-  "version": "0.24.0"
+  "version": "0.25.0"
 }
