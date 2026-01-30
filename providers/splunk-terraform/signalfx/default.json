@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "fa8020c1e6ce9cac236143d58078f4a7eae3f07681e2cfa180826ded8df2dc73",
-      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.23.1/terraform-provider-signalfx_9.23.1_darwin_arm64.zip"
+      "sha256": "0e1bd4f075d21e4c34b9050f90f7bf02d84fd54f8422bb38e4c6c419db3eb551",
+      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.24.0/terraform-provider-signalfx_9.24.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "52430247c683a70dac09c3d1c0f83a728c6f9b486d035a797a17a94b2fa0dbf9",
-      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.23.1/terraform-provider-signalfx_9.23.1_linux_arm64.zip"
+      "sha256": "c3fc040d5f901e8a6fe2e47c49096a7ff134096d1b9d8f957914ac7b893c4798",
+      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.24.0/terraform-provider-signalfx_9.24.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "bc20c70c7099ecc667b9dc05ff22dd07435057628d734784f86024650ff06424",
-      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.23.1/terraform-provider-signalfx_9.23.1_linux_386.zip"
+      "sha256": "9f9344ddde0230a53a6c60fda3d8f707cac592e85d1cc96b5cbe166e19ac04c3",
+      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.24.0/terraform-provider-signalfx_9.24.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "d7f7c1a35f2f140118a39e54d0f71a93ac2195779363e8f3490c8585c36872b8",
-      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.23.1/terraform-provider-signalfx_9.23.1_darwin_amd64.zip"
+      "sha256": "56f3a3be2f0597c3f09e399777d8a1a1ee5fa5e9625d936b3a2c3bca8609e1db",
+      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.24.0/terraform-provider-signalfx_9.24.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "25c1ce2d63c391ffce9daafb953ae41435ad46279905925b6a1d39c7548e7afc",
-      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.23.1/terraform-provider-signalfx_9.23.1_linux_amd64.zip"
+      "sha256": "589537c9907cf75f3ef3ba57daff5e5cedeebb4e91b43b3ec0ddbeee2987d182",
+      "url": "https://github.com/splunk-terraform/terraform-provider-signalfx/releases/download/v9.24.0/terraform-provider-signalfx_9.24.0_linux_amd64.zip"
     }
   },
   "owner": "splunk-terraform",
   "repo": "signalfx",
-  "version": "9.23.1"
+  "version": "9.24.0"
 }
