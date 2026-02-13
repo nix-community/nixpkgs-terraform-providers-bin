@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "c62a1171693972bf6595e4445351a68f8c29fd35a581668b151030c8f8d6a585",
-      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.8/terraform-provider-panos_2.0.8_darwin_arm64.zip"
+      "sha256": "e0ea778d8dc37ec8289a9bf8aef53e1848eccd3506259193f03fff06607d0f9e",
+      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.9/terraform-provider-panos_2.0.9_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "343a8065b93334766483c7e52ac6e39b5e6d375e0a8904cade8cbab68e3effa9",
-      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.8/terraform-provider-panos_2.0.8_linux_arm64.zip"
+      "sha256": "8d9aee83f4f5e3dd6001f3fa5f8bf20461f269950d3ff23227e06aa890553e3d",
+      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.9/terraform-provider-panos_2.0.9_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "c5fc026d8a6aa06201dd9a793c6d134f0ad4a3ed63604caf887722de7ed255c9",
-      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.8/terraform-provider-panos_2.0.8_linux_386.zip"
+      "sha256": "95716ed331d93f3bf2d4221cca60dcd59ea63ba3bf53a44573edefcd71a6ffda",
+      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.9/terraform-provider-panos_2.0.9_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "4b252a8e3bee2e41d2ef8c882ade2e02863473f923d103a95ea3ce88fea8940c",
-      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.8/terraform-provider-panos_2.0.8_darwin_amd64.zip"
+      "sha256": "84ef8bb669cdea071995e25eee8ca8daefb0a501fc309dd3017ee3b6065700b6",
+      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.9/terraform-provider-panos_2.0.9_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "e8fb5fddeef68401c525217d7ab17daee44fdba3275406068cddfaa461c3c887",
-      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.8/terraform-provider-panos_2.0.8_linux_amd64.zip"
+      "sha256": "26628325d7f76c1a478242af1835c684a7d7bd53ae45991ff04b9264fb3c9f4b",
+      "url": "https://github.com/PaloAltoNetworks/terraform-provider-panos/releases/download/v2.0.9/terraform-provider-panos_2.0.9_linux_amd64.zip"
     }
   },
   "owner": "PaloAltoNetworks",
   "repo": "panos",
-  "version": "2.0.8"
+  "version": "2.0.9"
 }
