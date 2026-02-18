@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "9648e9bd9d521e72b32f3e530fcc66f709505c50bebeb5509e0a79c3001aee44",
+      "url": "https://github.com/nobbs/terraform-provider-sops/releases/download/v0.3.1/terraform-provider-sops_0.3.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "fd1eb794feeee97f7269afce2a7ad22a921440b38a756891f7e27dac93e29715",
+      "url": "https://github.com/nobbs/terraform-provider-sops/releases/download/v0.3.1/terraform-provider-sops_0.3.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "12246dbb4f5ba10bc97981aa211ccdecb30f555af2c96aa614ca6bce9fe4f352",
+      "url": "https://github.com/nobbs/terraform-provider-sops/releases/download/v0.3.1/terraform-provider-sops_0.3.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "c14cb3e89705bc54b0fa62f59a3e6067f7cfcabc0c00bc975174c6a1496ec269",
+      "url": "https://github.com/nobbs/terraform-provider-sops/releases/download/v0.3.1/terraform-provider-sops_0.3.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "0b4c8c298dcae1e75632856045b6435a502c79e820ae6e11ee302ab274257a9e",
+      "url": "https://github.com/nobbs/terraform-provider-sops/releases/download/v0.3.1/terraform-provider-sops_0.3.1_linux_amd64.zip"
+    }
+  },
+  "owner": "nobbs",
+  "repo": "sops",
+  "version": "0.3.1"
+}
