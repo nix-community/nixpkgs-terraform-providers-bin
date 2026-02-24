@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "d42a6bc5e5fafb076f7d79038908602acff5a6ec727da06e7cbabcadf3ad8bb9",
+      "url": "https://github.com/cloudposse/terraform-provider-awsutils/releases/download/v0.20.1/terraform-provider-awsutils_0.20.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "eefbba6dc993b636e209b3a7f2dd98dc9242572a319c0580e8725987d07341b6",
+      "url": "https://github.com/cloudposse/terraform-provider-awsutils/releases/download/v0.20.1/terraform-provider-awsutils_0.20.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "f52b3b8e830032b3c16b93c683cd0c543ceed83f60be71bcbfcb293665d5a76d",
+      "url": "https://github.com/cloudposse/terraform-provider-awsutils/releases/download/v0.20.1/terraform-provider-awsutils_0.20.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "6ccdec55c0f7d87b8f674a71b79a333f13cf781034f7feecd26e6782e90a902a",
+      "url": "https://github.com/cloudposse/terraform-provider-awsutils/releases/download/v0.20.1/terraform-provider-awsutils_0.20.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "a9c0f440eb77c77b25c99c4e7faf27cfdc5e80cd52fc8318ffcbc47f0db90ee1",
+      "url": "https://github.com/cloudposse/terraform-provider-awsutils/releases/download/v0.20.1/terraform-provider-awsutils_0.20.1_linux_amd64.zip"
+    }
+  },
+  "owner": "cloudposse",
+  "repo": "awsutils",
+  "version": "0.20.1"
+}
