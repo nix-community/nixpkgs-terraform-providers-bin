@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "cfb1a4c703ca28ca13f79313ec5cd70ed9f310e9f7e109a955fb112a78d0ba01",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.6.0/terraform-provider-htpasswd_1.6.0_darwin_arm64.zip"
+      "sha256": "88c2d7c296849ffab9c751983bcc476cb8410e5d3538ba3c3e324a90ed02bd5f",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v2.0.0/terraform-provider-htpasswd_2.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "65bce4aa385a20b9294d50b7e17b5feff4d447e29dbc8e8a3e8823fc10b7de48",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.6.0/terraform-provider-htpasswd_1.6.0_linux_arm64.zip"
+      "sha256": "4c4ae94cb138421cd68012e16ebf80c55bd401cabc58e191a199a20dd4187f0a",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v2.0.0/terraform-provider-htpasswd_2.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "cb399ec66e2490e10ddeca0c5678b265c8826f7b0cdfb7259d2de85371e41358",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.6.0/terraform-provider-htpasswd_1.6.0_linux_386.zip"
+      "sha256": "a750437e7f2ca6965f68af8618ba100734c69fd7ee07ae7944c1b8a5e07a3aed",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v2.0.0/terraform-provider-htpasswd_2.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "cff1c25002fc6d2e76e126f5bed678d9ad4902d08730011ce1e1f4fe37cc3526",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.6.0/terraform-provider-htpasswd_1.6.0_darwin_amd64.zip"
+      "sha256": "6edb3bf134e3aba5395ca6005a0bb8c02a51bbfb702bbf2266cae41078c17398",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v2.0.0/terraform-provider-htpasswd_2.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b534794eeb7909890fca59d9a08dec1168e65d867f12f3187fdbbc8c710a0af8",
-      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v1.6.0/terraform-provider-htpasswd_1.6.0_linux_amd64.zip"
+      "sha256": "b1569959f24b3fcd026a9952f10d63fb4c6e811105618f8ba4491d12deab5d43",
+      "url": "https://github.com/loafoe/terraform-provider-htpasswd/releases/download/v2.0.0/terraform-provider-htpasswd_2.0.0_linux_amd64.zip"
     }
   },
   "owner": "loafoe",
   "repo": "htpasswd",
-  "version": "1.6.0"
+  "version": "2.0.0"
 }
