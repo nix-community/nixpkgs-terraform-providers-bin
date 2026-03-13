@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "5bdada3ce8f214b68d5e1d891d75fdb75524a9865995fcd977dc5b2c71c7fdf1",
-      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.34/terraform-provider-splunk_1.4.34_darwin_arm64.zip"
+      "sha256": "ce326487b45b78d09097f2650ee8b2fb6d5cbfbd5d539798d9cb95c48518bb18",
+      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.35/terraform-provider-splunk_1.4.35_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "69172652c7bdb76009ed2bdc735e62d3f9846609d86baa5887293a6b3e2dddd2",
-      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.34/terraform-provider-splunk_1.4.34_linux_arm64.zip"
+      "sha256": "1144181a52eb343986a6e460b4aef1bd3d936da7ee02b0bf047e5c731b3b177d",
+      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.35/terraform-provider-splunk_1.4.35_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "3c1ca4ff621676cfe782ce99e9da54fdb5b0827fe20612c4ef56177719f1aec7",
-      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.34/terraform-provider-splunk_1.4.34_linux_386.zip"
+      "sha256": "6a7c4ec640374e4e01f0f81d8c99b7de17f58382a257a63c55bc41034b6afd50",
+      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.35/terraform-provider-splunk_1.4.35_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "aa31381427260ab8229803983471db533d523c397c85f88095a172d99fe27970",
-      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.34/terraform-provider-splunk_1.4.34_darwin_amd64.zip"
+      "sha256": "f4b3c687e79062924672019cf052f272fd1d54301a9c83b08d34272fd885772a",
+      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.35/terraform-provider-splunk_1.4.35_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "98d65250ba9261f539176d568a39d48d24d2373e9fab9679c4b471c9486ea132",
-      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.34/terraform-provider-splunk_1.4.34_linux_amd64.zip"
+      "sha256": "f097de4d8d4037655c131df731b2841e0fdd7ff18a4ff63bf9b5a7c92c1534e4",
+      "url": "https://github.com/splunk/terraform-provider-splunk/releases/download/v1.4.35/terraform-provider-splunk_1.4.35_linux_amd64.zip"
     }
   },
   "owner": "splunk",
   "repo": "splunk",
-  "version": "1.4.34"
+  "version": "1.4.35"
 }
