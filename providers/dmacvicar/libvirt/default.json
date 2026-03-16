@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "9b91beb6f701201159a963f64b436922c98c82ac48eb4ac33fc77122bb67c891",
-      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.4/terraform-provider-libvirt_0.9.4_darwin_arm64.zip"
+      "sha256": "71ae2f2e98f6463ffbf9ca007f4c1342e42501434a4792d62196c237200420d4",
+      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.5/terraform-provider-libvirt_0.9.5_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "1ff08275211b0b5ef875bfed7874a25a7b03d09419cb9822350e7244fc9bbb52",
-      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.4/terraform-provider-libvirt_0.9.4_linux_arm64.zip"
+      "sha256": "4608222f7e89583e6dbdb9e98531b2fa093a1f692e5901af473967dca15519da",
+      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.5/terraform-provider-libvirt_0.9.5_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ab3741d3ea8158c7923e13232375a5bb1d57cbbec8608b969864ce015fa3e348",
-      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.4/terraform-provider-libvirt_0.9.4_linux_386.zip"
+      "sha256": "e8dd9ecf9466131630e8a7d3666ccb7bb4246d984ba8c734bf971dcb81ddf42b",
+      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.5/terraform-provider-libvirt_0.9.5_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "c97c9178954cf28ae19dd9372d4b0b6a18da76cc01aa4478ffbc0009fcbc6855",
-      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.4/terraform-provider-libvirt_0.9.4_darwin_amd64.zip"
+      "sha256": "76aec86be4044faf3a48d6549beef8deb2cf2a2824ad75470a0cef1934e446d5",
+      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.5/terraform-provider-libvirt_0.9.5_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b6fff8011a06cf0a97950180f7888c36479b1f9c13d56ccc2705bda96deda57f",
-      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.4/terraform-provider-libvirt_0.9.4_linux_amd64.zip"
+      "sha256": "a70d1b9db2b13abc6517a5f28bdd0fed1674c3e2260a74ad7cf1e32b2673b494",
+      "url": "https://github.com/dmacvicar/terraform-provider-libvirt/releases/download/v0.9.5/terraform-provider-libvirt_0.9.5_linux_amd64.zip"
     }
   },
   "owner": "dmacvicar",
   "repo": "libvirt",
-  "version": "0.9.4"
+  "version": "0.9.5"
 }
