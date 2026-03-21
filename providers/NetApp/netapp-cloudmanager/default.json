@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ba9515a22e88518bbf06ec09efe49c78f867c952c51b97f8b42e20834bc6945c",
-      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.0.0/terraform-provider-netapp-cloudmanager_27.0.0_darwin_arm64.zip"
+      "sha256": "45f6476912e4c9723b3c50f5a5e641bcc160abdba4f0cef43aca16c96349314c",
+      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.1.0/terraform-provider-netapp-cloudmanager_27.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "614d90adb7bc52973779a555adb3d38a3ee75195d3edbb146476384018160326",
-      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.0.0/terraform-provider-netapp-cloudmanager_27.0.0_linux_arm64.zip"
+      "sha256": "c2700681326ee4c85ed636c9e0c82fac534b6ba25aa90b8616ed04a625b15a95",
+      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.1.0/terraform-provider-netapp-cloudmanager_27.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "f37fc12987c7eef5c1fe8b8bb0d489a6d2f3699deed50b67a3f9202535b0eec7",
-      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.0.0/terraform-provider-netapp-cloudmanager_27.0.0_linux_386.zip"
+      "sha256": "c02dbc349aa30eca4df53d88e6bcd870a6dea1d27bdb400d5137e837e4a01c91",
+      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.1.0/terraform-provider-netapp-cloudmanager_27.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "7fa2007a28fba7192bff702f4990c7aba905bc115217781417e7a9f3860935e6",
-      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.0.0/terraform-provider-netapp-cloudmanager_27.0.0_darwin_amd64.zip"
+      "sha256": "a1678f7404221edb50b4923239988f6d6b534d6b55fe67ed3c6c35e6a5db44d1",
+      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.1.0/terraform-provider-netapp-cloudmanager_27.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "2fa3d62734d882b78a88e24377e6fca854fa45477dab2ae7133cc32038031f1f",
-      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.0.0/terraform-provider-netapp-cloudmanager_27.0.0_linux_amd64.zip"
+      "sha256": "5bcaa418d1c5991e11d071df6912b8725f951191de9d94c90891b428f70ff010",
+      "url": "https://github.com/NetApp/terraform-provider-netapp-cloudmanager/releases/download/v27.1.0/terraform-provider-netapp-cloudmanager_27.1.0_linux_amd64.zip"
     }
   },
   "owner": "NetApp",
   "repo": "netapp-cloudmanager",
-  "version": "27.0.0"
+  "version": "27.1.0"
 }
