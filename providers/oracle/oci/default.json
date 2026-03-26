@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e9649887105493b311cbaf180ba635186e1a4c3b5fe7e26ea9bfd06a52aa76f3",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.5.0/terraform-provider-oci_8.5.0_darwin_arm64.zip"
+      "sha256": "51cf23af41250c35f7ad899b5b2cdc7e33d197d8d626fd09d23114b4f683eb57",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.7.0/terraform-provider-oci_8.7.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "8ef61c735f19e1be9abeeb79debbeacd91e5996b4be5719d61323244e19ebe3d",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.5.0/terraform-provider-oci_8.5.0_linux_arm64.zip"
+      "sha256": "c063fdd82333594072a67f522ca2caf1fb2d55a64c7c7ee0b718c59a321e31e6",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.7.0/terraform-provider-oci_8.7.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a03e6f788876b7408d811eb21056986e15c46876983637e7e5e645fff28d0587",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.5.0/terraform-provider-oci_8.5.0_linux_386.zip"
+      "sha256": "30172fc1e69c9247f905198900caa20602327a2a91b8e441b5db782235f5a2b6",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.7.0/terraform-provider-oci_8.7.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "fafce2b47e3227dc8068db4f2bf223c4a4b8fefe39f50aeced467eed1bd901e3",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.5.0/terraform-provider-oci_8.5.0_darwin_amd64.zip"
+      "sha256": "250c86a2a8ed41a2c0dd592f99ccd8ea2e6e4381da9dbd435fd6cab8742faea9",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.7.0/terraform-provider-oci_8.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b1149065247943c0937359e0f2ed5fdce9c2a588e32e90b9c13be64f709f8121",
-      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.5.0/terraform-provider-oci_8.5.0_linux_amd64.zip"
+      "sha256": "a34a5c400fc1324747122df27a10607918f1034d96f9812c5325e1b651bfc213",
+      "url": "https://github.com/oracle/terraform-provider-oci/releases/download/v8.7.0/terraform-provider-oci_8.7.0_linux_amd64.zip"
     }
   },
   "owner": "oracle",
   "repo": "oci",
-  "version": "8.5.0"
+  "version": "8.7.0"
 }
