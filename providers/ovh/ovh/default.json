@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "1a41fe4181e855c73f28ccb4726dd2a426b06ab8cc68b2a19be264147939cfe5",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.12.0/terraform-provider-ovh_2.12.0_darwin_arm64.zip"
+      "sha256": "10f7678f9c43b6e266f7342605e2d5ed5922d6374fd72be72ffe9d71d2703d50",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.13.0/terraform-provider-ovh_2.13.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "dd219a15581091ae9bd326de95395785846afb69f44fa22d98e4e66bc094ce1a",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.12.0/terraform-provider-ovh_2.12.0_linux_arm64.zip"
+      "sha256": "5989a6322b92b4ffeeeb089361e34062fd9fa8fc75286000fc66cc22ec079aae",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.13.0/terraform-provider-ovh_2.13.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "fff2ae665c73d03559e678add909b51af2f9b37a1cdac4ce4f358b8557b91235",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.12.0/terraform-provider-ovh_2.12.0_linux_386.zip"
+      "sha256": "d0e6f3748e43b9b8984054508d2d1eb75b38027e4771f1ec9aab0de6dc0d4f3a",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.13.0/terraform-provider-ovh_2.13.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "615907519a2029004b720df70eabb86310c93d899fcacfc228e1d3bded0f3b81",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.12.0/terraform-provider-ovh_2.12.0_darwin_amd64.zip"
+      "sha256": "c0ba0f12ff11d1970f6a49d53c353f838cd460abbe7bb2af02cb43030d87ec6e",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.13.0/terraform-provider-ovh_2.13.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "de1d9b00c96776620f571dbbb77baf198593cb427f52dad0fb4c864b81a90ab2",
-      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.12.0/terraform-provider-ovh_2.12.0_linux_amd64.zip"
+      "sha256": "55961f04be006596c741665364ae09f8be3760d278207475edf0e29f0a6e2fc3",
+      "url": "https://github.com/ovh/terraform-provider-ovh/releases/download/v2.13.0/terraform-provider-ovh_2.13.0_linux_amd64.zip"
     }
   },
   "owner": "ovh",
   "repo": "ovh",
-  "version": "2.12.0"
+  "version": "2.13.0"
 }
