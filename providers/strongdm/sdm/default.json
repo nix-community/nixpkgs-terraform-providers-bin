@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "c8dfb6ba846384c89e299b77866ee44bd7cb2ee2976e374bfb2a86deb7e64a07",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v16.24.1/terraform-provider-sdm_16.24.1_darwin_arm64.zip"
+      "sha256": "fce3d2bf4708fd3cdb0f8bee18175c2c1a8d0ef566634780537f2661b00518ab",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v17.1.0/terraform-provider-sdm_17.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "b23c11bf0c01f305ce9e5e09e6c04711e9869cdf7621f5636a6545b4955866aa",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v16.24.1/terraform-provider-sdm_16.24.1_linux_arm64.zip"
+      "sha256": "d4ba4bbea775899a496ac90834b28f5e981126f0d325316c0dc6f3228724d6b1",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v17.1.0/terraform-provider-sdm_17.1.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "52a96539b7a488e992b1dc95bdddb3f02cd1424c753810786d6151fb658bb95d",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v16.24.1/terraform-provider-sdm_16.24.1_darwin_amd64.zip"
+      "sha256": "d603354eec8cad3d351fa908d5ed4bc8acf7330fa37e34023c7dfe4484f2806a",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v17.1.0/terraform-provider-sdm_17.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "29f39f864766000f0560fbd937a88acb0d97ebada3379d910954d0c9d0c3ced3",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v16.24.1/terraform-provider-sdm_16.24.1_linux_amd64.zip"
+      "sha256": "9a2254073464e5e306c92487cf2a282911e66ecd53da82d7870a631afccbe02e",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v17.1.0/terraform-provider-sdm_17.1.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "16.24.1"
+  "version": "17.1.0"
 }
