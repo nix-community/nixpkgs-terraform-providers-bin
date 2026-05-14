@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "f6592327673c9f85cdb6f20336faef240abae7621b834f189c4a62276ea5db41",
-      "url": "https://releases.hashicorp.com/terraform-provider-external/2.3.5/terraform-provider-external_2.3.5_darwin_arm64.zip"
+      "sha256": "6d60f615a0ad85eb962c9eb94f25e3eba7a72684ce276ba5dfb23f36b295a8f8",
+      "url": "https://releases.hashicorp.com/terraform-provider-external/2.4.0/terraform-provider-external_2.4.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d1acb00d20445f682c4e705c965e5220530209c95609194c2dc39324f3d4fcce",
-      "url": "https://releases.hashicorp.com/terraform-provider-external/2.3.5/terraform-provider-external_2.3.5_linux_arm64.zip"
+      "sha256": "3c0482e894429f528ce6655a76ab0d8a9f7c0dacc6c828865e1515d4a7dbb852",
+      "url": "https://releases.hashicorp.com/terraform-provider-external/2.4.0/terraform-provider-external_2.4.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a2ce38fda83a62fa5fb5a70e6ca8453b168575feb3459fa39803f6f40bd42154",
-      "url": "https://releases.hashicorp.com/terraform-provider-external/2.3.5/terraform-provider-external_2.3.5_linux_386.zip"
+      "sha256": "a8378558a177d43f55aa0d79d4fae91a704695122a1b109668c1daa8fb76f09d",
+      "url": "https://releases.hashicorp.com/terraform-provider-external/2.4.0/terraform-provider-external_2.4.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "aa20a1242eb97445ad26ebcfb9babf2cd675bdb81cac5f989268ebefa4ef278c",
-      "url": "https://releases.hashicorp.com/terraform-provider-external/2.3.5/terraform-provider-external_2.3.5_darwin_amd64.zip"
+      "sha256": "0772afb42b658468ac5e15df33bf2080456f8f0b8ab163bfe9c50d2b2ea02135",
+      "url": "https://releases.hashicorp.com/terraform-provider-external/2.4.0/terraform-provider-external_2.4.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "86868aec05b58dc0aa1904646a2c26b9367d69b890c9ad70c33c0d3aa7b1485a",
-      "url": "https://releases.hashicorp.com/terraform-provider-external/2.3.5/terraform-provider-external_2.3.5_linux_amd64.zip"
+      "sha256": "d491f9c2d32a39dc4031628469ae7c8aec0074312a7c1f0286b173cdcf854a54",
+      "url": "https://releases.hashicorp.com/terraform-provider-external/2.4.0/terraform-provider-external_2.4.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "external",
-  "version": "2.3.5"
+  "version": "2.4.0"
 }

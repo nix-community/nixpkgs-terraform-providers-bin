@@ -1,27 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "2b1d9c6ed1bf6f83ff09d1f2c9de45cbc8f4bed7ea6100ba64efd018f2d57eb3",
-      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v8.2.0/terraform-provider-aviatrix_8.2.0_darwin_arm64.zip"
+      "sha256": "2581fae9016fe0680807f85c421139bfc7e0aa5d407b17f4f4dd58e264cf9d3e",
+      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v9.0.0/terraform-provider-aviatrix_9.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "4c14bc972739f3bd6e1a33e01fbe46d048448d82001cb67df9ea1ab7135e7be7",
-      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v8.2.0/terraform-provider-aviatrix_8.2.0_linux_arm64.zip"
-    },
-    "i686-linux": {
-      "sha256": "bee96d96f392c5ca0a3bf67c3ef46368138f6dd8f50d72e2216b9295a588afce",
-      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v8.2.0/terraform-provider-aviatrix_8.2.0_linux_386.zip"
+      "sha256": "c8364fb0719da7420bb3e7ac3525e93c2c82ce5c11f05bf1ce5530a8e44638f5",
+      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v9.0.0/terraform-provider-aviatrix_9.0.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "640bc1cf56df4a6577997a3cc359daee8f755b8be0b7c5d847d9fce0ae6d0642",
-      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v8.2.0/terraform-provider-aviatrix_8.2.0_darwin_amd64.zip"
+      "sha256": "1ec94c9d4fec8f3a98189fe96490148fd68018119d14ff12ec6a574e062da3da",
+      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v9.0.0/terraform-provider-aviatrix_9.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "071a2b04e9ce97bf42a58f03850d48fa4ae5db55d02e0729b880b2cf62dde4e9",
-      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v8.2.0/terraform-provider-aviatrix_8.2.0_linux_amd64.zip"
+      "sha256": "0b769dfa10f91e9675c8ad3ed7567ef8f57a7728c82c9c09afaf3074beda3e17",
+      "url": "https://github.com/AviatrixSystems/terraform-provider-aviatrix/releases/download/v9.0.0/terraform-provider-aviatrix_9.0.0_linux_amd64.zip"
     }
   },
   "owner": "AviatrixSystems",
   "repo": "aviatrix",
-  "version": "8.2.0"
+  "version": "9.0.0"
 }
