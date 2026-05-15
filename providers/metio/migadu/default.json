@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e5ca36d41e86bd65fce9e87d8be272e9e6da0962717fabd791edb3d6089c453d",
-      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.3.5/terraform-provider-migadu_2026.3.5_darwin_arm64.zip"
+      "sha256": "60e7be22bc759cc49943be4ae89855929e78d1af832de76398bae0bbb9c762f7",
+      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.5.14/terraform-provider-migadu_2026.5.14_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "7cf9d0b0465001989fcb4b3780de81627f03bfa1c893709020c4ec99d10b2e68",
-      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.3.5/terraform-provider-migadu_2026.3.5_linux_arm64.zip"
+      "sha256": "84b6e863c35b3c5391cab64b23e8cd21c1531f55931acfd36d5ed6defda0211d",
+      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.5.14/terraform-provider-migadu_2026.5.14_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a24979f062be6026573b7ceb195be15264930d8ed46efc91ede326a0121c1bbb",
-      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.3.5/terraform-provider-migadu_2026.3.5_linux_386.zip"
+      "sha256": "bf05b95a20646263624f76566bc50aa6e936365da6d55c7d0fb9a2ffa6111e46",
+      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.5.14/terraform-provider-migadu_2026.5.14_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "5f2da12499fd3f560e70710173adfc73594c6dfd0df476e4fbfc6876f27161dd",
-      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.3.5/terraform-provider-migadu_2026.3.5_darwin_amd64.zip"
+      "sha256": "30c4dbb0c009be984fa1dd45953e6de8e1a5ef0ce63bca20aba5f8a3a5573068",
+      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.5.14/terraform-provider-migadu_2026.5.14_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "e341ee6d062eb219469e92900c935bee72afddb51035bb907cf1977ea9ae03d8",
-      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.3.5/terraform-provider-migadu_2026.3.5_linux_amd64.zip"
+      "sha256": "ddc5388d9a2195f70a19769a560c1a006fd3dec2ff36713ecce793bf38053677",
+      "url": "https://github.com/metio/terraform-provider-migadu/releases/download/2026.5.14/terraform-provider-migadu_2026.5.14_linux_amd64.zip"
     }
   },
   "owner": "metio",
   "repo": "migadu",
-  "version": "2026.3.5"
+  "version": "2026.5.14"
 }
