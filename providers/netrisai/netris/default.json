@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e3fec236905458a16f895f590e2fe05884a93871fcfc43774bafe0442475f8da",
-      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.9/terraform-provider-netris_3.6.9_darwin_arm64.zip"
+      "sha256": "aab0e2dea15901d6ff56eebb7735d9b7bbe01fa5788719a4b090f3aef79b483c",
+      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.10/terraform-provider-netris_3.6.10_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "ff785f18033bd599b146ff608c5b05e3efd80abfa5d675100f98cfc286614745",
-      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.9/terraform-provider-netris_3.6.9_linux_arm64.zip"
+      "sha256": "394f53889ca4c5d1ed97bd820f267317a98e4f6b726595dc2b14f8f54441d08f",
+      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.10/terraform-provider-netris_3.6.10_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "bc40e1917750faf211949eab680b552ed5999d6c74d034617fa01a953a601387",
-      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.9/terraform-provider-netris_3.6.9_linux_386.zip"
+      "sha256": "cf35e5b999c027552695b697c14e508a25b385195ffc8921c87792820ebd670a",
+      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.10/terraform-provider-netris_3.6.10_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "47aa21a4983e8cc9a24ea77f7528cc48bcaf113928634de7f6494507df6de425",
-      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.9/terraform-provider-netris_3.6.9_darwin_amd64.zip"
+      "sha256": "27e5d7d591fd7f269ae2dd982eabb7fb4e2b894e62579fb57e1af7996a72c986",
+      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.10/terraform-provider-netris_3.6.10_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "94e3ac9be3c52b2ab6e79842d1cb85d6cc5b5d4b0759f03f96dc7d74647f517f",
-      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.9/terraform-provider-netris_3.6.9_linux_amd64.zip"
+      "sha256": "7826a22d0bf78e9ddec3126eea2ba10dfc880a5de763d3a6bfd11c81c081ca0e",
+      "url": "https://github.com/netrisai/terraform-provider-netris/releases/download/v3.6.10/terraform-provider-netris_3.6.10_linux_amd64.zip"
     }
   },
   "owner": "netrisai",
   "repo": "netris",
-  "version": "3.6.9"
+  "version": "3.6.10"
 }
