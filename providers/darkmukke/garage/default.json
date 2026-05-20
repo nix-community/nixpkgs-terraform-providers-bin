@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "9ea429993eff10c4cec520900c78990c259334e235ebeb7e58ca78172f3deb80",
+      "url": "https://github.com/DarkMukke/terraform-provider-garage/releases/download/v0.4.3/terraform-provider-garage_0.4.3_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "1a3ebd44672b6f76ac445bedd275bfc797f47de40ba7cb1d5d54d151a8ed8a70",
+      "url": "https://github.com/DarkMukke/terraform-provider-garage/releases/download/v0.4.3/terraform-provider-garage_0.4.3_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "b379c52019786ce6b1be866a139f47563dc727e4904d7c07de5f9a22a8622237",
+      "url": "https://github.com/DarkMukke/terraform-provider-garage/releases/download/v0.4.3/terraform-provider-garage_0.4.3_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "9c2d96d5e7f09f15680172e0f879bf014b11ec3bc5e66fde93e2dfbbb0525eb5",
+      "url": "https://github.com/DarkMukke/terraform-provider-garage/releases/download/v0.4.3/terraform-provider-garage_0.4.3_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "a0faf2fddd3ae3dfaad02bc03744cad2abe5bf577abd16ae89f9f97f8ea7deaf",
+      "url": "https://github.com/DarkMukke/terraform-provider-garage/releases/download/v0.4.3/terraform-provider-garage_0.4.3_linux_amd64.zip"
+    }
+  },
+  "owner": "darkmukke",
+  "repo": "garage",
+  "version": "0.4.3"
+}
