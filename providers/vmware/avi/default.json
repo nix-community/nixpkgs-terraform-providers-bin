@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "4452a3d5b7c17638b5a13cab508095372a3c18f8443e2739109f95afdc999be1",
-      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v31.2.2/terraform-provider-avi_31.2.2_darwin_arm64.zip"
+      "sha256": "bd1e940721e002a1225447915738b375adcdfc84c4ef4f3fed052f88a0dc3b7b",
+      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v32.1.1/terraform-provider-avi_32.1.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "45b014adc106ac06ea507de9b4d397d1a758fed2aaeb8df65ef219b63fff6fc9",
-      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v31.2.2/terraform-provider-avi_31.2.2_linux_arm64.zip"
+      "sha256": "35c9b1920adb94a1b925d2c0afd1979a20e96e8e24035e206cd3d08476bf9c19",
+      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v32.1.1/terraform-provider-avi_32.1.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "08b6ae4cb8a8da0499a41d120ed5fccf442bfd7eb295c5a3c4b219ac2acebd31",
-      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v31.2.2/terraform-provider-avi_31.2.2_linux_386.zip"
+      "sha256": "64fa944bfe0478355e0fd6946c42be2058fba3e2c5deee68fcd3e9d00ea7d467",
+      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v32.1.1/terraform-provider-avi_32.1.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "0d9ada89a8eda9211be3f3a0862a5d332a831578b695dbb6256757208f3aaa5e",
-      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v31.2.2/terraform-provider-avi_31.2.2_darwin_amd64.zip"
+      "sha256": "9e8d750544d1339f978045a7bdc05e3cae61c8e53add4a9feeea800be62e21c5",
+      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v32.1.1/terraform-provider-avi_32.1.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "42cfb1ae347a553b5612491a3608777145b8ea868a417377468a3d09b4f96fc2",
-      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v31.2.2/terraform-provider-avi_31.2.2_linux_amd64.zip"
+      "sha256": "bea07684cf0e83527c893b225bc343fab4663f3caaf4b1043cfadcd289712aa7",
+      "url": "https://github.com/vmware/terraform-provider-avi/releases/download/v32.1.1/terraform-provider-avi_32.1.1_linux_amd64.zip"
     }
   },
   "owner": "vmware",
   "repo": "avi",
-  "version": "31.2.2"
+  "version": "32.1.1"
 }
