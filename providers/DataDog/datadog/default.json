@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "c8af5041af9258721510c580935ba332457c9bb57601528294411e2a2be2dc8a",
-      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.9.0/terraform-provider-datadog_4.9.0_darwin_arm64.zip"
+      "sha256": "0085d26b18e4855ac36cb8061c2a8096444f8d258f8b72093a4efc63409adadf",
+      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.10.0/terraform-provider-datadog_4.10.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "1763aa8e9e6f7acc5e3779af837ea343718ae535d226b585a78497688f844a80",
-      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.9.0/terraform-provider-datadog_4.9.0_linux_arm64.zip"
+      "sha256": "bbc5fe46296b39987cb3d219d07db272bdf69a5ac0ea093f9c0d900975d92cb7",
+      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.10.0/terraform-provider-datadog_4.10.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8745975923cae0452e6104fdd7bdea3a19123ff3aa6bd2b5775ce7244b83e105",
-      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.9.0/terraform-provider-datadog_4.9.0_linux_386.zip"
+      "sha256": "ce0547b327b9d7efead807639de059fa4b41b88e597b991d74335bc535ad122d",
+      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.10.0/terraform-provider-datadog_4.10.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "de8072b3f6b294131a81984d2f15a4fab4ea33f6507011791e3eb61235da4174",
-      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.9.0/terraform-provider-datadog_4.9.0_darwin_amd64.zip"
+      "sha256": "fdec7012a954b709f4050ef7a83f61052099f4498fc3d6ce61ecdcb7e478096f",
+      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.10.0/terraform-provider-datadog_4.10.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "edf23029710a575f07eb8cc4d1a47e92bf227c9c1a3a5bf19f18d5698f061dfe",
-      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.9.0/terraform-provider-datadog_4.9.0_linux_amd64.zip"
+      "sha256": "57acfd5c25d9a9e2ecc17daaec3b2e73154ac932177596fe1a50e3a018fbcbba",
+      "url": "https://github.com/DataDog/terraform-provider-datadog/releases/download/v4.10.0/terraform-provider-datadog_4.10.0_linux_amd64.zip"
     }
   },
   "owner": "DataDog",
   "repo": "datadog",
-  "version": "4.9.0"
+  "version": "4.10.0"
 }
