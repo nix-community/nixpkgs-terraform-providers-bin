@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "dd6d1818d761cabc38f43f0921e81b111ef20d6716aaa856c01a8b00f21efb84",
-      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.0.17/terraform-provider-synthetics_2.0.17_darwin_arm64.zip"
+      "sha256": "03af8203ac270306610b0cf8625dc6f83e975166a57810cfeaeb5a5a1f65e5d1",
+      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.1.0/terraform-provider-synthetics_2.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "0b2639204b2a3a76c4174faa064b46e88be15e71b625189e0fcabc3bff896837",
-      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.0.17/terraform-provider-synthetics_2.0.17_linux_arm64.zip"
+      "sha256": "30e702947b3c0d0a7e160258f4331dc3e6a7123f3d91c545a7c4a464b840f234",
+      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.1.0/terraform-provider-synthetics_2.1.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "955831c893e8b4b090273891ce36bcc8bbb5ea900bb59adc7ddd92d0a0b7ebbf",
-      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.0.17/terraform-provider-synthetics_2.0.17_linux_386.zip"
+      "sha256": "39d0a988a8e0fa3c1ea9c9064e14eb23634482e64ab400873704f05c240f7a3e",
+      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.1.0/terraform-provider-synthetics_2.1.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "91adb603e2d59e38d616e3f718c865736f22be4ce1141827c2583bc990612ee8",
-      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.0.17/terraform-provider-synthetics_2.0.17_darwin_amd64.zip"
+      "sha256": "d33b45b072882621f3ff4b63f82596734991627fc0a2af617502fa7ad7d58954",
+      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.1.0/terraform-provider-synthetics_2.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "1ac57afba71ea975ea77eb54fd08e497339f0ec27dee6a0bd734f38bd8a3b2c2",
-      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.0.17/terraform-provider-synthetics_2.0.17_linux_amd64.zip"
+      "sha256": "065c789dc64fc835ee80a529fe583795aac3661e2516a5b5867fd4ddfd445bae",
+      "url": "https://github.com/splunk/terraform-provider-synthetics/releases/download/v2.1.0/terraform-provider-synthetics_2.1.0_linux_amd64.zip"
     }
   },
   "owner": "splunk",
   "repo": "synthetics",
-  "version": "2.0.17"
+  "version": "2.1.0"
 }
