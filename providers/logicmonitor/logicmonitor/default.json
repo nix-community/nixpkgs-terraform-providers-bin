@@ -1,27 +1,23 @@
 {
   "archSrc": {
-    "aarch64-darwin": {
-      "sha256": "a4bb607c3ed0660870ec3da937da86cc74f20e79f87cd5332663b9cbf6cf7cdb",
-      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.33/terraform-provider-logicmonitor_2.0.33_darwin_arm64.zip"
-    },
     "aarch64-linux": {
-      "sha256": "af938d64e91eb6101acc35495da4cf484469439f555789500b17cb24a7f3e1f5",
-      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.33/terraform-provider-logicmonitor_2.0.33_linux_arm64.zip"
+      "sha256": "f82fea79225bb24843de1f9c2049a4f7035b7fcaf40c835a72c070283a2f251f",
+      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.34/terraform-provider-logicmonitor_2.0.34_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "4fa44029bb26d5f6ea95d14cff4b349692d68330c95f3f089bb94ecfb97d8ff6",
-      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.33/terraform-provider-logicmonitor_2.0.33_linux_386.zip"
+      "sha256": "320f04bc3e24dc4c28f99c9ebf9653598b07ef7533d79696c8b0e0c26d727487",
+      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.34/terraform-provider-logicmonitor_2.0.34_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "ec572b1f0e1cf3097e6cef5602b9ee4152c6ded9269740650719c1a943fe71d1",
-      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.33/terraform-provider-logicmonitor_2.0.33_darwin_amd64.zip"
+      "sha256": "ac2e9e768af5fe092e9dffcc66f711ca51563c2bcd44baf25afe0be9c6147763",
+      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.34/terraform-provider-logicmonitor_2.0.34_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "fdd1b8cedb99c4a01dcff19d9c1f03d2013df8b1f4444b6bfb218aeedc1e3929",
-      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.33/terraform-provider-logicmonitor_2.0.33_linux_amd64.zip"
+      "sha256": "4485a97d6a5a2484ee3e2946953ba99e66d68a2f1986bc22c12b23d6a3d48f55",
+      "url": "https://github.com/logicmonitor/terraform-provider-logicmonitor/releases/download/v2.0.34/terraform-provider-logicmonitor_2.0.34_linux_amd64.zip"
     }
   },
   "owner": "logicmonitor",
   "repo": "logicmonitor",
-  "version": "2.0.33"
+  "version": "2.0.34"
 }
