@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "47f50de1ae949bfa39f000773eb4dae3ca7a90e4787dac05de7915881175c884",
+      "url": "https://github.com/wombelix/terraform-provider-sourcehut/releases/download/v1.0.1/terraform-provider-sourcehut_1.0.1_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "4e13eaf1bddcd54982c1f18f3995e61bce05169aaa9a70f23c4873d9074dcbc6",
+      "url": "https://github.com/wombelix/terraform-provider-sourcehut/releases/download/v1.0.1/terraform-provider-sourcehut_1.0.1_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "0501c143ac98502b484b93f1e70143521d352006cc5c7fe3cb1d284f06b6993c",
+      "url": "https://github.com/wombelix/terraform-provider-sourcehut/releases/download/v1.0.1/terraform-provider-sourcehut_1.0.1_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "0f37424aa9bafbad1291eb70d6ecc2f89dca593fa6281e75b51cac7c41c901d0",
+      "url": "https://github.com/wombelix/terraform-provider-sourcehut/releases/download/v1.0.1/terraform-provider-sourcehut_1.0.1_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "bafe56ca2f3d248ee88db0181b9a238970ca33391273634ef39fa56669a7e0fb",
+      "url": "https://github.com/wombelix/terraform-provider-sourcehut/releases/download/v1.0.1/terraform-provider-sourcehut_1.0.1_linux_amd64.zip"
+    }
+  },
+  "owner": "wombelix",
+  "repo": "sourcehut",
+  "version": "1.0.1"
+}
