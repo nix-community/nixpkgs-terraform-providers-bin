@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "e3ac06420fd160909d12659a206ba19109ff5e14ef75f5ee64ca8782f2a70253",
-      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.2/terraform-provider-vra_0.17.2_darwin_arm64.zip"
+      "sha256": "30f265b0c5819f50e8b27ba3ceb6bf869c9dea83f30b19c206c3b11b319b80ef",
+      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.3/terraform-provider-vra_0.17.3_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "9101603ca8463a70195d8a3d87f9966ab21a5970d64f7da9efc27aad67796f47",
-      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.2/terraform-provider-vra_0.17.2_linux_arm64.zip"
+      "sha256": "bbbc3a9e719d966ca80016afe0f4d17dfe73f9212349d3853f2e1b851013586a",
+      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.3/terraform-provider-vra_0.17.3_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "4991cfc48fef3982e33931790409144a71059cd868e3ce4527151d052c8e458e",
-      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.2/terraform-provider-vra_0.17.2_linux_386.zip"
+      "sha256": "3a7ea494b7a99605ad99194be9132a543b9f7f438d0830e1666f149df5430a85",
+      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.3/terraform-provider-vra_0.17.3_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "93cdb19f0b56a894da219d7f56d96ca3d6f542516bac45664d9c785301407cb4",
-      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.2/terraform-provider-vra_0.17.2_darwin_amd64.zip"
+      "sha256": "155fc0ea452803767b9a644866ddcdd8db8b3f67345cce445997d17bd8b15c05",
+      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.3/terraform-provider-vra_0.17.3_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "955512f05faaf5e938a735c29fa3195d868f1153178e52bf8f4abb507b51a03a",
-      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.2/terraform-provider-vra_0.17.2_linux_amd64.zip"
+      "sha256": "70323c7a6b250a584ddc65dfd48b0cef631ac37e09d6c972381e11251e7c428f",
+      "url": "https://github.com/vmware/terraform-provider-vra/releases/download/v0.17.3/terraform-provider-vra_0.17.3_linux_amd64.zip"
     }
   },
   "owner": "vmware",
   "repo": "vra",
-  "version": "0.17.2"
+  "version": "0.17.3"
 }
