@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "0462a9d84a0d8190b891a05851dc1b769597c81339128efa0cfc845f28cacc8f",
-      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.5.1/terraform-provider-boundary_1.5.1_darwin_arm64.zip"
+      "sha256": "16eee651390ccd9435f78f5d7c0a03a416931707102daa1d46a7fe4d2ce418e6",
+      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.6.0/terraform-provider-boundary_1.6.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "8e9860e1e7ab3960dbd242ce1ed7c9cee08b989ff0a201a787e7780815a39442",
-      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.5.1/terraform-provider-boundary_1.5.1_linux_arm64.zip"
+      "sha256": "f164dfb08f13c96fbf2875b1af75ef862c44f7bfcf4a6284f4ab579be2720368",
+      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.6.0/terraform-provider-boundary_1.6.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "c21741976a0b66d5a2ae697defd2aae2407c76e0fdaa64793796043016aafa23",
-      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.5.1/terraform-provider-boundary_1.5.1_linux_386.zip"
+      "sha256": "61b484bb14234daa292ac307f5731d9651ea25dc488768f6b8fc58ab0cd91615",
+      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.6.0/terraform-provider-boundary_1.6.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "80dc9a44e01f0792f0a81699a2719ed18af2865dc3ceb7d9a81f7614d6fad596",
-      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.5.1/terraform-provider-boundary_1.5.1_darwin_amd64.zip"
+      "sha256": "0fcad72469aa1be02900b6b8833292548fc0bb22b7fdebabb401f0daed51ffbf",
+      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.6.0/terraform-provider-boundary_1.6.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6a628f9723520c27309bb21b52ba487d8b8fa6fdebf00da3e0ec30cab9d6c5ff",
-      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.5.1/terraform-provider-boundary_1.5.1_linux_amd64.zip"
+      "sha256": "4b56cfeaad0746e0244aeb0fb470652e1aaf1e28fd12574a81f1b00bd09bccab",
+      "url": "https://releases.hashicorp.com/terraform-provider-boundary/1.6.0/terraform-provider-boundary_1.6.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "boundary",
-  "version": "1.5.1"
+  "version": "1.6.0"
 }
