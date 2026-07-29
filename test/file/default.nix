@@ -1,5 +1,6 @@
-{ system ? builtins.currentSystem
-, nixpkgs ? import ../../nix { inherit system; }
+{
+  system ? builtins.currentSystem,
+  nixpkgs ? import ../../nix { inherit system; },
 }:
 let
   self = import ../../. { inherit nixpkgs; };
