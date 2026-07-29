@@ -3,7 +3,8 @@
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
 
-  outputs = { self, nixpkgs }:
+  outputs =
+    { self, nixpkgs }:
     let
       lib = nixpkgs.lib;
       forAllSystems = lib.genAttrs [
@@ -19,14 +20,15 @@
       # We use legacyPackages here because default.nix exports a nested tree
       # of functions and packages. `packages` only allows a flat set of
       # derivations.
-      legacyPackages = forAllSystems (system:
+      legacyPackages = forAllSystems (
+        system:
         import ./. {
           nixpkgs = nixpkgs.legacyPackages.${system};
         }
       );
 
-      checks = forAllSystems (system:
-        builtins.removeAttrs self.legacyPackages.${system}.tests [ "recurseForDerivations" ]
+      checks = forAllSystems (
+        system: builtins.removeAttrs self.legacyPackages.${system}.tests [ "recurseForDerivations" ]
       );
 
     };

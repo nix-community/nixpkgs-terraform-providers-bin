@@ -1,4 +1,6 @@
-{ system ? builtins.currentSystem }:
+{
+  system ? builtins.currentSystem,
+}:
 let
   # Dependencies managed by Niv
   sources = import ./nix/sources.nix;
