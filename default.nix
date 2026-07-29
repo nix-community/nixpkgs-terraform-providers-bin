@@ -74,39 +74,6 @@ let
       null
   ) (builtins.readDir ./providers);
 
-  # DEPRECATED
-  wrapTerraform =
-    terraform: fn:
-    let
-      # It would be nice to be able to use a buildEnv here, but Terraform
-      # only allows a symlink at the root of the plugin dir. So instead we
-      # create a bunch of trampoline files.
-      plugins =
-        nixpkgs.runCommand "terraform-plugins"
-          {
-            nativeBuildInputs = [ nixpkgs.findutils ];
-          }
-          ''
-            for plugin_dir in ${toString (fn providers)}; do
-              plugin=$(find $plugin_dir -type f)
-              plugin_rel=''${plugin#"$plugin_dir/"}
-              plugin_out=$out/$plugin_rel
-              mkdir -p "$(dirname "$plugin_out")"
-              cat <<EOS > "$plugin_out"
-            #!${nixpkgs.bash}/bin/sh
-            exec "$plugin" "\$@"
-            EOS
-              chmod +x "$plugin_out"
-            done
-          '';
-
-      wrapper = nixpkgs.writeShellScriptBin "terraform" ''
-        export NIX_TERRAFORM_PLUGIN_DIR=${plugins}/libexec/terraform-providers
-        exec ${terraform}/bin/terraform "$@"
-      '';
-    in
-    builtins.trace "wrapTerraform is deprecated. Please use nixpkgs.terraform.withPlugins in nixos-22.05 or later." wrapper;
-
   tests = lib.recurseIntoAttrs (
     import ./test/file {
       inherit system nixpkgs;
@@ -118,6 +85,5 @@ in
     mkTerraformProvider
     providers
     tests
-    wrapTerraform
     ;
 }
