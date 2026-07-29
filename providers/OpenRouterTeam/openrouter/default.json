@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "db2313a79f6ad5f3c9511b40b14989fda93f850433516d63af84b96ab6e34b7e",
+      "url": "https://github.com/OpenRouterTeam/terraform-provider-openrouter/releases/download/v0.1.22/terraform-provider-openrouter_0.1.22_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "3c820ecc35e3f3afa4f30e813ba8f3d646b5f815ef54044628dfab1af73f1f6b",
+      "url": "https://github.com/OpenRouterTeam/terraform-provider-openrouter/releases/download/v0.1.22/terraform-provider-openrouter_0.1.22_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "c16a02b717e5ae23938566a58edf842ce744927d73e8f3c676f27409244ef567",
+      "url": "https://github.com/OpenRouterTeam/terraform-provider-openrouter/releases/download/v0.1.22/terraform-provider-openrouter_0.1.22_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "5d2f8908375fc3cf71f93a67a5872ba7915604539376e3bbb1b7073737152e22",
+      "url": "https://github.com/OpenRouterTeam/terraform-provider-openrouter/releases/download/v0.1.22/terraform-provider-openrouter_0.1.22_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "dc2075b173130760bb430dd75fe604153fb06dc5a799303df86e98278594e82d",
+      "url": "https://github.com/OpenRouterTeam/terraform-provider-openrouter/releases/download/v0.1.22/terraform-provider-openrouter_0.1.22_linux_amd64.zip"
+    }
+  },
+  "owner": "OpenRouterTeam",
+  "repo": "openrouter",
+  "version": "0.1.22"
+}
