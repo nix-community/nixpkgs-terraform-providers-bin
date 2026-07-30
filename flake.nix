@@ -27,9 +27,14 @@
         }
       );
 
-      checks = forAllSystems (
-        system: builtins.removeAttrs self.legacyPackages.${system}.tests [ "recurseForDerivations" ]
-      );
+      formatter = forAllSystems (system: (nixpkgs.legacyPackages.${system}).nixfmt-tree);
 
+      checks = forAllSystems (
+        system:
+        builtins.removeAttrs self.legacyPackages.${system}.tests [ "recurseForDerivations" ]
+        // lib.optionalAttrs (system == "x86_64-linux") {
+          treefmt = self.formatter.${system}.check self;
+        }
+      );
     };
 }
