@@ -2,7 +2,7 @@
 let
   # Create a wrapper of terraform that has access to only the declared list of
   # providers. Mixed-and-matched from both nixpkgs and this project.
-  my_terraform = nixpkgs.terraform.withPlugins (p: [
+  my_terraform = nixpkgs.opentofu.withPlugins (p: [
     # The providers coming from nixpkgs have a flat namespace
     p.hashicorp_random
     p.hashicorp_null

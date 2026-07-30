@@ -5,11 +5,10 @@ cd "$(dirname "$0")"
 
 set -x
 
-
 nix-build release.nix --no-out-link
 nix flake check
 
 cd example
 nix flake check
-nix develop -c terraform --version
-nix-shell --run "terraform --version"
+nix develop -c tofu --version
+nix-shell --run "tofu --version"
