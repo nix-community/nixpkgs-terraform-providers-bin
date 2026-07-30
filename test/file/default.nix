@@ -6,7 +6,7 @@ let
   self = import ../../. { inherit nixpkgs; };
 in
 rec {
-  tf = nixpkgs.terraform.withPlugins (p: [
+  tf = nixpkgs.opentofu.withPlugins (p: [
     self.providers.hashicorp.local
     self.providers.hashicorp.null
   ]);
@@ -18,8 +18,8 @@ rec {
   test1 = nixpkgs.runCommand "file-test1" { nativeBuildInputs = [ tf ]; } ''
     cp ${./file.tf} file.tf
 
-    terraform init
-    terraform apply -auto-approve
+    tofu init
+    tofu apply -auto-approve
 
     # Bunch of checks
     [[ -f ./foo ]] || { echo "./foo doesn't exist"; exit 1; }
@@ -33,8 +33,8 @@ rec {
     cp ${./file.tf} file.tf
     cp ${./terraform.tf} terraform.tf
 
-    terraform init
-    terraform apply -auto-approve
+    tofu init
+    tofu apply -auto-approve
 
     # Bunch of checks
     [[ -f ./foo ]] || { echo "./foo doesn't exist"; exit 1; }
