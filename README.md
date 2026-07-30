@@ -33,8 +33,8 @@ let
   # providers. Mixed-and-matched from both nixpkgs and this project.
   my_terraform = nixpkgs.terraform.withPlugins (p: [
     # The providers coming from nixpkgs have a flat namespace
-    p.random
-    p.null
+    p.hashicorp_random
+    p.hashicorp_null
 
     # The providers coming from nixpkgs-terraform-providers-bin have a 1:1
     # mapping with the terraform registry, replacing `/` with `.`:
