@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "dbd1a2ac0a7151cd79b41b6e322d0bd71a2dc741716c006e08f88b06ce17896d",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/8.1.0/terraform-provider-google_8.1.0_darwin_arm64.zip"
+      "sha256": "682c5a03828e2b28ae1f7749bcee662b00fb4bf70f630a7c5a7e99c464fb70f9",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/8.2.0/terraform-provider-google_8.2.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "9da86e1ae45342b3ef6c9875a41fe346b54b880757924be9226c4d0e98e0604f",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/8.1.0/terraform-provider-google_8.1.0_linux_arm64.zip"
+      "sha256": "d578c86354d0abf6a1be0788639b1cd491363d8ca43b2db9d40b64c0503ac9db",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/8.2.0/terraform-provider-google_8.2.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "e34e84d43991e0ab1b6cddb81a1ca40f6e8eb5f377ea56047493e278e08509e5",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/8.1.0/terraform-provider-google_8.1.0_linux_386.zip"
+      "sha256": "389f386f3127ba71d1b4dfd421dea33d370e15d0d5ae72aaa59aff680d1e389c",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/8.2.0/terraform-provider-google_8.2.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8c242bec4b7919e49d3ffc9b53219094d8361cff4047d8bcd27fe06bf374b02d",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/8.1.0/terraform-provider-google_8.1.0_darwin_amd64.zip"
+      "sha256": "f1e6883783fa8cb5817a0b60b7dee29cd30979c804cd6dfff626aaab143a5ea5",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/8.2.0/terraform-provider-google_8.2.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "1fa704969136f55d5dad27ff65f9ef4b9d0b7c5b0781d77eee134e6e0f1e3cc2",
-      "url": "https://releases.hashicorp.com/terraform-provider-google/8.1.0/terraform-provider-google_8.1.0_linux_amd64.zip"
+      "sha256": "c7909c30cad99f08d5fc5c0eb8fbfb2d59a6c755aa208d831c68dac483b653e4",
+      "url": "https://releases.hashicorp.com/terraform-provider-google/8.2.0/terraform-provider-google_8.2.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "google",
-  "version": "8.1.0"
+  "version": "8.2.0"
 }

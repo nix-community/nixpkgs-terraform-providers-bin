@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "841a3cf7cc23896257fc0f63efccdb96b3944241f0b1ef76b96c5dd5e8f23073",
-      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v2.3.2/terraform-provider-citrixadc_2.3.2_darwin_arm64.zip"
+      "sha256": "a0477bd7d2f055dff638110b23208c2c02a76207b23291360714255680a8ea9c",
+      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v3.0.0/terraform-provider-citrixadc_3.0.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "568c84f78df724d15872add34f586e6959668c0bbda9db33d87dbb0666141ab6",
-      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v2.3.2/terraform-provider-citrixadc_2.3.2_linux_arm64.zip"
+      "sha256": "811d63f6e70736b5e0f0e2ed7ecda40b5b3d6ad99d3fd90a75ce7541bc1c4a42",
+      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v3.0.0/terraform-provider-citrixadc_3.0.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "c35fdacbaeee6378f8bdbc224869fe8b60e433701bacae40cfc4b2a3b909c663",
-      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v2.3.2/terraform-provider-citrixadc_2.3.2_linux_386.zip"
+      "sha256": "2ae4f7a7782543a76eb277c9003a6b3b5a540873cdeb0b76024384775a1bd3cc",
+      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v3.0.0/terraform-provider-citrixadc_3.0.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "07dd6b7d10b5c27bfbaf5859836a4fccb1a51b2ee00f441e9a58b1feb29d20c2",
-      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v2.3.2/terraform-provider-citrixadc_2.3.2_darwin_amd64.zip"
+      "sha256": "7abdc039f8dcba36529311a412acfbbe97a63b2fd22f9426976eeab7f671ad30",
+      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v3.0.0/terraform-provider-citrixadc_3.0.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "043fb92fa79feddd018fcc1fd7f72d22134e31b9908a458b55d1dab4b71966b6",
-      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v2.3.2/terraform-provider-citrixadc_2.3.2_linux_amd64.zip"
+      "sha256": "9b70165f45214dc4ede190ad81570d918c3c3c74b3b81209857c4f9ab2384bdd",
+      "url": "https://github.com/citrix/terraform-provider-citrixadc/releases/download/v3.0.0/terraform-provider-citrixadc_3.0.0_linux_amd64.zip"
     }
   },
   "owner": "citrix",
   "repo": "citrixadc",
-  "version": "2.3.2"
+  "version": "3.0.0"
 }
