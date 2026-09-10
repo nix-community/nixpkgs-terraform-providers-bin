@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "0e8cadebda12f8b17598dbd40c2e3a86a937e4d286af96112e312cffb23a7717",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v18.0.1/terraform-provider-sdm_18.0.1_darwin_arm64.zip"
+      "sha256": "1269f776f5e3c999849212ee338376d5633aeb78e77900f6c9313c959e071c2e",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v18.1.0/terraform-provider-sdm_18.1.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d0d9400a4106f6dc949dc442aa197d8c78dea65a4e58113c0079b57f938222be",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v18.0.1/terraform-provider-sdm_18.0.1_linux_arm64.zip"
+      "sha256": "1e0053e065487750a88de9067bdd7624521854bb31ba9c72fd2568ea02f8e600",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v18.1.0/terraform-provider-sdm_18.1.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "fd32c26361df72ae8e04430f00099bd8da1ceeadcf463741602f6eb769d15c87",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v18.0.1/terraform-provider-sdm_18.0.1_darwin_amd64.zip"
+      "sha256": "4782555008ce83a0508c89f9463ed4e44c86e9f93f1b7c041e19b26a49bec726",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v18.1.0/terraform-provider-sdm_18.1.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "61ab346ac4bab28ab0c816932e85b3521ee19644a17929711bcf0caeb7eddfa6",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v18.0.1/terraform-provider-sdm_18.0.1_linux_amd64.zip"
+      "sha256": "d0a81fb0854681fb3b916ebc2f08eb0e6ebe52ec0090701714175f99aa5598c9",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v18.1.0/terraform-provider-sdm_18.1.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "18.0.1"
+  "version": "18.1.0"
 }

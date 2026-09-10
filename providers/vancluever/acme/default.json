@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "f922466fc4f4b82f78526992426af8baedc462413fdb873f2f080c1df487db7c",
-      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.1/terraform-provider-acme_3.1.1_darwin_arm64.zip"
+      "sha256": "cd5a59f153f58f31b870de1c3bca9a0faaa19e819e759574bf43d0f80762cade",
+      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.2/terraform-provider-acme_3.1.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "121fd5802c8eb7a695e25fac1f8b344b74fd6fbfbc699d77e19d7afc5b64aa01",
-      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.1/terraform-provider-acme_3.1.1_linux_arm64.zip"
+      "sha256": "7731c3579d39afd434398cd11f13a1f56a174f56d5561934208313ccbee881ab",
+      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.2/terraform-provider-acme_3.1.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "207696f7748522b08cbf2bdcc74b2bd1bfb1f1cb681d6db591767c3a190a2edb",
-      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.1/terraform-provider-acme_3.1.1_linux_386.zip"
+      "sha256": "ced6680d13f513523ad9480e6f5757208cfdcc10ce9af431f48200487494d267",
+      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.2/terraform-provider-acme_3.1.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e015d85677ca6430293f330f81370bd9269bb501def03f472783531b73f2b3e7",
-      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.1/terraform-provider-acme_3.1.1_darwin_amd64.zip"
+      "sha256": "b3c25ed791411b05e5459633ec49976047f28e35fed8173ea4b9e4a41552cc79",
+      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.2/terraform-provider-acme_3.1.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "985933e1d97466ac6ce832bcb00ae09e66024411f1d99723e7a74468cf1de05b",
-      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.1/terraform-provider-acme_3.1.1_linux_amd64.zip"
+      "sha256": "4ec82745c79b3e132e6bf10ff13aa64556977b39758773ed27643f23731e6d3d",
+      "url": "https://github.com/vancluever/terraform-provider-acme/releases/download/v3.1.2/terraform-provider-acme_3.1.2_linux_amd64.zip"
     }
   },
   "owner": "vancluever",
   "repo": "acme",
-  "version": "3.1.1"
+  "version": "3.1.2"
 }

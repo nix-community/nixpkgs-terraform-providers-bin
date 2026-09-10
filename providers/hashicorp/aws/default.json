@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "f38fc09fc25a8d2cf89a4d4cd6a5ef7cb1aad72798dbdcad58b8876b6a551a54",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.63.0/terraform-provider-aws_6.63.0_darwin_arm64.zip"
+      "sha256": "07172315d67bc9781240272759cdfc7bd32b7e72384a56862c2c1da3cca99a81",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.64.0/terraform-provider-aws_6.64.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "07221735d61ababed84734e5ffcfc5bd59d01f29f029166ba5f2175895dceed1",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.63.0/terraform-provider-aws_6.63.0_linux_arm64.zip"
+      "sha256": "7a82b6dd0c0cdef8045a4adfbddd36acb86b6b23fcbed8e189c2d71f7dc4a502",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.64.0/terraform-provider-aws_6.64.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "06e0b58b2d1eddb5137fc86bee7ad2d07953c0bc3f57cccfc5ae0d2456068a3a",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.63.0/terraform-provider-aws_6.63.0_linux_386.zip"
+      "sha256": "9556bd792032c3f7e73ea4dd08cec88dc1327f5a4a57d79c30ba844ae2b9a3c0",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.64.0/terraform-provider-aws_6.64.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "81e30884d7de686265e7d87bb92527e802878c65a378470ede2a1e9f4e40ccc9",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.63.0/terraform-provider-aws_6.63.0_darwin_amd64.zip"
+      "sha256": "37916156a3aac3b29be3acebd15d53145ea4ab5d4aaa825eaebe75481fa00500",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.64.0/terraform-provider-aws_6.64.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "4b357dfe4b820e3e4acd2881cff8288b2186491e63416751f0d12692ba478ceb",
-      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.63.0/terraform-provider-aws_6.63.0_linux_amd64.zip"
+      "sha256": "17324d4335a7a7ac01cc23eded530775606680ff53b47cb74a3cb95d1121f836",
+      "url": "https://releases.hashicorp.com/terraform-provider-aws/6.64.0/terraform-provider-aws_6.64.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "aws",
-  "version": "6.63.0"
+  "version": "6.64.0"
 }
