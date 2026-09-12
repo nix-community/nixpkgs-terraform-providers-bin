@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "aed0cb8d5df2f0d028789b52e470e9209736d636226d99b9c35e86976462c0c9",
-      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.0/terraform-provider-nsxt_3.12.0_darwin_arm64.zip"
+      "sha256": "d0c9c3da3bceccf311800d8aef8843c829f67b97544a734ad454927301d18d32",
+      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.1/terraform-provider-nsxt_3.12.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "2570fb51b50148d81d338c8e3268d17c1961e3110a1d99927b7a490ce74f3ceb",
-      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.0/terraform-provider-nsxt_3.12.0_linux_arm64.zip"
+      "sha256": "73b116ab3baae5f59f067e3790991792d9cca8d6b13d07ec219bcaece094ba15",
+      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.1/terraform-provider-nsxt_3.12.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "4ad34d1e6b431cda853485bc296f790f648b78c9edcf22c09edbbf929371e31a",
-      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.0/terraform-provider-nsxt_3.12.0_linux_386.zip"
+      "sha256": "4bea0b9bc52f1c2da9251e3467786f59a00249cacfd8cab2ac8a1c076ace5b36",
+      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.1/terraform-provider-nsxt_3.12.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "0f06ac8ca17e363ab0246f58d03d16724994ecca63ace91bddbefb4616038c07",
-      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.0/terraform-provider-nsxt_3.12.0_darwin_amd64.zip"
+      "sha256": "0b1fdfec503f5ad826fda54cc464b91f78be4936865ec6c129dfc6da9c110275",
+      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.1/terraform-provider-nsxt_3.12.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "ae3118ab2adf304f52c32e9e01d736fdfa66a040ae5ee984d47ee123f1956c31",
-      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.0/terraform-provider-nsxt_3.12.0_linux_amd64.zip"
+      "sha256": "21ff10cf05704dbd6d4671f6894760e43539e45cfcbcddad4ff689cfb4f9dda6",
+      "url": "https://github.com/vmware/terraform-provider-nsxt/releases/download/v3.12.1/terraform-provider-nsxt_3.12.1_linux_amd64.zip"
     }
   },
   "owner": "vmware",
   "repo": "nsxt",
-  "version": "3.12.0"
+  "version": "3.12.1"
 }
