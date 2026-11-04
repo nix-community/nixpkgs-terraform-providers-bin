@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "3b848148b76dd81100c6aa22519c8fc16ac1d14dc08b91b6f4051e4b1c4cb0e6",
-      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.1/terraform-provider-heroku_5.4.1_darwin_arm64.zip"
+      "sha256": "2d9415b47c9afc93169f1aa6c80e7a21229903e8e55be47849cd9ff2df7182bd",
+      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.2/terraform-provider-heroku_5.4.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "dd98ad95f65b08cf037e37136549c841c181670822750f54f6754c561eec2e90",
-      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.1/terraform-provider-heroku_5.4.1_linux_arm64.zip"
+      "sha256": "510be3f5bb08b8deb77f20096c8ae23becf872142652538f342bd453be9fc749",
+      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.2/terraform-provider-heroku_5.4.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "61ea5f4e441b95605af5e5e329cddca9025f1b15034168b726c9e0ae91548e02",
-      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.1/terraform-provider-heroku_5.4.1_linux_386.zip"
+      "sha256": "874c226250ef8c27ba9e6366ed5e1acb4b1097b9cfb9fa68290d8215cd84adbf",
+      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.2/terraform-provider-heroku_5.4.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8d6be86ff53165c49b49786ec5c88c0698f39031cc38627f7e3e6a80bc003ab0",
-      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.1/terraform-provider-heroku_5.4.1_darwin_amd64.zip"
+      "sha256": "c4a2ff9cb3de34bdb72d5ad9205cd3e0e7784340229e70a18b83c645ada0587e",
+      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.2/terraform-provider-heroku_5.4.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "2add92f7fb44a319a17f2912f42ad5745af2c09733e447540e79218700c7f54d",
-      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.1/terraform-provider-heroku_5.4.1_linux_amd64.zip"
+      "sha256": "a88a72cd97be2d328f1b651e6b580f0241c441e77f4cb55c09588ec085f87540",
+      "url": "https://github.com/heroku/terraform-provider-heroku/releases/download/v5.4.2/terraform-provider-heroku_5.4.2_linux_amd64.zip"
     }
   },
   "owner": "heroku",
   "repo": "heroku",
-  "version": "5.4.1"
+  "version": "5.4.2"
 }

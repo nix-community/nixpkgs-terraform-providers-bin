@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "9d95d1c33e422ea4a1a7033d26374e5767b4a9dd92270e20bea2c88df7c06182",
-      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.72.0/terraform-provider-exoscale_0.72.0_darwin_arm64.zip"
+      "sha256": "720abf98f0d7f360162e410c1cab7ac1e3d0e06eaacfece252c3481a7fb44bcd",
+      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.77.0/terraform-provider-exoscale_0.77.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "9e2e87bae95d19ebfc498a5af38d032cdc859ef1160d5f457108915a28ea21f6",
-      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.72.0/terraform-provider-exoscale_0.72.0_linux_arm64.zip"
+      "sha256": "adb5444d42fe04a336cb339dbcbeab16332d17c8f21066d1c622f40db338db12",
+      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.77.0/terraform-provider-exoscale_0.77.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "b1a37ca0b8c49c4d0ae73a3142d92ee116fa7b308050448a770c89a7f5d1d312",
-      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.72.0/terraform-provider-exoscale_0.72.0_linux_386.zip"
+      "sha256": "e7638fb1f4bcabdb26c7c654c8296518c23dd2be72fb025fa284914511aac5a8",
+      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.77.0/terraform-provider-exoscale_0.77.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e3dadd6ba342a905d4d8c8c8bb33dc51c056addb4999cefa003c9de8d823eaa6",
-      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.72.0/terraform-provider-exoscale_0.72.0_darwin_amd64.zip"
+      "sha256": "879ae9cdbfb60980882a7909fb2fb3d38122d83b85cba8609925e7d407e4b0da",
+      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.77.0/terraform-provider-exoscale_0.77.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "fb48a4bddb63704873f6c9af91a40e74278ea958568ba6094c121421e272e439",
-      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.72.0/terraform-provider-exoscale_0.72.0_linux_amd64.zip"
+      "sha256": "2db130c044552c1b1265db4f6059a42c2b038c275fcafda6d8d6bc8867f63b5f",
+      "url": "https://github.com/exoscale/terraform-provider-exoscale/releases/download/v0.77.0/terraform-provider-exoscale_0.77.0_linux_amd64.zip"
     }
   },
   "owner": "exoscale",
   "repo": "exoscale",
-  "version": "0.72.0"
+  "version": "0.77.0"
 }

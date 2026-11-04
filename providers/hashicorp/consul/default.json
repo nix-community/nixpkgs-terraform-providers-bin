@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "1782c35aa2b9fb4e0f2cfa2d087b63447f66b05541690072a2f0f3220bdb031f",
-      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.23.0/terraform-provider-consul_2.23.0_darwin_arm64.zip"
+      "sha256": "e991d75d4cfe90854f1f0728341de74ef4dcf6553f44aedadb963acd1b855716",
+      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.24.0/terraform-provider-consul_2.24.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "1a0e8403bee68bfc7ded23f525bbc5ee668aa237f6e1867057f2287e955faf49",
-      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.23.0/terraform-provider-consul_2.23.0_linux_arm64.zip"
+      "sha256": "1a8d146ad84180a62d965a9d49003a6820af8b47dcfae9d42499496c1825b29a",
+      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.24.0/terraform-provider-consul_2.24.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "501640e8d2afd84c08353b054c962ca482264e0d9faa12b43d7c9bc7df682842",
-      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.23.0/terraform-provider-consul_2.23.0_linux_386.zip"
+      "sha256": "df89ccb84af120d5f54f63a88e60c74ce2f7e26daf436044457eb739f51d792b",
+      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.24.0/terraform-provider-consul_2.24.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "071c31abd9431488a2f9f0aae7f431aa209afc7396137db6d668bdc931122175",
-      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.23.0/terraform-provider-consul_2.23.0_darwin_amd64.zip"
+      "sha256": "50ea49d25bb2448ba42dcad3af18cbaba57c36120285e8f5bdd75159d30b3df0",
+      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.24.0/terraform-provider-consul_2.24.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6a644a0239924d416a2a236499f8edfd88c0f15f45feb821a64e976131a4ea25",
-      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.23.0/terraform-provider-consul_2.23.0_linux_amd64.zip"
+      "sha256": "aef2451059178403a341003b39239da0d28ddbc4ef8ed6de5feadb87d02137c7",
+      "url": "https://releases.hashicorp.com/terraform-provider-consul/2.24.0/terraform-provider-consul_2.24.0_linux_amd64.zip"
     }
   },
   "owner": "hashicorp",
   "repo": "consul",
-  "version": "2.23.0"
+  "version": "2.24.0"
 }

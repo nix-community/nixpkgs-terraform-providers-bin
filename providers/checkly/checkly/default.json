@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "391167bc1f3370d1fd255a4b30364057b95452f54124c8604a8baada5ff2e200",
-      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.29.0/terraform-provider-checkly_1.29.0_darwin_arm64.zip"
+      "sha256": "ea0852c87beace5f673dd50dcb94c0d8e025639d965130d7656834d6980399bb",
+      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.32.0/terraform-provider-checkly_1.32.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d3b19c62a476a28cc3b2a7aba8af697eef395889d8b8b15f41caf6afe50b03f1",
-      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.29.0/terraform-provider-checkly_1.29.0_linux_arm64.zip"
+      "sha256": "0d8bc811db7b55664efbe6dbbbfbba9d135804de70f6672c587022a9d8f75c57",
+      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.32.0/terraform-provider-checkly_1.32.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a6de966f6ea74b97ca9b3e2e214b68e6d27294701fa50c344c69ef967cae66f9",
-      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.29.0/terraform-provider-checkly_1.29.0_linux_386.zip"
+      "sha256": "2991b2b471dbd1643cadee21c0864c0ce97c51aa5cf4a91ff8a4f44c4f77f765",
+      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.32.0/terraform-provider-checkly_1.32.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8f849a8aff4d08ca4cd0a03c145705d656a3ad46e1f7033101bbb2dfb616aba5",
-      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.29.0/terraform-provider-checkly_1.29.0_darwin_amd64.zip"
+      "sha256": "632d94a7558109559697bb4f99d39fb52cf8cbbd51a3988ad94adf1703ff3a86",
+      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.32.0/terraform-provider-checkly_1.32.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b31725bc5ba05b07c05f1e51ed1f5091babf88260237153c26067b447bf8496b",
-      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.29.0/terraform-provider-checkly_1.29.0_linux_amd64.zip"
+      "sha256": "a53ff7256b82b8ed3496bbd6d9ce3561aa655aff69fe2622400a42feba3f2544",
+      "url": "https://github.com/checkly/terraform-provider-checkly/releases/download/v1.32.0/terraform-provider-checkly_1.32.0_linux_amd64.zip"
     }
   },
   "owner": "checkly",
   "repo": "checkly",
-  "version": "1.29.0"
+  "version": "1.32.0"
 }
