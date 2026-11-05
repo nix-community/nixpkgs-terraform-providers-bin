@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "223c89c42f6fbd3b1daf1bd53f551584413eb74c4c7b56f946cd96c38b914203",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.6.1/terraform-provider-fmc_2.6.1_darwin_arm64.zip"
+      "sha256": "3b797783a9bff4aa086db3b30d3534a0ad8dce2917e1a9f7bae18cddcaa2d0ce",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.7.0/terraform-provider-fmc_2.7.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "84477af7274481d58853e471a7969c28d7eb76a6d0a1b6b80c1109352e78ce24",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.6.1/terraform-provider-fmc_2.6.1_linux_arm64.zip"
+      "sha256": "0dd61a45421d572daf2221095fd75909305a9617603c187db4eff5ce65429f2a",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.7.0/terraform-provider-fmc_2.7.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "621c90cbf152882abda722a40b8dc2cf143a8478731998a9064c2017a2fe0381",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.6.1/terraform-provider-fmc_2.6.1_linux_386.zip"
+      "sha256": "2b3f3d1048a1f9b346c64222babe429504ba5b47681b65819f477b17632bb4ce",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.7.0/terraform-provider-fmc_2.7.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "1e00935c2be691f48eec985086c9a73693dab3b48666c698ae3451517468395c",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.6.1/terraform-provider-fmc_2.6.1_darwin_amd64.zip"
+      "sha256": "aeee627d0fa26a45c3d659b08697891723f24c62f34689455d869b2bff75f160",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.7.0/terraform-provider-fmc_2.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6af8415412ad4e86994e7bf86e6da69beebdb54fca3e38c9d4415d62e9ab871c",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.6.1/terraform-provider-fmc_2.6.1_linux_amd64.zip"
+      "sha256": "aa790915b4af29616ed2c1a7106f8aeb9dcb691d2a2deb4e15eeecff9648ce5f",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-fmc/releases/download/v2.7.0/terraform-provider-fmc_2.7.0_linux_amd64.zip"
     }
   },
   "owner": "CiscoDevNet",
   "repo": "fmc",
-  "version": "2.6.1"
+  "version": "2.7.0"
 }
