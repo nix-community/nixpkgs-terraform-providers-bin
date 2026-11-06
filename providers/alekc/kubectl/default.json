@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "af2486fa63f2b617c94ccd0cb4ff37585c06ef72ef331ea0f97c0c9c9e87397b",
-      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.0/terraform-provider-kubectl_3.0.0_darwin_arm64.zip"
+      "sha256": "4db8d8bff448b66f25c6dc387d0d739e4120fba1af15763b88cf70de682f8642",
+      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.1/terraform-provider-kubectl_3.0.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "7095f8700f63bf6cf29fd8998ae77c863222b1e076630a3afc562b83ea16e72c",
-      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.0/terraform-provider-kubectl_3.0.0_linux_arm64.zip"
+      "sha256": "7802980eb31fb304b73ac6f27ce9d0167f54de2a5ef3486b7049de456e0c34ed",
+      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.1/terraform-provider-kubectl_3.0.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "b3271b4c10e68ca9c178b780b77963bbbc5d81dd4182c3fd04234b321d62ed13",
-      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.0/terraform-provider-kubectl_3.0.0_linux_386.zip"
+      "sha256": "b3cfac0f9c2e8cac8caa2bb7f9970e5a729fa66eddf4878e9e04d0e527f97b7f",
+      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.1/terraform-provider-kubectl_3.0.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "7bb105b562234e1a8a2fe09498d8b11992624cb5c9b006eb873539ff028a6beb",
-      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.0/terraform-provider-kubectl_3.0.0_darwin_amd64.zip"
+      "sha256": "eeb28ebf7a79d734c19c20ba7cb3d2bd320eecddbb01b846c8fc15d6ac379d0c",
+      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.1/terraform-provider-kubectl_3.0.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "2403d530d1d182b83ff16e601d404403971259fb11d98d76feb4633e6248dad1",
-      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.0/terraform-provider-kubectl_3.0.0_linux_amd64.zip"
+      "sha256": "d05e7cccaab437f08441b7ec7c84d20b309b19a62d15bac1910fa11c859c379a",
+      "url": "https://github.com/alekc/terraform-provider-kubectl/releases/download/v3.0.1/terraform-provider-kubectl_3.0.1_linux_amd64.zip"
     }
   },
   "owner": "alekc",
   "repo": "kubectl",
-  "version": "3.0.0"
+  "version": "3.0.1"
 }
