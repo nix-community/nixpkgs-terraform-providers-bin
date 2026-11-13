@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "06fbc5c4c22819adb0ad60badf8e8c46fc084df907fddd2973ecd100cddf7f99",
-      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.1.0/terraform-provider-fastly_10.1.0_darwin_arm64.zip"
+      "sha256": "ed9d98fafdbfcee659281886fffc628fa822a67d3c892237bdaad3e76b371e4a",
+      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.2.0/terraform-provider-fastly_10.2.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "501889ebe1f25adaf6dcff2261afd83a941e3f37a55935d7cd17c75f86ba169d",
-      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.1.0/terraform-provider-fastly_10.1.0_linux_arm64.zip"
+      "sha256": "05bc2474f0ff13c6097856567ead9e36f2d01a163e43d15bea50834bab9f45a4",
+      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.2.0/terraform-provider-fastly_10.2.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ce30f8c4624988fefe03ad31d5a8e94a0b104db825e4058005b43d594acccb03",
-      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.1.0/terraform-provider-fastly_10.1.0_linux_386.zip"
+      "sha256": "c7e0220dcd409cc780b216e54a5265fa60391b34512d801212b41009250c5a9e",
+      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.2.0/terraform-provider-fastly_10.2.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "7fcbd4ff24378f81952dac157351c7923cf4556888d125d8fdb5e66f0e0b3431",
-      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.1.0/terraform-provider-fastly_10.1.0_darwin_amd64.zip"
+      "sha256": "07e5eac146b7da3843cb278e68ec293bc7931307b4547b58d87d059e612ba274",
+      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.2.0/terraform-provider-fastly_10.2.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "cf234f61de83c8ca804e4ca47b66bacd86b2230deac63bdec4727ae6f5224fb4",
-      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.1.0/terraform-provider-fastly_10.1.0_linux_amd64.zip"
+      "sha256": "959301059763a219d8bfb5608a0e8ef44efe7f356838cb10a937ba42e7b09d91",
+      "url": "https://github.com/fastly/terraform-provider-fastly/releases/download/v10.2.0/terraform-provider-fastly_10.2.0_linux_amd64.zip"
     }
   },
   "owner": "fastly",
   "repo": "fastly",
-  "version": "10.1.0"
+  "version": "10.2.0"
 }
