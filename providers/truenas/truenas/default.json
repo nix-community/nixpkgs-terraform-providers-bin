@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "fa8e30d656d8b0c26defd64ecc1d5fb1b34d1eb8451984a6c096a569ea0aa6ee",
+      "url": "https://github.com/truenas/terraform-provider-truenas/releases/download/v1.9.0/terraform-provider-truenas_1.9.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "5fa1ea5115da31a49b091a3bf82c315ca05598324d317aee23ff26d3fa001f22",
+      "url": "https://github.com/truenas/terraform-provider-truenas/releases/download/v1.9.0/terraform-provider-truenas_1.9.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "8d93c932032171dd15e5f439e1c81ab7aed2aabc6d54404b1e72328b7388160f",
+      "url": "https://github.com/truenas/terraform-provider-truenas/releases/download/v1.9.0/terraform-provider-truenas_1.9.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "0ea7f69b5b34e20f75a75496aee795ab749ea0b0d7e548e84773d95b9f761391",
+      "url": "https://github.com/truenas/terraform-provider-truenas/releases/download/v1.9.0/terraform-provider-truenas_1.9.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "c22fa7239887769adab49cfee0c84481aa87e006bd2946c8ccd3c5ecd5e74506",
+      "url": "https://github.com/truenas/terraform-provider-truenas/releases/download/v1.9.0/terraform-provider-truenas_1.9.0_linux_amd64.zip"
+    }
+  },
+  "owner": "truenas",
+  "repo": "truenas",
+  "version": "1.9.0"
+}
