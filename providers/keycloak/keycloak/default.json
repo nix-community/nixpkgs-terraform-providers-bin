@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "23ecb98104fbc81a97dec7904028f83446e65e1a9423be5e4fd1c90b1a255ce1",
-      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.10.0/terraform-provider-keycloak_5.10.0_darwin_arm64.zip"
+      "sha256": "2b68f2dfc285d69d03371a5771a950c9bdf7c37409132b478dd9be042e574010",
+      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.11.0/terraform-provider-keycloak_5.11.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "46bcb07eb2e362e8e0c6b5feb05c473312a04f548eab80a6b3ff66b01c957fee",
-      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.10.0/terraform-provider-keycloak_5.10.0_linux_arm64.zip"
+      "sha256": "1169401f4233b07fe78cd446afdfdce0983e72e38c5a1c78ef7be61d0ef2a165",
+      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.11.0/terraform-provider-keycloak_5.11.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "14caf3effbebb5a447584a76c0ed0bc13fd369ed6fa42c7138cda6f937bf03ff",
-      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.10.0/terraform-provider-keycloak_5.10.0_linux_386.zip"
+      "sha256": "6d08701c7f5372ad5ff9e1f427698279442241ee2e552736e99d5dd668c0f06c",
+      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.11.0/terraform-provider-keycloak_5.11.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "6c03724916cb92774bc24dbe9da9acf1f2ec9bfaed7b3050788392381cca1b59",
-      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.10.0/terraform-provider-keycloak_5.10.0_darwin_amd64.zip"
+      "sha256": "4014156cd7da23d3b8482751d5a02cda293acc23359d89e39535055aff7b4314",
+      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.11.0/terraform-provider-keycloak_5.11.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a92d4956cc6a284e70ec2931932b36ca6aefccab940e0a5f574154db46dfa1f1",
-      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.10.0/terraform-provider-keycloak_5.10.0_linux_amd64.zip"
+      "sha256": "f810a3634bd1bfcca0443e6ad7248be22794e031a9f3043076cf6443b14139dc",
+      "url": "https://github.com/keycloak/terraform-provider-keycloak/releases/download/v5.11.0/terraform-provider-keycloak_5.11.0_linux_amd64.zip"
     }
   },
   "owner": "keycloak",
   "repo": "keycloak",
-  "version": "5.10.0"
+  "version": "5.11.0"
 }
