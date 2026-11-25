@@ -74,6 +74,11 @@ def update_provider(file, owner, repo)
   else
     puts "no update"
   end
+rescue OpenURI::HTTPError => e
+  raise unless e.io.status[0] == "404"
+  dir = File.dirname(file)
+  FileUtils.rm_rf(dir)
+  puts "Provider #{owner}/#{repo} not found, removed"
 end
 
 Dir.chdir("#{__dir__}/providers") do
