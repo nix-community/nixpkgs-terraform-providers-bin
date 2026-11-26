@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "7d64822f676b5d29b82f96a15432fa35aef12f0f1d080663c611e41bfe4f3fcc",
-      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.1/terraform-provider-ansible_1.5.1_darwin_arm64.zip"
+      "sha256": "d55f8bbe3a607278c1e48dba687c0d9083971a78e7fc2ba8f4b8ba32c7a624b4",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.2/terraform-provider-ansible_1.5.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "f4bb44faafb4ff15ef909414cea564b720416a55962dc0e86892cddc728c49d4",
-      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.1/terraform-provider-ansible_1.5.1_linux_arm64.zip"
+      "sha256": "2ddf8629f443a2f1b626a6e6999cc1f17f45b6ec827093564b1350e4a81180bb",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.2/terraform-provider-ansible_1.5.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "648b138b24f9c88c416bd7501a238cc06ada4e9359569652ec97d72dbcd639d3",
-      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.1/terraform-provider-ansible_1.5.1_linux_386.zip"
+      "sha256": "013e3e21ccfd254d3a3e7f2db97d5b5a5df0707120dfad91e76fed84b0322e7a",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.2/terraform-provider-ansible_1.5.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "215f5f5f7139737442d9ef4ce17814116bc47b8af43ed3559dc94110c3eaf0b9",
-      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.1/terraform-provider-ansible_1.5.1_darwin_amd64.zip"
+      "sha256": "dc77d94e56f4706156c6812ef534e4a11f8b287edef8d8440729564fac62eec0",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.2/terraform-provider-ansible_1.5.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "3a5951ed05b6425c349516022a6804066cf31ab54d06b112017f9d6fd0bd50af",
-      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.1/terraform-provider-ansible_1.5.1_linux_amd64.zip"
+      "sha256": "3aea55acc58abf3adc528511853044b8189138ce18e0dde2ea68858e79698638",
+      "url": "https://github.com/ansible/terraform-provider-ansible/releases/download/v1.5.2/terraform-provider-ansible_1.5.2_linux_amd64.zip"
     }
   },
   "owner": "ansible",
   "repo": "ansible",
-  "version": "1.5.1"
+  "version": "1.5.2"
 }
